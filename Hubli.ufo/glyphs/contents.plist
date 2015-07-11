@@ -2,6 +2,8 @@
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>A</key>
+	<string>A_.glif</string>
 	<key>AEmacron</key>
 	<string>AEmacron_.glif</string>
 	<key>Aacute</key>
@@ -20,12 +22,18 @@
 	<string>Aring_.glif</string>
 	<key>Atilde</key>
 	<string>Atilde_.glif</string>
+	<key>B</key>
+	<string>B_.glif</string>
 	<key>Ccedilla</key>
 	<string>Ccedilla_.glif</string>
 	<key>Ccircumflex</key>
 	<string>Ccircumflex_.glif</string>
+	<key>D</key>
+	<string>D_.glif</string>
 	<key>Ddotbelow</key>
 	<string>Ddotbelow_.glif</string>
+	<key>E</key>
+	<string>E_.glif</string>
 	<key>Eacute</key>
 	<string>Eacute_.glif</string>
 	<key>Ebreve</key>
@@ -40,6 +48,8 @@
 	<string>Emacron_.glif</string>
 	<key>Etilde</key>
 	<string>Etilde_.glif</string>
+	<key>F</key>
+	<string>F_.glif</string>
 	<key>Gdotaccent</key>
 	<string>Gdotaccent_.glif</string>
 	<key>H</key>
@@ -62,20 +72,30 @@
 	<string>Imacron_.glif</string>
 	<key>Itilde</key>
 	<string>Itilde_.glif</string>
+	<key>J</key>
+	<string>J_.glif</string>
+	<key>K</key>
+	<string>K_.glif</string>
 	<key>Kdotbelow</key>
 	<string>Kdotbelow_.glif</string>
 	<key>Klinebelow</key>
 	<string>Klinebelow_.glif</string>
+	<key>L</key>
+	<string>L_.glif</string>
 	<key>Ldotbelow</key>
 	<string>Ldotbelow_.glif</string>
 	<key>Ldotbelowmacron</key>
 	<string>Ldotbelowmacron_.glif</string>
 	<key>Llinebelow</key>
 	<string>Llinebelow_.glif</string>
+	<key>M</key>
+	<string>M_.glif</string>
 	<key>Mdotaccent</key>
 	<string>Mdotaccent_.glif</string>
 	<key>Mdotbelow</key>
 	<string>Mdotbelow_.glif</string>
+	<key>N</key>
+	<string>N_.glif</string>
 	<key>Ndotaccent</key>
 	<string>Ndotaccent_.glif</string>
 	<key>Ndotbelow</key>
@@ -114,10 +134,14 @@
 	<string>Scaron_.glif</string>
 	<key>Sdotbelow</key>
 	<string>Sdotbelow_.glif</string>
+	<key>T</key>
+	<string>T_.glif</string>
 	<key>Tdotbelow</key>
 	<string>Tdotbelow_.glif</string>
 	<key>Tlinebelow</key>
 	<string>Tlinebelow_.glif</string>
+	<key>U</key>
+	<string>U_.glif</string>
 	<key>Uacute</key>
 	<string>Uacute_.glif</string>
 	<key>Ubreve</key>
@@ -132,12 +156,22 @@
 	<string>Umacron_.glif</string>
 	<key>Utilde</key>
 	<string>Utilde_.glif</string>
+	<key>V</key>
+	<string>V_.glif</string>
+	<key>W</key>
+	<string>W_.glif</string>
+	<key>X</key>
+	<string>X_.glif</string>
+	<key>Y</key>
+	<string>Y_.glif</string>
 	<key>Yacute</key>
 	<string>Yacute_.glif</string>
 	<key>Ydieresis</key>
 	<string>Ydieresis_.glif</string>
 	<key>Ydotaccent</key>
 	<string>Ydotaccent_.glif</string>
+	<key>Z</key>
+	<string>Z_.glif</string>
 	<key>Zcaron</key>
 	<string>Zcaron_.glif</string>
 	<key>Zdotaccent</key>
@@ -174,6 +208,10 @@
 	<string>ccedilla.glif</string>
 	<key>ccircumflex</key>
 	<string>ccircumflex.glif</string>
+	<key>colon</key>
+	<string>colon.glif</string>
+	<key>comma</key>
+	<string>comma.glif</string>
 	<key>d</key>
 	<string>d.glif</string>
 	<key>ddotbelow</key>
@@ -264,6 +302,8 @@
 	<string>knNa_.a.glif</string>
 	<key>knNa.c2</key>
 	<string>knNa_.c2.glif</string>
+	<key>knNga</key>
+	<string>knNga_.glif</string>
 	<key>knO</key>
 	<string>knO_.glif</string>
 	<key>knOosign</key>
@@ -330,8 +370,18 @@
 	<string>otilde.glif</string>
 	<key>p</key>
 	<string>p.glif</string>
+	<key>period</key>
+	<string>period.glif</string>
 	<key>q</key>
 	<string>q.glif</string>
+	<key>quotedblleft</key>
+	<string>quotedblleft.glif</string>
+	<key>quotedblright</key>
+	<string>quotedblright.glif</string>
+	<key>quoteleft</key>
+	<string>quoteleft.glif</string>
+	<key>quoteright</key>
+	<string>quoteright.glif</string>
 	<key>r</key>
 	<string>r.glif</string>
 	<key>rdotaccent</key>
@@ -352,6 +402,8 @@
 	<string>scaron.glif</string>
 	<key>sdotbelow</key>
 	<string>sdotbelow.glif</string>
+	<key>semicolon</key>
+	<string>semicolon.glif</string>
 	<key>seven</key>
 	<string>seven.glif</string>
 	<key>six</key>
