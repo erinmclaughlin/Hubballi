@@ -211,8 +211,15 @@
 	<integer>0</integer>
 	<key>com.typemytype.robofont.layerOrder</key>
 	<array>
+		<string>mask</string>
 		<string>wire</string>
-		<string>background</string>
+	</array>
+	<key>com.typemytype.robofont.mask.layerStrokeColor</key>
+	<array>
+		<real>1.0</real>
+		<real>0.0</real>
+		<real>0.0</real>
+		<real>0.7</real>
 	</array>
 	<key>com.typemytype.robofont.rounded.layerStrokeColor</key>
 	<array>
