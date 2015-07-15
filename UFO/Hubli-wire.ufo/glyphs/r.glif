@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="r" format="1">
-  <advance width="384"/>
+  <advance width="362"/>
   <unicode hex="0072"/>
   <outline>
     <contour>
-      <point x="124.96" y="27" type="move"/>
-      <point x="124.96" y="391" type="line"/>
+      <point x="118" y="27" type="move"/>
+      <point x="118" y="369" type="line"/>
     </contour>
     <contour>
-      <point x="125.96" y="296" type="move"/>
-      <point x="157.96" y="359"/>
-      <point x="207.96" y="395"/>
-      <point x="253.96" y="395" type="curve" smooth="yes"/>
-      <point x="282.96" y="395"/>
-      <point x="301.96" y="391"/>
-      <point x="318.96" y="383" type="curve"/>
+      <point x="119" y="280" type="move"/>
+      <point x="149" y="340"/>
+      <point x="196" y="373"/>
+      <point x="239" y="373" type="curve" smooth="yes"/>
+      <point x="267" y="373"/>
+      <point x="284" y="369"/>
+      <point x="300" y="362" type="curve"/>
     </contour>
   </outline>
   <lib>
@@ -58,7 +58,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>384</integer>
+          <integer>362</integer>
         </dict>
         <key>wire</key>
         <dict>
@@ -79,7 +79,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <real>124.96</real>
+                  <real>117.56159999999998</real>
                   <key>y</key>
                   <integer>27</integer>
                 </dict>
@@ -89,7 +89,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <real>124.96</real>
+                  <real>117.56159999999998</real>
                   <key>y</key>
                   <integer>391</integer>
                 </dict>
@@ -102,7 +102,7 @@
                   <key>segmentType</key>
                   <string>move</string>
                   <key>x</key>
-                  <real>125.96</real>
+                  <real>118.56159999999998</real>
                   <key>y</key>
                   <integer>296</integer>
                 </dict>
@@ -110,7 +110,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <real>157.95999999999998</real>
+                  <real>150.56159999999997</real>
                   <key>y</key>
                   <integer>359</integer>
                 </dict>
@@ -118,7 +118,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <real>207.95999999999998</real>
+                  <real>200.56159999999997</real>
                   <key>y</key>
                   <integer>395</integer>
                 </dict>
@@ -128,7 +128,7 @@
                   <key>smooth</key>
                   <true/>
                   <key>x</key>
-                  <real>253.95999999999998</real>
+                  <real>246.56159999999997</real>
                   <key>y</key>
                   <integer>395</integer>
                 </dict>
@@ -136,7 +136,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <real>282.96</real>
+                  <real>275.5616</real>
                   <key>y</key>
                   <integer>395</integer>
                 </dict>
@@ -144,7 +144,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <real>301.96</real>
+                  <real>294.5616</real>
                   <key>y</key>
                   <integer>391</integer>
                 </dict>
@@ -154,7 +154,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <real>318.96</real>
+                  <real>311.5616</real>
                   <key>y</key>
                   <integer>383</integer>
                 </dict>
@@ -170,7 +170,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>384</integer>
+          <integer>362</integer>
         </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>
