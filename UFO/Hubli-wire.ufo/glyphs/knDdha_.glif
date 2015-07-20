@@ -3,6 +3,12 @@
   <advance width="752"/>
   <unicode hex="0CA2"/>
   <outline>
+    <contour>
+      <point x="369" y="-89" type="move"/>
+      <point x="369" y="-192" type="line"/>
+    </contour>
+    <component base="knDda"/>
+    <component base="knDda"/>
   </outline>
   <lib>
     <dict>
@@ -70,6 +76,13 @@
           <integer>752</integer>
         </dict>
       </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.8424</real>
+        <real>0.6742</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>
