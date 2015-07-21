@@ -3,15 +3,15 @@
   <advance width="775"/>
   <outline>
     <contour>
-      <point x="327" y="560" type="move"/>
-      <point x="307" y="568"/>
-      <point x="287" y="574"/>
-      <point x="260" y="574" type="curve" smooth="yes"/>
-      <point x="215" y="574"/>
-      <point x="190" y="539"/>
-      <point x="190" y="503" type="curve" smooth="yes"/>
-      <point x="190" y="484"/>
-      <point x="192" y="472"/>
+      <point x="321" y="598" type="move"/>
+      <point x="306" y="605"/>
+      <point x="287" y="611"/>
+      <point x="262" y="611" type="curve" smooth="yes"/>
+      <point x="215" y="611"/>
+      <point x="183" y="576"/>
+      <point x="183" y="531" type="curve" smooth="yes"/>
+      <point x="183" y="505"/>
+      <point x="189" y="479"/>
       <point x="193" y="463" type="curve"/>
     </contour>
     <component base="knO"/>
@@ -20,6 +20,50 @@
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>knOo</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>775</integer>
+        </dict>
+        <key>wire</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>knOo</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>775</integer>
+        </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>

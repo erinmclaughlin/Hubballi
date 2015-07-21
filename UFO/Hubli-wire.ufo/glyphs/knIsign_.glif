@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="knIsign" format="1">
+  <advance width="384"/>
+  <outline>
+    <contour>
+      <point x="130" y="305" type="move"/>
+      <point x="256" y="314"/>
+      <point x="324" y="388"/>
+      <point x="324" y="495" type="curve" smooth="yes"/>
+      <point x="324" y="574"/>
+      <point x="268" y="642"/>
+      <point x="185" y="642" type="curve" smooth="yes"/>
+      <point x="119" y="642"/>
+      <point x="82" y="596"/>
+      <point x="82" y="550" type="curve" smooth="yes"/>
+      <point x="82" y="502"/>
+      <point x="123" y="463"/>
+      <point x="182" y="463" type="curve" smooth="yes"/>
+      <point x="234" y="463"/>
+      <point x="277" y="487"/>
+      <point x="312" y="525" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>knIsign</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>384</integer>
+        </dict>
+        <key>wire</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>knIsign</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>384</integer>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.7255</real>
+        <real>0.7149</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>
