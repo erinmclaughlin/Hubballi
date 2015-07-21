@@ -4,13 +4,11 @@
   <unicode hex="0031"/>
   <outline>
     <contour>
-      <point x="201" y="510" type="move"/>
-      <point x="201" y="410"/>
-      <point x="202" y="146"/>
-      <point x="201" y="27" type="curve"/>
+      <point x="201" y="515" type="move"/>
+      <point x="201" y="27" type="line"/>
     </contour>
     <contour>
-      <point x="201" y="517" type="move"/>
+      <point x="201" y="522" type="move"/>
       <point x="62" y="437" type="line"/>
     </contour>
   </outline>
@@ -67,72 +65,6 @@
           </array>
           <key>contours</key>
           <array>
-            <dict>
-              <key>points</key>
-              <array>
-                <dict>
-                  <key>segmentType</key>
-                  <string>move</string>
-                  <key>smooth</key>
-                  <false/>
-                  <key>x</key>
-                  <real>210.0808</real>
-                  <key>y</key>
-                  <integer>541</integer>
-                </dict>
-                <dict>
-                  <key>smooth</key>
-                  <false/>
-                  <key>x</key>
-                  <real>210.0808</real>
-                  <key>y</key>
-                  <integer>434</integer>
-                </dict>
-                <dict>
-                  <key>smooth</key>
-                  <false/>
-                  <key>x</key>
-                  <real>211.0808</real>
-                  <key>y</key>
-                  <integer>153</integer>
-                </dict>
-                <dict>
-                  <key>segmentType</key>
-                  <string>curve</string>
-                  <key>smooth</key>
-                  <false/>
-                  <key>x</key>
-                  <real>210.0808</real>
-                  <key>y</key>
-                  <integer>27</integer>
-                </dict>
-              </array>
-            </dict>
-            <dict>
-              <key>points</key>
-              <array>
-                <dict>
-                  <key>segmentType</key>
-                  <string>move</string>
-                  <key>smooth</key>
-                  <false/>
-                  <key>x</key>
-                  <real>210.0808</real>
-                  <key>y</key>
-                  <integer>548</integer>
-                </dict>
-                <dict>
-                  <key>segmentType</key>
-                  <string>line</string>
-                  <key>smooth</key>
-                  <false/>
-                  <key>x</key>
-                  <real>62.08079999999999</real>
-                  <key>y</key>
-                  <integer>462</integer>
-                </dict>
-              </array>
-            </dict>
           </array>
           <key>lib</key>
           <dict>

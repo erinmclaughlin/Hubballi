@@ -4,8 +4,8 @@
   <unicode hex="0037"/>
   <outline>
     <contour>
-      <point x="418" y="510" type="move"/>
-      <point x="380" y="439"/>
+      <point x="418" y="511" type="move"/>
+      <point x="380" y="440"/>
       <point x="277" y="301"/>
       <point x="248" y="250" type="curve" smooth="yes"/>
       <point x="221" y="201"/>
@@ -14,8 +14,8 @@
       <point x="199" y="27" type="line"/>
     </contour>
     <contour>
-      <point x="411" y="511" type="move"/>
-      <point x="68" y="511" type="line"/>
+      <point x="411" y="512" type="move"/>
+      <point x="68" y="512" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -71,108 +71,6 @@
           </array>
           <key>contours</key>
           <array>
-            <dict>
-              <key>points</key>
-              <array>
-                <dict>
-                  <key>segmentType</key>
-                  <string>move</string>
-                  <key>smooth</key>
-                  <false/>
-                  <key>x</key>
-                  <real>440.72080000000005</real>
-                  <key>y</key>
-                  <integer>541</integer>
-                </dict>
-                <dict>
-                  <key>smooth</key>
-                  <false/>
-                  <key>x</key>
-                  <real>399.72080000000005</real>
-                  <key>y</key>
-                  <integer>465</integer>
-                </dict>
-                <dict>
-                  <key>smooth</key>
-                  <false/>
-                  <key>x</key>
-                  <real>290.72080000000005</real>
-                  <key>y</key>
-                  <integer>319</integer>
-                </dict>
-                <dict>
-                  <key>segmentType</key>
-                  <string>curve</string>
-                  <key>smooth</key>
-                  <true/>
-                  <key>x</key>
-                  <real>259.72080000000005</real>
-                  <key>y</key>
-                  <integer>265</integer>
-                </dict>
-                <dict>
-                  <key>smooth</key>
-                  <false/>
-                  <key>x</key>
-                  <real>229.7208</real>
-                  <key>y</key>
-                  <integer>212</integer>
-                </dict>
-                <dict>
-                  <key>smooth</key>
-                  <false/>
-                  <key>x</key>
-                  <real>206.7208</real>
-                  <key>y</key>
-                  <integer>148</integer>
-                </dict>
-                <dict>
-                  <key>segmentType</key>
-                  <string>curve</string>
-                  <key>smooth</key>
-                  <true/>
-                  <key>x</key>
-                  <real>206.7208</real>
-                  <key>y</key>
-                  <integer>85</integer>
-                </dict>
-                <dict>
-                  <key>segmentType</key>
-                  <string>line</string>
-                  <key>smooth</key>
-                  <false/>
-                  <key>x</key>
-                  <real>206.7208</real>
-                  <key>y</key>
-                  <integer>27</integer>
-                </dict>
-              </array>
-            </dict>
-            <dict>
-              <key>points</key>
-              <array>
-                <dict>
-                  <key>segmentType</key>
-                  <string>move</string>
-                  <key>smooth</key>
-                  <false/>
-                  <key>x</key>
-                  <real>431.72080000000005</real>
-                  <key>y</key>
-                  <integer>542</integer>
-                </dict>
-                <dict>
-                  <key>segmentType</key>
-                  <string>line</string>
-                  <key>smooth</key>
-                  <false/>
-                  <key>x</key>
-                  <real>67.7208</real>
-                  <key>y</key>
-                  <integer>542</integer>
-                </dict>
-              </array>
-            </dict>
           </array>
           <key>lib</key>
           <dict>
