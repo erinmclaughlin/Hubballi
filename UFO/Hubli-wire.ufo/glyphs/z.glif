@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="z" format="1">
-  <advance width="458"/>
+  <advance width="454"/>
   <unicode hex="007A"/>
   <outline>
     <contour>
-      <point x="355" y="369" type="move"/>
-      <point x="94" y="369" type="line"/>
-    </contour>
-    <contour>
-      <point x="94" y="27" type="move"/>
-      <point x="372" y="27" type="line"/>
-    </contour>
-    <contour>
       <point x="361" y="369" type="move"/>
-      <point x="94" y="35" type="line"/>
+      <point x="90" y="369" type="line"/>
+    </contour>
+    <contour>
+      <point x="80" y="27" type="move"/>
+      <point x="378" y="27" type="line"/>
+    </contour>
+    <contour>
+      <point x="367" y="369" type="move"/>
+      <point x="80" y="35" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -57,7 +57,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>458</integer>
+          <integer>454</integer>
         </dict>
         <key>wire</key>
         <dict>
@@ -79,7 +79,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>458</integer>
+          <integer>454</integer>
         </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>
