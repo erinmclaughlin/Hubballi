@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="b" format="1">
-  <advance width="510"/>
+  <advance width="515"/>
   <unicode hex="0062"/>
   <outline>
     <contour>
@@ -9,10 +9,10 @@
     </contour>
     <contour>
       <point x="115" y="66" type="move"/>
-      <point x="164" y="39"/>
+      <point x="163" y="40"/>
       <point x="214" y="27"/>
-      <point x="279" y="27" type="curve" smooth="yes"/>
-      <point x="377" y="27"/>
+      <point x="273" y="27" type="curve" smooth="yes"/>
+      <point x="369" y="27"/>
       <point x="437" y="93"/>
       <point x="437" y="197" type="curve" smooth="yes"/>
       <point x="437" y="300"/>
@@ -511,7 +511,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>510</integer>
+          <integer>515</integer>
         </dict>
         <key>wire</key>
         <dict>
@@ -533,7 +533,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>510</integer>
+          <integer>515</integer>
         </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>
