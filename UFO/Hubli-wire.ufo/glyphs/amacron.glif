@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="amacron" format="1">
-  <advance width="470.21184"/>
+  <advance width="456"/>
   <unicode hex="0101"/>
   <outline>
+    <component base="a"/>
+    <component base="macron" xOffset="-18"/>
   </outline>
   <lib>
     <dict>
@@ -28,7 +30,7 @@
           <array>
           </array>
           <key>width</key>
-          <real>470.21184</real>
+          <integer>456</integer>
         </dict>
         <key>wire</key>
         <dict>
@@ -50,7 +52,7 @@
           <array>
           </array>
           <key>width</key>
-          <real>470.21184</real>
+          <integer>456</integer>
         </dict>
       </dict>
     </dict>

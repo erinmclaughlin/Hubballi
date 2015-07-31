@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="atilde" format="1">
-  <advance width="470"/>
+  <advance width="456"/>
   <unicode hex="00E3"/>
   <outline>
+    <component base="a"/>
+    <component base="tilde" xOffset="-23"/>
+    <component base="a"/>
+    <component base="tilde" xOffset="-23"/>
   </outline>
   <lib>
     <dict>
@@ -28,7 +32,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>470</integer>
+          <integer>456</integer>
         </dict>
         <key>wire</key>
         <dict>
@@ -50,7 +54,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>470</integer>
+          <integer>456</integer>
         </dict>
       </dict>
     </dict>

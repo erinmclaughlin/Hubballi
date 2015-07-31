@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="abreve" format="1">
-  <advance width="470"/>
+  <advance width="456"/>
   <unicode hex="0103"/>
   <outline>
+    <component base="a"/>
+    <component base="breve" xOffset="-19"/>
+    <component base="a"/>
+    <component base="breve" xOffset="-19"/>
   </outline>
   <lib>
     <dict>
@@ -28,7 +32,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>470</integer>
+          <integer>456</integer>
         </dict>
         <key>wire</key>
         <dict>
@@ -50,7 +54,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>470</integer>
+          <integer>456</integer>
         </dict>
       </dict>
     </dict>
