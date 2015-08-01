@@ -26,12 +26,11 @@
       <point x="442" y="434" type="curve"/>
     </contour>
     <contour>
-      <point x="304" y="437" type="move"/>
+      <point x="111" y="437" type="move"/>
       <point x="526" y="437" type="line" smooth="yes"/>
       <point x="599" y="437"/>
       <point x="642" y="463"/>
-      <point x="674" y="515" type="curve" smooth="yes"/>
-      <point x="700" y="558"/>
+      <point x="674" y="515" type="curve"/>
     </contour>
   </outline>
   <lib>
@@ -602,13 +601,6 @@
           <integer>741</integer>
         </dict>
       </dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>0.794</real>
-        <real>0.975</real>
-        <real>0.8356</real>
-        <real>1.0</real>
-      </array>
     </dict>
   </lib>
 </glyph>

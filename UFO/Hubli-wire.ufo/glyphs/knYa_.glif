@@ -4,21 +4,21 @@
   <unicode hex="0CAF"/>
   <outline>
     <contour>
-      <point x="211" y="437"/>
-      <point x="116" y="330"/>
-      <point x="116" y="222" type="curve" smooth="yes"/>
-      <point x="116" y="103"/>
-      <point x="193" y="14"/>
-      <point x="332" y="14" type="curve" smooth="yes"/>
-      <point x="470" y="14"/>
-      <point x="547" y="105"/>
-      <point x="547" y="222" type="curve" smooth="yes"/>
-      <point x="547" y="328"/>
-      <point x="454" y="437"/>
-      <point x="332" y="437" type="curve" smooth="yes"/>
+      <point x="218" y="437"/>
+      <point x="125" y="332"/>
+      <point x="125" y="227" type="curve" smooth="yes"/>
+      <point x="125" y="110"/>
+      <point x="205" y="23"/>
+      <point x="336" y="23" type="curve" smooth="yes"/>
+      <point x="465" y="23"/>
+      <point x="547" y="112"/>
+      <point x="547" y="227" type="curve" smooth="yes"/>
+      <point x="547" y="330"/>
+      <point x="456" y="437"/>
+      <point x="336" y="437" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="624" y="437" type="move"/>
+      <point x="634" y="437" type="move"/>
       <point x="736" y="437" type="line" smooth="yes"/>
       <point x="809" y="437"/>
       <point x="852" y="463"/>
@@ -26,7 +26,7 @@
       <point x="910" y="558"/>
     </contour>
     <component base="knUsign" xOffset="612"/>
-    <component base="knUsign" xOffset="913"/>
+    <component base="knUsign" xOffset="917"/>
   </outline>
   <lib>
     <dict>
@@ -186,13 +186,6 @@
           <integer>1218</integer>
         </dict>
       </dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>1.0</real>
-        <real>0.8424</real>
-        <real>0.6742</real>
-        <real>1.0</real>
-      </array>
     </dict>
   </lib>
 </glyph>
