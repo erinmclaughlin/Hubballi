@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Aacute" format="1">
-  <advance width="470.21184"/>
+  <advance width="562"/>
   <unicode hex="00C1"/>
   <outline>
+    <component base="A"/>
   </outline>
   <lib>
     <dict>
@@ -28,7 +29,7 @@
           <array>
           </array>
           <key>width</key>
-          <real>470.21184</real>
+          <integer>562</integer>
         </dict>
         <key>wire</key>
         <dict>
@@ -50,9 +51,16 @@
           <array>
           </array>
           <key>width</key>
-          <real>470.21184</real>
+          <integer>562</integer>
         </dict>
       </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.974</real>
+        <real>0.577</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>
