@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Zdotaccent" format="1">
-  <advance width="470"/>
+  <advance width="577"/>
   <unicode hex="017B"/>
   <outline>
+    <component base="Z"/>
+    <component base="dotaccentcmb.cap" xOffset="260"/>
+    <component base="Z"/>
+    <component base="dotaccentcmb.cap" xOffset="260"/>
   </outline>
   <lib>
     <dict>
@@ -28,7 +32,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>470</integer>
+          <integer>577</integer>
         </dict>
         <key>wire</key>
         <dict>
@@ -50,7 +54,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>470</integer>
+          <integer>577</integer>
         </dict>
       </dict>
     </dict>

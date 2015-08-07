@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Eacute" format="1">
-  <advance width="470"/>
+  <advance width="495"/>
   <unicode hex="00C9"/>
   <outline>
+    <component base="E"/>
+    <component base="acutecmb.cap" xOffset="268"/>
+    <component base="E"/>
+    <component base="acutecmb.cap" xOffset="268"/>
   </outline>
   <lib>
     <dict>
@@ -28,7 +32,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>470</integer>
+          <integer>495</integer>
         </dict>
         <key>wire</key>
         <dict>
@@ -50,9 +54,16 @@
           <array>
           </array>
           <key>width</key>
-          <integer>470</integer>
+          <integer>495</integer>
         </dict>
       </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.974</real>
+        <real>0.577</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="macronbelowcmb" format="1">
-  <advance width="500"/>
+  <advance width="0"/>
   <outline>
     <contour>
-      <point x="357" y="-122" type="move"/>
-      <point x="144" y="-122" type="line"/>
+      <point x="98" y="-122" type="move"/>
+      <point x="-115" y="-122" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -31,7 +31,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>500</integer>
+          <integer>0</integer>
         </dict>
         <key>wire</key>
         <dict>
@@ -53,9 +53,16 @@
           <array>
           </array>
           <key>width</key>
-          <integer>500</integer>
+          <integer>0</integer>
         </dict>
       </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.8891</real>
+        <real>0.9578</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>

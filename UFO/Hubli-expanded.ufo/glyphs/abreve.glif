@@ -4,9 +4,9 @@
   <unicode hex="0103"/>
   <outline>
     <component base="a"/>
-    <component base="breve" xOffset="-19"/>
+    <component base="brevecmb" xOffset="230"/>
     <component base="a"/>
-    <component base="breve" xOffset="-19"/>
+    <component base="brevecmb" xOffset="230"/>
   </outline>
   <lib>
     <dict>
@@ -57,6 +57,13 @@
           <integer>456</integer>
         </dict>
       </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.974</real>
+        <real>0.577</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>
