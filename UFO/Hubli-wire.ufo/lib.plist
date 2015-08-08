@@ -10,10 +10,10 @@
 	<true/>
 	<key>com.typemytype.robofont.background.layerStrokeColor</key>
 	<array>
-		<real>1</real>
-		<real>0.36220000000000002</real>
-		<real>0.51719999999999999</real>
-		<real>0.69999999999999996</real>
+		<real>1.0</real>
+		<real>0.3622</real>
+		<real>0.5172</real>
+		<real>0.7</real>
 	</array>
 	<key>com.typemytype.robofont.compileSettings.MacRomanFirst</key>
 	<integer>1</integer>
@@ -34,7 +34,7 @@
 		<real>0.5</real>
 		<real>0.0</real>
 		<real>0.5</real>
-		<real>0.69999999999999996</real>
+		<real>0.7</real>
 	</array>
 	<key>com.typemytype.robofont.guides</key>
 	<array>
@@ -216,17 +216,17 @@
 	</array>
 	<key>com.typemytype.robofont.mask.layerStrokeColor</key>
 	<array>
-		<real>0.37219999999999998</real>
-		<real>1</real>
+		<real>0.3722</real>
+		<real>1.0</real>
 		<real>0.4123</real>
-		<real>0.69999999999999996</real>
+		<real>0.7</real>
 	</array>
 	<key>com.typemytype.robofont.rounded.layerStrokeColor</key>
 	<array>
 		<real>0.5</real>
-		<real>1</real>
+		<real>1.0</real>
 		<real>0.0</real>
-		<real>0.69999999999999996</real>
+		<real>0.7</real>
 	</array>
 	<key>com.typemytype.robofont.segmentType</key>
 	<string>curve</string>
@@ -1013,52 +1013,52 @@
 	</array>
 	<key>com.typemytype.robofont.wire.layerStrokeColor</key>
 	<array>
-		<real>1</real>
+		<real>1.0</real>
 		<real>0.0</real>
 		<real>0.0</real>
-		<real>0.69999999999999996</real>
+		<real>0.7</real>
 	</array>
 	<key>com.typesupply.MetricsMachine4.groupColors</key>
 	<dict>
 		<key>@MMK_L__dash</key>
 		<array>
-			<real>1</real>
+			<real>1.0</real>
 			<real>0.0</real>
 			<real>0.0</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_L__period</key>
 		<array>
-			<real>1</real>
+			<real>1.0</real>
 			<real>0.5</real>
 			<real>0.0</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_L__quoteleft</key>
 		<array>
-			<real>1</real>
-			<real>1</real>
+			<real>1.0</real>
+			<real>1.0</real>
 			<real>0.0</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_L_knAasign</key>
 		<array>
 			<real>0.0</real>
-			<real>1</real>
-			<real>1</real>
+			<real>1.0</real>
+			<real>1.0</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_L_knAi</key>
 		<array>
 			<real>0.0</real>
 			<real>0.5</real>
-			<real>1</real>
+			<real>1.0</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_L_knAisign</key>
 		<array>
 			<real>0.0</real>
-			<real>1</real>
+			<real>1.0</real>
 			<real>0.0</real>
 			<real>0.25</real>
 		</array>
@@ -1066,89 +1066,89 @@
 		<array>
 			<real>0.0</real>
 			<real>0.0</real>
-			<real>1</real>
+			<real>1.0</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_L_knCa</key>
 		<array>
-			<real>1</real>
+			<real>1.0</real>
 			<real>0.0</real>
-			<real>1</real>
+			<real>1.0</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_L_knCh</key>
 		<array>
-			<real>1</real>
+			<real>1.0</real>
 			<real>0.0</real>
 			<real>0.5</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_L_knD</key>
 		<array>
-			<real>1</real>
+			<real>1.0</real>
 			<real>0.0</real>
 			<real>0.0</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_L_knDI</key>
 		<array>
-			<real>1</real>
+			<real>1.0</real>
 			<real>0.5</real>
 			<real>0.0</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_L_knDa</key>
 		<array>
-			<real>1</real>
-			<real>1</real>
+			<real>1.0</real>
+			<real>1.0</real>
 			<real>0.0</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_L_knDaC2</key>
 		<array>
 			<real>0.0</real>
-			<real>1</real>
+			<real>1.0</real>
 			<real>0.0</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_L_knE</key>
 		<array>
 			<real>0.0</real>
-			<real>1</real>
-			<real>1</real>
+			<real>1.0</real>
+			<real>1.0</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_L_knGa</key>
 		<array>
 			<real>0.0</real>
 			<real>0.5</real>
-			<real>1</real>
+			<real>1.0</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_L_knGha</key>
 		<array>
 			<real>0.0</real>
 			<real>0.0</real>
-			<real>1</real>
+			<real>1.0</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_L_knHa</key>
 		<array>
 			<real>0.5</real>
 			<real>0.0</real>
-			<real>1</real>
+			<real>1.0</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_L_knI2</key>
 		<array>
-			<real>1</real>
+			<real>1.0</real>
 			<real>0.0</real>
 			<real>0.5</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_L_knJh</key>
 		<array>
-			<real>1</real>
+			<real>1.0</real>
 			<real>0.0</real>
 			<real>0.0</real>
 			<real>0.25</real>
@@ -1157,20 +1157,20 @@
 		<array>
 			<real>0.0</real>
 			<real>0.5</real>
-			<real>1</real>
+			<real>1.0</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_L_knKa</key>
 		<array>
-			<real>1</real>
+			<real>1.0</real>
 			<real>0.5</real>
 			<real>0.0</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_L_knKa.a</key>
 		<array>
-			<real>1</real>
-			<real>1</real>
+			<real>1.0</real>
+			<real>1.0</real>
 			<real>0.0</real>
 			<real>0.25</real>
 		</array>
@@ -1178,418 +1178,418 @@
 		<array>
 			<real>0.0</real>
 			<real>0.5</real>
-			<real>1</real>
+			<real>1.0</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_L_knLa</key>
 		<array>
 			<real>0.0</real>
-			<real>1</real>
-			<real>1</real>
+			<real>1.0</real>
+			<real>1.0</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_L_knLla</key>
 		<array>
 			<real>0.0</real>
-			<real>1</real>
+			<real>1.0</real>
 			<real>0.0</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_L_knNa</key>
 		<array>
 			<real>0.0</real>
-			<real>1</real>
-			<real>1</real>
+			<real>1.0</real>
+			<real>1.0</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_L_knNgaC2</key>
 		<array>
 			<real>0.0</real>
 			<real>0.0</real>
-			<real>1</real>
+			<real>1.0</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_L_knO</key>
 		<array>
-			<real>1</real>
+			<real>1.0</real>
 			<real>0.0</real>
-			<real>1</real>
+			<real>1.0</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_L_knOne</key>
 		<array>
-			<real>1</real>
+			<real>1.0</real>
 			<real>0.0</real>
 			<real>0.5</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_L_knP</key>
 		<array>
-			<real>1</real>
+			<real>1.0</real>
 			<real>0.0</real>
 			<real>0.0</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_L_knPI</key>
 		<array>
-			<real>1</real>
+			<real>1.0</real>
 			<real>0.5</real>
 			<real>0.0</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_L_knPU</key>
 		<array>
-			<real>1</real>
-			<real>1</real>
+			<real>1.0</real>
+			<real>1.0</real>
 			<real>0.0</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_L_knPaC2</key>
 		<array>
 			<real>0.0</real>
-			<real>1</real>
+			<real>1.0</real>
 			<real>0.0</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_L_knR</key>
 		<array>
 			<real>0.0</real>
-			<real>1</real>
-			<real>1</real>
+			<real>1.0</real>
+			<real>1.0</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_L_knRI</key>
 		<array>
 			<real>0.0</real>
 			<real>0.5</real>
-			<real>1</real>
+			<real>1.0</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_L_knRa</key>
 		<array>
 			<real>0.0</real>
 			<real>0.0</real>
-			<real>1</real>
+			<real>1.0</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_L_knRaC2</key>
 		<array>
 			<real>0.5</real>
 			<real>0.0</real>
-			<real>1</real>
+			<real>1.0</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_L_knSha</key>
 		<array>
-			<real>1</real>
+			<real>1.0</real>
 			<real>0.0</real>
-			<real>1</real>
+			<real>1.0</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_L_knSsa</key>
 		<array>
-			<real>1</real>
+			<real>1.0</real>
 			<real>0.0</real>
 			<real>0.5</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_L_knTa</key>
 		<array>
-			<real>1</real>
+			<real>1.0</real>
 			<real>0.0</real>
 			<real>0.0</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_L_knTta</key>
 		<array>
-			<real>1</real>
+			<real>1.0</real>
 			<real>0.5</real>
 			<real>0.0</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_L_knU</key>
 		<array>
-			<real>1</real>
-			<real>1</real>
+			<real>1.0</real>
+			<real>1.0</real>
 			<real>0.0</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_L_knUu</key>
 		<array>
 			<real>0.0</real>
-			<real>1</real>
+			<real>1.0</real>
 			<real>0.0</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_L_knYaC2</key>
 		<array>
 			<real>0.0</real>
-			<real>1</real>
-			<real>1</real>
+			<real>1.0</real>
+			<real>1.0</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_R__braceright</key>
 		<array>
-			<real>1</real>
+			<real>1.0</real>
 			<real>0.0</real>
 			<real>0.0</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_R__colon</key>
 		<array>
-			<real>1</real>
+			<real>1.0</real>
 			<real>0.5</real>
 			<real>0.0</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_R__dash</key>
 		<array>
-			<real>1</real>
-			<real>1</real>
+			<real>1.0</real>
+			<real>1.0</real>
 			<real>0.0</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_R__quoteright</key>
 		<array>
 			<real>0.0</real>
-			<real>1</real>
-			<real>1</real>
+			<real>1.0</real>
+			<real>1.0</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_R_knA</key>
 		<array>
 			<real>0.0</real>
 			<real>0.5</real>
-			<real>1</real>
+			<real>1.0</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_R_knAi</key>
 		<array>
 			<real>0.0</real>
 			<real>0.0</real>
-			<real>1</real>
+			<real>1.0</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_R_knAilength</key>
 		<array>
-			<real>1</real>
+			<real>1.0</real>
 			<real>0.0</real>
 			<real>0.5</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_R_knDI</key>
 		<array>
-			<real>1</real>
+			<real>1.0</real>
 			<real>0.0</real>
 			<real>0.5</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_R_knDa</key>
 		<array>
-			<real>1</real>
+			<real>1.0</real>
 			<real>0.0</real>
 			<real>0.0</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_R_knDaC2</key>
 		<array>
-			<real>1</real>
+			<real>1.0</real>
 			<real>0.5</real>
 			<real>0.0</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_R_knE</key>
 		<array>
-			<real>1</real>
-			<real>1</real>
+			<real>1.0</real>
+			<real>1.0</real>
 			<real>0.0</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_R_knGa</key>
 		<array>
 			<real>0.0</real>
-			<real>1</real>
+			<real>1.0</real>
 			<real>0.0</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_R_knI</key>
 		<array>
 			<real>0.0</real>
-			<real>1</real>
-			<real>1</real>
+			<real>1.0</real>
+			<real>1.0</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_R_knKSsa</key>
 		<array>
 			<real>0.0</real>
 			<real>0.5</real>
-			<real>1</real>
+			<real>1.0</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_R_knKa</key>
 		<array>
 			<real>0.0</real>
 			<real>0.0</real>
-			<real>1</real>
+			<real>1.0</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_R_knKaC2</key>
 		<array>
 			<real>0.5</real>
 			<real>0.0</real>
-			<real>1</real>
+			<real>1.0</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_R_knKha</key>
 		<array>
-			<real>1</real>
+			<real>1.0</real>
 			<real>0.0</real>
-			<real>1</real>
+			<real>1.0</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_R_knLla</key>
 		<array>
-			<real>1</real>
+			<real>1.0</real>
 			<real>0.0</real>
 			<real>0.5</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_R_knLvocalsign</key>
 		<array>
-			<real>1</real>
+			<real>1.0</real>
 			<real>0.0</real>
 			<real>0.0</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_R_knNgaC2</key>
 		<array>
-			<real>1</real>
+			<real>1.0</real>
 			<real>0.5</real>
 			<real>0.0</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_R_knNnligs</key>
 		<array>
-			<real>1</real>
-			<real>1</real>
+			<real>1.0</real>
+			<real>1.0</real>
 			<real>0.0</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_R_knO</key>
 		<array>
 			<real>0.0</real>
-			<real>1</real>
+			<real>1.0</real>
 			<real>0.0</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_R_knPaC2</key>
 		<array>
 			<real>0.0</real>
-			<real>1</real>
-			<real>1</real>
+			<real>1.0</real>
+			<real>1.0</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_R_knRI</key>
 		<array>
 			<real>0.0</real>
 			<real>0.5</real>
-			<real>1</real>
+			<real>1.0</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_R_knRa</key>
 		<array>
 			<real>0.0</real>
 			<real>0.0</real>
-			<real>1</real>
+			<real>1.0</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_R_knRaC2</key>
 		<array>
 			<real>0.5</real>
 			<real>0.0</real>
-			<real>1</real>
+			<real>1.0</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_R_knRvocal</key>
 		<array>
-			<real>1</real>
+			<real>1.0</real>
 			<real>0.0</real>
-			<real>1</real>
+			<real>1.0</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_R_knRvocalsign</key>
 		<array>
-			<real>1</real>
+			<real>1.0</real>
 			<real>0.0</real>
 			<real>0.5</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_R_knSa</key>
 		<array>
-			<real>1</real>
+			<real>1.0</real>
 			<real>0.0</real>
 			<real>0.0</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_R_knSaC2</key>
 		<array>
-			<real>1</real>
+			<real>1.0</real>
 			<real>0.5</real>
 			<real>0.0</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_R_knShI</key>
 		<array>
-			<real>1</real>
-			<real>1</real>
+			<real>1.0</real>
+			<real>1.0</real>
 			<real>0.0</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_R_knSha</key>
 		<array>
 			<real>0.0</real>
-			<real>1</real>
+			<real>1.0</real>
 			<real>0.0</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_R_knTa</key>
 		<array>
 			<real>0.0</real>
-			<real>1</real>
-			<real>1</real>
+			<real>1.0</real>
+			<real>1.0</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_R_knTaC2</key>
 		<array>
 			<real>0.0</real>
 			<real>0.5</real>
-			<real>1</real>
+			<real>1.0</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_R_knThree</key>
 		<array>
 			<real>0.0</real>
 			<real>0.0</real>
-			<real>1</real>
+			<real>1.0</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_R_knTtaC2</key>
 		<array>
-			<real>1</real>
+			<real>1.0</real>
 			<real>0.0</real>
-			<real>1</real>
+			<real>1.0</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_R_knUsign</key>
 		<array>
 			<real>0.5</real>
 			<real>0.0</real>
-			<real>1</real>
+			<real>1.0</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_R_knZero</key>
 		<array>
-			<real>1</real>
+			<real>1.0</real>
 			<real>0.0</real>
 			<real>0.5</real>
 			<real>0.25</real>
@@ -1597,6 +1597,7 @@
 	</dict>
 	<key>public.glyphOrder</key>
 	<array>
+		<string>.notdef</string>
 		<string>space</string>
 		<string>knAnusvara</string>
 		<string>knVisarga</string>
@@ -1641,6 +1642,7 @@
 		<string>knMa</string>
 		<string>knYa</string>
 		<string>knRa</string>
+		<string>knRra</string>
 		<string>knLa</string>
 		<string>knLla</string>
 		<string>knVa</string>
@@ -1648,7 +1650,12 @@
 		<string>knSsa</string>
 		<string>knSa</string>
 		<string>knHa</string>
+		<string>knKSsa</string>
+		<string>knFa</string>
 		<string>knRrvocal</string>
+		<string>knLlvocal</string>
+		<string>knNukta</string>
+		<string>knAvagraha</string>
 		<string>knAasign</string>
 		<string>knIsign</string>
 		<string>knIisign</string>
@@ -1666,36 +1673,251 @@
 		<string>knAusign</string>
 		<string>knVirama</string>
 		<string>knLength</string>
+		<string>knAilength</string>
+		<string>knLvocalsign</string>
+		<string>knLlvocalsign</string>
+		<string>knReph</string>
+		<string>knKa.c2</string>
+		<string>knKha.c2</string>
+		<string>knGa.c2</string>
+		<string>knGha.c2</string>
+		<string>knNga.c2</string>
+		<string>knCa.c2</string>
+		<string>knCha.c2</string>
+		<string>knJa.c2</string>
+		<string>knJha.c2</string>
+		<string>knNya.c2</string>
+		<string>knTta.c2</string>
+		<string>knTtha.c2</string>
+		<string>knDda.c2</string>
+		<string>knDdha.c2</string>
+		<string>knNna.c2</string>
+		<string>knTa.c2</string>
+		<string>knTha.c2</string>
 		<string>knDa.c2</string>
+		<string>knDha.c2</string>
 		<string>knNa.c2</string>
+		<string>knPa.c2</string>
+		<string>knPha.c2</string>
+		<string>knBa.c2</string>
+		<string>knBha.c2</string>
+		<string>knMa.c2</string>
+		<string>knYa.c2</string>
+		<string>knRa.c2</string>
+		<string>knRra.c2</string>
+		<string>knLa.c2</string>
+		<string>knLla.c2</string>
+		<string>knVa.c2</string>
+		<string>knSha.c2</string>
+		<string>knSsa.c2</string>
+		<string>knSa.c2</string>
+		<string>knHa.c2</string>
+		<string>knKRvocal.c2</string>
+		<string>knKRa.c2</string>
+		<string>knKSsa.c2</string>
+		<string>knCAi.c2</string>
+		<string>knTtRa.c2</string>
+		<string>knTRvocal.c2</string>
+		<string>knTAi.c2</string>
+		<string>knTYa.c2</string>
+		<string>knTRa.c2</string>
+		<string>knPRa.c2</string>
+		<string>knRAi.c2</string>
+		<string>knSRa.c2</string>
+		<string>knKI</string>
+		<string>knKU</string>
+		<string>knKE</string>
+		<string>knKhI</string>
+		<string>knKhE</string>
+		<string>knGI</string>
+		<string>knGE</string>
+		<string>knGhI</string>
+		<string>knGhU</string>
+		<string>knGhUu</string>
+		<string>knGhE</string>
+		<string>knGhO</string>
+		<string>knNgAa</string>
+		<string>knNgI</string>
+		<string>knNgE</string>
+		<string>knNgAu</string>
+		<string>knNg</string>
+		<string>knCI</string>
+		<string>knCE</string>
+		<string>knChI</string>
+		<string>knChE</string>
+		<string>knJAa</string>
+		<string>knJI</string>
+		<string>knJE</string>
+		<string>knJAu</string>
+		<string>knJ</string>
+		<string>knJhI</string>
+		<string>knJhE</string>
+		<string>knNyAa</string>
+		<string>knNyI</string>
+		<string>knNyE</string>
+		<string>knNyAu</string>
+		<string>knNy</string>
+		<string>knTtI</string>
+		<string>knTtE</string>
+		<string>knTthI</string>
+		<string>knTthE</string>
+		<string>knDdI</string>
+		<string>knDdE</string>
+		<string>knDdhI</string>
+		<string>knDdhE</string>
+		<string>knNnAa</string>
+		<string>knNnI</string>
+		<string>knNnE</string>
+		<string>knTI</string>
+		<string>knTE</string>
+		<string>knThI</string>
+		<string>knThE</string>
+		<string>knDI</string>
+		<string>knDE</string>
+		<string>knDhI</string>
+		<string>knDhE</string>
+		<string>knNI</string>
+		<string>knNE</string>
 		<string>knPI</string>
+		<string>knPU</string>
+		<string>knPUu</string>
+		<string>knPE</string>
+		<string>knPO</string>
+		<string>knPhI</string>
+		<string>knPhU</string>
+		<string>knPhUu</string>
+		<string>knPhE</string>
+		<string>knPhO</string>
 		<string>knBI</string>
+		<string>knBE</string>
+		<string>knBhI</string>
+		<string>knBhE</string>
+		<string>knMI</string>
+		<string>knME</string>
 		<string>knMO</string>
+		<string>knYI</string>
+		<string>knYE</string>
+		<string>knYO</string>
 		<string>knRI</string>
+		<string>knRE</string>
+		<string>knRrI</string>
+		<string>knRrE</string>
+		<string>knLI</string>
+		<string>knLE</string>
+		<string>knLlI</string>
+		<string>knLlU</string>
+		<string>knLlUu</string>
+		<string>knLlE</string>
+		<string>knLlO</string>
+		<string>knVI</string>
+		<string>knVU</string>
+		<string>knVUu</string>
+		<string>knVE</string>
+		<string>knVO</string>
+		<string>knShI</string>
+		<string>knShE</string>
+		<string>knSsI</string>
+		<string>knSsE</string>
+		<string>knShRIi</string>
+		<string>knSI</string>
+		<string>knSE</string>
+		<string>knHI</string>
+		<string>knHE</string>
+		<string>knKSsI</string>
+		<string>knKSsU</string>
+		<string>knKSsE</string>
+		<string>knKa.a</string>
+		<string>knKha.a</string>
+		<string>knGa.a</string>
+		<string>knGha.a</string>
+		<string>knCa.a</string>
+		<string>knCha.a</string>
+		<string>knJha.a</string>
+		<string>knTta.a</string>
+		<string>knTtha.a</string>
+		<string>knDda.a</string>
+		<string>knDdha.a</string>
+		<string>knTa.a</string>
+		<string>knTha.a</string>
 		<string>knDa.a</string>
+		<string>knDha.a</string>
 		<string>knNa.a</string>
+		<string>knPa.a</string>
+		<string>knPha.a</string>
+		<string>knBa.a</string>
+		<string>knBha.a</string>
+		<string>knMa.a</string>
+		<string>knYa.a</string>
+		<string>knRa.a</string>
+		<string>knLa.a</string>
+		<string>knLla.a</string>
+		<string>knVa.a</string>
+		<string>knSha.a</string>
+		<string>knSsa.a</string>
+		<string>knSa.a</string>
+		<string>knHa.a</string>
+		<string>knKSsa.a</string>
+		<string>knZero</string>
+		<string>knOne</string>
+		<string>knTwo</string>
+		<string>knThree</string>
+		<string>knFour</string>
+		<string>knFive</string>
+		<string>knSix</string>
+		<string>knSeven</string>
+		<string>knEight</string>
+		<string>knNine</string>
+		<string>danda</string>
+		<string>dandadbl</string>
+		<string>knJihvamuliya</string>
+		<string>knUpadhmaniya</string>
+		<string>ZWS</string>
+		<string>ZWNJ</string>
+		<string>ZWJ</string>
+		<string>circledotted</string>
+		<string>svastiright</string>
+		<string>enspace</string>
+		<string>emspace</string>
+		<string>thinspace</string>
+		<string>hairspace</string>
+		<string>nbspace</string>
 		<string>comma</string>
 		<string>semicolon</string>
 		<string>colon</string>
 		<string>period</string>
 		<string>ellipsis</string>
 		<string>exclam</string>
+		<string>exclamdown</string>
 		<string>question</string>
+		<string>questiondown</string>
 		<string>quoteleft</string>
 		<string>quoteright</string>
 		<string>quotedblleft</string>
 		<string>quotedblright</string>
+		<string>quotesinglbase</string>
+		<string>quotedblbase</string>
 		<string>guilsinglleft</string>
 		<string>guilsinglright</string>
 		<string>guillemotleft</string>
 		<string>guillemotright</string>
 		<string>parenleft</string>
 		<string>parenright</string>
+		<string>braceleft</string>
+		<string>braceright</string>
 		<string>bracketleft</string>
 		<string>bracketright</string>
+		<string>bar</string>
+		<string>slash</string>
 		<string>hyphen</string>
 		<string>endash</string>
 		<string>emdash</string>
+		<string>bullet</string>
+		<string>periodcentered</string>
+		<string>asterisk</string>
+		<string>dagger</string>
+		<string>daggerdbl</string>
+		<string>section</string>
+		<string>paragraph</string>
 		<string>A</string>
 		<string>B</string>
 		<string>C</string>
@@ -1727,34 +1949,74 @@
 		<string>Acircumflex</string>
 		<string>Atilde</string>
 		<string>Adieresis</string>
+		<string>Amacron</string>
+		<string>Abreve</string>
 		<string>Aring</string>
 		<string>AE</string>
+		<string>AEmacron</string>
 		<string>Ccedilla</string>
+		<string>Ccircumflex</string>
+		<string>Ddotbelow</string>
+		<string>Emacron</string>
 		<string>Egrave</string>
 		<string>Eacute</string>
 		<string>Ecircumflex</string>
+		<string>Etilde</string>
 		<string>Edieresis</string>
+		<string>Ebreve</string>
+		<string>Gdotaccent</string>
+		<string>Hdotbelow</string>
+		<string>Hbrevebelow</string>
 		<string>Igrave</string>
 		<string>Iacute</string>
 		<string>Icircumflex</string>
+		<string>Itilde</string>
 		<string>Idieresis</string>
+		<string>Imacron</string>
+		<string>Klinebelow</string>
+		<string>Kdotbelow</string>
+		<string>Llinebelow</string>
+		<string>Ldotbelow</string>
+		<string>Ldotbelowmacron</string>
+		<string>Lslash</string>
+		<string>Mdotaccent</string>
+		<string>Mdotbelow</string>
 		<string>Ntilde</string>
+		<string>Ndotaccent</string>
+		<string>Nlinebelow</string>
+		<string>Ndotbelow</string>
 		<string>Ograve</string>
 		<string>Oacute</string>
 		<string>Ocircumflex</string>
 		<string>Otilde</string>
 		<string>Odieresis</string>
+		<string>Omacron</string>
+		<string>Obreve</string>
 		<string>Oslash</string>
 		<string>OE</string>
+		<string>Rdotbelowmacron</string>
+		<string>Rdotaccent</string>
+		<string>Rlinebelow</string>
+		<string>Rdotbelow</string>
+		<string>Sacute</string>
 		<string>Scaron</string>
+		<string>Sdotbelow</string>
+		<string>Tdotbelow</string>
+		<string>Tlinebelow</string>
 		<string>Ugrave</string>
 		<string>Uacute</string>
 		<string>Ucircumflex</string>
+		<string>Utilde</string>
 		<string>Udieresis</string>
+		<string>Umacron</string>
+		<string>Ubreve</string>
 		<string>Yacute</string>
 		<string>Ydieresis</string>
+		<string>Ydotaccent</string>
 		<string>Zcaron</string>
 		<string>Zdotaccent</string>
+		<string>Zdotbelow</string>
+		<string>Zlinebelow</string>
 		<string>Eth</string>
 		<string>Thorn</string>
 		<string>a</string>
@@ -1792,42 +2054,98 @@
 		<string>abreve</string>
 		<string>aring</string>
 		<string>ae</string>
+		<string>aemacron</string>
 		<string>ccedilla</string>
+		<string>ccircumflex</string>
+		<string>ddotbelow</string>
 		<string>egrave</string>
 		<string>eacute</string>
 		<string>ecircumflex</string>
+		<string>etilde</string>
 		<string>edieresis</string>
 		<string>emacron</string>
+		<string>ebreve</string>
 		<string>gdotaccent</string>
+		<string>hdotbelow</string>
+		<string>hlinebelow</string>
+		<string>hbrevebelow</string>
 		<string>igrave</string>
 		<string>iacute</string>
 		<string>icircumflex</string>
+		<string>itilde</string>
 		<string>idieresis</string>
 		<string>imacron</string>
 		<string>dotlessi</string>
+		<string>klinebelow</string>
+		<string>kdotbelow</string>
+		<string>llinebelow</string>
+		<string>ldotbelow</string>
+		<string>ldotbelowmacron</string>
 		<string>lslash</string>
+		<string>mdotaccent</string>
+		<string>mdotbelow</string>
 		<string>ntilde</string>
+		<string>ndotaccent</string>
+		<string>nlinebelow</string>
+		<string>ndotbelow</string>
 		<string>ograve</string>
 		<string>oacute</string>
 		<string>ocircumflex</string>
 		<string>otilde</string>
 		<string>odieresis</string>
+		<string>omacron</string>
+		<string>obreve</string>
 		<string>oslash</string>
 		<string>oe</string>
+		<string>rdotbelowmacron</string>
+		<string>rdotaccent</string>
+		<string>rlinebelow</string>
+		<string>rdotbelow</string>
 		<string>sacute</string>
 		<string>scaron</string>
+		<string>sdotbelow</string>
 		<string>germandbls</string>
+		<string>tdotbelow</string>
+		<string>tlinebelow</string>
 		<string>ugrave</string>
 		<string>uacute</string>
 		<string>ucircumflex</string>
+		<string>utilde</string>
 		<string>udieresis</string>
 		<string>umacron</string>
+		<string>ubreve</string>
 		<string>yacute</string>
 		<string>ydieresis</string>
+		<string>ydotaccent</string>
 		<string>zcaron</string>
 		<string>zdotaccent</string>
+		<string>zdotbelow</string>
+		<string>zlinebelow</string>
 		<string>eth</string>
 		<string>thorn</string>
+		<string>ampersand</string>
+		<string>GHmacronbelow</string>
+		<string>Ghmacronbelow</string>
+		<string>ghmacronbelow</string>
+		<string>KHmacronbelow</string>
+		<string>Khmacronbelow</string>
+		<string>khmacronbelow</string>
+		<string>T_h</string>
+		<string>f_b</string>
+		<string>f_f_b</string>
+		<string>f_f</string>
+		<string>f_h</string>
+		<string>f_f_h</string>
+		<string>f_i</string>
+		<string>f_f_i</string>
+		<string>f_j</string>
+		<string>f_f_j</string>
+		<string>f_k</string>
+		<string>f_f_k</string>
+		<string>f_l</string>
+		<string>f_f_l</string>
+		<string>f_t</string>
+		<string>f_f_t</string>
 		<string>grave</string>
 		<string>gravecmb</string>
 		<string>acute</string>
@@ -1850,6 +2168,7 @@
 		<string>dotaccentcmb</string>
 		<string>hungarumlaut</string>
 		<string>hungarumlautcmb</string>
+		<string>candrabinducmb</string>
 		<string>cedilla</string>
 		<string>cedillacmb</string>
 		<string>ogonek</string>
@@ -1857,9 +2176,32 @@
 		<string>dotbelowcmb</string>
 		<string>dieresisbelowcmb</string>
 		<string>macronbelowcmb</string>
+		<string>ringbelowcmb</string>
+		<string>brevebelowcmb</string>
+		<string>macrondoublebelowcmb</string>
+		<string>asciicircum</string>
+		<string>asciitilde</string>
+		<string>brokenbar</string>
+		<string>backslash</string>
+		<string>underscore</string>
 		<string>quotesingle</string>
 		<string>quotedbl</string>
+		<string>copyright</string>
+		<string>trademark</string>
+		<string>registered</string>
+		<string>at</string>
+		<string>ordfeminine</string>
+		<string>ordmasculine</string>
+		<string>currency</string>
 		<string>rupeeindian</string>
+		<string>rupeeindian.pnum</string>
+		<string>dollar</string>
+		<string>Euro</string>
+		<string>sterling</string>
+		<string>yen</string>
+		<string>cent</string>
+		<string>florin</string>
+		<string>numbersign</string>
 		<string>zero</string>
 		<string>one</string>
 		<string>two</string>
@@ -1870,6 +2212,63 @@
 		<string>seven</string>
 		<string>eight</string>
 		<string>nine</string>
+		<string>zero.pnum</string>
+		<string>one.pnum</string>
+		<string>two.pnum</string>
+		<string>three.pnum</string>
+		<string>four.pnum</string>
+		<string>five.pnum</string>
+		<string>six.pnum</string>
+		<string>seven.pnum</string>
+		<string>eight.pnum</string>
+		<string>nine.pnum</string>
+		<string>onesuperior</string>
+		<string>twosuperior</string>
+		<string>threesuperior</string>
+		<string>fraction</string>
+		<string>onequarter</string>
+		<string>onehalf</string>
+		<string>threequarters</string>
+		<string>plus</string>
+		<string>minus</string>
+		<string>plusminus</string>
+		<string>multiply</string>
+		<string>divide</string>
+		<string>equal</string>
+		<string>notequal</string>
+		<string>approxequal</string>
+		<string>logicalnot</string>
+		<string>less</string>
+		<string>lessequal</string>
+		<string>greaterequal</string>
+		<string>greater</string>
+		<string>percent</string>
+		<string>perthousand</string>
+		<string>degree</string>
+		<string>Delta.math</string>
+		<string>Omega.math</string>
+		<string>mu.math</string>
+		<string>pi</string>
+		<string>product</string>
+		<string>summation</string>
+		<string>partialdiff</string>
+		<string>radical</string>
+		<string>integral</string>
+		<string>infinity</string>
+		<string>estimated</string>
+		<string>litre</string>
+		<string>lozenge</string>
+		<string>sfthyphen</string>
+		<string>hyphentwo</string>
+		<string>bulletoperator</string>
+		<string>divisionslash</string>
+		<string>exclam.latn</string>
+		<string>question.latn</string>
+		<string>quoteleft.latn</string>
+		<string>quoteright.latn</string>
+		<string>quotedblleft.latn</string>
+		<string>quotedblright.latn</string>
+		<string>asterisk.latn</string>
 		<string>gravecmb.cap</string>
 		<string>acutecmb.cap</string>
 		<string>circumflexcmb.cap</string>
@@ -1880,6 +2279,9 @@
 		<string>ringcmb.cap</string>
 		<string>dotaccentcmb.cap</string>
 		<string>caroncmb.cap</string>
+		<string>candrabinducmb.cap</string>
+		<string>fi</string>
+		<string>fl</string>
 		<string>knTtha.copy_1</string>
 		<string>knNga.copy_1</string>
 		<string>kcommaaccent</string>
@@ -1934,6 +2336,7 @@
 		<string>uni0163</string>
 		<string>uni0326</string>
 		<string>Dcaron</string>
+		<string>hungarianumlautcmb</string>
 		<string>ncaron</string>
 		<string>uni20BD</string>
 		<string>uni20BA</string>
@@ -1951,6 +2354,7 @@
 		<string>aogonek</string>
 		<string>Gcommaaccent</string>
 		<string>uni2126</string>
+		<string>hungarianumlautcmb.cap</string>
 		<string>Racute</string>
 		<string>iogonek</string>
 		<string>uogonek</string>

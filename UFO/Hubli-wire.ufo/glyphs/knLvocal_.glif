@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="knLvocal" format="1">
+  <advance width="1424"/>
+  <outline>
+    <contour>
+      <point x="524" y="437" type="move"/>
+      <point x="636" y="437" type="line" smooth="yes"/>
+      <point x="709" y="437"/>
+      <point x="752" y="463"/>
+      <point x="784" y="515" type="curve" smooth="yes"/>
+    </contour>
+    <component base="knKha"/>
+    <component base="knUusign" xOffset="800"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>knLvocal</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1424</integer>
+        </dict>
+        <key>wire</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>knLvocal</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1424</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
