@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="knRvocal" format="1">
+  <advance width="1066"/>
+  <unicode hex="0C8B"/>
+  <outline>
+    <contour>
+      <point x="524" y="437" type="move"/>
+      <point x="636" y="437" type="line" smooth="yes"/>
+      <point x="709" y="437"/>
+      <point x="752" y="463"/>
+      <point x="784" y="515" type="curve" smooth="yes"/>
+      <point x="810" y="558"/>
+    </contour>
+    <component base="knKha"/>
+    <component base="knUsign" xOffset="786"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>1104</integer>
+          <key>y</key>
+          <integer>48</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>189</integer>
+          <key>y</key>
+          <integer>172</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>contours</key>
+          <array/>
+          <key>lib</key>
+          <dict/>
+          <key>name</key>
+          <string>knRvocal</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <integer>1066</integer>
+        </dict>
+        <key>wire</key>
+        <dict>
+          <key>anchors</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>contours</key>
+          <array/>
+          <key>lib</key>
+          <dict/>
+          <key>name</key>
+          <string>knRvocal</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <integer>1066</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

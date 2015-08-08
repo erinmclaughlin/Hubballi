@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="knOsign" format="1">
+  <advance width="592"/>
+  <unicode hex="0CCA"/>
+  <outline>
+    <component base="knEsign"/>
+    <component base="knUusign"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>contours</key>
+          <array/>
+          <key>lib</key>
+          <dict/>
+          <key>name</key>
+          <string>knOsign</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <integer>592</integer>
+        </dict>
+        <key>wire</key>
+        <dict>
+          <key>anchors</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>contours</key>
+          <array/>
+          <key>lib</key>
+          <dict/>
+          <key>name</key>
+          <string>knOsign</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <integer>592</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

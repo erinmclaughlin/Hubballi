@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ydieresis" format="1">
+  <advance width="570"/>
+  <unicode hex="0178"/>
+  <outline>
+    <component base="Y"/>
+    <component base="dieresiscmb.cap" xOffset="288"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>contours</key>
+          <array/>
+          <key>lib</key>
+          <dict/>
+          <key>name</key>
+          <string>Ydieresis</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <integer>570</integer>
+        </dict>
+        <key>wire</key>
+        <dict>
+          <key>anchors</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>contours</key>
+          <array/>
+          <key>lib</key>
+          <dict/>
+          <key>name</key>
+          <string>Ydieresis</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <integer>570</integer>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1</real>
+        <real>0.97399999999999998</real>
+        <real>0.57699999999999996</real>
+        <real>1</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>
