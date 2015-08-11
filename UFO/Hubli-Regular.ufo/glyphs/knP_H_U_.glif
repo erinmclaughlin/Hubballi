@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="knPHU" format="1">
+  <advance width="1122"/>
+  <outline>
+    <contour>
+      <point x="541" y="-192" type="line"/>
+      <point x="589" y="-207"/>
+      <point x="638" y="-212"/>
+      <point x="692" y="-212" type="curve" smooth="yes"/>
+      <point x="928" y="-212"/>
+      <point x="1082" y="-36"/>
+      <point x="1082" y="215" type="curve" smooth="yes"/>
+      <point x="1082" y="416"/>
+      <point x="1001" y="576"/>
+      <point x="808" y="576" type="curve"/>
+      <point x="808" y="461" type="line"/>
+      <point x="896" y="461"/>
+      <point x="942" y="355"/>
+      <point x="942" y="214" type="curve" smooth="yes"/>
+      <point x="942" y="30"/>
+      <point x="843" y="-83"/>
+      <point x="673" y="-83" type="curve" smooth="yes"/>
+      <point x="619" y="-83"/>
+      <point x="581" y="-79"/>
+      <point x="541" y="-70" type="curve"/>
+    </contour>
+    <component base="knPHA"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>knPHU</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1122</integer>
+        </dict>
+        <key>wire</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>knPHU</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1122</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

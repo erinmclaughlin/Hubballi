@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="knTHA" format="1">
+  <advance width="721"/>
+  <unicode hex="0CA5"/>
+  <outline>
+    <contour>
+      <point x="358" y="369" type="curve" smooth="yes"/>
+      <point x="415" y="369"/>
+      <point x="457" y="322"/>
+      <point x="457" y="271" type="curve" smooth="yes"/>
+      <point x="457" y="216"/>
+      <point x="415" y="171"/>
+      <point x="358" y="171" type="curve" smooth="yes"/>
+      <point x="298" y="171"/>
+      <point x="258" y="216"/>
+      <point x="258" y="271" type="curve" smooth="yes"/>
+      <point x="258" y="320"/>
+      <point x="301" y="369"/>
+    </contour>
+    <contour>
+      <point x="358" y="303" type="curve" smooth="yes"/>
+      <point x="339" y="303"/>
+      <point x="324" y="288"/>
+      <point x="324" y="271" type="curve" smooth="yes"/>
+      <point x="324" y="252"/>
+      <point x="338" y="237"/>
+      <point x="358" y="237" type="curve" smooth="yes"/>
+      <point x="377" y="237"/>
+      <point x="391" y="253"/>
+      <point x="391" y="271" type="curve" smooth="yes"/>
+      <point x="391" y="288"/>
+      <point x="377" y="303"/>
+    </contour>
+    <contour>
+      <point x="391" y="-89" type="curve" smooth="yes"/>
+      <point x="391" y="-192" type="line" smooth="yes"/>
+      <point x="391" y="-210"/>
+      <point x="376" y="-225"/>
+      <point x="358" y="-225" type="curve" smooth="yes"/>
+      <point x="340" y="-225"/>
+      <point x="325" y="-210"/>
+      <point x="325" y="-192" type="curve" smooth="yes"/>
+      <point x="325" y="-89" type="line" smooth="yes"/>
+      <point x="325" y="-71"/>
+      <point x="340" y="-56"/>
+      <point x="358" y="-56" type="curve" smooth="yes"/>
+      <point x="376" y="-56"/>
+      <point x="391" y="-71"/>
+    </contour>
+    <component base="knDa"/>
+    <component base="knDA"/>
+    <component base="knDa"/>
+    <component base="knDA"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>87</integer>
+          <key>y</key>
+          <integer>491</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>1104</integer>
+          <key>y</key>
+          <integer>48</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>189</integer>
+          <key>y</key>
+          <integer>172</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <real>90.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>x</key>
+          <integer>358</integer>
+          <key>y</key>
+          <integer>266</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>knTHA</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>721</integer>
+        </dict>
+        <key>wire</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>knTHA</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>721</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
