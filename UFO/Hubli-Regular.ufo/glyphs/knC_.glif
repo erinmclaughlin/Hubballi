@@ -2,43 +2,8 @@
 <glyph name="knC" format="1">
   <advance width="1217"/>
   <outline>
-    <contour>
-      <point x="565" y="469" type="line"/>
-      <point x="994" y="469" type="line" smooth="yes"/>
-      <point x="1054" y="469"/>
-      <point x="1077" y="449"/>
-      <point x="1077" y="419" type="curve" smooth="yes"/>
-      <point x="1077" y="395"/>
-      <point x="1060" y="379"/>
-      <point x="1030" y="379" type="curve" smooth="yes"/>
-      <point x="981" y="379"/>
-      <point x="952" y="421"/>
-      <point x="952" y="479" type="curve" smooth="yes"/>
-      <point x="952" y="556"/>
-      <point x="991" y="619"/>
-      <point x="1090" y="619" type="curve" smooth="yes"/>
-      <point x="1116" y="619"/>
-      <point x="1144" y="614"/>
-      <point x="1174" y="603" type="curve"/>
-      <point x="1174" y="717" type="line"/>
-      <point x="1146" y="725"/>
-      <point x="1117" y="729"/>
-      <point x="1089" y="729" type="curve" smooth="yes"/>
-      <point x="945" y="729"/>
-      <point x="844" y="624"/>
-      <point x="844" y="480" type="curve" smooth="yes"/>
-      <point x="844" y="357"/>
-      <point x="917" y="270"/>
-      <point x="1033" y="270" type="curve" smooth="yes"/>
-      <point x="1130" y="270"/>
-      <point x="1197" y="332"/>
-      <point x="1197" y="423" type="curve" smooth="yes"/>
-      <point x="1197" y="510"/>
-      <point x="1142" y="576"/>
-      <point x="1016" y="576" type="curve" smooth="yes"/>
-      <point x="565" y="576" type="line"/>
-    </contour>
     <component base="knCA.base" xOffset="5"/>
+    <component base="knVirama" xOffset="830"/>
   </outline>
   <lib>
     <dict>

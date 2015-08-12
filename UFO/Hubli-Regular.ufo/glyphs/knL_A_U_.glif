@@ -2,57 +2,8 @@
 <glyph name="knLAU" format="1">
   <advance width="1223"/>
   <outline>
-    <contour>
-      <point x="634" y="464" type="line" smooth="yes"/>
-      <point x="755" y="464"/>
-      <point x="803" y="531"/>
-      <point x="803" y="630" type="curve" smooth="yes"/>
-      <point x="803" y="674" type="line"/>
-      <point x="671" y="675" type="line"/>
-      <point x="671" y="638" type="line" smooth="yes"/>
-      <point x="671" y="597"/>
-      <point x="651" y="576"/>
-      <point x="600" y="576" type="curve" smooth="yes"/>
-      <point x="530" y="576" type="line"/>
-      <point x="530" y="464" type="line"/>
-    </contour>
-    <contour>
-      <point x="1123" y="280"/>
-      <point x="1203" y="374"/>
-      <point x="1203" y="507" type="curve" smooth="yes"/>
-      <point x="1203" y="657"/>
-      <point x="1107" y="773"/>
-      <point x="925" y="773" type="curve" smooth="yes"/>
-      <point x="540" y="773" type="line"/>
-      <point x="540" y="661" type="line"/>
-      <point x="908" y="661" type="line" smooth="yes"/>
-      <point x="1025" y="661"/>
-      <point x="1077" y="597"/>
-      <point x="1077" y="501" type="curve" smooth="yes"/>
-      <point x="1077" y="436"/>
-      <point x="1051" y="386"/>
-      <point x="1003" y="386" type="curve" smooth="yes"/>
-      <point x="977" y="386"/>
-      <point x="962" y="401"/>
-      <point x="962" y="423" type="curve" smooth="yes"/>
-      <point x="962" y="448"/>
-      <point x="980" y="463"/>
-      <point x="1004" y="463" type="curve" smooth="yes"/>
-      <point x="1010" y="463"/>
-      <point x="1018" y="463"/>
-      <point x="1024" y="461" type="curve"/>
-      <point x="1024" y="555" type="line"/>
-      <point x="1010" y="558"/>
-      <point x="994" y="559"/>
-      <point x="981" y="559" type="curve" smooth="yes"/>
-      <point x="900" y="559"/>
-      <point x="844" y="497"/>
-      <point x="844" y="422" type="curve" smooth="yes"/>
-      <point x="844" y="336"/>
-      <point x="905" y="280"/>
-      <point x="1002" y="280" type="curve" smooth="yes"/>
-    </contour>
-    <component base="knLA"/>
+    <component base="knmAU" xOffset="733"/>
+    <component base="knLA.base"/>
   </outline>
   <lib>
     <dict>

@@ -2,43 +2,8 @@
 <glyph name="knRR" format="1">
   <advance width="1252"/>
   <outline>
-    <contour>
-      <point x="660" y="464" type="line"/>
-      <point x="1029" y="464" type="line" smooth="yes"/>
-      <point x="1089" y="464"/>
-      <point x="1112" y="449"/>
-      <point x="1112" y="419" type="curve" smooth="yes"/>
-      <point x="1112" y="395"/>
-      <point x="1095" y="379"/>
-      <point x="1065" y="379" type="curve" smooth="yes"/>
-      <point x="1016" y="379"/>
-      <point x="987" y="421"/>
-      <point x="987" y="479" type="curve" smooth="yes"/>
-      <point x="987" y="556"/>
-      <point x="1026" y="619"/>
-      <point x="1125" y="619" type="curve" smooth="yes"/>
-      <point x="1151" y="619"/>
-      <point x="1179" y="614"/>
-      <point x="1209" y="603" type="curve"/>
-      <point x="1209" y="717" type="line"/>
-      <point x="1181" y="725"/>
-      <point x="1152" y="729"/>
-      <point x="1124" y="729" type="curve" smooth="yes"/>
-      <point x="980" y="729"/>
-      <point x="879" y="624"/>
-      <point x="879" y="480" type="curve" smooth="yes"/>
-      <point x="879" y="357"/>
-      <point x="952" y="270"/>
-      <point x="1068" y="270" type="curve" smooth="yes"/>
-      <point x="1165" y="270"/>
-      <point x="1232" y="332"/>
-      <point x="1232" y="423" type="curve" smooth="yes"/>
-      <point x="1232" y="510"/>
-      <point x="1177" y="576"/>
-      <point x="1051" y="576" type="curve" smooth="yes"/>
-      <point x="660" y="576" type="line"/>
-    </contour>
     <component base="knRRA"/>
+    <component base="knVirama" xOffset="809"/>
   </outline>
   <lib>
     <dict>

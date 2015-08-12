@@ -2,55 +2,8 @@
 <glyph name="knNGAU" format="1">
   <advance width="1233"/>
   <outline>
-    <contour>
-      <point x="644" y="504" type="line"/>
-      <point x="765" y="504"/>
-      <point x="813" y="551"/>
-      <point x="813" y="640" type="curve" smooth="yes"/>
-      <point x="813" y="684" type="line"/>
-      <point x="681" y="685" type="line"/>
-      <point x="681" y="648" type="line" smooth="yes"/>
-      <point x="681" y="607"/>
-      <point x="661" y="586"/>
-      <point x="610" y="586" type="curve"/>
-    </contour>
-    <contour>
-      <point x="1133" y="280"/>
-      <point x="1213" y="374"/>
-      <point x="1213" y="507" type="curve" smooth="yes"/>
-      <point x="1213" y="657"/>
-      <point x="1117" y="773"/>
-      <point x="935" y="773" type="curve" smooth="yes"/>
-      <point x="550" y="773" type="line"/>
-      <point x="550" y="661" type="line"/>
-      <point x="918" y="661" type="line" smooth="yes"/>
-      <point x="1035" y="661"/>
-      <point x="1087" y="597"/>
-      <point x="1087" y="501" type="curve" smooth="yes"/>
-      <point x="1087" y="436"/>
-      <point x="1061" y="386"/>
-      <point x="1013" y="386" type="curve" smooth="yes"/>
-      <point x="987" y="386"/>
-      <point x="972" y="401"/>
-      <point x="972" y="423" type="curve" smooth="yes"/>
-      <point x="972" y="448"/>
-      <point x="990" y="463"/>
-      <point x="1014" y="463" type="curve" smooth="yes"/>
-      <point x="1020" y="463"/>
-      <point x="1028" y="463"/>
-      <point x="1034" y="461" type="curve"/>
-      <point x="1034" y="555" type="line"/>
-      <point x="1020" y="558"/>
-      <point x="1004" y="559"/>
-      <point x="991" y="559" type="curve" smooth="yes"/>
-      <point x="910" y="559"/>
-      <point x="854" y="497"/>
-      <point x="854" y="422" type="curve" smooth="yes"/>
-      <point x="854" y="336"/>
-      <point x="915" y="280"/>
-      <point x="1012" y="280" type="curve" smooth="yes"/>
-    </contour>
     <component base="knNGA"/>
+    <component base="knmAU" xOffset="770"/>
   </outline>
   <lib>
     <dict>
