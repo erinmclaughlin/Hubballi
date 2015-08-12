@@ -2,58 +2,8 @@
 <glyph name="knLLUU" format="1">
   <advance width="1381"/>
   <outline>
-    <contour>
-      <point x="898" y="-12"/>
-      <point x="868" y="471"/>
-      <point x="1068" y="471" type="curve" smooth="yes"/>
-      <point x="1160" y="471"/>
-      <point x="1193" y="386"/>
-      <point x="1193" y="277" type="curve" smooth="yes"/>
-      <point x="1193" y="249"/>
-      <point x="1190" y="226"/>
-      <point x="1185" y="202" type="curve"/>
-      <point x="1210" y="210" type="line"/>
-      <point x="1209" y="276"/>
-      <point x="1159" y="314"/>
-      <point x="1089" y="314" type="curve" smooth="yes"/>
-      <point x="997" y="314"/>
-      <point x="941" y="243"/>
-      <point x="941" y="152" type="curve" smooth="yes"/>
-      <point x="941" y="65"/>
-      <point x="1009" y="-10"/>
-      <point x="1121" y="-10" type="curve" smooth="yes"/>
-      <point x="1266" y="-10"/>
-      <point x="1341" y="117"/>
-      <point x="1341" y="271" type="curve" smooth="yes"/>
-      <point x="1341" y="440"/>
-      <point x="1264" y="586"/>
-      <point x="1067" y="586" type="curve" smooth="yes"/>
-      <point x="736" y="586"/>
-      <point x="764" y="103"/>
-      <point x="633" y="103" type="curve" smooth="yes"/>
-      <point x="595" y="103"/>
-      <point x="570" y="130"/>
-      <point x="570" y="168" type="curve"/>
-      <point x="484" y="191" type="line"/>
-      <point x="484" y="67"/>
-      <point x="536" y="-12"/>
-      <point x="651" y="-12" type="curve"/>
-    </contour>
-    <contour>
-      <point x="1088" y="102"/>
-      <point x="1068" y="126"/>
-      <point x="1068" y="158" type="curve" smooth="yes"/>
-      <point x="1068" y="189"/>
-      <point x="1086" y="216"/>
-      <point x="1121" y="216" type="curve" smooth="yes"/>
-      <point x="1158" y="216"/>
-      <point x="1177" y="191"/>
-      <point x="1177" y="160" type="curve" smooth="yes"/>
-      <point x="1177" y="129"/>
-      <point x="1158" y="102"/>
-      <point x="1124" y="102" type="curve" smooth="yes"/>
-    </contour>
     <component base="knLLA"/>
+    <component base="knmUU" xOffset="630"/>
   </outline>
   <lib>
     <dict>
