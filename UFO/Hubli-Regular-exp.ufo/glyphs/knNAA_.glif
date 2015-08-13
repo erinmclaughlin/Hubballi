@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="knNAA" format="1">
-  <advance width="1253"/>
+  <advance width="1003"/>
   <outline>
-    <component base="knNA.base" xOffset="-5"/>
-    <component base="knmAA" xOffset="602"/>
-    <component base="knNA.base" xOffset="-5"/>
-    <component base="knmAA" xOffset="602"/>
+    <component base="knNA.base"/>
+    <component base="knmAA" xOffset="654"/>
+    <component base="knNA.base"/>
+    <component base="knmAA" xOffset="654"/>
   </outline>
   <lib>
     <dict>
@@ -31,7 +31,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1253</integer>
+          <integer>1003</integer>
         </dict>
         <key>wire</key>
         <dict>
@@ -53,9 +53,16 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1253</integer>
+          <integer>1003</integer>
         </dict>
       </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.794</real>
+        <real>0.975</real>
+        <real>0.8356</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>
