@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="knBA.base" format="1">
-  <advance width="725"/>
+  <advance width="708"/>
   <outline>
     <contour>
       <point x="426" y="437" type="move"/>
@@ -32,10 +32,10 @@
       <point x="523" y="27" type="curve" smooth="yes"/>
       <point x="591" y="27"/>
       <point x="644" y="80"/>
-      <point x="644" y="172" type="curve" smooth="yes"/>
+      <point x="644" y="172" type="curve"/>
       <point x="644" y="269"/>
-      <point x="584" y="373"/>
-      <point x="499" y="437" type="curve"/>
+      <point x="580" y="373"/>
+      <point x="485" y="437" type="curve"/>
     </contour>
   </outline>
   <lib>
@@ -64,7 +64,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>725</integer>
+          <integer>708</integer>
         </dict>
         <key>wire</key>
         <dict>
@@ -86,7 +86,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>725</integer>
+          <integer>708</integer>
         </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>
