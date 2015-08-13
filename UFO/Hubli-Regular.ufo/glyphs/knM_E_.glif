@@ -2,8 +2,45 @@
 <glyph name="knME" format="1">
   <advance width="991"/>
   <outline>
-    <component base="knMA.base"/>
-    <component base="knmE" xOffset="687"/>
+    <contour>
+      <point x="98" y="437" type="move"/>
+      <point x="483" y="437" type="line" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="194" y="225" type="move"/>
+      <point x="129" y="225"/>
+      <point x="85" y="173"/>
+      <point x="85" y="125" type="curve" smooth="yes"/>
+      <point x="85" y="72"/>
+      <point x="128" y="27"/>
+      <point x="196" y="27" type="curve" smooth="yes"/>
+      <point x="272" y="27"/>
+      <point x="316" y="59"/>
+      <point x="353" y="128" type="curve"/>
+      <point x="358" y="128" type="line"/>
+      <point x="400" y="63"/>
+      <point x="440" y="27"/>
+      <point x="508" y="27" type="curve" smooth="yes"/>
+      <point x="574" y="27"/>
+      <point x="634" y="78"/>
+      <point x="634" y="158" type="curve" smooth="yes"/>
+      <point x="634" y="256"/>
+      <point x="565" y="362"/>
+      <point x="399" y="434" type="curve"/>
+    </contour>
+    <contour>
+      <point x="635" y="160" type="move"/>
+      <point x="686" y="63"/>
+      <point x="743" y="27"/>
+      <point x="809" y="27" type="curve"/>
+      <point x="880" y="27"/>
+      <point x="924" y="81"/>
+      <point x="924" y="167" type="curve" smooth="yes"/>
+      <point x="924" y="258"/>
+      <point x="883" y="351"/>
+      <point x="815" y="416" type="curve"/>
+    </contour>
+    <component base="knmE" xOffset="690"/>
   </outline>
   <lib>
     <dict>
