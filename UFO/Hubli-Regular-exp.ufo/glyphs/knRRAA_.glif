@@ -2,106 +2,10 @@
 <glyph name="knRRAA" format="1">
   <advance width="1313"/>
   <outline>
-    <contour>
-      <point x="1306" y="254" type="curve" smooth="yes"/>
-      <point x="1306" y="93"/>
-      <point x="1223" y="-43"/>
-      <point x="1068" y="-43" type="curve" smooth="yes"/>
-      <point x="923" y="-43"/>
-      <point x="850" y="55"/>
-      <point x="850" y="155" type="curve" smooth="yes"/>
-      <point x="850" y="266"/>
-      <point x="924" y="347"/>
-      <point x="1031" y="347" type="curve" smooth="yes"/>
-      <point x="1120" y="347"/>
-      <point x="1181" y="297"/>
-      <point x="1185" y="211" type="curve" smooth="yes"/>
-      <point x="1186" y="198"/>
-      <point x="1175" y="183"/>
-      <point x="1162" y="179" type="curve" smooth="yes"/>
-      <point x="1137" y="171" type="line" smooth="yes"/>
-      <point x="1107" y="161"/>
-      <point x="1088" y="178"/>
-      <point x="1095" y="209" type="curve" smooth="yes"/>
-      <point x="1099" y="230"/>
-      <point x="1102" y="251"/>
-      <point x="1102" y="271" type="curve" smooth="yes"/>
-      <point x="1102" y="370"/>
-      <point x="1031" y="431"/>
-      <point x="917" y="431" type="curve" smooth="yes"/>
-      <point x="670" y="431" type="line" smooth="yes"/>
-      <point x="652" y="431"/>
-      <point x="637" y="446"/>
-      <point x="637" y="464" type="curve" smooth="yes"/>
-      <point x="637" y="576" type="line" smooth="yes"/>
-      <point x="637" y="594"/>
-      <point x="652" y="609"/>
-      <point x="670" y="609" type="curve" smooth="yes"/>
-      <point x="955" y="609" type="line" smooth="yes"/>
-      <point x="1194" y="609"/>
-      <point x="1306" y="447"/>
-    </contour>
-    <contour>
-      <point x="1043" y="158" type="curve" smooth="yes"/>
-      <point x="1043" y="145"/>
-      <point x="1051" y="135"/>
-      <point x="1066" y="135" type="curve" smooth="yes"/>
-      <point x="1081" y="135"/>
-      <point x="1086" y="148"/>
-      <point x="1086" y="160" type="curve" smooth="yes"/>
-      <point x="1086" y="173"/>
-      <point x="1078" y="183"/>
-      <point x="1063" y="183" type="curve" smooth="yes"/>
-      <point x="1048" y="183"/>
-      <point x="1043" y="170"/>
-    </contour>
-    <contour>
-      <point x="1240" y="254" type="curve" smooth="yes"/>
-      <point x="1240" y="411"/>
-      <point x="1150" y="543"/>
-      <point x="955" y="543" type="curve" smooth="yes"/>
-      <point x="670" y="543" type="line"/>
-      <point x="703" y="576" type="line"/>
-      <point x="703" y="464" type="line"/>
-      <point x="670" y="497" type="line"/>
-      <point x="917" y="497" type="line" smooth="yes"/>
-      <point x="1079" y="497"/>
-      <point x="1168" y="406"/>
-      <point x="1168" y="271" type="curve" smooth="yes"/>
-      <point x="1168" y="247"/>
-      <point x="1165" y="222"/>
-      <point x="1159" y="195" type="curve"/>
-      <point x="1117" y="233" type="line"/>
-      <point x="1142" y="241" type="line"/>
-      <point x="1119" y="209" type="line"/>
-      <point x="1117" y="257"/>
-      <point x="1078" y="281"/>
-      <point x="1031" y="281" type="curve" smooth="yes"/>
-      <point x="960" y="281"/>
-      <point x="916" y="226"/>
-      <point x="916" y="155" type="curve" smooth="yes"/>
-      <point x="916" y="85"/>
-      <point x="971" y="23"/>
-      <point x="1068" y="23" type="curve" smooth="yes"/>
-      <point x="1189" y="23"/>
-      <point x="1240" y="137"/>
-    </contour>
-    <contour>
-      <point x="977" y="158" type="curve" smooth="yes"/>
-      <point x="977" y="208"/>
-      <point x="1008" y="249"/>
-      <point x="1063" y="249" type="curve" smooth="yes"/>
-      <point x="1122" y="249"/>
-      <point x="1152" y="209"/>
-      <point x="1152" y="160" type="curve" smooth="yes"/>
-      <point x="1152" y="110"/>
-      <point x="1119" y="69"/>
-      <point x="1066" y="69" type="curve" smooth="yes"/>
-      <point x="1009" y="69"/>
-      <point x="977" y="107"/>
-    </contour>
     <component base="knRRA"/>
+    <component base="knmAA" xOffset="747"/>
     <component base="knRRA"/>
+    <component base="knmAA" xOffset="747"/>
   </outline>
   <lib>
     <dict>

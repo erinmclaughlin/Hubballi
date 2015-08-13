@@ -2,96 +2,10 @@
 <glyph name="knLLL" format="1">
   <advance width="1282"/>
   <outline>
-    <contour>
-      <point x="690" y="431" type="line" smooth="yes"/>
-      <point x="672" y="431"/>
-      <point x="657" y="446"/>
-      <point x="657" y="464" type="curve" smooth="yes"/>
-      <point x="657" y="576" type="line" smooth="yes"/>
-      <point x="657" y="594"/>
-      <point x="672" y="609"/>
-      <point x="690" y="609" type="curve" smooth="yes"/>
-      <point x="1081" y="609" type="line" smooth="yes"/>
-      <point x="1234" y="609"/>
-      <point x="1295" y="526"/>
-      <point x="1295" y="423" type="curve" smooth="yes"/>
-      <point x="1295" y="314"/>
-      <point x="1216" y="237"/>
-      <point x="1098" y="237" type="curve" smooth="yes"/>
-      <point x="964" y="237"/>
-      <point x="876" y="336"/>
-      <point x="876" y="480" type="curve" smooth="yes"/>
-      <point x="876" y="643"/>
-      <point x="991" y="762"/>
-      <point x="1154" y="762" type="curve" smooth="yes"/>
-      <point x="1185" y="762"/>
-      <point x="1217" y="758"/>
-      <point x="1248" y="749" type="curve" smooth="yes"/>
-      <point x="1261" y="745"/>
-      <point x="1272" y="731"/>
-      <point x="1272" y="717" type="curve" smooth="yes"/>
-      <point x="1272" y="603" type="line" smooth="yes"/>
-      <point x="1272" y="577"/>
-      <point x="1252" y="563"/>
-      <point x="1228" y="572" type="curve" smooth="yes"/>
-      <point x="1202" y="582"/>
-      <point x="1177" y="586"/>
-      <point x="1155" y="586" type="curve" smooth="yes"/>
-      <point x="1079" y="586"/>
-      <point x="1050" y="538"/>
-      <point x="1050" y="479" type="curve" smooth="yes"/>
-      <point x="1050" y="446"/>
-      <point x="1062" y="412"/>
-      <point x="1095" y="412" type="curve" smooth="yes"/>
-      <point x="1100" y="412"/>
-      <point x="1109" y="412"/>
-      <point x="1109" y="419" type="curve" smooth="yes"/>
-      <point x="1109" y="437"/>
-      <point x="1075" y="431"/>
-      <point x="1059" y="431" type="curve" smooth="yes"/>
-    </contour>
-    <contour>
-      <point x="690" y="497" type="line"/>
-      <point x="1059" y="497" type="line" smooth="yes"/>
-      <point x="1163" y="497"/>
-      <point x="1175" y="461"/>
-      <point x="1175" y="419" type="curve" smooth="yes"/>
-      <point x="1175" y="378"/>
-      <point x="1150" y="346"/>
-      <point x="1095" y="346" type="curve" smooth="yes"/>
-      <point x="1030" y="346"/>
-      <point x="984" y="396"/>
-      <point x="984" y="479" type="curve" smooth="yes"/>
-      <point x="984" y="574"/>
-      <point x="1033" y="652"/>
-      <point x="1155" y="652" type="curve" smooth="yes"/>
-      <point x="1185" y="652"/>
-      <point x="1216" y="646"/>
-      <point x="1250" y="634" type="curve"/>
-      <point x="1206" y="603" type="line"/>
-      <point x="1206" y="717" type="line"/>
-      <point x="1230" y="685" type="line"/>
-      <point x="1205" y="692"/>
-      <point x="1179" y="696"/>
-      <point x="1154" y="696" type="curve" smooth="yes"/>
-      <point x="1029" y="696"/>
-      <point x="942" y="605"/>
-      <point x="942" y="480" type="curve" smooth="yes"/>
-      <point x="942" y="378"/>
-      <point x="1000" y="303"/>
-      <point x="1098" y="303" type="curve" smooth="yes"/>
-      <point x="1174" y="303"/>
-      <point x="1229" y="350"/>
-      <point x="1229" y="423" type="curve" smooth="yes"/>
-      <point x="1229" y="494"/>
-      <point x="1180" y="543"/>
-      <point x="1081" y="543" type="curve" smooth="yes"/>
-      <point x="690" y="543" type="line"/>
-      <point x="723" y="576" type="line"/>
-      <point x="723" y="464" type="line"/>
-    </contour>
     <component base="knLLLA"/>
+    <component base="knVirama" xOffset="808"/>
     <component base="knLLLA"/>
+    <component base="knVirama" xOffset="808"/>
   </outline>
   <lib>
     <dict>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="knJHA.base" format="1">
-  <advance width="1192"/>
+  <advance width="1228"/>
   <outline>
     <contour>
-      <point x="929" y="437" type="move"/>
-      <point x="990" y="437" type="line"/>
+      <point x="959" y="437" type="move"/>
+      <point x="1020" y="437" type="line"/>
     </contour>
     <component base="knJHA"/>
   </outline>
@@ -34,7 +34,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1192</integer>
+          <integer>1228</integer>
         </dict>
         <key>wire</key>
         <dict>
@@ -56,9 +56,16 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1192</integer>
+          <integer>1228</integer>
         </dict>
       </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6312</real>
+        <real>1.0</real>
+        <real>0.9947</real>
+        <real>1.0</real>
+      </array>
       <key>public.markColor</key>
       <string>0.25,0.25,0.25,1</string>
     </dict>

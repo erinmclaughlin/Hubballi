@@ -2,6 +2,10 @@
 <glyph name="knLLLA.base" format="1">
   <advance width="753"/>
   <outline>
+    <contour>
+      <point x="603" y="437" type="move"/>
+      <point x="675" y="437" type="line"/>
+    </contour>
     <component base="knLLLA"/>
   </outline>
   <lib>
@@ -55,6 +59,13 @@
           <integer>753</integer>
         </dict>
       </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6312</real>
+        <real>1.0</real>
+        <real>0.9947</real>
+        <real>1.0</real>
+      </array>
       <key>public.markColor</key>
       <string>0.25,0.25,0.25,1</string>
     </dict>

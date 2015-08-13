@@ -2,7 +2,11 @@
 <glyph name="knNNA.base" format="1">
   <advance width="760"/>
   <outline>
-    <component base="knNNA"/>
+    <contour>
+      <point x="142" y="437" type="move"/>
+      <point x="557" y="437" type="line"/>
+    </contour>
+    <component base="knNNA" yScale="0.77358490566" yOffset="5"/>
   </outline>
   <lib>
     <dict>
@@ -55,6 +59,13 @@
           <integer>760</integer>
         </dict>
       </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6312</real>
+        <real>1.0</real>
+        <real>0.9947</real>
+        <real>1.0</real>
+      </array>
       <key>public.markColor</key>
       <string>0.25,0.25,0.25,1</string>
     </dict>

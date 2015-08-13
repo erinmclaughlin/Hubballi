@@ -1,97 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="knY" format="1">
-  <advance width="1632"/>
+  <advance width="1163"/>
   <outline>
-    <contour>
-      <point x="938" y="431" type="line" smooth="yes"/>
-      <point x="920" y="431"/>
-      <point x="905" y="446"/>
-      <point x="905" y="464" type="curve" smooth="yes"/>
-      <point x="905" y="576" type="line" smooth="yes"/>
-      <point x="905" y="594"/>
-      <point x="920" y="609"/>
-      <point x="938" y="609" type="curve" smooth="yes"/>
-      <point x="1431" y="609" type="line" smooth="yes"/>
-      <point x="1584" y="609"/>
-      <point x="1645" y="526"/>
-      <point x="1645" y="423" type="curve" smooth="yes"/>
-      <point x="1645" y="314"/>
-      <point x="1566" y="237"/>
-      <point x="1448" y="237" type="curve" smooth="yes"/>
-      <point x="1314" y="237"/>
-      <point x="1226" y="336"/>
-      <point x="1226" y="480" type="curve" smooth="yes"/>
-      <point x="1226" y="643"/>
-      <point x="1341" y="762"/>
-      <point x="1504" y="762" type="curve" smooth="yes"/>
-      <point x="1535" y="762"/>
-      <point x="1567" y="758"/>
-      <point x="1598" y="749" type="curve" smooth="yes"/>
-      <point x="1611" y="745"/>
-      <point x="1622" y="731"/>
-      <point x="1622" y="717" type="curve" smooth="yes"/>
-      <point x="1622" y="603" type="line" smooth="yes"/>
-      <point x="1622" y="577"/>
-      <point x="1602" y="563"/>
-      <point x="1578" y="572" type="curve" smooth="yes"/>
-      <point x="1552" y="582"/>
-      <point x="1527" y="586"/>
-      <point x="1505" y="586" type="curve" smooth="yes"/>
-      <point x="1429" y="586"/>
-      <point x="1400" y="538"/>
-      <point x="1400" y="479" type="curve" smooth="yes"/>
-      <point x="1400" y="446"/>
-      <point x="1412" y="412"/>
-      <point x="1445" y="412" type="curve" smooth="yes"/>
-      <point x="1450" y="412"/>
-      <point x="1459" y="412"/>
-      <point x="1459" y="419" type="curve" smooth="yes"/>
-      <point x="1459" y="437"/>
-      <point x="1425" y="431"/>
-      <point x="1409" y="431" type="curve" smooth="yes"/>
-    </contour>
-    <contour>
-      <point x="938" y="497" type="line"/>
-      <point x="1409" y="497" type="line" smooth="yes"/>
-      <point x="1513" y="497"/>
-      <point x="1525" y="461"/>
-      <point x="1525" y="419" type="curve" smooth="yes"/>
-      <point x="1525" y="378"/>
-      <point x="1500" y="346"/>
-      <point x="1445" y="346" type="curve" smooth="yes"/>
-      <point x="1380" y="346"/>
-      <point x="1334" y="396"/>
-      <point x="1334" y="479" type="curve" smooth="yes"/>
-      <point x="1334" y="574"/>
-      <point x="1383" y="652"/>
-      <point x="1505" y="652" type="curve" smooth="yes"/>
-      <point x="1535" y="652"/>
-      <point x="1566" y="646"/>
-      <point x="1600" y="634" type="curve"/>
-      <point x="1556" y="603" type="line"/>
-      <point x="1556" y="717" type="line"/>
-      <point x="1580" y="685" type="line"/>
-      <point x="1555" y="692"/>
-      <point x="1529" y="696"/>
-      <point x="1504" y="696" type="curve" smooth="yes"/>
-      <point x="1379" y="696"/>
-      <point x="1292" y="605"/>
-      <point x="1292" y="480" type="curve" smooth="yes"/>
-      <point x="1292" y="378"/>
-      <point x="1350" y="303"/>
-      <point x="1448" y="303" type="curve" smooth="yes"/>
-      <point x="1524" y="303"/>
-      <point x="1579" y="350"/>
-      <point x="1579" y="423" type="curve" smooth="yes"/>
-      <point x="1579" y="494"/>
-      <point x="1530" y="543"/>
-      <point x="1431" y="543" type="curve" smooth="yes"/>
-      <point x="938" y="543" type="line"/>
-      <point x="971" y="576" type="line"/>
-      <point x="971" y="464" type="line"/>
-    </contour>
-    <component base="knYA"/>
-    <component base="knYA"/>
+    <component base="knYA.base"/>
+    <component base="knVirama" xOffset="1188"/>
+    <component base="knYA.base"/>
+    <component base="knVirama" xOffset="1188"/>
   </outline>
   <lib>
     <dict>
@@ -117,7 +31,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1632</integer>
+          <integer>1163</integer>
         </dict>
         <key>wire</key>
         <dict>
@@ -139,7 +53,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1632</integer>
+          <integer>1163</integer>
         </dict>
       </dict>
     </dict>

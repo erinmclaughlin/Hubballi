@@ -1,107 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="knSHAA" format="1">
-  <advance width="1163"/>
+  <advance width="982"/>
   <outline>
-    <contour>
-      <point x="1156" y="254" type="curve" smooth="yes"/>
-      <point x="1156" y="93"/>
-      <point x="1073" y="-43"/>
-      <point x="918" y="-43" type="curve" smooth="yes"/>
-      <point x="773" y="-43"/>
-      <point x="700" y="55"/>
-      <point x="700" y="155" type="curve" smooth="yes"/>
-      <point x="700" y="266"/>
-      <point x="774" y="347"/>
-      <point x="881" y="347" type="curve" smooth="yes"/>
-      <point x="970" y="347"/>
-      <point x="1031" y="297"/>
-      <point x="1035" y="211" type="curve" smooth="yes"/>
-      <point x="1036" y="198"/>
-      <point x="1025" y="183"/>
-      <point x="1012" y="179" type="curve" smooth="yes"/>
-      <point x="987" y="171" type="line" smooth="yes"/>
-      <point x="957" y="161"/>
-      <point x="938" y="178"/>
-      <point x="945" y="209" type="curve" smooth="yes"/>
-      <point x="949" y="230"/>
-      <point x="952" y="251"/>
-      <point x="952" y="271" type="curve" smooth="yes"/>
-      <point x="952" y="370"/>
-      <point x="881" y="431"/>
-      <point x="767" y="431" type="curve" smooth="yes"/>
-      <point x="500" y="431" type="line" smooth="yes"/>
-      <point x="482" y="431"/>
-      <point x="467" y="446"/>
-      <point x="467" y="464" type="curve" smooth="yes"/>
-      <point x="467" y="576" type="line" smooth="yes"/>
-      <point x="467" y="594"/>
-      <point x="482" y="609"/>
-      <point x="500" y="609" type="curve" smooth="yes"/>
-      <point x="805" y="609" type="line" smooth="yes"/>
-      <point x="1044" y="609"/>
-      <point x="1156" y="447"/>
-    </contour>
-    <contour>
-      <point x="893" y="158" type="curve" smooth="yes"/>
-      <point x="893" y="145"/>
-      <point x="901" y="135"/>
-      <point x="916" y="135" type="curve" smooth="yes"/>
-      <point x="931" y="135"/>
-      <point x="936" y="148"/>
-      <point x="936" y="160" type="curve" smooth="yes"/>
-      <point x="936" y="173"/>
-      <point x="928" y="183"/>
-      <point x="913" y="183" type="curve" smooth="yes"/>
-      <point x="898" y="183"/>
-      <point x="893" y="170"/>
-    </contour>
-    <contour>
-      <point x="1090" y="254" type="curve" smooth="yes"/>
-      <point x="1090" y="411"/>
-      <point x="1000" y="543"/>
-      <point x="805" y="543" type="curve" smooth="yes"/>
-      <point x="500" y="543" type="line"/>
-      <point x="533" y="576" type="line"/>
-      <point x="533" y="464" type="line"/>
-      <point x="500" y="497" type="line"/>
-      <point x="767" y="497" type="line" smooth="yes"/>
-      <point x="929" y="497"/>
-      <point x="1018" y="406"/>
-      <point x="1018" y="271" type="curve" smooth="yes"/>
-      <point x="1018" y="247"/>
-      <point x="1015" y="222"/>
-      <point x="1009" y="195" type="curve"/>
-      <point x="967" y="233" type="line"/>
-      <point x="992" y="241" type="line"/>
-      <point x="969" y="209" type="line"/>
-      <point x="967" y="257"/>
-      <point x="928" y="281"/>
-      <point x="881" y="281" type="curve" smooth="yes"/>
-      <point x="810" y="281"/>
-      <point x="766" y="226"/>
-      <point x="766" y="155" type="curve" smooth="yes"/>
-      <point x="766" y="85"/>
-      <point x="821" y="23"/>
-      <point x="918" y="23" type="curve" smooth="yes"/>
-      <point x="1039" y="23"/>
-      <point x="1090" y="137"/>
-    </contour>
-    <contour>
-      <point x="827" y="158" type="curve" smooth="yes"/>
-      <point x="827" y="208"/>
-      <point x="858" y="249"/>
-      <point x="913" y="249" type="curve" smooth="yes"/>
-      <point x="972" y="249"/>
-      <point x="1002" y="209"/>
-      <point x="1002" y="160" type="curve" smooth="yes"/>
-      <point x="1002" y="110"/>
-      <point x="969" y="69"/>
-      <point x="916" y="69" type="curve" smooth="yes"/>
-      <point x="859" y="69"/>
-      <point x="827" y="107"/>
-    </contour>
     <component base="knSHA.base" xOffset="-15"/>
+    <component base="knmAA" xOffset="603"/>
     <component base="knSHA.base" xOffset="-15"/>
+    <component base="knmAA" xOffset="603"/>
   </outline>
   <lib>
     <dict>
@@ -127,7 +31,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1163</integer>
+          <integer>982</integer>
         </dict>
         <key>wire</key>
         <dict>
@@ -149,7 +53,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1163</integer>
+          <integer>982</integer>
         </dict>
       </dict>
     </dict>
