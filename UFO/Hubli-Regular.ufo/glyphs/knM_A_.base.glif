@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="knMA.base" format="1">
-  <advance width="991"/>
+  <advance width="983"/>
   <outline>
     <contour>
       <point x="726" y="437" type="move"/>
@@ -34,7 +34,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>991</integer>
+          <integer>983</integer>
         </dict>
         <key>wire</key>
         <dict>
@@ -56,9 +56,16 @@
           <array>
           </array>
           <key>width</key>
-          <integer>991</integer>
+          <integer>983</integer>
         </dict>
       </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6312</real>
+        <real>1.0</real>
+        <real>0.9947</real>
+        <real>1.0</real>
+      </array>
       <key>public.markColor</key>
       <string>0.25,0.25,0.25,1</string>
     </dict>

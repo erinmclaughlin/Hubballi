@@ -4,7 +4,7 @@
   <unicode hex="0CBE"/>
   <outline>
     <contour>
-      <point x="-160" y="437" type="move"/>
+      <point x="-180" y="437" type="move"/>
       <point x="13" y="437" type="line" smooth="yes"/>
       <point x="159" y="437"/>
       <point x="264" y="341"/>
@@ -85,9 +85,9 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <real>-353.0</real>
+                  <integer>-160</integer>
                   <key>y</key>
-                  <real>437.0</real>
+                  <integer>437</integer>
                 </dict>
                 <dict>
                   <key>segmentType</key>
@@ -244,6 +244,13 @@
           <integer>349</integer>
         </dict>
       </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.7255</real>
+        <real>0.7149</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>

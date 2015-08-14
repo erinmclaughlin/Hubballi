@@ -1,11 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="knVE" format="1">
+<<<<<<< HEAD
   <advance width="703"/>
   <outline>
     <component base="knVA.base"/>
     <component base="knmE" xOffset="692"/>
     <component base="knVA.base"/>
     <component base="knmE" xOffset="692"/>
+=======
+  <advance width="682"/>
+  <outline>
+    <component base="knVA.base"/>
+    <component base="knmE" xOffset="682"/>
+    <component base="knVA.base"/>
+    <component base="knmE" xOffset="682"/>
+>>>>>>> reforming
   </outline>
   <lib>
     <dict>
@@ -31,7 +40,11 @@
           <array>
           </array>
           <key>width</key>
+<<<<<<< HEAD
           <integer>703</integer>
+=======
+          <integer>682</integer>
+>>>>>>> reforming
         </dict>
         <key>wire</key>
         <dict>
@@ -53,9 +66,20 @@
           <array>
           </array>
           <key>width</key>
+<<<<<<< HEAD
           <integer>703</integer>
+=======
+          <integer>682</integer>
+>>>>>>> reforming
         </dict>
       </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.794</real>
+        <real>0.975</real>
+        <real>0.8356</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>

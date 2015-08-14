@@ -3,9 +3,15 @@
   <advance width="628"/>
   <outline>
     <component base="knTA.base"/>
+<<<<<<< HEAD
     <component base="knmE" xOffset="663"/>
     <component base="knTA.base"/>
     <component base="knmE" xOffset="663"/>
+=======
+    <component base="knmE" xOffset="631"/>
+    <component base="knTA.base"/>
+    <component base="knmE" xOffset="631"/>
+>>>>>>> reforming
   </outline>
   <lib>
     <dict>
@@ -56,6 +62,13 @@
           <integer>628</integer>
         </dict>
       </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.794</real>
+        <real>0.975</real>
+        <real>0.8356</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>

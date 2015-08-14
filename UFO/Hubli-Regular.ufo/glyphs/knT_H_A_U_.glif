@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="knTHAU" format="1">
-  <advance width="1222"/>
+  <advance width="1015"/>
   <outline>
-    <component base="knTHA.base" xOffset="-20"/>
-    <component base="knmAU" xOffset="684"/>
+    <component base="knTHA.base"/>
+    <component base="knmAU" xOffset="703"/>
   </outline>
   <lib>
     <dict>
@@ -29,7 +29,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1222</integer>
+          <integer>1015</integer>
         </dict>
         <key>wire</key>
         <dict>
@@ -51,9 +51,16 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1222</integer>
+          <integer>1015</integer>
         </dict>
       </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.794</real>
+        <real>0.975</real>
+        <real>0.8356</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>

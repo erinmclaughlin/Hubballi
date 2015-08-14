@@ -1,10 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="knYA.base" format="1">
-  <advance width="1163"/>
+  <advance width="1184"/>
   <outline>
     <contour>
+<<<<<<< HEAD
       <point x="909" y="437" type="move"/>
       <point x="970" y="437" type="line"/>
+=======
+      <point x="939" y="437" type="move"/>
+      <point x="1000" y="437" type="line"/>
+>>>>>>> reforming
     </contour>
     <component base="knYA"/>
   </outline>
@@ -34,7 +39,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1163</integer>
+          <integer>1184</integer>
         </dict>
         <key>wire</key>
         <dict>
@@ -56,9 +61,16 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1163</integer>
+          <integer>1184</integer>
         </dict>
       </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6312</real>
+        <real>1.0</real>
+        <real>0.9947</real>
+        <real>1.0</real>
+      </array>
       <key>public.markColor</key>
       <string>0.25,0.25,0.25,1</string>
     </dict>

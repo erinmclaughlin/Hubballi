@@ -1,11 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="knSHE" format="1">
+<<<<<<< HEAD
   <advance width="608"/>
   <outline>
     <component base="knSHA.base"/>
     <component base="knmE" xOffset="665"/>
     <component base="knSHA.base"/>
     <component base="knmE" xOffset="665"/>
+=======
+  <advance width="619"/>
+  <outline>
+    <component base="knSHA.base"/>
+    <component base="knmE" xOffset="630"/>
+    <component base="knSHA.base"/>
+    <component base="knmE" xOffset="630"/>
+>>>>>>> reforming
   </outline>
   <lib>
     <dict>
@@ -31,7 +40,11 @@
           <array>
           </array>
           <key>width</key>
+<<<<<<< HEAD
           <integer>608</integer>
+=======
+          <integer>619</integer>
+>>>>>>> reforming
         </dict>
         <key>wire</key>
         <dict>
@@ -53,9 +66,20 @@
           <array>
           </array>
           <key>width</key>
+<<<<<<< HEAD
           <integer>608</integer>
+=======
+          <integer>619</integer>
+>>>>>>> reforming
         </dict>
       </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.794</real>
+        <real>0.975</real>
+        <real>0.8356</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>

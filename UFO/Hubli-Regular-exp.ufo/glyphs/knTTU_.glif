@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="knTTU" format="1">
+<<<<<<< HEAD
   <advance width="1037"/>
+=======
+  <advance width="1029"/>
+>>>>>>> reforming
   <outline>
     <component base="knTTA"/>
     <component base="knmU" xOffset="749"/>
@@ -31,7 +35,11 @@
           <array>
           </array>
           <key>width</key>
+<<<<<<< HEAD
           <integer>1037</integer>
+=======
+          <integer>1029</integer>
+>>>>>>> reforming
         </dict>
         <key>wire</key>
         <dict>
@@ -53,9 +61,20 @@
           <array>
           </array>
           <key>width</key>
+<<<<<<< HEAD
           <integer>1037</integer>
+=======
+          <integer>1029</integer>
+>>>>>>> reforming
         </dict>
       </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.794</real>
+        <real>0.975</real>
+        <real>0.8356</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>

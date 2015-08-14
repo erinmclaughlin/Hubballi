@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="knJA.base" format="1">
-  <advance width="716"/>
+  <advance width="694"/>
   <outline>
     <contour>
+<<<<<<< HEAD
       <point x="408" y="437" type="move"/>
       <point x="517" y="437" type="line" smooth="yes"/>
     </contour>
@@ -49,6 +50,12 @@
       <point x="622" y="215"/>
       <point x="581" y="238" type="curve"/>
     </contour>
+=======
+      <point x="447" y="437" type="move"/>
+      <point x="540" y="437" type="line"/>
+    </contour>
+    <component base="knJA"/>
+>>>>>>> reforming
   </outline>
   <lib>
     <dict>
@@ -76,7 +83,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>716</integer>
+          <integer>694</integer>
         </dict>
         <key>wire</key>
         <dict>
@@ -475,9 +482,16 @@
           <array>
           </array>
           <key>width</key>
-          <integer>716</integer>
+          <integer>694</integer>
         </dict>
       </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6312</real>
+        <real>1.0</real>
+        <real>0.9947</real>
+        <real>1.0</real>
+      </array>
       <key>public.markColor</key>
       <string>0.25,0.25,0.25,1</string>
     </dict>

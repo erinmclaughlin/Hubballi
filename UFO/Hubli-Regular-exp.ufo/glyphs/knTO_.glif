@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="knTO" format="1">
-  <advance width="1351"/>
+  <advance width="1243"/>
   <outline>
+<<<<<<< HEAD
     <component base="knTE"/>
     <component base="knmUU" xOffset="673"/>
+=======
+    <component base="knmUU" xOffset="651"/>
+    <component base="knTE"/>
+    <component base="knmUU" xOffset="651"/>
+>>>>>>> reforming
     <component base="knTE"/>
     <component base="knmUU" xOffset="673"/>
   </outline>
@@ -31,7 +37,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1351</integer>
+          <integer>1243</integer>
         </dict>
         <key>wire</key>
         <dict>
@@ -53,9 +59,16 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1351</integer>
+          <integer>1243</integer>
         </dict>
       </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.794</real>
+        <real>0.975</real>
+        <real>0.8356</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>

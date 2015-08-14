@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="knSH" format="1">
-  <advance width="1067"/>
+  <advance width="869"/>
   <outline>
-    <component base="knSHA.base" xOffset="-15"/>
-    <component base="knVirama" xOffset="661"/>
+    <component base="knSHA.base"/>
+    <component base="knVirama" xOffset="622"/>
   </outline>
   <lib>
     <dict>
@@ -29,7 +29,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1067</integer>
+          <integer>869</integer>
         </dict>
         <key>wire</key>
         <dict>
@@ -51,9 +51,16 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1067</integer>
+          <integer>869</integer>
         </dict>
       </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.794</real>
+        <real>0.975</real>
+        <real>0.8356</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>

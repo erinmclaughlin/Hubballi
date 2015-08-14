@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="knKHA.base" format="1">
-  <advance width="736"/>
+  <advance width="726"/>
   <outline>
     <contour>
-      <point x="476" y="437" type="move"/>
+      <point x="461" y="437" type="move"/>
       <point x="544" y="437" type="line"/>
     </contour>
     <component base="knKHA"/>
@@ -34,7 +34,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>736</integer>
+          <integer>726</integer>
         </dict>
         <key>wire</key>
         <dict>
@@ -56,9 +56,16 @@
           <array>
           </array>
           <key>width</key>
-          <integer>736</integer>
+          <integer>726</integer>
         </dict>
       </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6312</real>
+        <real>1.0</real>
+        <real>0.9947</real>
+        <real>1.0</real>
+      </array>
       <key>public.markColor</key>
       <string>0.25,0.25,0.25,1</string>
     </dict>

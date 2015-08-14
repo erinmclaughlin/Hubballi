@@ -2,10 +2,17 @@
 <glyph name="knNNE" format="1">
   <advance width="760"/>
   <outline>
+<<<<<<< HEAD
     <component base="knNNA.base"/>
     <component base="knmE" xOffset="760"/>
     <component base="knNNA.base"/>
     <component base="knmE" xOffset="760"/>
+=======
+    <component base="knmE" xOffset="750"/>
+    <component base="knNNA.base"/>
+    <component base="knmE" xOffset="750"/>
+    <component base="knNNA.base"/>
+>>>>>>> reforming
   </outline>
   <lib>
     <dict>
@@ -56,6 +63,13 @@
           <integer>760</integer>
         </dict>
       </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.794</real>
+        <real>0.975</real>
+        <real>0.8356</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>

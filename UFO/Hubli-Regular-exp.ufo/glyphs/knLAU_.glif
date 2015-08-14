@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="knLAU" format="1">
-  <advance width="1223"/>
+  <advance width="1045"/>
   <outline>
+<<<<<<< HEAD
     <component base="knmAU" xOffset="733"/>
     <component base="knLA.base"/>
     <component base="knmAU" xOffset="733"/>
     <component base="knLA.base"/>
+=======
+    <component base="knLA.base"/>
+    <component base="knmAU" xOffset="733"/>
+    <component base="knLA.base"/>
+    <component base="knmAU" xOffset="733"/>
+>>>>>>> reforming
   </outline>
   <lib>
     <dict>
@@ -31,7 +38,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1223</integer>
+          <integer>1045</integer>
         </dict>
         <key>wire</key>
         <dict>
@@ -53,9 +60,16 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1223</integer>
+          <integer>1045</integer>
         </dict>
       </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.794</real>
+        <real>0.975</real>
+        <real>0.8356</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>

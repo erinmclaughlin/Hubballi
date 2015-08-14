@@ -1,18 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="knJHA" format="1">
-  <advance width="1192"/>
+  <advance width="1207"/>
   <unicode hex="0C9D"/>
   <outline>
     <contour>
       <point x="831" y="-89" type="move"/>
       <point x="831" y="-192" type="line"/>
     </contour>
-    <component base="knUsign" xOffset="911"/>
-    <component base="knUsign" xOffset="632"/>
-    <component base="knRa"/>
+    <component base="knRa" xOffset="62" yOffset="-132"/>
     <component base="knRA"/>
-    <component base="knmU" xOffset="620"/>
-    <component base="knmU" xOffset="910"/>
+    <component base="knmU" xOffset="616"/>
+    <component base="knmU" xOffset="927"/>
   </outline>
   <lib>
     <dict>
@@ -65,7 +63,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1192</integer>
+          <integer>1207</integer>
         </dict>
         <key>wire</key>
         <dict>
@@ -255,7 +253,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1192</integer>
+          <integer>1207</integer>
         </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>

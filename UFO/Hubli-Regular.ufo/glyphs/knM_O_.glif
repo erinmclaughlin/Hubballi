@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="knMO" format="1">
-  <advance width="1902"/>
+  <advance width="1306"/>
   <outline>
-    <component base="knME"/>
-    <component base="knmUU" xOffset="1017"/>
+    <component base="knmUU" xOffset="714"/>
+    <component base="knVE"/>
   </outline>
   <lib>
     <dict>
@@ -29,7 +29,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1902</integer>
+          <integer>1306</integer>
         </dict>
         <key>wire</key>
         <dict>
@@ -51,9 +51,16 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1902</integer>
+          <integer>1306</integer>
         </dict>
       </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.7255</real>
+        <real>0.7149</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>

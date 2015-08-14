@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="knLA.base" format="1">
-  <advance width="705"/>
+  <advance width="690"/>
   <outline>
     <contour>
+<<<<<<< HEAD
       <point x="436" y="437" type="move"/>
+=======
+      <point x="446" y="437" type="move"/>
+>>>>>>> reforming
       <point x="528" y="437" type="line"/>
     </contour>
     <component base="knLA"/>
@@ -34,7 +38,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>705</integer>
+          <integer>690</integer>
         </dict>
         <key>wire</key>
         <dict>
@@ -56,9 +60,16 @@
           <array>
           </array>
           <key>width</key>
-          <integer>705</integer>
+          <integer>690</integer>
         </dict>
       </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6312</real>
+        <real>1.0</real>
+        <real>0.9947</real>
+        <real>1.0</real>
+      </array>
       <key>public.markColor</key>
       <string>0.25,0.25,0.25,1</string>
     </dict>

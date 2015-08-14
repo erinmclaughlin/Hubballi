@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="knNYA.base" format="1">
-  <advance width="897"/>
+  <advance width="896"/>
   <outline>
     <contour>
+<<<<<<< HEAD
       <point x="759" y="470" type="curve" smooth="yes"/>
       <point x="848" y="470" type="line" smooth="yes"/>
       <point x="866" y="470"/>
@@ -17,6 +18,22 @@
       <point x="726" y="437" type="curve" smooth="yes"/>
       <point x="726" y="455"/>
       <point x="741" y="470"/>
+=======
+      <point x="739" y="470" type="curve" smooth="yes"/>
+      <point x="870" y="470" type="line" smooth="yes"/>
+      <point x="888" y="470"/>
+      <point x="903" y="455"/>
+      <point x="903" y="437" type="curve" smooth="yes"/>
+      <point x="903" y="419"/>
+      <point x="888" y="404"/>
+      <point x="870" y="404" type="curve" smooth="yes"/>
+      <point x="739" y="404" type="line" smooth="yes"/>
+      <point x="721" y="404"/>
+      <point x="706" y="419"/>
+      <point x="706" y="437" type="curve" smooth="yes"/>
+      <point x="706" y="455"/>
+      <point x="721" y="470"/>
+>>>>>>> reforming
     </contour>
     <component base="knNYA"/>
     <component base="knNYA"/>
@@ -47,7 +64,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>897</integer>
+          <integer>896</integer>
         </dict>
         <key>wire</key>
         <dict>
@@ -69,9 +86,16 @@
           <array>
           </array>
           <key>width</key>
-          <integer>897</integer>
+          <integer>896</integer>
         </dict>
       </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.7255</real>
+        <real>0.7149</real>
+        <real>1.0</real>
+      </array>
       <key>public.markColor</key>
       <string>0.25,0.25,0.25,1</string>
     </dict>

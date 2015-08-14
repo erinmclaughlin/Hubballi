@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="knLLLA.base" format="1">
-  <advance width="753"/>
+  <advance width="725"/>
   <outline>
+    <contour>
+      <point x="573" y="437" type="move"/>
+      <point x="675" y="437" type="line"/>
+    </contour>
     <component base="knLLLA"/>
   </outline>
   <lib>
@@ -30,7 +34,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>753</integer>
+          <integer>725</integer>
         </dict>
         <key>wire</key>
         <dict>
@@ -52,9 +56,16 @@
           <array>
           </array>
           <key>width</key>
-          <integer>753</integer>
+          <integer>725</integer>
         </dict>
       </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.7255</real>
+        <real>0.7149</real>
+        <real>1.0</real>
+      </array>
       <key>public.markColor</key>
       <string>0.25,0.25,0.25,1</string>
     </dict>

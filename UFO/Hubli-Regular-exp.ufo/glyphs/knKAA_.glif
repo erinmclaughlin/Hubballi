@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="knKAA" format="1">
-  <advance width="1079"/>
+  <advance width="968"/>
   <outline>
+<<<<<<< HEAD
     <component base="knKA.base" xOffset="-19"/>
     <component base="knmAA" xOffset="600"/>
     <component base="knKA.base" xOffset="-19"/>
     <component base="knmAA" xOffset="600"/>
+=======
+    <component base="knKA.base"/>
+    <component base="knmAA" xOffset="619"/>
+    <component base="knKA.base"/>
+    <component base="knmAA" xOffset="619"/>
+>>>>>>> reforming
   </outline>
   <lib>
     <dict>
@@ -31,7 +38,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1079</integer>
+          <integer>968</integer>
         </dict>
         <key>wire</key>
         <dict>
@@ -53,9 +60,16 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1079</integer>
+          <integer>968</integer>
         </dict>
       </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.794</real>
+        <real>0.975</real>
+        <real>0.8356</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>

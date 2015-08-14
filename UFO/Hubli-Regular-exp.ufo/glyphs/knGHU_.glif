@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="knGHU" format="1">
-  <advance width="1215"/>
+  <advance width="1029"/>
   <outline>
     <component base="knGHA"/>
+<<<<<<< HEAD
     <component base="knmU" xOffset="728"/>
     <component base="knGHA"/>
     <component base="knmU" xOffset="728"/>
+=======
+    <component base="knmU" xOffset="749"/>
+    <component base="knGHA"/>
+    <component base="knmU" xOffset="749"/>
+>>>>>>> reforming
   </outline>
   <lib>
     <dict>
@@ -31,7 +37,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1215</integer>
+          <integer>1029</integer>
         </dict>
         <key>wire</key>
         <dict>
@@ -53,9 +59,16 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1215</integer>
+          <integer>1029</integer>
         </dict>
       </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.794</real>
+        <real>0.975</real>
+        <real>0.8356</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>
