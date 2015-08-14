@@ -1,8 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="knYE" format="1">
-  <advance width="1163"/>
+  <advance width="1184"/>
   <outline>
-    <component base="knYA.base"/>
+    <contour>
+      <point x="173" y="437"/>
+      <point x="80" y="332"/>
+      <point x="80" y="227" type="curve" smooth="yes"/>
+      <point x="80" y="110"/>
+      <point x="160" y="23"/>
+      <point x="291" y="23" type="curve" smooth="yes"/>
+      <point x="420" y="23"/>
+      <point x="502" y="112"/>
+      <point x="502" y="227" type="curve" smooth="yes"/>
+      <point x="502" y="330"/>
+      <point x="411" y="437"/>
+      <point x="291" y="437" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="589" y="437" type="move"/>
+      <point x="691" y="437" type="line" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="507" y="129" type="move"/>
+      <point x="557" y="54"/>
+      <point x="609" y="27"/>
+      <point x="670" y="27" type="curve" smooth="yes"/>
+      <point x="762" y="27"/>
+      <point x="809" y="87"/>
+      <point x="809" y="173" type="curve" smooth="yes"/>
+      <point x="809" y="254"/>
+      <point x="763" y="350"/>
+      <point x="703" y="416" type="curve"/>
+    </contour>
+    <contour>
+      <point x="818" y="129" type="move"/>
+      <point x="868" y="54"/>
+      <point x="920" y="27"/>
+      <point x="981" y="27" type="curve" smooth="yes"/>
+      <point x="1073" y="27"/>
+      <point x="1120" y="87"/>
+      <point x="1120" y="173" type="curve" smooth="yes"/>
+      <point x="1120" y="254"/>
+      <point x="1074" y="350"/>
+      <point x="1014" y="416" type="curve"/>
+    </contour>
     <component base="knmE" xOffset="898"/>
   </outline>
   <lib>
@@ -29,7 +70,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1163</integer>
+          <integer>1184</integer>
         </dict>
         <key>wire</key>
         <dict>
@@ -51,9 +92,16 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1163</integer>
+          <integer>1184</integer>
         </dict>
       </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.8424</real>
+        <real>0.6742</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>
