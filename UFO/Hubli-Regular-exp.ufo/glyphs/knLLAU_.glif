@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="knLLAU" format="1">
-  <advance width="1138"/>
+  <advance width="700"/>
   <outline>
-    <component base="knLLA.base" xOffset="15"/>
-    <component base="knmAU" xOffset="746"/>
-    <component base="knLLA.base" xOffset="15"/>
-    <component base="knmAU" xOffset="746"/>
+    <component base="knLLA.base"/>
+    <component base="knmAU" xOffset="721"/>
+    <component base="knLLA.base"/>
+    <component base="knmAU" xOffset="721"/>
   </outline>
   <lib>
     <dict>
@@ -31,7 +31,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1138</integer>
+          <integer>700</integer>
         </dict>
         <key>wire</key>
         <dict>
@@ -53,9 +53,16 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1138</integer>
+          <integer>700</integer>
         </dict>
       </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.794</real>
+        <real>0.975</real>
+        <real>0.8356</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>

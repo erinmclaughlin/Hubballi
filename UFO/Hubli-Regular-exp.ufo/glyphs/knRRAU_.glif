@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="knRRAU" format="1">
-  <advance width="1263"/>
+  <advance width="878"/>
   <outline>
-    <component base="knRRA"/>
-    <component base="knmAU" xOffset="795"/>
-    <component base="knRRA"/>
-    <component base="knmAU" xOffset="795"/>
+    <component base="knRRA.base"/>
+    <component base="knmAU" xOffset="890"/>
+    <component base="knRRA.base"/>
+    <component base="knmAU" xOffset="890"/>
   </outline>
   <lib>
     <dict>
@@ -31,7 +31,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1263</integer>
+          <integer>878</integer>
         </dict>
         <key>wire</key>
         <dict>
@@ -53,9 +53,16 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1263</integer>
+          <integer>878</integer>
         </dict>
       </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.7255</real>
+        <real>0.7149</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>

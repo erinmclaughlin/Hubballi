@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="knVAU" format="1">
-  <advance width="1198"/>
+  <advance width="682"/>
   <outline>
-    <component base="knVA.base" xOffset="-5"/>
-    <component base="knmAU" xOffset="685"/>
-    <component base="knVA.base" xOffset="-5"/>
-    <component base="knmAU" xOffset="685"/>
+    <component base="knVA.base"/>
+    <component base="knmAU" xOffset="680"/>
+    <component base="knVA.base"/>
+    <component base="knmAU" xOffset="680"/>
   </outline>
   <lib>
     <dict>
@@ -31,7 +31,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1198</integer>
+          <integer>682</integer>
         </dict>
         <key>wire</key>
         <dict>
@@ -53,9 +53,16 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1198</integer>
+          <integer>682</integer>
         </dict>
       </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.794</real>
+        <real>0.975</real>
+        <real>0.8356</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>
