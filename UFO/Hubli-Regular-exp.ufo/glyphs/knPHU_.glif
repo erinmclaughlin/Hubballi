@@ -1,38 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="knPHU" format="1">
-  <advance width="1122"/>
+  <advance width="931"/>
   <outline>
     <contour>
       <point x="406" y="106" type="curve" smooth="yes"/>
-      <point x="488" y="-25"/>
-      <point x="564" y="-80"/>
-      <point x="661" y="-80" type="curve" smooth="yes"/>
-      <point x="754" y="-80"/>
-      <point x="822" y="7"/>
-      <point x="822" y="144" type="curve" smooth="yes"/>
-      <point x="822" y="245"/>
-      <point x="778" y="350"/>
-      <point x="705" y="412" type="curve" smooth="yes"/>
-      <point x="692" y="424"/>
-      <point x="690" y="445"/>
-      <point x="702" y="459" type="curve" smooth="yes"/>
-      <point x="714" y="472"/>
-      <point x="735" y="474"/>
-      <point x="749" y="462" type="curve" smooth="yes"/>
-      <point x="834" y="388"/>
-      <point x="888" y="265"/>
-      <point x="888" y="144" type="curve" smooth="yes"/>
-      <point x="888" y="-49"/>
-      <point x="782" y="-146"/>
-      <point x="661" y="-146" type="curve" smooth="yes"/>
-      <point x="546" y="-146"/>
-      <point x="450" y="-89"/>
+      <point x="488" y="-31"/>
+      <point x="554" y="-80"/>
+      <point x="654" y="-80" type="curve" smooth="yes"/>
+      <point x="767" y="-80"/>
+      <point x="834" y="5"/>
+      <point x="834" y="144" type="curve" smooth="yes"/>
+      <point x="834" y="240"/>
+      <point x="797" y="322"/>
+      <point x="733" y="394" type="curve" smooth="yes"/>
+      <point x="721" y="407"/>
+      <point x="723" y="429"/>
+      <point x="736" y="441" type="curve" smooth="yes"/>
+      <point x="749" y="453"/>
+      <point x="771" y="451"/>
+      <point x="783" y="438" type="curve" smooth="yes"/>
+      <point x="857" y="354"/>
+      <point x="900" y="256"/>
+      <point x="900" y="144" type="curve" smooth="yes"/>
+      <point x="900" y="-47"/>
+      <point x="801" y="-146"/>
+      <point x="654" y="-146" type="curve" smooth="yes"/>
+      <point x="534" y="-146"/>
+      <point x="450" y="-97"/>
       <point x="350" y="72" type="curve" smooth="yes"/>
       <point x="341" y="87"/>
-      <point x="345" y="108"/>
+      <point x="346" y="108"/>
       <point x="361" y="117" type="curve" smooth="yes"/>
       <point x="376" y="126"/>
-      <point x="397" y="122"/>
+      <point x="397" y="121"/>
     </contour>
     <component base="knPHA"/>
     <component base="knPHA"/>
@@ -61,7 +61,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1122</integer>
+          <integer>931</integer>
         </dict>
         <key>wire</key>
         <dict>
@@ -83,9 +83,16 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1122</integer>
+          <integer>931</integer>
         </dict>
       </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.8424</real>
+        <real>0.6742</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="knSSU" format="1">
-  <advance width="1146"/>
+  <advance width="1033"/>
   <outline>
     <component base="knSSA"/>
-    <component base="knmU" xOffset="728"/>
+    <component base="knmU" xOffset="751"/>
     <component base="knSSA"/>
-    <component base="knmU" xOffset="728"/>
+    <component base="knmU" xOffset="751"/>
   </outline>
   <lib>
     <dict>
@@ -31,7 +31,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1146</integer>
+          <integer>1033</integer>
         </dict>
         <key>wire</key>
         <dict>
@@ -53,9 +53,16 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1146</integer>
+          <integer>1033</integer>
         </dict>
       </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.8424</real>
+        <real>0.6742</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>
