@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="knVAA" format="1">
-  <advance width="1059"/>
+  <advance width="1044"/>
   <outline>
-    <component base="knVA.base" xOffset="-5"/>
-    <component base="knmAA" xOffset="710"/>
+    <component base="knVA.base"/>
+    <component base="knmAA" xOffset="695"/>
   </outline>
   <lib>
     <dict>
@@ -29,7 +29,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1059</integer>
+          <integer>1044</integer>
         </dict>
         <key>wire</key>
         <dict>
@@ -51,7 +51,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1059</integer>
+          <integer>1044</integer>
         </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>
