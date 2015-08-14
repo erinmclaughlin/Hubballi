@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="knSSE" format="1">
-  <advance width="700"/>
+  <advance width="710"/>
   <outline>
     <component base="knSSA.base"/>
-    <component base="knmE" xOffset="704"/>
+    <component base="knmE" xOffset="713"/>
     <component base="knSSA.base"/>
-    <component base="knmE" xOffset="704"/>
+    <component base="knmE" xOffset="713"/>
   </outline>
   <lib>
     <dict>
@@ -31,7 +31,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>700</integer>
+          <integer>710</integer>
         </dict>
         <key>wire</key>
         <dict>
@@ -53,9 +53,16 @@
           <array>
           </array>
           <key>width</key>
-          <integer>700</integer>
+          <integer>710</integer>
         </dict>
       </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.8424</real>
+        <real>0.6742</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>

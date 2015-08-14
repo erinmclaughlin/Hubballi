@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="knNNUU" format="1">
-  <advance width="1612"/>
+  <advance width="1345"/>
   <outline>
     <component base="knNNA"/>
     <component base="knmUU" xOffset="753"/>
@@ -31,7 +31,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1612</integer>
+          <integer>1345</integer>
         </dict>
         <key>wire</key>
         <dict>
@@ -53,9 +53,16 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1612</integer>
+          <integer>1345</integer>
         </dict>
       </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.794</real>
+        <real>0.975</real>
+        <real>0.8356</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>

@@ -3,9 +3,9 @@
   <advance width="625"/>
   <outline>
     <component base="knNA.base"/>
-    <component base="knmE" xOffset="653"/>
+    <component base="knmE" xOffset="633"/>
     <component base="knNA.base"/>
-    <component base="knmE" xOffset="653"/>
+    <component base="knmE" xOffset="633"/>
   </outline>
   <lib>
     <dict>
@@ -56,6 +56,13 @@
           <integer>625</integer>
         </dict>
       </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.8424</real>
+        <real>0.6742</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>
