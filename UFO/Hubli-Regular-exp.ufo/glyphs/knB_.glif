@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="knB" format="1">
-  <advance width="1202"/>
+  <advance width="976"/>
   <outline>
     <component base="knBA.base"/>
-    <component base="knVirama" xOffset="757"/>
+    <component base="knVirama" xOffset="729"/>
     <component base="knBA.base"/>
-    <component base="knVirama" xOffset="757"/>
+    <component base="knVirama" xOffset="729"/>
   </outline>
   <lib>
     <dict>
@@ -31,7 +31,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1202</integer>
+          <integer>976</integer>
         </dict>
         <key>wire</key>
         <dict>
@@ -53,9 +53,16 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1202</integer>
+          <integer>976</integer>
         </dict>
       </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.794</real>
+        <real>0.975</real>
+        <real>0.8356</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>
