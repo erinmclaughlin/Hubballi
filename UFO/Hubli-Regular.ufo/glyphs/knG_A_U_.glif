@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="knGAU" format="1">
-  <advance width="979"/>
+  <advance width="634"/>
   <outline>
-    <component base="knGA.base" xOffset="-14"/>
-    <component base="knmAU" xOffset="651"/>
+    <component base="knGA.base"/>
+    <component base="knmAU" xOffset="643"/>
   </outline>
   <lib>
     <dict>
@@ -29,7 +29,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>979</integer>
+          <integer>634</integer>
         </dict>
         <key>wire</key>
         <dict>
@@ -51,9 +51,16 @@
           <array>
           </array>
           <key>width</key>
-          <integer>979</integer>
+          <integer>634</integer>
         </dict>
       </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.794</real>
+        <real>0.975</real>
+        <real>0.8356</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>
