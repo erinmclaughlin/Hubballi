@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="knSS" format="1">
-  <advance width="1177"/>
+  <advance width="1023"/>
   <outline>
-    <component base="knSSA.base" xOffset="-5"/>
-    <component base="knVirama" xOffset="709"/>
+    <component base="knSSA.base"/>
+    <component base="knVirama" xOffset="725"/>
   </outline>
   <lib>
     <dict>
@@ -29,7 +29,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1177</integer>
+          <integer>1023</integer>
         </dict>
         <key>wire</key>
         <dict>
@@ -51,9 +51,16 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1177</integer>
+          <integer>1023</integer>
         </dict>
       </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.794</real>
+        <real>0.975</real>
+        <real>0.8356</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>
