@@ -1,73 +1,98 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="knVI" format="1">
-  <advance width="802"/>
+  <advance width="682"/>
   <outline>
     <contour>
-      <point x="318" y="-10"/>
-      <point x="380" y="38"/>
-      <point x="395" y="114" type="curve"/>
-      <point x="407" y="37"/>
-      <point x="469" y="-10"/>
-      <point x="559" y="-10" type="curve" smooth="yes"/>
-      <point x="688" y="-10"/>
-      <point x="772" y="86"/>
-      <point x="772" y="252" type="curve"/>
-      <point x="772" y="452"/>
-      <point x="652" y="709"/>
-      <point x="426" y="709" type="curve" smooth="yes"/>
-      <point x="322" y="709"/>
-      <point x="261" y="644"/>
-      <point x="261" y="568" type="curve" smooth="yes"/>
-      <point x="261" y="483"/>
-      <point x="324" y="437"/>
-      <point x="402" y="437" type="curve" smooth="yes"/>
-      <point x="427" y="437"/>
-      <point x="452" y="440"/>
-      <point x="478" y="451" type="curve"/>
-      <point x="478" y="539" type="line"/>
-      <point x="461" y="531"/>
-      <point x="445" y="527"/>
-      <point x="428" y="527" type="curve" smooth="yes"/>
-      <point x="402" y="527"/>
-      <point x="380" y="539"/>
-      <point x="380" y="567" type="curve" smooth="yes"/>
-      <point x="380" y="590"/>
-      <point x="399" y="607"/>
-      <point x="431" y="607" type="curve" smooth="yes"/>
-      <point x="543" y="607"/>
-      <point x="631" y="420"/>
-      <point x="631" y="262" type="curve" smooth="yes"/>
-      <point x="631" y="160"/>
-      <point x="605" y="106"/>
-      <point x="546" y="106" type="curve" smooth="yes"/>
-      <point x="490" y="106"/>
-      <point x="466" y="150"/>
-      <point x="466" y="210" type="curve" smooth="yes"/>
-      <point x="466" y="246" type="line"/>
-      <point x="324" y="246" type="line"/>
-      <point x="324" y="210" type="line" smooth="yes"/>
-      <point x="324" y="147"/>
-      <point x="296" y="106"/>
-      <point x="245" y="106" type="curve" smooth="yes"/>
-      <point x="202" y="106"/>
-      <point x="172" y="132"/>
-      <point x="172" y="184" type="curve" smooth="yes"/>
-      <point x="172" y="226"/>
-      <point x="199" y="257"/>
-      <point x="239" y="257" type="curve" smooth="yes"/>
-      <point x="246" y="257"/>
-      <point x="253" y="256"/>
-      <point x="260" y="254" type="curve"/>
-      <point x="260" y="366" type="line"/>
-      <point x="242" y="370"/>
-      <point x="225" y="372"/>
-      <point x="209" y="372" type="curve" smooth="yes"/>
-      <point x="106" y="372"/>
-      <point x="30" y="299"/>
-      <point x="30" y="184" type="curve" smooth="yes"/>
-      <point x="30" y="69"/>
-      <point x="106" y="-10"/>
-      <point x="233" y="-10" type="curve" smooth="yes"/>
+      <point x="169" y="220" type="move"/>
+      <point x="107" y="211"/>
+      <point x="73" y="170"/>
+      <point x="73" y="122" type="curve" smooth="yes"/>
+      <point x="73" y="69"/>
+      <point x="116" y="27"/>
+      <point x="184" y="27" type="curve" smooth="yes"/>
+      <point x="260" y="27"/>
+      <point x="304" y="59"/>
+      <point x="341" y="128" type="curve"/>
+      <point x="346" y="128" type="line"/>
+      <point x="388" y="63"/>
+      <point x="430" y="27"/>
+      <point x="498" y="27" type="curve" smooth="yes"/>
+      <point x="564" y="27"/>
+      <point x="618" y="71"/>
+      <point x="618" y="182" type="curve" smooth="yes"/>
+      <point x="618" y="337"/>
+      <point x="546" y="506"/>
+      <point x="451" y="601" type="curve"/>
+      <point x="392" y="660"/>
+      <point x="356" y="677"/>
+      <point x="313" y="677" type="curve" smooth="yes"/>
+      <point x="253" y="677"/>
+      <point x="224" y="633"/>
+      <point x="224" y="595" type="curve" smooth="yes"/>
+      <point x="224" y="554"/>
+      <point x="263" y="516"/>
+      <point x="311" y="516" type="curve" smooth="yes"/>
+      <point x="359" y="516"/>
+      <point x="403" y="545"/>
+      <point x="428" y="585" type="curve"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>knVI</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>682</integer>
+        </dict>
+        <key>wire</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>knVI</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>682</integer>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.8424</real>
+        <real>0.6742</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
 </glyph>
