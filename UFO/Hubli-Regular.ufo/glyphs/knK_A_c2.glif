@@ -1,53 +1,77 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="knKAc2" format="1">
-  <advance width="0"/>
+  <advance width="188"/>
   <outline>
     <contour>
-      <point x="-110" y="-374"/>
-      <point x="-41" y="-314"/>
-      <point x="-41" y="-244" type="curve" smooth="yes"/>
-      <point x="-41" y="-169"/>
-      <point x="-129" y="-134"/>
-      <point x="-220" y="-134" type="curve" smooth="yes"/>
-      <point x="-325" y="-134"/>
-      <point x="-399" y="-179"/>
-      <point x="-399" y="-250" type="curve" smooth="yes"/>
-      <point x="-399" y="-328"/>
-      <point x="-332" y="-374"/>
-      <point x="-220" y="-374" type="curve" smooth="yes"/>
+      <point x="79.0" y="-121.0" type="move"/>
+      <point x="101" y="-87"/>
+      <point x="114" y="-42"/>
+      <point x="114.0" y="5.0" type="curve" smooth="yes"/>
+      <point x="114" y="45"/>
+      <point x="103" y="92"/>
+      <point x="81.0" y="129.0" type="curve"/>
     </contour>
     <contour>
-      <point x="-270" y="-297"/>
-      <point x="-303" y="-273"/>
-      <point x="-303" y="-231" type="curve" smooth="yes"/>
-      <point x="-303" y="-187"/>
-      <point x="-269" y="-160"/>
-      <point x="-220" y="-160" type="curve" smooth="yes"/>
-      <point x="-171" y="-160"/>
-      <point x="-137" y="-186"/>
-      <point x="-137" y="-229" type="curve" smooth="yes"/>
-      <point x="-137" y="-270"/>
-      <point x="-173" y="-297"/>
-      <point x="-220" y="-297" type="curve" smooth="yes"/>
+      <point x="-85" y="-120" type="move"/>
+      <point x="240" y="-120" type="line" smooth="yes"/>
     </contour>
     <contour>
-      <point x="-300" y="-174" type="line"/>
-      <point x="-222" y="-147" type="line"/>
-      <point x="-133" y="-174" type="line"/>
-      <point x="-30" y="-174" type="line"/>
-      <point x="-30" y="-99" type="line"/>
-      <point x="-410" y="-99" type="line"/>
-      <point x="-410" y="-174" type="line"/>
-    </contour>
-    <contour>
-      <point x="-173" y="-114" type="line"/>
-      <point x="-173" y="-35" type="line"/>
-      <point x="-269" y="-35" type="line"/>
-      <point x="-269" y="-114" type="line"/>
+      <point x="51" y="-122" type="move"/>
+      <point x="3" y="-129"/>
+      <point x="-27" y="-164"/>
+      <point x="-27" y="-204" type="curve" smooth="yes"/>
+      <point x="-27" y="-245"/>
+      <point x="0" y="-288"/>
+      <point x="78" y="-288" type="curve" smooth="yes"/>
+      <point x="157" y="-288"/>
+      <point x="184" y="-244"/>
+      <point x="184" y="-204" type="curve" smooth="yes"/>
+      <point x="184" y="-164"/>
+      <point x="153" y="-129"/>
+      <point x="105" y="-122" type="curve"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>87</integer>
+          <key>y</key>
+          <integer>491</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>1104</integer>
+          <key>y</key>
+          <integer>48</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>189</integer>
+          <key>y</key>
+          <integer>172</integer>
+        </dict>
+      </array>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>mask</key>
@@ -70,7 +94,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>0</integer>
+          <integer>188</integer>
         </dict>
         <key>wire</key>
         <dict>
@@ -92,7 +116,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>0</integer>
+          <integer>188</integer>
         </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>
