@@ -1,13 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="knSSAc2" format="1">
-  <advance width="188"/>
+  <advance width="138"/>
   <outline>
     <contour>
-      <point x="88" y="-186" type="move"/>
-      <point x="153" y="-345" type="line"/>
+      <point x="78" y="-186" type="move"/>
+      <point x="143" y="-345" type="line"/>
     </contour>
-    <component base="knPAc2"/>
-    <component base="knPa" xOffset="-416" yOffset="-329"/>
+    <contour>
+      <point x="-29" y="-224" type="move"/>
+      <point x="1" y="-273"/>
+      <point x="34" y="-298"/>
+      <point x="81" y="-298" type="curve" smooth="yes"/>
+      <point x="136" y="-298"/>
+      <point x="178" y="-256"/>
+      <point x="178" y="-163" type="curve" smooth="yes"/>
+      <point x="178" y="-81"/>
+      <point x="136" y="27"/>
+      <point x="71" y="129" type="curve"/>
+    </contour>
+    <contour>
+      <point x="-174" y="-144" type="move"/>
+      <point x="-206" y="-159"/>
+      <point x="-229" y="-189"/>
+      <point x="-229" y="-224" type="curve" smooth="yes"/>
+      <point x="-229" y="-265"/>
+      <point x="-195" y="-300"/>
+      <point x="-148" y="-300" type="curve" smooth="yes"/>
+      <point x="-95" y="-300"/>
+      <point x="-65" y="-273"/>
+      <point x="-32" y="-224" type="curve"/>
+    </contour>
+    <component base="knPa" xOffset="-426" yOffset="-329"/>
   </outline>
   <lib>
     <dict>
@@ -33,7 +56,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>188</integer>
+          <integer>138</integer>
         </dict>
         <key>wire</key>
         <dict>
@@ -55,7 +78,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>188</integer>
+          <integer>138</integer>
         </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>
