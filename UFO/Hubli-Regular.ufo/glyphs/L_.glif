@@ -1,13 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="knmO" format="1">
-  <advance width="592"/>
-  <unicode hex="0CCA"/>
+<glyph name="L" format="1">
+  <advance width="479"/>
+  <unicode hex="004C"/>
   <outline>
-    <component base="knmUU"/>
-    <component base="knmE"/>
+    <contour>
+      <point x="128" y="512" type="move"/>
+      <point x="128" y="27" type="line"/>
+    </contour>
+    <contour>
+      <point x="136" y="27" type="move"/>
+      <point x="409" y="27" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>x</key>
+          <integer>277</integer>
+          <key>y</key>
+          <integer>570</integer>
+        </dict>
+      </array>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>mask</key>
@@ -25,12 +48,12 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>knmO</string>
+          <string>L</string>
           <key>unicodes</key>
           <array>
           </array>
           <key>width</key>
-          <integer>592</integer>
+          <integer>479</integer>
         </dict>
         <key>wire</key>
         <dict>
@@ -47,14 +70,21 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>knmO</string>
+          <string>L</string>
           <key>unicodes</key>
           <array>
           </array>
           <key>width</key>
-          <integer>592</integer>
+          <integer>479</integer>
         </dict>
       </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.794</real>
+        <real>0.975</real>
+        <real>0.8356</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>
