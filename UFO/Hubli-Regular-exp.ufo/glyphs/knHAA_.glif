@@ -2,9 +2,9 @@
 <glyph name="knHAA" format="1">
   <advance width="1092"/>
   <outline>
-    <component base="knmAA" xOffset="743"/>
+    <component base="knsignAA" xOffset="743"/>
     <component base="knHA.base"/>
-    <component base="knmAA" xOffset="743"/>
+    <component base="knsignAA" xOffset="743"/>
     <component base="knHA.base"/>
   </outline>
   <lib>
@@ -58,9 +58,9 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.794</real>
-        <real>0.975</real>
-        <real>0.8356</real>
+        <real>0.6312</real>
+        <real>1.0</real>
+        <real>0.9947</real>
         <real>1.0</real>
       </array>
     </dict>

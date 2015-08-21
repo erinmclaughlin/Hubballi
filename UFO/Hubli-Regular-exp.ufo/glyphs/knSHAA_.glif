@@ -3,9 +3,9 @@
   <advance width="949"/>
   <outline>
     <component base="knSHA.base"/>
-    <component base="knmAA" xOffset="600"/>
+    <component base="knsignAA" xOffset="600"/>
     <component base="knSHA.base"/>
-    <component base="knmAA" xOffset="600"/>
+    <component base="knsignAA" xOffset="600"/>
   </outline>
   <lib>
     <dict>
@@ -58,9 +58,9 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.794</real>
-        <real>0.975</real>
-        <real>0.8356</real>
+        <real>0.6312</real>
+        <real>1.0</real>
+        <real>0.9947</real>
         <real>1.0</real>
       </array>
     </dict>

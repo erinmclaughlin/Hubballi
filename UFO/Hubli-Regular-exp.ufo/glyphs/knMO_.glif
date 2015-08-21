@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="knmO" format="1">
-  <advance width="592"/>
-  <unicode hex="0CCA"/>
+<glyph name="knMO" format="1">
+  <advance width="1306"/>
   <outline>
-    <component base="knmUU"/>
-    <component base="knmE"/>
-    <component base="knmUU"/>
-    <component base="knmE"/>
+    <component base="knsignUU" xOffset="714"/>
+    <component base="knVE"/>
+    <component base="knsignUU" xOffset="714"/>
+    <component base="knVE"/>
   </outline>
   <lib>
     <dict>
@@ -27,12 +26,12 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>knmO</string>
+          <string>knMO</string>
           <key>unicodes</key>
           <array>
           </array>
           <key>width</key>
-          <integer>592</integer>
+          <integer>1306</integer>
         </dict>
         <key>wire</key>
         <dict>
@@ -49,14 +48,21 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>knmO</string>
+          <string>knMO</string>
           <key>unicodes</key>
           <array>
           </array>
           <key>width</key>
-          <integer>592</integer>
+          <integer>1306</integer>
         </dict>
       </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6312</real>
+        <real>1.0</real>
+        <real>0.9947</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>

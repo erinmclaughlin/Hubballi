@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="knCHAU" format="1">
-  <advance width="1060"/>
+  <advance width="1070"/>
   <outline>
     <component base="knCHA.base"/>
-    <component base="knmAU" xOffset="748"/>
+    <component base="knsignAU" xOffset="758"/>
     <component base="knCHA.base"/>
-    <component base="knmAU" xOffset="748"/>
+    <component base="knsignAU" xOffset="758"/>
   </outline>
   <lib>
     <dict>
@@ -31,7 +31,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1060</integer>
+          <integer>1070</integer>
         </dict>
         <key>wire</key>
         <dict>
@@ -53,14 +53,14 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1060</integer>
+          <integer>1070</integer>
         </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.794</real>
-        <real>0.975</real>
-        <real>0.8356</real>
+        <real>0.6312</real>
+        <real>1.0</real>
+        <real>0.9947</real>
         <real>1.0</real>
       </array>
     </dict>

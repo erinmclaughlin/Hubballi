@@ -6,11 +6,11 @@
     <component base="knVa"/>
     <component base="knUsign" xOffset="784" yOffset="-118"/>
     <component base="knVA"/>
-    <component base="knmU" xOffset="703"/>
+    <component base="knsignU" xOffset="703"/>
     <component base="knVa"/>
     <component base="knUsign" xOffset="784" yOffset="-118"/>
     <component base="knVA"/>
-    <component base="knmU" xOffset="703"/>
+    <component base="knsignU" xOffset="703"/>
   </outline>
   <lib>
     <dict>
@@ -388,9 +388,9 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
+        <real>0.6312</real>
         <real>1.0</real>
-        <real>0.974</real>
-        <real>0.577</real>
+        <real>0.9947</real>
         <real>1.0</real>
       </array>
     </dict>

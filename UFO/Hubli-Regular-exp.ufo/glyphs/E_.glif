@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="E" format="1">
+  <advance width="495"/>
+  <unicode hex="0045"/>
+  <outline>
+    <contour>
+      <point x="161" y="512" type="curve" smooth="yes"/>
+      <point x="161" y="27" type="line" smooth="yes"/>
+      <point x="161" y="9"/>
+      <point x="146" y="-6"/>
+      <point x="128" y="-6" type="curve" smooth="yes"/>
+      <point x="110" y="-6"/>
+      <point x="95" y="9"/>
+      <point x="95" y="27" type="curve" smooth="yes"/>
+      <point x="95" y="512" type="line" smooth="yes"/>
+      <point x="95" y="530"/>
+      <point x="110" y="545"/>
+      <point x="128" y="545" type="curve" smooth="yes"/>
+      <point x="146" y="545"/>
+      <point x="161" y="530"/>
+    </contour>
+    <contour>
+      <point x="136" y="60" type="curve" smooth="yes"/>
+      <point x="407" y="60" type="line" smooth="yes"/>
+      <point x="425" y="60"/>
+      <point x="440" y="45"/>
+      <point x="440" y="27" type="curve" smooth="yes"/>
+      <point x="440" y="9"/>
+      <point x="425" y="-6"/>
+      <point x="407" y="-6" type="curve" smooth="yes"/>
+      <point x="136" y="-6" type="line" smooth="yes"/>
+      <point x="118" y="-6"/>
+      <point x="103" y="9"/>
+      <point x="103" y="27" type="curve" smooth="yes"/>
+      <point x="103" y="45"/>
+      <point x="118" y="60"/>
+    </contour>
+    <contour>
+      <point x="136" y="545" type="curve" smooth="yes"/>
+      <point x="405" y="545" type="line" smooth="yes"/>
+      <point x="423" y="545"/>
+      <point x="438" y="530"/>
+      <point x="438" y="512" type="curve" smooth="yes"/>
+      <point x="438" y="494"/>
+      <point x="423" y="479"/>
+      <point x="405" y="479" type="curve" smooth="yes"/>
+      <point x="136" y="479" type="line" smooth="yes"/>
+      <point x="118" y="479"/>
+      <point x="103" y="494"/>
+      <point x="103" y="512" type="curve" smooth="yes"/>
+      <point x="103" y="530"/>
+      <point x="118" y="545"/>
+    </contour>
+    <contour>
+      <point x="136" y="321" type="curve" smooth="yes"/>
+      <point x="362" y="321" type="line" smooth="yes"/>
+      <point x="380" y="321"/>
+      <point x="395" y="306"/>
+      <point x="395" y="288" type="curve" smooth="yes"/>
+      <point x="395" y="270"/>
+      <point x="380" y="255"/>
+      <point x="362" y="255" type="curve" smooth="yes"/>
+      <point x="136" y="255" type="line" smooth="yes"/>
+      <point x="118" y="255"/>
+      <point x="103" y="270"/>
+      <point x="103" y="288" type="curve" smooth="yes"/>
+      <point x="103" y="306"/>
+      <point x="118" y="321"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>x</key>
+          <integer>277</integer>
+          <key>y</key>
+          <integer>570</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>E</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>495</integer>
+        </dict>
+        <key>wire</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>E</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>495</integer>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.794</real>
+        <real>0.975</real>
+        <real>0.8356</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>
