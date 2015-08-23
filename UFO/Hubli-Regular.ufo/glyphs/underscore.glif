@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="underscore" format="1">
-  <advance width="500"/>
+  <advance width="545"/>
   <unicode hex="005F"/>
   <outline>
+    <contour>
+      <point x="65" y="-97" type="move"/>
+      <point x="480" y="-97" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
@@ -28,7 +32,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>500</integer>
+          <integer>545</integer>
         </dict>
         <key>wire</key>
         <dict>
@@ -50,9 +54,16 @@
           <array>
           </array>
           <key>width</key>
-          <integer>500</integer>
+          <integer>545</integer>
         </dict>
       </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.7255</real>
+        <real>0.7149</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>

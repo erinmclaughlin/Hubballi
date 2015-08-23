@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="logicalnot" format="1">
-  <advance width="500"/>
+  <advance width="491"/>
   <unicode hex="00AC"/>
   <outline>
+    <contour>
+      <point x="114" y="253" type="move"/>
+      <point x="377" y="253" type="line"/>
+    </contour>
+    <contour>
+      <point x="377" y="247" type="move"/>
+      <point x="377" y="146" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
@@ -28,7 +36,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>500</integer>
+          <integer>491</integer>
         </dict>
         <key>wire</key>
         <dict>
@@ -50,9 +58,16 @@
           <array>
           </array>
           <key>width</key>
-          <integer>500</integer>
+          <integer>491</integer>
         </dict>
       </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.7255</real>
+        <real>0.7149</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>
