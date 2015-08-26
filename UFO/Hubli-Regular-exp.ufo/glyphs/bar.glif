@@ -1,8 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bar" format="1">
-  <advance width="500"/>
+  <advance width="310"/>
   <unicode hex="007C"/>
   <outline>
+    <contour>
+      <point x="188" y="539" type="curve" smooth="yes"/>
+      <point x="188" y="-74" type="line" smooth="yes"/>
+      <point x="188" y="-92"/>
+      <point x="173" y="-107"/>
+      <point x="155" y="-107" type="curve" smooth="yes"/>
+      <point x="137" y="-107"/>
+      <point x="122" y="-92"/>
+      <point x="122" y="-74" type="curve" smooth="yes"/>
+      <point x="122" y="539" type="line" smooth="yes"/>
+      <point x="122" y="557"/>
+      <point x="137" y="572"/>
+      <point x="155" y="572" type="curve" smooth="yes"/>
+      <point x="173" y="572"/>
+      <point x="188" y="557"/>
+    </contour>
   </outline>
   <lib>
     <dict>
@@ -28,7 +44,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>500</integer>
+          <integer>310</integer>
         </dict>
         <key>wire</key>
         <dict>
@@ -50,9 +66,16 @@
           <array>
           </array>
           <key>width</key>
-          <integer>500</integer>
+          <integer>310</integer>
         </dict>
       </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.7255</real>
+        <real>0.7149</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>

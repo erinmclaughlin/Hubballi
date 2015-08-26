@@ -102,9 +102,23 @@
 			<key>name</key>
 			<string>cap</string>
 			<key>x</key>
-			<integer>250</integer>
+			<integer>119</integer>
 			<key>y</key>
-			<integer>511</integer>
+			<integer>512</integer>
+		</dict>
+		<dict>
+			<key>angle</key>
+			<integer>0</integer>
+			<key>isGlobal</key>
+			<integer>1</integer>
+			<key>magnetic</key>
+			<integer>5</integer>
+			<key>name</key>
+			<string>cap overshoot</string>
+			<key>x</key>
+			<integer>353</integer>
+			<key>y</key>
+			<integer>521</integer>
 		</dict>
 	</array>
 	<key>com.typemytype.robofont.italicSlantOffset</key>
@@ -786,6 +800,18 @@
 				<string>tildecmb</string>
 				<string>emdash</string>
 				<string>ringcmb</string>
+				<string>knReph</string>
+				<string>knsignRvocal</string>
+				<string>knAvagraha</string>
+				<string>knKSSA</string>
+				<string>knsignRRvocal</string>
+				<string>uni20b9</string>
+				<string>knAIlength</string>
+				<string>knAnusvara</string>
+				<string>knsignLvocal</string>
+				<string>knLLvocal</string>
+				<string>knRRvocal</string>
+				<string>knsignAI</string>
 			</array>
 			<key>type</key>
 			<string>glyphList</string>
@@ -1456,6 +1482,18 @@
 		<string>tildecmb</string>
 		<string>emdash</string>
 		<string>ringcmb</string>
+		<string>knReph</string>
+		<string>knsignRvocal</string>
+		<string>knAvagraha</string>
+		<string>knKSSA</string>
+		<string>knsignRRvocal</string>
+		<string>uni20b9</string>
+		<string>knAIlength</string>
+		<string>knAnusvara</string>
+		<string>knsignLvocal</string>
+		<string>knLLvocal</string>
+		<string>knRRvocal</string>
+		<string>knsignAI</string>
 	</array>
 </dict>
 </plist>
