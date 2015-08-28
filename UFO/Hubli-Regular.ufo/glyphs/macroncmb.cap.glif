@@ -2,7 +2,10 @@
 <glyph name="macroncmb.cap" format="1">
   <advance width="0"/>
   <outline>
-    <component base="macroncmb" yOffset="100"/>
+    <contour>
+      <point x="115" y="688" type="move"/>
+      <point x="-114" y="688" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
@@ -18,6 +21,31 @@
           </array>
           <key>contours</key>
           <array>
+            <dict>
+              <key>points</key>
+              <array>
+                <dict>
+                  <key>segmentType</key>
+                  <string>move</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>105</integer>
+                  <key>y</key>
+                  <integer>638</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>-104</integer>
+                  <key>y</key>
+                  <integer>638</integer>
+                </dict>
+              </array>
+            </dict>
           </array>
           <key>lib</key>
           <dict>

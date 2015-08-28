@@ -3,7 +3,18 @@
   <advance width="500"/>
   <unicode hex="005E"/>
   <outline>
-    <component base="circumflex" xScale="1.5913019283" yScale="3.0658486447" xOffset="-144" yOffset="-1304"/>
+    <contour>
+      <point x="246" y="520" type="move"/>
+      <point x="198" y="428"/>
+      <point x="147" y="333"/>
+      <point x="106" y="253" type="curve"/>
+    </contour>
+    <contour>
+      <point x="395" y="253" type="move"/>
+      <point x="354" y="333"/>
+      <point x="305" y="428"/>
+      <point x="255" y="520" type="curve"/>
+    </contour>
   </outline>
   <lib>
     <dict>
