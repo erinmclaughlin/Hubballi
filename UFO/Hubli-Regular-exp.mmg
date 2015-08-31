@@ -11,7 +11,7 @@
       Atilde
     </glyphs>
   </group>
-  <group color="0.0 1.0 1.0 0.25" name="O" side="left" type="kerning">
+  <group name="O" side="left" type="kerning">
     <glyphs>
       D
       Eth
@@ -68,7 +68,7 @@
       Atilde
     </glyphs>
   </group>
-  <group color="0.0 1.0 0.0 0.25" name="O" side="right" type="kerning">
+  <group name="O" side="right" type="kerning">
     <glyphs>
       C
       Ccedilla
@@ -87,6 +87,17 @@
     <glyphs>
       Y
       Yacute
+    </glyphs>
+  </group>
+  <group color="0.0 0.5 1.0 0.25" name="a" side="right" type="kerning">
+    <glyphs>
+      a
+      aacute
+      acircumflex
+      adieresis
+      agrave
+      aring
+      atilde
     </glyphs>
   </group>
   <group name="o" side="right" type="kerning">
@@ -109,6 +120,24 @@
       oslash
       otilde
       q
+    </glyphs>
+  </group>
+  <group color="0.0 1.0 1.0 0.25" name="r" side="right" type="kerning">
+    <glyphs>
+      i
+      iacute
+      icircumflex
+      idieresis
+      igrave
+      m
+      n
+      ntilde
+      r
+      u
+      uacute
+      ucircumflex
+      udieresis
+      ugrave
     </glyphs>
   </group>
 </xml>

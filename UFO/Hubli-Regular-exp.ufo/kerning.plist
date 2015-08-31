@@ -6,6 +6,8 @@
 	<dict>
 		<key>@MMK_R_A</key>
 		<integer>35</integer>
+		<key>@MMK_R_O</key>
+		<integer>10</integer>
 		<key>@MMK_R_Y</key>
 		<integer>-55</integer>
 		<key>S</key>
@@ -16,28 +18,71 @@
 		<integer>-40</integer>
 		<key>W</key>
 		<integer>-45</integer>
+		<key>f</key>
+		<integer>-5</integer>
+		<key>j</key>
+		<integer>10</integer>
+		<key>s</key>
+		<integer>-5</integer>
+		<key>t</key>
+		<integer>-10</integer>
+		<key>v</key>
+		<integer>-25</integer>
+		<key>w</key>
+		<integer>-20</integer>
+		<key>x</key>
+		<integer>10</integer>
+		<key>y</key>
+		<integer>-15</integer>
+		<key>z</key>
+		<integer>10</integer>
 	</dict>
 	<key>@MMK_L_O</key>
 	<dict>
+		<key>@MMK_R_A</key>
+		<integer>10</integer>
 		<key>@MMK_R_Y</key>
-		<integer>-30</integer>
+		<integer>-20</integer>
+		<key>@MMK_R_a</key>
+		<integer>-5</integer>
+		<key>J</key>
+		<integer>-20</integer>
+		<key>T</key>
+		<integer>-20</integer>
 		<key>V</key>
-		<integer>-20</integer>
+		<integer>-10</integer>
 		<key>W</key>
-		<integer>-20</integer>
+		<integer>-10</integer>
 		<key>X</key>
-		<integer>-15</integer>
+		<integer>-5</integer>
 		<key>Z</key>
 		<integer>-15</integer>
+		<key>v</key>
+		<integer>5</integer>
+		<key>w</key>
+		<integer>5</integer>
+		<key>y</key>
+		<integer>5</integer>
+	</dict>
+	<key>@MMK_L_U</key>
+	<dict>
+		<key>J</key>
+		<integer>-20</integer>
 	</dict>
 	<key>@MMK_L_Y</key>
 	<dict>
 		<key>@MMK_R_A</key>
 		<integer>-55</integer>
 		<key>@MMK_R_O</key>
-		<integer>-30</integer>
+		<integer>-20</integer>
 		<key>@MMK_R_Y</key>
 		<integer>15</integer>
+		<key>@MMK_R_a</key>
+		<integer>-55</integer>
+		<key>@MMK_R_o</key>
+		<integer>-50</integer>
+		<key>M</key>
+		<integer>-25</integer>
 		<key>S</key>
 		<integer>-15</integer>
 		<key>T</key>
@@ -46,6 +91,14 @@
 		<integer>15</integer>
 		<key>W</key>
 		<integer>15</integer>
+		<key>s</key>
+		<integer>-55</integer>
+		<key>v</key>
+		<integer>-15</integer>
+		<key>w</key>
+		<integer>-15</integer>
+		<key>y</key>
+		<integer>-15</integer>
 	</dict>
 	<key>@MMK_L_o</key>
 	<dict>
@@ -60,31 +113,90 @@
 	</dict>
 	<key>@MMK_L_y</key>
 	<dict>
+		<key>@MMK_R_a</key>
+		<integer>-15</integer>
 		<key>@MMK_R_o</key>
 		<integer>0</integer>
-		<key>a</key>
-		<integer>-15</integer>
 	</dict>
 	<key>B</key>
 	<dict>
+		<key>@MMK_R_A</key>
+		<integer>10</integer>
 		<key>@MMK_R_Y</key>
-		<integer>-30</integer>
+		<integer>-25</integer>
+		<key>@MMK_R_a</key>
+		<integer>-5</integer>
 		<key>T</key>
 		<integer>-20</integer>
 		<key>V</key>
-		<integer>-15</integer>
+		<integer>-10</integer>
 		<key>W</key>
+		<integer>-10</integer>
+		<key>f</key>
+		<integer>-10</integer>
+		<key>s</key>
+		<integer>-10</integer>
+		<key>t</key>
+		<integer>-10</integer>
+		<key>v</key>
+		<integer>-10</integer>
+		<key>w</key>
+		<integer>-10</integer>
+		<key>y</key>
+		<integer>-10</integer>
+	</dict>
+	<key>C</key>
+	<dict>
+		<key>f</key>
+		<integer>-5</integer>
+		<key>t</key>
 		<integer>-15</integer>
+		<key>v</key>
+		<integer>-10</integer>
+		<key>w</key>
+		<integer>-10</integer>
+		<key>y</key>
+		<integer>-10</integer>
 	</dict>
 	<key>E</key>
 	<dict>
 		<key>@MMK_R_A</key>
 		<integer>10</integer>
+		<key>@MMK_R_a</key>
+		<integer>-10</integer>
+		<key>@MMK_R_o</key>
+		<integer>-10</integer>
+		<key>s</key>
+		<integer>-10</integer>
+		<key>v</key>
+		<integer>-5</integer>
+		<key>w</key>
+		<integer>-5</integer>
+		<key>x</key>
+		<integer>10</integer>
+		<key>y</key>
+		<integer>-5</integer>
+		<key>z</key>
+		<integer>5</integer>
 	</dict>
 	<key>F</key>
 	<dict>
 		<key>@MMK_R_A</key>
 		<integer>-35</integer>
+		<key>@MMK_R_a</key>
+		<integer>-30</integer>
+		<key>@MMK_R_o</key>
+		<integer>-20</integer>
+		<key>J</key>
+		<integer>-45</integer>
+		<key>v</key>
+		<integer>-10</integer>
+		<key>w</key>
+		<integer>-10</integer>
+		<key>y</key>
+		<integer>-10</integer>
+		<key>z</key>
+		<integer>-20</integer>
 	</dict>
 	<key>K</key>
 	<dict>
@@ -92,13 +204,56 @@
 		<integer>30</integer>
 		<key>@MMK_R_O</key>
 		<integer>-5</integer>
+		<key>@MMK_R_a</key>
+		<integer>5</integer>
+		<key>@MMK_R_o</key>
+		<integer>-5</integer>
+		<key>t</key>
+		<integer>-5</integer>
+		<key>v</key>
+		<integer>-10</integer>
+		<key>w</key>
+		<integer>-10</integer>
+		<key>y</key>
+		<integer>-15</integer>
 	</dict>
 	<key>L</key>
 	<dict>
+		<key>@MMK_R_A</key>
+		<integer>20</integer>
+		<key>@MMK_R_U</key>
+		<integer>-15</integer>
 		<key>@MMK_R_Y</key>
 		<integer>-65</integer>
+		<key>@MMK_R_o</key>
+		<integer>-5</integer>
 		<key>T</key>
-		<integer>-60</integer>
+		<integer>-70</integer>
+		<key>V</key>
+		<integer>-70</integer>
+		<key>W</key>
+		<integer>-70</integer>
+		<key>f</key>
+		<integer>-10</integer>
+		<key>t</key>
+		<integer>-10</integer>
+		<key>v</key>
+		<integer>-30</integer>
+		<key>w</key>
+		<integer>-30</integer>
+		<key>y</key>
+		<integer>-30</integer>
+		<key>z</key>
+		<integer>10</integer>
+	</dict>
+	<key>M</key>
+	<dict>
+		<key>@MMK_R_Y</key>
+		<integer>-25</integer>
+		<key>V</key>
+		<integer>-15</integer>
+		<key>W</key>
+		<integer>-20</integer>
 	</dict>
 	<key>P</key>
 	<dict>
@@ -106,21 +261,49 @@
 		<integer>-40</integer>
 		<key>@MMK_R_Y</key>
 		<integer>-10</integer>
+		<key>@MMK_R_a</key>
+		<integer>-15</integer>
+		<key>@MMK_R_o</key>
+		<integer>-10</integer>
+		<key>J</key>
+		<integer>-40</integer>
 		<key>T</key>
 		<integer>-5</integer>
 		<key>Z</key>
 		<integer>-20</integer>
+		<key>f</key>
+		<integer>20</integer>
+		<key>t</key>
+		<integer>20</integer>
+		<key>v</key>
+		<integer>10</integer>
+		<key>w</key>
+		<integer>10</integer>
+		<key>y</key>
+		<integer>10</integer>
 	</dict>
 	<key>R</key>
 	<dict>
 		<key>@MMK_R_A</key>
 		<integer>35</integer>
+		<key>@MMK_R_U</key>
+		<integer>5</integer>
 		<key>@MMK_R_Y</key>
-		<integer>-15</integer>
+		<integer>-10</integer>
+		<key>@MMK_R_a</key>
+		<integer>5</integer>
 		<key>S</key>
 		<integer>5</integer>
-		<key>T</key>
-		<integer>-10</integer>
+		<key>V</key>
+		<integer>5</integer>
+		<key>W</key>
+		<integer>5</integer>
+		<key>j</key>
+		<integer>15</integer>
+		<key>x</key>
+		<integer>20</integer>
+		<key>z</key>
+		<integer>15</integer>
 	</dict>
 	<key>S</key>
 	<dict>
@@ -128,6 +311,10 @@
 		<integer>-15</integer>
 		<key>@MMK_R_Y</key>
 		<integer>-20</integer>
+		<key>@MMK_R_a</key>
+		<integer>-15</integer>
+		<key>@MMK_R_o</key>
+		<integer>-10</integer>
 		<key>S</key>
 		<integer>-20</integer>
 		<key>T</key>
@@ -136,28 +323,72 @@
 		<integer>-10</integer>
 		<key>W</key>
 		<integer>-15</integer>
+		<key>f</key>
+		<integer>-20</integer>
+		<key>s</key>
+		<integer>-10</integer>
+		<key>t</key>
+		<integer>-20</integer>
+		<key>v</key>
+		<integer>-15</integer>
+		<key>w</key>
+		<integer>-15</integer>
+		<key>y</key>
+		<integer>-10</integer>
+		<key>z</key>
+		<integer>-5</integer>
 	</dict>
 	<key>T</key>
 	<dict>
 		<key>@MMK_R_A</key>
 		<integer>-50</integer>
+		<key>@MMK_R_O</key>
+		<integer>-20</integer>
 		<key>@MMK_R_Y</key>
 		<integer>10</integer>
+		<key>@MMK_R_a</key>
+		<integer>-55</integer>
+		<key>@MMK_R_o</key>
+		<integer>-55</integer>
+		<key>@MMK_R_r</key>
+		<integer>0</integer>
 		<key>J</key>
 		<integer>-60</integer>
 		<key>V</key>
 		<integer>10</integer>
 		<key>W</key>
 		<integer>5</integer>
+		<key>m</key>
+		<integer>-40</integer>
+		<key>n</key>
+		<integer>-40</integer>
+		<key>r</key>
+		<integer>-40</integer>
+		<key>s</key>
+		<integer>-50</integer>
+		<key>v</key>
+		<integer>-40</integer>
+		<key>w</key>
+		<integer>-40</integer>
+		<key>x</key>
+		<integer>-15</integer>
+		<key>y</key>
+		<integer>-40</integer>
+		<key>z</key>
+		<integer>-25</integer>
 	</dict>
 	<key>V</key>
 	<dict>
 		<key>@MMK_R_A</key>
 		<integer>-40</integer>
 		<key>@MMK_R_O</key>
-		<integer>-20</integer>
+		<integer>-10</integer>
 		<key>@MMK_R_Y</key>
 		<integer>15</integer>
+		<key>@MMK_R_a</key>
+		<integer>-30</integer>
+		<key>@MMK_R_o</key>
+		<integer>-30</integer>
 		<key>S</key>
 		<integer>-5</integer>
 		<key>T</key>
@@ -166,40 +397,101 @@
 		<integer>10</integer>
 		<key>W</key>
 		<integer>10</integer>
+		<key>f</key>
+		<integer>10</integer>
+		<key>s</key>
+		<integer>-30</integer>
+		<key>t</key>
+		<integer>10</integer>
+		<key>v</key>
+		<integer>-5</integer>
+		<key>w</key>
+		<integer>-5</integer>
+		<key>y</key>
+		<integer>-5</integer>
 	</dict>
 	<key>W</key>
 	<dict>
 		<key>@MMK_R_A</key>
 		<integer>-45</integer>
 		<key>@MMK_R_O</key>
-		<integer>-20</integer>
+		<integer>-10</integer>
 		<key>@MMK_R_Y</key>
 		<integer>15</integer>
+		<key>@MMK_R_a</key>
+		<integer>-40</integer>
+		<key>@MMK_R_o</key>
+		<integer>-30</integer>
 		<key>S</key>
 		<integer>-10</integer>
 		<key>T</key>
 		<integer>5</integer>
 		<key>V</key>
 		<integer>10</integer>
+		<key>f</key>
+		<integer>10</integer>
+		<key>s</key>
+		<integer>-30</integer>
+		<key>t</key>
+		<integer>10</integer>
+		<key>v</key>
+		<integer>-5</integer>
+		<key>w</key>
+		<integer>-5</integer>
+		<key>y</key>
+		<integer>-5</integer>
 	</dict>
 	<key>X</key>
 	<dict>
 		<key>@MMK_R_O</key>
-		<integer>-15</integer>
+		<integer>-5</integer>
+		<key>@MMK_R_o</key>
+		<integer>-5</integer>
+		<key>f</key>
+		<integer>-5</integer>
+		<key>t</key>
+		<integer>-5</integer>
+		<key>v</key>
+		<integer>-10</integer>
+		<key>w</key>
+		<integer>-10</integer>
+		<key>y</key>
+		<integer>-10</integer>
 	</dict>
 	<key>Z</key>
 	<dict>
+		<key>@MMK_R_A</key>
+		<integer>5</integer>
 		<key>@MMK_R_O</key>
+		<integer>-15</integer>
+		<key>@MMK_R_a</key>
+		<integer>-10</integer>
+		<key>@MMK_R_o</key>
+		<integer>-25</integer>
+		<key>j</key>
+		<integer>10</integer>
+		<key>s</key>
+		<integer>-5</integer>
+		<key>v</key>
+		<integer>-15</integer>
+		<key>w</key>
+		<integer>-15</integer>
+		<key>y</key>
 		<integer>-15</integer>
 	</dict>
 	<key>f</key>
 	<dict>
+		<key>@MMK_R_a</key>
+		<integer>-20</integer>
 		<key>@MMK_R_o</key>
 		<integer>-15</integer>
-		<key>a</key>
-		<integer>-20</integer>
 		<key>d</key>
 		<integer>-10</integer>
+	</dict>
+	<key>j</key>
+	<dict>
+		<key>j</key>
+		<integer>20</integer>
 	</dict>
 	<key>p</key>
 	<dict>
@@ -210,35 +502,39 @@
 	</dict>
 	<key>r</key>
 	<dict>
+		<key>@MMK_R_a</key>
+		<integer>-20</integer>
 		<key>@MMK_R_o</key>
 		<integer>-10</integer>
-		<key>a</key>
-		<integer>-15</integer>
+		<key>f</key>
+		<integer>10</integer>
+		<key>t</key>
+		<integer>10</integer>
 	</dict>
 	<key>t</key>
 	<dict>
-		<key>@MMK_R_o</key>
+		<key>@MMK_R_a</key>
 		<integer>-10</integer>
-		<key>a</key>
+		<key>@MMK_R_o</key>
 		<integer>-10</integer>
 		<key>d</key>
 		<integer>-5</integer>
 	</dict>
 	<key>v</key>
 	<dict>
+		<key>@MMK_R_a</key>
+		<integer>-10</integer>
 		<key>@MMK_R_o</key>
 		<integer>0</integer>
-		<key>a</key>
-		<integer>-10</integer>
 		<key>d</key>
 		<integer>-5</integer>
 	</dict>
 	<key>w</key>
 	<dict>
+		<key>@MMK_R_a</key>
+		<integer>-20</integer>
 		<key>@MMK_R_o</key>
 		<integer>0</integer>
-		<key>a</key>
-		<integer>-20</integer>
 		<key>d</key>
 		<integer>-5</integer>
 	</dict>

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Aring" format="1">
-  <advance width="562"/>
+  <advance width="568"/>
   <unicode hex="00C5"/>
   <outline>
     <component base="A"/>
-    <component base="ringcmb.cap" xOffset="278"/>
+    <component base="ringcmb.cap" xOffset="280"/>
     <component base="A"/>
-    <component base="ringcmb.cap" xOffset="278"/>
+    <component base="ringcmb.cap" xOffset="280"/>
   </outline>
   <lib>
     <dict>
@@ -32,7 +32,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>562</integer>
+          <integer>568</integer>
         </dict>
         <key>wire</key>
         <dict>
@@ -54,7 +54,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>562</integer>
+          <integer>568</integer>
         </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>

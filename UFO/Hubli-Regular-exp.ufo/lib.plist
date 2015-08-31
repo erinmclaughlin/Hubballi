@@ -17,16 +17,20 @@
 	<false/>
 	<key>com.schriftgestaltung.weight</key>
 	<string>Bold</string>
+	<key>com.typemytype.robofont.compileSettings.MacRomanFirst</key>
+	<integer>1</integer>
 	<key>com.typemytype.robofont.compileSettings.autohint</key>
-	<true/>
-	<key>com.typemytype.robofont.compileSettings.checkOutlines</key>
-	<false/>
-	<key>com.typemytype.robofont.compileSettings.decompose</key>
-	<false/>
-	<key>com.typemytype.robofont.compileSettings.generateFormat</key>
 	<integer>0</integer>
+	<key>com.typemytype.robofont.compileSettings.checkOutlines</key>
+	<integer>1</integer>
+	<key>com.typemytype.robofont.compileSettings.decompose</key>
+	<integer>1</integer>
+	<key>com.typemytype.robofont.compileSettings.generateFormat</key>
+	<integer>1</integer>
+	<key>com.typemytype.robofont.compileSettings.path</key>
+	<string>/Users/erinmclaughlin/Desktop/JOBS/_Google HUBLI/Hubli/UFO/Hubli-Regular-exp.ttf</string>
 	<key>com.typemytype.robofont.compileSettings.releaseMode</key>
-	<false/>
+	<integer>0</integer>
 	<key>com.typemytype.robofont.foreground.layerStrokeColor</key>
 	<array>
 		<real>0.5</real>
@@ -1494,6 +1498,9 @@
 		<string>knLLvocal</string>
 		<string>knRRvocal</string>
 		<string>knsignAI</string>
+		<string>knmII</string>
+		<string>knmEE</string>
+		<string>knmOO</string>
 	</array>
 </dict>
 </plist>
