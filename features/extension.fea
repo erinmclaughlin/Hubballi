@@ -1,0 +1,35 @@
+@BELOW_BASE_MARKS = [
+
+  knRAc2
+
+  knmvR knmvRR knAIlengthmark
+
+  knKAc2 knKHAc2 knGAc2 knGHAc2 knNGAc2 knCAc2 knCHAc2 knJAc2 knJHAc2 knNYAc2 knTTAc2 knTTHAc2 knDDAc2 knDDHAc2 knNNAc2 knTAc2 knTHAc2 knDAc2 knDHAc2 knNAc2 knPAc2 knPHAc2 knBAc2 knBHAc2 knMAc2 knYAc2 knLAc2 knVAc2 knSHAc2 knSSAc2 knSAc2 knHAc2 knRRAc2 knLLAc2 knLLLAc2 knKSSAc2
+
+  knTAc2_RAc2
+
+];
+
+@BELOW_BASE_MARKS_FOLLOWING = [
+
+  knRAc2.following
+
+  knmvR.following knmvRR.following knAIlengthmark.following
+
+  knKAc2.following knKHAc2.following knGAc2.following knGHAc2.following knNGAc2.following knCAc2.following knCHAc2.following knJAc2.following knJHAc2.following knNYAc2.following knTTAc2.following knTTHAc2.following knDDAc2.following knDDHAc2.following knNNAc2.following knTAc2.following knTHAc2.following knDAc2.following knDHAc2.following knNAc2.following knPAc2.following knPHAc2.following knBAc2.following knBHAc2.following knMAc2.following knYAc2.following knLAc2.following knVAc2.following knSHAc2.following knSSAc2.following knSAc2.following knHAc2.following knRRAc2.following knLLAc2.following knLLLAc2.following knKSSAc2.following
+
+  knTAc2_RAc2.following
+
+];
+
+@COMBINING_MARKS = [
+
+  knCandrabindu
+  knNukta
+
+  knSSAc2.kssa
+
+  @BELOW_BASE_MARKS
+  @BELOW_BASE_MARKS_FOLLOWING
+
+];

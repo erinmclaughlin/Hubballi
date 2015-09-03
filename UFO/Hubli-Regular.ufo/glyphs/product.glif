@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="product" format="1">
-  <advance width="500"/>
+  <advance width="590"/>
   <unicode hex="220F"/>
   <outline>
+    <contour>
+      <point x="458" y="27" type="move"/>
+      <point x="458" y="512" type="line"/>
+      <point x="128" y="512" type="line"/>
+      <point x="128" y="27" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
@@ -28,7 +34,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>500</integer>
+          <integer>590</integer>
         </dict>
         <key>wire</key>
         <dict>
@@ -50,7 +56,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>500</integer>
+          <integer>590</integer>
         </dict>
       </dict>
     </dict>

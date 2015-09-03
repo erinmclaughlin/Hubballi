@@ -1,8 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni20BD" format="1">
-  <advance width="500"/>
+  <advance width="542"/>
   <unicode hex="20BD"/>
   <outline>
+    <contour>
+      <point x="70" y="266" type="move"/>
+      <point x="298" y="266" type="line" smooth="yes"/>
+      <point x="409" y="266"/>
+      <point x="457" y="322"/>
+      <point x="457" y="389" type="curve" smooth="yes"/>
+      <point x="457" y="462"/>
+      <point x="397" y="512"/>
+      <point x="298" y="512" type="curve" smooth="yes"/>
+      <point x="163" y="512" type="line"/>
+      <point x="163" y="27" type="line"/>
+    </contour>
+    <contour>
+      <point x="69" y="117" type="move"/>
+      <point x="331" y="117" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
@@ -28,7 +44,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>500</integer>
+          <integer>542</integer>
         </dict>
         <key>wire</key>
         <dict>
@@ -50,9 +66,16 @@
           <array>
           </array>
           <key>width</key>
-          <integer>500</integer>
+          <integer>542</integer>
         </dict>
       </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.8424</real>
+        <real>0.6742</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>

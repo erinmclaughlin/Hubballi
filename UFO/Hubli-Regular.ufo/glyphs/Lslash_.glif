@@ -4,8 +4,8 @@
   <unicode hex="0141"/>
   <outline>
     <contour>
-      <point x="272" y="333" type="move"/>
-      <point x="57" y="207" type="line"/>
+      <point x="267" y="349" type="move"/>
+      <point x="52" y="207" type="line"/>
     </contour>
     <component base="L"/>
   </outline>
@@ -45,6 +45,31 @@
           </array>
           <key>contours</key>
           <array>
+            <dict>
+              <key>points</key>
+              <array>
+                <dict>
+                  <key>segmentType</key>
+                  <string>move</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>272</integer>
+                  <key>y</key>
+                  <integer>333</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>57</integer>
+                  <key>y</key>
+                  <integer>207</integer>
+                </dict>
+              </array>
+            </dict>
           </array>
           <key>lib</key>
           <dict>

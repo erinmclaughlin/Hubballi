@@ -1,8 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="trademark" format="1">
-  <advance width="500"/>
+  <advance width="729"/>
   <unicode hex="2122"/>
   <outline>
+    <contour>
+      <point x="170" y="537" type="move"/>
+      <point x="170" y="296" type="line"/>
+    </contour>
+    <contour>
+      <point x="65" y="537" type="move"/>
+      <point x="277" y="537" type="line"/>
+    </contour>
+    <contour>
+      <point x="381" y="541" type="move"/>
+      <point x="369" y="470"/>
+      <point x="353" y="353"/>
+      <point x="347" y="295" type="curve"/>
+    </contour>
+    <contour>
+      <point x="608" y="542" type="move"/>
+      <point x="624" y="464"/>
+      <point x="640" y="362"/>
+      <point x="649" y="295" type="curve"/>
+    </contour>
+    <contour>
+      <point x="387" y="535" type="move"/>
+      <point x="417" y="472"/>
+      <point x="464" y="374"/>
+      <point x="497" y="305" type="curve"/>
+    </contour>
+    <contour>
+      <point x="499" y="311" type="move"/>
+      <point x="528" y="378"/>
+      <point x="568" y="465"/>
+      <point x="605" y="538" type="curve"/>
+    </contour>
   </outline>
   <lib>
     <dict>
@@ -28,7 +60,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>500</integer>
+          <integer>729</integer>
         </dict>
         <key>wire</key>
         <dict>
@@ -50,7 +82,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>500</integer>
+          <integer>729</integer>
         </dict>
       </dict>
     </dict>

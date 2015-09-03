@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni2206" format="1">
-  <advance width="500"/>
+  <advance width="564"/>
   <outline>
+    <contour>
+      <point x="274" y="512" type="move"/>
+      <point x="108" y="27" type="line"/>
+    </contour>
+    <contour>
+      <point x="124" y="27" type="move"/>
+      <point x="429" y="27" type="line"/>
+    </contour>
+    <contour>
+      <point x="454" y="27" type="move"/>
+      <point x="288" y="512" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
@@ -27,7 +39,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>500</integer>
+          <integer>564</integer>
         </dict>
         <key>wire</key>
         <dict>
@@ -49,7 +61,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>500</integer>
+          <integer>564</integer>
         </dict>
       </dict>
     </dict>

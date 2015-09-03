@@ -1,0 +1,176 @@
+languagesystem DFLT dflt;
+languagesystem knd2 dflt;
+languagesystem knda dflt;
+
+# include (../../features/GENERATED_classes.fea);
+include (../../features/extension.fea);
+include (../../features/tables.fea);
+include (../../features/lookups.fea);
+
+
+# -------------------
+# BASIC SHAPING FORMS
+# -------------------
+
+# Nukta Forms
+# -----------
+
+# feature nukt {
+#   lookup nukt;
+# } nukt;
+
+
+# Akhand Ligatures
+# ----------------
+
+# feature akhn {
+# } akhn;
+
+
+# Reph Forms
+# ----------
+
+feature rphf {
+  lookup rphf;
+} rphf;
+
+
+# Pre-base Forms
+# --------------
+
+# feature pref {
+# } pref;
+
+
+# Below-base Forms
+# ----------------
+
+feature blwf {
+
+  script DFLT;
+    lookup blwf_new;
+
+  script knd2;
+    lookup blwf_new;
+
+  script knda;
+    lookup blwf_old;
+
+} blwf;
+
+
+# Half Forms
+# ----------
+
+# feature half {
+# } half;
+
+
+# Post-base Forms
+# ---------------
+
+# feature pstf {
+# } pstf;
+
+
+# Conjunct Forms
+# --------------
+
+# feature cjct {
+# } cjct;
+
+
+# ----------------------------
+# MANDATORY PRESENTATION FORMS
+# ----------------------------
+
+# Pre-base Substitution
+# ---------------------
+
+feature pres {
+  lookup pres_matra;
+  lookup pres_kssa;
+  lookup pres_c2_following;
+  lookup pres_c2_ligating;
+} pres;
+
+
+# Above-base Substitution
+# -----------------------
+
+# feature abvs {
+# } abvs;
+
+
+# Below-base Substitution
+# -----------------------
+
+# feature blws {
+# } blws;
+
+
+# Post-base Substitution
+# ----------------------
+
+# feature psts {
+# } psts;
+
+
+# Halant Forms
+# ------------
+
+feature haln {
+  lookup haln;
+} haln;
+
+
+# Required Contextual Alternates
+# ------------------------------
+# Newly proposed; not in the specification.
+
+# feature rclt {
+# } rclt;
+
+
+# --------------------------------
+# DISCRETIONARY PRESENTATION FORMS
+# --------------------------------
+
+# Contextual Alternates
+# ---------------------
+
+# feature calt {
+# } calt;
+
+
+# -----------
+# POSITIONING
+# -----------
+
+# Kerning
+# -------
+
+# feature kern {
+#   include (kern.fea);
+# } kern;
+
+
+# Distances
+# ---------
+
+# feature dist {
+# } dist;
+
+
+# Above- and Below-base Mark Positioning
+# --------------------------------------
+
+include (markclasses.fea);
+
+# feature abvm {
+#   include (abvm.fea);
+# } abvm;
+
+feature blwm {
+  include (blwm.fea);
+} blwm;
