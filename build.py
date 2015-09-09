@@ -6,7 +6,7 @@ kit.confirm_version('0.2.1')
 # - - -
 
 family = kit.Family(
-    trademark = 'Hind Mysuru',
+    trademark = 'Hubli',
     script = 'Kannada',
     hide_script_name = True,
 )

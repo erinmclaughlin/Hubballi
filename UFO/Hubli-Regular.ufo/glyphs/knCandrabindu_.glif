@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="knCandrabindu" format="1">
+  <advance width="1"/>
+  <outline>
+    <contour>
+      <point x="-127" y="593" type="move"/>
+      <point x="-104" y="555"/>
+      <point x="-63" y="521"/>
+      <point x="-1" y="521" type="curve" smooth="yes"/>
+      <point x="66" y="521"/>
+      <point x="96" y="555"/>
+      <point x="117" y="589" type="curve"/>
+    </contour>
+    <contour>
+      <point x="-3" y="639" type="curve" smooth="yes"/>
+      <point x="8" y="639"/>
+      <point x="18" y="647"/>
+      <point x="18" y="658" type="curve" smooth="yes"/>
+      <point x="18" y="668"/>
+      <point x="8" y="677"/>
+      <point x="-3" y="677" type="curve" smooth="yes"/>
+      <point x="-14" y="677"/>
+      <point x="-23" y="668"/>
+      <point x="-23" y="658" type="curve" smooth="yes"/>
+      <point x="-23" y="647"/>
+      <point x="-14" y="639"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>knCandrabindu</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1</integer>
+        </dict>
+        <key>wire</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>knCandrabindu</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1</integer>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.974</real>
+        <real>0.577</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

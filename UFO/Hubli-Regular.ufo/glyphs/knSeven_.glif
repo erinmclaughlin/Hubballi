@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="knSeven" format="1">
+  <advance width="583"/>
+  <outline>
+    <contour>
+      <point x="167" y="375" type="move"/>
+      <point x="176" y="417"/>
+      <point x="207" y="451"/>
+      <point x="257" y="451" type="curve" smooth="yes"/>
+      <point x="319" y="451"/>
+      <point x="358" y="407"/>
+      <point x="358" y="348" type="curve"/>
+      <point x="358" y="287"/>
+      <point x="319" y="243"/>
+      <point x="215" y="203" type="curve" smooth="yes"/>
+      <point x="112" y="163"/>
+      <point x="83" y="129"/>
+      <point x="83" y="94" type="curve" smooth="yes"/>
+      <point x="83" y="60"/>
+      <point x="106" y="27"/>
+      <point x="171" y="27" type="curve" smooth="yes"/>
+      <point x="531" y="27" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>knSeven</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>583</integer>
+        </dict>
+        <key>wire</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>knSeven</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>583</integer>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.974</real>
+        <real>0.577</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

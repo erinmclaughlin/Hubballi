@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="knFour" format="1">
+  <advance width="617"/>
+  <outline>
+    <contour>
+      <point x="220" y="309" type="move"/>
+      <point x="246" y="319"/>
+      <point x="273" y="342"/>
+      <point x="273" y="379" type="curve" smooth="yes"/>
+      <point x="273" y="418"/>
+      <point x="238" y="452"/>
+      <point x="187" y="452" type="curve" smooth="yes"/>
+      <point x="129" y="452"/>
+      <point x="83" y="395"/>
+      <point x="83" y="333" type="curve" smooth="yes"/>
+      <point x="83" y="294"/>
+      <point x="97" y="257"/>
+      <point x="128" y="227" type="curve" smooth="yes"/>
+      <point x="163" y="193"/>
+      <point x="209" y="168"/>
+      <point x="319" y="168" type="curve" smooth="yes"/>
+      <point x="430" y="168"/>
+      <point x="477" y="196"/>
+      <point x="505" y="224" type="curve" smooth="yes"/>
+      <point x="528" y="247"/>
+      <point x="542" y="278"/>
+      <point x="542" y="315" type="curve" smooth="yes"/>
+      <point x="542" y="360"/>
+      <point x="520" y="398"/>
+      <point x="480" y="437" type="curve"/>
+    </contour>
+    <contour>
+      <point x="311" y="166" type="curve" smooth="yes"/>
+      <point x="233" y="165"/>
+      <point x="202" y="128"/>
+      <point x="202" y="89" type="curve" smooth="yes"/>
+      <point x="202" y="50"/>
+      <point x="238" y="11"/>
+      <point x="311" y="11" type="curve" smooth="yes"/>
+      <point x="387" y="11"/>
+      <point x="421" y="50"/>
+      <point x="421" y="88" type="curve" smooth="yes"/>
+      <point x="421" y="128"/>
+      <point x="404" y="167"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>knFour</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>617</integer>
+        </dict>
+        <key>wire</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>knFour</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>617</integer>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.974</real>
+        <real>0.577</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>
