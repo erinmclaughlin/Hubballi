@@ -3,9 +3,9 @@ languagesystem knd2 dflt;
 languagesystem knda dflt;
 
 # include (../../features/GENERATED_classes.fea);
-include (features/extension.fea);
-include (features/tables.fea);
-include (features/lookups.fea);
+include (../../features/extension.fea);
+include (../../features/tables.fea);
+include (../../features/lookups.fea);
 
 
 # -------------------
@@ -165,12 +165,12 @@ feature haln {
 # Above- and Below-base Mark Positioning
 # --------------------------------------
 
-#include (markclasses.fea);
+include (markclasses.fea);
 
 # feature abvm {
 #   include (abvm.fea);
 # } abvm;
 
-#feature blwm {
-#  include (blwm.fea);
-#} blwm;
+feature blwm {
+  include (blwm.fea);
+} blwm;

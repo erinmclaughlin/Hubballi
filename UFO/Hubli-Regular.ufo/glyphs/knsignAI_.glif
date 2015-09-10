@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="knsignAI" format="1">
   <advance width="172"/>
+  <unicode hex="0CC8"/>
   <outline>
     <component base="knAIlength"/>
     <component base="knsignE"/>
+    <component base="knAIlengthmark"/>
   </outline>
   <lib>
     <dict>

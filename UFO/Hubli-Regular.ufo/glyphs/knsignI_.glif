@@ -1,24 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="knsignI" format="1">
-  <advance width="384"/>
+  <advance width="0"/>
+  <unicode hex="0CBF"/>
   <outline>
     <contour>
-      <point x="132" y="310" type="move"/>
-      <point x="250" y="310"/>
-      <point x="315" y="380"/>
-      <point x="315" y="473" type="curve" smooth="yes"/>
-      <point x="315" y="544"/>
-      <point x="263" y="615"/>
-      <point x="193" y="615" type="curve" smooth="yes"/>
-      <point x="137" y="615"/>
-      <point x="102" y="575"/>
-      <point x="102" y="530" type="curve" smooth="yes"/>
-      <point x="102" y="484"/>
-      <point x="139" y="449"/>
-      <point x="187" y="449" type="curve" smooth="yes"/>
-      <point x="233" y="449"/>
-      <point x="268" y="470"/>
-      <point x="305" y="518" type="curve"/>
+      <point x="-68" y="310" type="move"/>
+      <point x="50" y="310"/>
+      <point x="115" y="380"/>
+      <point x="115" y="473" type="curve" smooth="yes"/>
+      <point x="115" y="544"/>
+      <point x="63" y="615"/>
+      <point x="-7" y="615" type="curve" smooth="yes"/>
+      <point x="-63" y="615"/>
+      <point x="-98" y="575"/>
+      <point x="-98" y="530" type="curve" smooth="yes"/>
+      <point x="-98" y="484"/>
+      <point x="-61" y="449"/>
+      <point x="-13" y="449" type="curve" smooth="yes"/>
+      <point x="33" y="449"/>
+      <point x="68" y="470"/>
+      <point x="105" y="518" type="curve"/>
     </contour>
   </outline>
   <lib>
@@ -45,7 +46,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>384</integer>
+          <integer>0</integer>
         </dict>
         <key>wire</key>
         <dict>
@@ -357,7 +358,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>384</integer>
+          <integer>0</integer>
         </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>

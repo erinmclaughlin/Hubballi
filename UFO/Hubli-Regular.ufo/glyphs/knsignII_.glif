@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="knsignII" format="1">
-  <advance width="762"/>
+  <advance width="579"/>
+  <unicode hex="0CC0"/>
   <outline>
     <component base="knIsign"/>
-    <component base="knLength" xOffset="349"/>
+    <component base="knLength" xOffset="365" yOffset="-174"/>
     <component base="knsignI"/>
-    <component base="knLengthmark" xOffset="390"/>
+    <component base="knLengthmark" xOffset="190"/>
   </outline>
   <lib>
     <dict>
@@ -31,7 +32,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>762</integer>
+          <integer>579</integer>
         </dict>
         <key>wire</key>
         <dict>
@@ -53,7 +54,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>762</integer>
+          <integer>579</integer>
         </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>
