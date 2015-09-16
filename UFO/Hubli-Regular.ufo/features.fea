@@ -2,456 +2,10 @@ languagesystem DFLT dflt;
 languagesystem knd2 dflt;
 languagesystem knda dflt;
 
-# Nukta Forms
-# -----------
-
-# lookup nukt {
-#   sub knJA knNukta by knJxA;
-#   sub knPA knNukta by knPxA;
-# } nukt;
-
-
-# Reph Forms
-# ----------
-
-# lookup rphf {
-#   sub knRA knVirama by knReph;
-# } rphf;
-
-
-# Below-base Forms
-# ----------------
-
-lookup blwf_knd2 {
-
-  sub knVirama knKA by knKAc2;
-  sub knVirama knKHA by knKHAc2;
-  sub knVirama knGA by knGAc2;
-  sub knVirama knGHA by knGHAc2;
-  sub knVirama knNGA by knNGAc2;
-  sub knVirama knCA by knCAc2;
-  sub knVirama knCHA by knCHAc2;
-  sub knVirama knJA by knJAc2;
-  sub knVirama knJHA by knJHAc2;
-  sub knVirama knNYA by knNYAc2;
-  sub knVirama knTTA by knTTAc2;
-  sub knVirama knTTHA by knTTHAc2;
-  sub knVirama knDDA by knDDAc2;
-  sub knVirama knDDHA by knDDHAc2;
-  sub knVirama knNNA by knNNAc2;
-  sub knVirama knTA by knTAc2;
-  sub knVirama knTHA by knTHAc2;
-  sub knVirama knDA by knDAc2;
-  sub knVirama knDHA by knDHAc2;
-  sub knVirama knNA by knNAc2;
-  sub knVirama knPA by knPAc2;
-  sub knVirama knPHA by knPHAc2;
-  sub knVirama knBA by knBAc2;
-  sub knVirama knBHA by knBHAc2;
-  sub knVirama knMA by knMAc2;
-  sub knVirama knYA by knYAc2;
-  sub knVirama knRA by knRAc2;
-  sub knVirama knLA by knLAc2;
-  sub knVirama knVA by knVAc2;
-  sub knVirama knSHA by knSHAc2;
-  sub knVirama knSSA by knSSAc2;
-  sub knVirama knSA by knSAc2;
-  sub knVirama knHA by knHAc2;
-
-  sub knVirama knRRA by knRRAc2;
-  sub knVirama knLLA by knLLAc2;
-  sub knVirama knLLLA by knLLLAc2;
-
-} blwf_knd2;
-
-#lookup blwf_knda {
-
-#  sub knKA knVirama by knKAc2;
-#  sub knKHA knVirama by knKHAc2;
-#  sub knGA knVirama by knGAc2;
-#  sub knGHA knVirama by knGHAc2;
-#  sub knNGA knVirama by knNGAc2;
-#  sub knCA knVirama by knCAc2;
-#  sub knCHA knVirama by knCHAc2;
-#  sub knJA knVirama by knJAc2;
-#  sub knJHA knVirama by knJHAc2;
-#  sub knNYA knVirama by knNYAc2;
-#  sub knTTA knVirama by knTTAc2;
-#  sub knTTHA knVirama by knTTHAc2;
-#  sub knDDA knVirama by knDDAc2;
-#  sub knDDHA knVirama by knDDHAc2;
-#  sub knNNA knVirama by knNNAc2;
-#  sub knTA knVirama by knTAc2;
-#  sub knTHA knVirama by knTHAc2;
-#  sub knDA knVirama by knDAc2;
-#  sub knDHA knVirama by knDHAc2;
-#  sub knNA knVirama by knNAc2;
-#  sub knPA knVirama by knPAc2;
-#  sub knPHA knVirama by knPHAc2;
-#  sub knBA knVirama by knBAc2;
-#  sub knBHA knVirama by knBHAc2;
-#  sub knMA knVirama by knMAc2;
-#  sub knYA knVirama by knYAc2;
-#  sub knRA knVirama by knRAc2;
-#  sub knLA knVirama by knLAc2;
-#  sub knVA knVirama by knVAc2;
-#  sub knSHA knVirama by knSHAc2;
-#  sub knSSA knVirama by knSSAc2;
-#  sub knSA knVirama by knSAc2;
-#  sub knHA knVirama by knHAc2;
-
-#  sub knRRA knVirama by knRRAc2;
-#  sub knLLA knVirama by knLLAc2;
-#  sub knLLLA knVirama by knLLLAc2;
-
-#} blwf_knda;
-
-
-# Pre-base Substitution
-# -----------------------
-
-lookup pres_o {
-  sub knsignE knsignUU by knsignO;
-} pres_o;
-
-lookup pres_matra {
-
-  sub knKA knsignI by knKI;
-  sub knKHA knsignI by knKHI;
-  sub knGA knsignI by knGI;
-  sub knGHA knsignI by knGHI;
-  # sub knNGA knsignI by knNGI;
-  sub knCA knsignI by knCI;
-  sub knCHA knsignI by knCHI;
-  sub knJA knsignI by knJI;
-  sub knJHA knsignI by knJHI;
-  # sub knNYA knsignI by knNYI;
-  sub knTTA knsignI by knTTI;
-  sub knTTHA knsignI by knTTHI;
-  sub knDDA knsignI by knDDI;
-  sub knDDHA knsignI by knDDHI;
-  sub knNNA knsignI by knNNI;
-  sub knTA knsignI by knTI;
-  sub knTHA knsignI by knTHI;
-  sub knDA knsignI by knDI;
-  sub knDHA knsignI by knDHI;
-  sub knNA knsignI by knNI;
-  sub knPA knsignI by knPI;
-  sub knPHA knsignI by knPHI;
-  sub knBA knsignI by knBI;
-  sub knBHA knsignI by knBHI;
-  sub knMA knsignI by knsignI;
-  sub knYA knsignI by knYI;
-  sub knRA knsignI by knRI;
-  sub knLA knsignI by knLI;
-  sub knVA knsignI by knVI;
-  sub knSHA knsignI by knSHI;
-  sub knSSA knsignI by knSSI;
-  sub knSA knsignI by knSI;
-  sub knHA knsignI by knHI;
-
-  sub knRRA knsignI by knRRI;
-  sub knLLA knsignI by knLLI;
-  sub knLLLA knsignI by knLLLI;
-
-  sub knKA knsignE by knKE;
-  sub knKHA knsignE by knKHE;
-  sub knGA knsignE by knGE;
-  sub knGHA knsignE by knGHE;
-  sub knNGA knsignE by knNGE;
-  sub knCA knsignE by knCE;
-  sub knCHA knsignE by knCHE;
-  sub knJA knsignE by knJE;
-  sub knJHA knsignE by knJHE;
-  sub knNYA knsignE by knNYE;
-  sub knTTA knsignE by knTTE;
-  sub knTTHA knsignE by knTTHE;
-  sub knDDA knsignE by knDDE;
-  sub knDDHA knsignE by knDDHE;
-  sub knNNA knsignE by knNNE;
-  sub knTA knsignE by knTE;
-  sub knTHA knsignE by knTHE;
-  sub knDA knsignE by knDE;
-  sub knDHA knsignE by knDHE;
-  sub knNA knsignE by knNE;
-  sub knPA knsignE by knPE;
-  sub knPHA knsignE by knPHE;
-  sub knBA knsignE by knBE;
-  sub knBHA knsignE by knBHE;
-  sub knMA knsignE by knsignE;
-  sub knYA knsignE by knYE;
-  sub knRA knsignE by knRE;
-  sub knLA knsignE by knLE;
-  sub knVA knsignE by knVE;
-  sub knSHA knsignE by knSHE;
-  sub knSSA knsignE by knSSE;
-  sub knSA knsignE by knSE;
-  sub knHA knsignE by knHE;
-
-  sub knRRA knsignE by knRRE;
-  sub knLLA knsignE by knLLE;
-  sub knLLLA knsignE by knLLLE;
-
-  sub knKA knsignAU by knKAU;
-  sub knKHA knsignAU by knKHAU;
-  sub knGA knsignAU by knGAU;
-  sub knGHA knsignAU by knGHAU;
-  sub knNGA knsignAU by knNGAU;
-  sub knCA knsignAU by knCAU;
-  sub knCHA knsignAU by knCHAU;
-  sub knJA knsignAU by knJAU;
-  sub knJHA knsignAU by knJHAU;
-  sub knNYA knsignAU by knNYAU;
-  sub knTTA knsignAU by knTTAU;
-  sub knTTHA knsignAU by knTTHAU;
-  sub knDDA knsignAU by knDDAU;
-  sub knDDHA knsignAU by knDDHAU;
-  sub knNNA knsignAU by knNNAU;
-  sub knTA knsignAU by knTAU;
-  sub knTHA knsignAU by knTHAU;
-  sub knDA knsignAU by knDAU;
-  sub knDHA knsignAU by knDHAU;
-  sub knNA knsignAU by knNAU;
-  sub knPA knsignAU by knPAU;
-  sub knPHA knsignAU by knPHAU;
-  sub knBA knsignAU by knBAU;
-  sub knBHA knsignAU by knBHAU;
-  sub knMA knsignAU by knsignAU;
-  sub knYA knsignAU by knYAU;
-  sub knRA knsignAU by knRAU;
-  sub knLA knsignAU by knLAU;
-  sub knVA knsignAU by knVAU;
-  sub knSHA knsignAU by knSHAU;
-  sub knSSA knsignAU by knSSAU;
-  sub knSA knsignAU by knSAU;
-  sub knHA knsignAU by knHAU;
-
-  sub knRRA knsignAU by knRRAU;
-  sub knLLA knsignAU by knLLAU;
-  sub knLLLA knsignAU by knLLLAU;
-
-  sub knKA knsignAA by knKAA;
-  sub knKHA knsignAA by knKHAA;
-  sub knGA knsignAA by knGAA;
-  sub knGHA knsignAA by knGHAA;
-  sub knNGA knsignAA by knNGAA;
-  sub knCA knsignAA by knCAA;
-  sub knCHA knsignAA by knCHAA;
-  sub knJA knsignAA by knJAA;
-  sub knJHA knsignAA by knJHAA;
-  sub knNYA knsignAA by knNYAA;
-  sub knTTA knsignAA by knTTAA;
-  sub knTTHA knsignAA by knTTHAA;
-  sub knDDA knsignAA by knDDAA;
-  sub knDDHA knsignAA by knDDHAA;
-  sub knNNA knsignAA by knNNAA;
-  sub knTA knsignAA by knTAA;
-  sub knTHA knsignAA by knTHAA;
-  sub knDA knsignAA by knDAA;
-  sub knDHA knsignAA by knDHAA;
-  sub knNA knsignAA by knNAA;
-  sub knPA knsignAA by knPAA;
-  sub knPHA knsignAA by knPHAA;
-  sub knBA knsignAA by knBAA;
-  sub knBHA knsignAA by knBHAA;
-  sub knMA knsignAA by knsignAA;
-  sub knYA knsignAA by knYAA;
-  sub knRA knsignAA by knRAA;
-  sub knLA knsignAA by knLAA;
-  sub knVA knsignAA by knVAA;
-  sub knSHA knsignAA by knSHAA;
-  sub knSSA knsignAA by knSSAA;
-  sub knSA knsignAA by knSAA;
-  sub knHA knsignAA by knHAA;
-
-  sub knRRA knsignAA by knRRAA;
-  sub knLLA knsignAA by knLLAA;
-  sub knLLLA knsignAA by knLLLAA;
-
-  sub knKA knsignU by knKU;
-  sub knKHA knsignU by knKHU;
-  sub knGA knsignU by knGU;
-  sub knGHA knsignU by knGHU;
-  sub knNGA knsignU by knNGU;
-  sub knCA knsignU by knCU;
-  sub knCHA knsignU by knCHU;
-  sub knJA knsignU by knJU;
-  sub knJHA knsignU by knJHU;
-  sub knNYA knsignU by knNYU;
-  sub knTTA knsignU by knTTU;
-  sub knTTHA knsignU by knTTHU;
-  sub knDDA knsignU by knDDU;
-  sub knDDHA knsignU by knDDHU;
-  sub knNNA knsignU by knNNU;
-  sub knTA knsignU by knTU;
-  sub knTHA knsignU by knTHU;
-  sub knDA knsignU by knDU;
-  sub knDHA knsignU by knDHU;
-  sub knNA knsignU by knNU;
-  sub knPA knsignU by knPU;
-  sub knPHA knsignU by knPHU;
-  sub knBA knsignU by knBU;
-  sub knBHA knsignU by knBHU;
-  sub knMA knsignU by knsignU;
-  sub knYA knsignU by knYU;
-  sub knRA knsignU by knRU;
-  sub knLA knsignU by knLU;
-  sub knVA knsignU by knVU;
-  sub knSHA knsignU by knSHU;
-  sub knSSA knsignU by knSSU;
-  sub knSA knsignU by knSU;
-  sub knHA knsignU by knHU;
-
-  sub knRRA knsignU by knRRU;
-  sub knLLA knsignU by knLLU;
-  # sub knLLLA knsignU by knLLLU;
-
-  sub knKA knsignUU by knKUU;
-  sub knKHA knsignUU by knKHUU;
-  sub knGA knsignUU by knGUU;
-  sub knGHA knsignUU by knGHUU;
-  sub knNGA knsignUU by knNGUU;
-  sub knCA knsignUU by knCUU;
-  sub knCHA knsignUU by knCHUU;
-  sub knJA knsignUU by knJUU;
-  sub knJHA knsignUU by knJHUU;
-  sub knNYA knsignUU by knNYUU;
-  sub knTTA knsignUU by knTTUU;
-  sub knTTHA knsignUU by knTTHUU;
-  sub knDDA knsignUU by knDDUU;
-  sub knDDHA knsignUU by knDDHUU;
-  sub knNNA knsignUU by knNNUU;
-  sub knTA knsignUU by knTUU;
-  sub knTHA knsignUU by knTHUU;
-  sub knDA knsignUU by knDUU;
-  sub knDHA knsignUU by knDHUU;
-  sub knNA knsignUU by knNUU;
-  sub knPA knsignUU by knPUU;
-  sub knPHA knsignUU by knPHUU;
-  sub knBA knsignUU by knBUU;
-  sub knBHA knsignUU by knBHUU;
-  sub knMA knsignUU by knsignUU;
-  sub knYA knsignUU by knYUU;
-  sub knRA knsignUU by knRUU;
-  sub knLA knsignUU by knLUU;
-  sub knVA knsignUU by knVUU;
-  sub knSHA knsignUU by knSHUU;
-  sub knSSA knsignUU by knSSUU;
-  sub knSA knsignUU by knSUU;
-  sub knHA knsignUU by knHUU;
-
-  sub knRRA knsignUU by knRRUU;
-  sub knLLA knsignUU by knLLUU;
-  # sub knLLLA knsignUU by knLLLUU;
-
-  sub knKA knsignO by knKO;
-  sub knKHA knsignO by knKHO;
-  sub knGA knsignO by knGO;
-  sub knGHA knsignO by knGHO;
-  sub knNGA knsignO by knNGO;
-  sub knCA knsignO by knCO;
-  sub knCHA knsignO by knCHO;
-  sub knJA knsignO by knJO;
-  sub knJHA knsignO by knJHO;
-  sub knNYA knsignO by knNYO;
-  sub knTTA knsignO by knTTO;
-  sub knTTHA knsignO by knTTHO;
-  sub knDDA knsignO by knDDO;
-  sub knDDHA knsignO by knDDHO;
-  sub knNNA knsignO by knNNO;
-  sub knTA knsignO by knTO;
-  sub knTHA knsignO by knTHO;
-  sub knDA knsignO by knDO;
-  sub knDHA knsignO by knDHO;
-  sub knNA knsignO by knNO;
-  sub knPA knsignO by knPO;
-  sub knPHA knsignO by knPHO;
-  sub knBA knsignO by knBO;
-  sub knBHA knsignO by knBHO;
-  sub knMA knsignO by knsignO;
-  sub knYA knsignO by knYO;
-  sub knRA knsignO by knRO;
-  sub knLA knsignO by knLO;
-  sub knVA knsignO by knVO;
-  sub knSHA knsignO by knSHO;
-  sub knSSA knsignO by knSSO;
-  sub knSA knsignO by knSO;
-  sub knHA knsignO by knHO;
-
-  sub knRRA knsignO by knRRO;
-  sub knLLA knsignO by knLLO;
-  # sub knLLLA knsignO by knLLLO;
-
-} pres_matra;
-
-# lookup pres_else {
-#
-#   # sub knKA knSSAc2 by knKA_SSAc2;
-#   # sub knKAc2 knSSAc2 by knKAc2_SSAc2;
-#
-#   sub knTAc2 knRAc2 by knTAc2_RAc2;
-#   sub knDAc2 knRAc2 by knDAc2_RAc2;
-#
-# } pres_else;
-
-# Halant Forms
-# ------------
-
-# lookup haln_old {
-#   sub knNA knVirama by knN.traditional;
-# } haln_old;
-
-lookup haln {
-
-#  lookupflag IgnoreMarks;
-
-  sub knKA knVirama by knK;
-  sub knKHA knVirama by knKH;
-  sub knGA knVirama by knG;
-  sub knGHA knVirama by knGH;
-  sub knNGA knVirama by knNG;
-  sub knCA knVirama by knC;
-  sub knCHA knVirama by knCH;
-  sub knJA knVirama by knJ;
-  sub knJHA knVirama by knJH;
-  sub knNYA knVirama by knNY;
-  sub knTTA knVirama by knTT;
-  sub knTTHA knVirama by knTTH;
-  sub knDDA knVirama by knDD;
-  sub knDDHA knVirama by knDDH;
-  sub knNNA knVirama by knNN;
-  sub knTA knVirama by knT;
-  sub knTHA knVirama by knTH;
-  sub knDA knVirama by knD;
-  sub knDHA knVirama by knDH;
-  sub knNA knVirama by knN;
-  sub knPA knVirama by knP;
-  sub knPHA knVirama by knPH;
-  sub knBA knVirama by knB;
-  sub knBHA knVirama by knBH;
-  sub knMA knVirama by knM;
-  sub knYA knVirama by knY;
-  sub knRA knVirama by knR;
-  sub knLA knVirama by knL;
-  sub knVA knVirama by knV;
-  sub knSHA knVirama by knSH;
-  sub knSSA knVirama by knSS;
-  sub knSA knVirama by knS;
-  sub knHA knVirama by knH;
-
-  sub knRRA knVirama by knRR;
-  sub knLLA knVirama by knLL;
-  sub knLLLA knVirama by knLLL;
-
-#  lookupflag 0;
-
-} haln;
-
-
-
 # include (../../features/GENERATED_classes.fea);
-#include (../../features/tables.fea);
-#include (../../features/lookups.fea);
+include (features/extension.fea);
+include (features/tables.fea);
+include (features/lookups.fea);
 
 
 # -------------------
@@ -476,9 +30,9 @@ lookup haln {
 # Reph Forms
 # ----------
 
-# feature rphf {
-#   lookup rphf;
-# } rphf;
+feature rphf {
+  lookup rphf;
+} rphf;
 
 
 # Pre-base Forms
@@ -491,18 +45,18 @@ lookup haln {
 # Below-base Forms
 # ----------------
 
-#feature blwf {
+feature blwf {
 
-#  script DFLT;
-#    lookup blwf_knd2;
+  script DFLT;
+    lookup blwf_new;
 
-#  script knd2;
-#    lookup blwf_knd2;
+  script knd2;
+    lookup blwf_new;
 
-#  script knda;
-#    lookup blwf_knda;
+  script knda;
+    lookup blwf_old;
 
-#} blwf;
+} blwf;
 
 
 # Half Forms
@@ -533,11 +87,12 @@ lookup haln {
 # Pre-base Substitution
 # ---------------------
 
-#feature pres {
-#  lookup pres_o;
-#  lookup pres_matra;
-  # lookup pres_else;
-#} pres;
+feature pres {
+  lookup pres_matra;
+  lookup pres_kssa;
+  lookup pres_c2_following;
+  lookup pres_c2_ligating;
+} pres;
 
 
 # Above-base Substitution
@@ -564,10 +119,9 @@ lookup haln {
 # Halant Forms
 # ------------
 
-#feature haln {
-  # lookup haln_old;
-#  lookup haln;
-#} haln;
+feature haln {
+  lookup haln;
+} haln;
 
 
 # Required Contextual Alternates
@@ -611,51 +165,12 @@ lookup haln {
 # Above- and Below-base Mark Positioning
 # --------------------------------------
 
-# include (markclasses.fea);
-#
-# # feature abvm {
-# #   include (abvm.fea);
-# # } abvm;
-#
-# feature blwm {
-#   include (blwm.fea);
-# } blwm;
+#include (markclasses.fea);
 
+# feature abvm {
+#   include (abvm.fea);
+# } abvm;
 
-feature kern {
-    # Class Kerning Data Generated by MetricsMachine 4.0.6
-    # UFO: /Users/erinmclaughlin/Desktop/JOBS/_Google HUBLI/Hubli/UFO/Hubli-Regular-exp.ufo
-    # Date: Saturday August 29, 2015 00:48:45
-    @MMK_L_A = [A Aacute Acircumflex Adieresis Agrave Aring Atilde];
-    @MMK_L_O = [D Eth O Oacute Ocircumflex Odieresis Ograve Oslash Otilde Q Thorn];
-    @MMK_L_Y = [Y Yacute];
-    @MMK_L_o = [b e eacute ecircumflex edieresis egrave o oacute ocircumflex odieresis ograve oslash otilde p thorn];
-    @MMK_L_quotemarks = [quotedblleft quoteleft];
-    @MMK_L_y = [y yacute ydieresis];
-    @MMK_R_A = [A Aacute Acircumflex Adieresis Agrave Aring Atilde];
-    @MMK_R_C = [C Ccedilla O Oacute Ocircumflex Odieresis Ograve Oslash Otilde Q];
-    @MMK_R_Y = [Y Yacute];
-    @MMK_R_comma = [comma period];
-    @MMK_R_o = [c ccedilla d e eacute ecircumflex edieresis egrave eth g o oacute ocircumflex odieresis ograve oslash otilde q];
-    @MMK_R_quotemarks = [asterisk degree ordfeminine ordmasculine quotedbl quotedblright quoteright registered];
-
-    # glyph, group
-    pos V @MMK_R_A -50;
-    pos V @MMK_R_C -15;
-    pos W @MMK_R_A -35;
-    pos W @MMK_R_C -15;
-
-    # group, glyph
-    pos @MMK_L_A V -50;
-    pos @MMK_L_A W -35;
-    pos @MMK_L_O V -15;
-    pos @MMK_L_O W -15;
-
-    # group, group
-    pos @MMK_L_A @MMK_R_C -15;
-    pos @MMK_L_A @MMK_R_Y -65;
-    pos @MMK_L_O @MMK_R_A -15;
-    pos @MMK_L_O @MMK_R_Y -25;
-    pos @MMK_L_Y @MMK_R_A -65;
-    pos @MMK_L_Y @MMK_R_C -25;
-} kern;
+#feature blwm {
+#  include (blwm.fea);
+#} blwm;

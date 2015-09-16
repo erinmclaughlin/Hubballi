@@ -17,20 +17,16 @@
 	<false/>
 	<key>com.schriftgestaltung.weight</key>
 	<string>Bold</string>
-	<key>com.typemytype.robofont.compileSettings.MacRomanFirst</key>
-	<integer>1</integer>
 	<key>com.typemytype.robofont.compileSettings.autohint</key>
-	<integer>1</integer>
+	<true/>
 	<key>com.typemytype.robofont.compileSettings.checkOutlines</key>
-	<integer>1</integer>
+	<false/>
 	<key>com.typemytype.robofont.compileSettings.decompose</key>
-	<integer>1</integer>
+	<false/>
 	<key>com.typemytype.robofont.compileSettings.generateFormat</key>
 	<integer>0</integer>
-	<key>com.typemytype.robofont.compileSettings.path</key>
-	<string>/Users/erinmclaughlin/Desktop/JOBS/_Google HUBLI/Hubli/UFO/Hubli-Regular-exp1.otf</string>
 	<key>com.typemytype.robofont.compileSettings.releaseMode</key>
-	<integer>0</integer>
+	<false/>
 	<key>com.typemytype.robofont.foreground.layerStrokeColor</key>
 	<array>
 		<real>0.5</real>
@@ -123,6 +119,34 @@
 			<integer>353</integer>
 			<key>y</key>
 			<integer>521</integer>
+		</dict>
+		<dict>
+			<key>angle</key>
+			<integer>0</integer>
+			<key>isGlobal</key>
+			<integer>1</integer>
+			<key>magnetic</key>
+			<integer>5</integer>
+			<key>name</key>
+			<string></string>
+			<key>x</key>
+			<integer>183</integer>
+			<key>y</key>
+			<integer>-242</integer>
+		</dict>
+		<dict>
+			<key>angle</key>
+			<integer>0</integer>
+			<key>isGlobal</key>
+			<integer>1</integer>
+			<key>magnetic</key>
+			<integer>5</integer>
+			<key>name</key>
+			<string></string>
+			<key>x</key>
+			<integer>120</integer>
+			<key>y</key>
+			<integer>-338</integer>
 		</dict>
 	</array>
 	<key>com.typemytype.robofont.italicSlantOffset</key>
