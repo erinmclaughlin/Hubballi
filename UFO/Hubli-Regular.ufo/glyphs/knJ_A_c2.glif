@@ -3,51 +3,68 @@
   <advance width="0"/>
   <outline>
     <contour>
-      <point x="117" y="-128" type="move"/>
-      <point x="119" y="-137"/>
-      <point x="120" y="-143"/>
-      <point x="120" y="-153" type="curve" smooth="yes"/>
-      <point x="120" y="-191"/>
-      <point x="100" y="-220"/>
-      <point x="45" y="-220" type="curve" smooth="yes"/>
-      <point x="-9" y="-220"/>
-      <point x="-80" y="-189"/>
-      <point x="-131" y="-140" type="curve"/>
+      <point x="107" y="-132" type="move"/>
+      <point x="109" y="-141"/>
+      <point x="110" y="-147"/>
+      <point x="110" y="-157" type="curve" smooth="yes"/>
+      <point x="110" y="-195"/>
+      <point x="90" y="-224"/>
+      <point x="35" y="-224" type="curve" smooth="yes"/>
+      <point x="-19" y="-224"/>
+      <point x="-76" y="-195"/>
+      <point x="-130" y="-146" type="curve"/>
     </contour>
     <contour>
-      <point x="-256" y="-141" type="move"/>
-      <point x="-237" y="-130"/>
-      <point x="-212" y="-120"/>
-      <point x="-183" y="-120" type="curve" smooth="yes"/>
-      <point x="-149" y="-120"/>
-      <point x="-117" y="-143"/>
-      <point x="-117" y="-177" type="curve" smooth="yes"/>
-      <point x="-117" y="-206"/>
-      <point x="-141" y="-225"/>
-      <point x="-175" y="-249" type="curve" smooth="yes"/>
-      <point x="-209" y="-273"/>
-      <point x="-228" y="-297"/>
-      <point x="-228" y="-326" type="curve" smooth="yes"/>
-      <point x="-228" y="-361"/>
-      <point x="-202" y="-394"/>
-      <point x="-153" y="-394" type="curve" smooth="yes"/>
-      <point x="-108" y="-394"/>
-      <point x="-75" y="-373"/>
+      <point x="-231" y="-148" type="move"/>
+      <point x="-211" y="-137"/>
+      <point x="-194" y="-134"/>
+      <point x="-171" y="-134" type="curve" smooth="yes"/>
+      <point x="-137" y="-134"/>
+      <point x="-108" y="-156"/>
+      <point x="-108" y="-188" type="curve" smooth="yes"/>
+      <point x="-108" y="-215"/>
+      <point x="-129" y="-233"/>
+      <point x="-163" y="-255" type="curve" smooth="yes"/>
+      <point x="-197" y="-278"/>
+      <point x="-216" y="-300"/>
+      <point x="-216" y="-327" type="curve" smooth="yes"/>
+      <point x="-216" y="-360"/>
+      <point x="-190" y="-390"/>
+      <point x="-141" y="-390" type="curve" smooth="yes"/>
+      <point x="-102" y="-390"/>
+      <point x="-68" y="-366"/>
       <point x="-29" y="-330" type="curve"/>
       <point x="-25" y="-330" type="line"/>
-      <point x="21" y="-372"/>
-      <point x="61" y="-394"/>
-      <point x="101" y="-394" type="curve" smooth="yes"/>
-      <point x="151" y="-394"/>
-      <point x="178" y="-361"/>
-      <point x="178" y="-323" type="curve" smooth="yes"/>
-      <point x="178" y="-310"/>
-      <point x="176" y="-303"/>
-      <point x="173" y="-292" type="curve"/>
+      <point x="11" y="-369"/>
+      <point x="46" y="-390"/>
+      <point x="86" y="-390" type="curve" smooth="yes"/>
+      <point x="136" y="-390"/>
+      <point x="163" y="-357"/>
+      <point x="163" y="-319" type="curve" smooth="yes"/>
+      <point x="163" y="-306"/>
+      <point x="161" y="-299"/>
+      <point x="158" y="-288" type="curve"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>x</key>
+          <integer>-102</integer>
+          <key>y</key>
+          <integer>-390</integer>
+        </dict>
+      </array>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>mask</key>
