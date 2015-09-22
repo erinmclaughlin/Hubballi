@@ -1,2 +1,2 @@
-# Hubli
-Kannada typeface design in-progress
+# Hubballi
+Kannada typeface design in-progress for Google Web Fonts
