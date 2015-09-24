@@ -1,9 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="knHAc2.following" format="1">
-  <advance width="0"/>
+  <advance width="450"/>
   <outline>
-    <component base="knHAc2" xOffset="500"/>
-    <component base="knHAc2" xOffset="500"/>
+    <contour>
+      <point x="454" y="-231" type="curve" smooth="yes"/>
+      <point x="454" y="-306"/>
+      <point x="396" y="-372"/>
+      <point x="302" y="-372" type="curve" smooth="yes"/>
+      <point x="214" y="-372"/>
+      <point x="158" y="-307"/>
+      <point x="158" y="-231" type="curve" smooth="yes"/>
+      <point x="158" y="-158"/>
+      <point x="215" y="-92"/>
+      <point x="302" y="-92" type="curve" smooth="yes"/>
+      <point x="399" y="-92"/>
+      <point x="454" y="-159"/>
+    </contour>
+    <contour>
+      <point x="714" y="-231" type="curve" smooth="yes"/>
+      <point x="714" y="-307"/>
+      <point x="661" y="-372"/>
+      <point x="568" y="-372" type="curve" smooth="yes"/>
+      <point x="480" y="-372"/>
+      <point x="418" y="-307"/>
+      <point x="418" y="-231" type="curve" smooth="yes"/>
+      <point x="418" y="-159"/>
+      <point x="478" y="-92"/>
+      <point x="568" y="-92" type="curve" smooth="yes"/>
+      <point x="660" y="-92"/>
+      <point x="714" y="-159"/>
+    </contour>
+    <contour>
+      <point x="396" y="-231" type="curve" smooth="yes"/>
+      <point x="396" y="-187"/>
+      <point x="359" y="-150"/>
+      <point x="302" y="-150" type="curve" smooth="yes"/>
+      <point x="251" y="-150"/>
+      <point x="216" y="-188"/>
+      <point x="216" y="-231" type="curve" smooth="yes"/>
+      <point x="216" y="-277"/>
+      <point x="250" y="-314"/>
+      <point x="302" y="-314" type="curve" smooth="yes"/>
+      <point x="358" y="-314"/>
+      <point x="396" y="-278"/>
+    </contour>
+    <contour>
+      <point x="656" y="-231" type="curve" smooth="yes"/>
+      <point x="656" y="-187"/>
+      <point x="622" y="-150"/>
+      <point x="568" y="-150" type="curve" smooth="yes"/>
+      <point x="516" y="-150"/>
+      <point x="476" y="-187"/>
+      <point x="476" y="-231" type="curve" smooth="yes"/>
+      <point x="476" y="-277"/>
+      <point x="516" y="-314"/>
+      <point x="568" y="-314" type="curve" smooth="yes"/>
+      <point x="623" y="-314"/>
+      <point x="656" y="-277"/>
+    </contour>
   </outline>
   <lib>
     <dict>
@@ -29,7 +83,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>0</integer>
+          <integer>450</integer>
         </dict>
         <key>wire</key>
         <dict>
@@ -51,14 +105,14 @@
           <array>
           </array>
           <key>width</key>
-          <integer>0</integer>
+          <integer>450</integer>
         </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
         <real>1.0</real>
-        <real>0.974</real>
-        <real>0.577</real>
+        <real>0.8424</real>
+        <real>0.6742</real>
         <real>1.0</real>
       </array>
     </dict>

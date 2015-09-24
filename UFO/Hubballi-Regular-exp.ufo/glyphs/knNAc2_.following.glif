@@ -1,12 +1,93 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="knNAc2.following" format="1">
-  <advance width="86"/>
+  <advance width="584"/>
   <outline>
-    <component base="knNAc2" xOffset="500"/>
-    <component base="knNAc2" xOffset="500"/>
+    <contour>
+      <point x="632" y="-347" type="curve" smooth="yes"/>
+      <point x="517" y="-218"/>
+      <point x="457" y="-175"/>
+      <point x="380" y="-175" type="curve" smooth="yes"/>
+      <point x="330" y="-175"/>
+      <point x="295" y="-199"/>
+      <point x="295" y="-236" type="curve" smooth="yes"/>
+      <point x="295" y="-275"/>
+      <point x="340" y="-292"/>
+      <point x="383" y="-292" type="curve" smooth="yes"/>
+      <point x="470" y="-292"/>
+      <point x="540" y="-237"/>
+      <point x="540" y="-150" type="curve" smooth="yes"/>
+      <point x="540" y="-85"/>
+      <point x="520" y="-19"/>
+      <point x="487" y="69" type="curve" smooth="yes"/>
+      <point x="481" y="83"/>
+      <point x="489" y="101"/>
+      <point x="504" y="106" type="curve" smooth="yes"/>
+      <point x="518" y="112"/>
+      <point x="536" y="104"/>
+      <point x="541" y="89" type="curve" smooth="yes"/>
+      <point x="578" y="-7"/>
+      <point x="598" y="-79"/>
+      <point x="598" y="-150" type="curve" smooth="yes"/>
+      <point x="598" y="-269"/>
+      <point x="506" y="-350"/>
+      <point x="383" y="-350" type="curve" smooth="yes"/>
+      <point x="294" y="-350"/>
+      <point x="237" y="-301"/>
+      <point x="237" y="-236" type="curve" smooth="yes"/>
+      <point x="237" y="-175"/>
+      <point x="282" y="-117"/>
+      <point x="380" y="-117" type="curve" smooth="yes"/>
+      <point x="469" y="-117"/>
+      <point x="541" y="-158"/>
+      <point x="676" y="-309" type="curve" smooth="yes"/>
+      <point x="686" y="-320"/>
+      <point x="685" y="-339"/>
+      <point x="673" y="-350" type="curve" smooth="yes"/>
+      <point x="662" y="-360"/>
+      <point x="643" y="-359"/>
+    </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>87</integer>
+          <key>y</key>
+          <integer>491</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>1104</integer>
+          <key>y</key>
+          <integer>48</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>189</integer>
+          <key>y</key>
+          <integer>172</integer>
+        </dict>
+      </array>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>mask</key>
@@ -29,7 +110,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>86</integer>
+          <integer>584</integer>
         </dict>
         <key>wire</key>
         <dict>
@@ -51,14 +132,14 @@
           <array>
           </array>
           <key>width</key>
-          <integer>86</integer>
+          <integer>584</integer>
         </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
         <real>1.0</real>
-        <real>0.974</real>
-        <real>0.577</real>
+        <real>0.8424</real>
+        <real>0.6742</real>
         <real>1.0</real>
       </array>
     </dict>
