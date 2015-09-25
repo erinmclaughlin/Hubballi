@@ -8,50 +8,33 @@
 		<string>Aring</string>
 		<string>Adieresis</string>
 		<string>Aacute</string>
+		<string>Amacron</string>
 		<string>Agrave</string>
 		<string>Atilde</string>
 		<string>Acircumflex</string>
-		<string>Abreve</string>
-		<string>Amacron</string>
 		<string>Aogonek</string>
+		<string>Abreve</string>
 	</array>
 	<key>@MMK_L_C</key>
 	<array>
+		<string>Ccedilla</string>
 		<string>C</string>
 		<string>Cacute</string>
 		<string>Ccaron</string>
-		<string>Ccedilla</string>
 	</array>
 	<key>@MMK_L_E</key>
 	<array>
-		<string>E</string>
-		<string>Eacute</string>
 		<string>Ecaron</string>
-		<string>Ecircumflex</string>
-		<string>Edieresis</string>
-		<string>Edotaccent</string>
 		<string>Egrave</string>
-		<string>Emacron</string>
 		<string>Eogonek</string>
-		<string>AE</string>
+		<string>E</string>
+		<string>Ecircumflex</string>
 		<string>OE</string>
-	</array>
-	<key>@MMK_L_G</key>
-	<array>
-		<string>G</string>
-		<string>Gbreve</string>
-		<string>uni0122</string>
-	</array>
-	<key>@MMK_L_I</key>
-	<array>
-		<string>I</string>
-		<string>Iacute</string>
-		<string>Icircumflex</string>
-		<string>Idieresis</string>
-		<string>Idotaccent</string>
-		<string>Igrave</string>
-		<string>Imacron</string>
-		<string>Iogonek</string>
+		<string>Edieresis</string>
+		<string>Emacron</string>
+		<string>Eacute</string>
+		<string>AE</string>
+		<string>Edotaccent</string>
 	</array>
 	<key>@MMK_L_K</key>
 	<array>
@@ -60,36 +43,28 @@
 	</array>
 	<key>@MMK_L_L</key>
 	<array>
+		<string>Lslash</string>
+		<string>uni013B</string>
 		<string>L</string>
 		<string>Lacute</string>
 		<string>Lcaron</string>
-		<string>uni013B</string>
-		<string>Lslash</string>
-	</array>
-	<key>@MMK_L_N</key>
-	<array>
-		<string>N</string>
-		<string>Nacute</string>
-		<string>Ncaron</string>
-		<string>Ntilde</string>
-		<string>uni0145</string>
 	</array>
 	<key>@MMK_L_O</key>
 	<array>
 		<string>Oslash</string>
+		<string>Omacron</string>
 		<string>D</string>
 		<string>Odieresis</string>
+		<string>Ohungarumlaut</string>
 		<string>Ograve</string>
 		<string>Ocircumflex</string>
 		<string>Otilde</string>
 		<string>O</string>
+		<string>Dcaron</string>
 		<string>Q</string>
+		<string>Dcroat</string>
 		<string>Eth</string>
 		<string>Oacute</string>
-		<string>Dcaron</string>
-		<string>Ohungarumlaut</string>
-		<string>Omacron</string>
-		<string>Dcroat</string>
 	</array>
 	<key>@MMK_L_P</key>
 	<array>
@@ -98,8 +73,8 @@
 	</array>
 	<key>@MMK_L_R</key>
 	<array>
-		<string>R</string>
 		<string>Racute</string>
+		<string>R</string>
 		<string>Rcaron</string>
 		<string>uni0156</string>
 	</array>
@@ -107,144 +82,36 @@
 	<array>
 		<string>S</string>
 		<string>Sacute</string>
-		<string>Scaron</string>
-		<string>uni015E</string>
 		<string>uni0218</string>
-	</array>
-	<key>@MMK_L_T</key>
-	<array>
-		<string>uni0162</string>
+		<string>uni015E</string>
+		<string>Scaron</string>
 	</array>
 	<key>@MMK_L_U</key>
 	<array>
 		<string>Udieresis</string>
-		<string>Uacute</string>
-		<string>Ucircumflex</string>
-		<string>U</string>
-		<string>Ugrave</string>
 		<string>Uhungarumlaut</string>
 		<string>Umacron</string>
-		<string>Uogonek</string>
+		<string>Uacute</string>
 		<string>Uring</string>
+		<string>Ugrave</string>
+		<string>Uogonek</string>
+		<string>Ucircumflex</string>
 		<string>T</string>
-		<string>Tcaron</string>
+		<string>U</string>
 		<string>uni021A</string>
+		<string>Tcaron</string>
 	</array>
 	<key>@MMK_L_Y</key>
 	<array>
 		<string>Y</string>
-		<string>Yacute</string>
 		<string>Ydieresis</string>
-	</array>
-	<key>@MMK_L_Z</key>
-	<array>
-	</array>
-	<key>@MMK_L_a</key>
-	<array>
-		<string>a</string>
-		<string>aacute</string>
-		<string>abreve</string>
-		<string>acircumflex</string>
-		<string>adieresis</string>
-		<string>agrave</string>
-		<string>amacron</string>
-		<string>aogonek</string>
-		<string>aring</string>
-		<string>atilde</string>
-	</array>
-	<key>@MMK_L_comma</key>
-	<array>
-		<string>comma</string>
-		<string>period</string>
-	</array>
-	<key>@MMK_L_k</key>
-	<array>
-		<string>uni0137</string>
-		<string>k</string>
-	</array>
-	<key>@MMK_L_knAIsign</key>
-	<array>
-		<string>knTT</string>
-		<string>knTTAU</string>
-		<string>knTTH</string>
-		<string>knTTHAU</string>
-		<string>knV</string>
-		<string>knVAU</string>
-		<string>knY</string>
-		<string>knYAU</string>
-		<string>knPH</string>
-		<string>knPHAU</string>
-		<string>knR</string>
-		<string>knRAU</string>
-		<string>knRR</string>
-		<string>knRRAU</string>
-		<string>knS</string>
-		<string>knSAU</string>
-		<string>knSH</string>
-		<string>knSHAU</string>
-		<string>knSS</string>
-		<string>knSSAU</string>
-		<string>knT</string>
-		<string>knTAU</string>
-		<string>knTH</string>
-		<string>knM</string>
-		<string>knMAU</string>
-		<string>knN</string>
-		<string>knNAU</string>
-		<string>knNE</string>
-		<string>knNG</string>
-		<string>knNGAU</string>
-		<string>knNGE</string>
-		<string>knNGI</string>
-		<string>knNN</string>
-		<string>knNNAU</string>
-		<string>knNY</string>
-		<string>knNYAU</string>
-		<string>knP</string>
-		<string>knPAU</string>
-		<string>knCHAU</string>
-		<string>knD</string>
-		<string>knDAU</string>
-		<string>knDDAU</string>
-		<string>knDD</string>
-		<string>knDDH</string>
-		<string>knDDHAU</string>
-		<string>knDH</string>
-		<string>knDHAU</string>
-		<string>knG</string>
-		<string>knGAU</string>
-		<string>knGH</string>
-		<string>knGHAU</string>
-		<string>knH</string>
-		<string>knHAU</string>
-		<string>knJ</string>
-		<string>knJAU</string>
-		<string>knJH</string>
-		<string>knJHAU</string>
-		<string>knK</string>
-		<string>knKAU</string>
-		<string>knKH</string>
-		<string>knKHAU</string>
-		<string>knL</string>
-		<string>knLAU</string>
-		<string>knLL</string>
-		<string>knLLAU</string>
-		<string>knLLL</string>
-		<string>knLLLAU</string>
-		<string>knB</string>
-		<string>knBAU</string>
-		<string>knBH</string>
-		<string>knBHAU</string>
-		<string>knC</string>
-		<string>knCAU</string>
-		<string>knCH</string>
-		<string>knNYI</string>
+		<string>Yacute</string>
 	</array>
 	<key>@MMK_L_knCA</key>
 	<array>
-		<string>knCA</string>
 		<string>knCE</string>
 		<string>knCI</string>
+		<string>knCA</string>
 	</array>
 	<key>@MMK_L_knGHA</key>
 	<array>
@@ -254,32 +121,26 @@
 	</array>
 	<key>@MMK_L_knKA</key>
 	<array>
-		<string>knKA</string>
 		<string>knKE</string>
 		<string>knKI</string>
-	</array>
-	<key>@MMK_L_knLLA</key>
-	<array>
-		<string>knLLA</string>
-		<string>knLLE</string>
-		<string>knLLI</string>
+		<string>knKA</string>
 	</array>
 	<key>@MMK_L_knNGA</key>
 	<array>
-		<string>knJA</string>
-		<string>knNGA</string>
-		<string>knTTA</string>
-		<string>knPA</string>
-		<string>knPHA</string>
-		<string>knNA</string>
 		<string>knBA</string>
 		<string>knBHA</string>
+		<string>knNA</string>
+		<string>knNGA</string>
+		<string>knJA</string>
+		<string>knPA</string>
 		<string>knVA</string>
+		<string>knTTA</string>
+		<string>knPHA</string>
 	</array>
 	<key>@MMK_L_knNYA</key>
 	<array>
-		<string>knNYA</string>
 		<string>knNYE</string>
+		<string>knNYA</string>
 	</array>
 	<key>@MMK_L_knSHA</key>
 	<array>
@@ -289,349 +150,274 @@
 	<array>
 		<string>knSHA</string>
 	</array>
-	<key>@MMK_L_knSub</key>
-	<array>
-		<string>knCAc2</string>
-		<string>knDAc2</string>
-		<string>knDDAc2</string>
-		<string>knDDHAc2</string>
-		<string>knDHAc2</string>
-		<string>knGAc2</string>
-		<string>knHAc2</string>
-		<string>knJAc2</string>
-		<string>knJHAc2</string>
-		<string>knLAc2</string>
-		<string>knLLLAc2</string>
-		<string>knNGAc2</string>
-		<string>knNNAc2</string>
-		<string>knNYAc2</string>
-		<string>knRRAc2</string>
-		<string>knTAc2</string>
-		<string>knTHAc2</string>
-		<string>knTTHAc2</string>
-		<string>knVAc2</string>
-		<string>knCAc2.following</string>
-		<string>knDAc2.following</string>
-		<string>knDDAc2.following</string>
-		<string>knDDHAc2.following</string>
-		<string>knDHAc2.following</string>
-		<string>knGAc2.following</string>
-		<string>knHAc2.following</string>
-		<string>knJAc2.following</string>
-		<string>knJHAc2.following</string>
-		<string>knKAc2.following</string>
-		<string>knKHAc2.following</string>
-		<string>knLAc2.following</string>
-		<string>knLLLAc2.following</string>
-		<string>knNGAc2.following</string>
-		<string>knNNAc2.following</string>
-		<string>knNYAc2.following</string>
-		<string>knRRAc2.following</string>
-		<string>knSSAc2.kssa</string>
-		<string>knTAc2.following</string>
-		<string>knTHAc2.following</string>
-		<string>knTTHAc2.following</string>
-		<string>knVAc2.following</string>
-		<string>knsignvL</string>
-		<string>knsignvLL</string>
-	</array>
 	<key>@MMK_L_knSubTall</key>
 	<array>
-		<string>knAIlengthmark</string>
-		<string>knAIlengthmark.following</string>
-		<string>knBAc2</string>
-		<string>knBAc2.following</string>
-		<string>knBHAc2</string>
-		<string>knBHAc2.following</string>
-		<string>knCHAc2</string>
-		<string>knCHAc2.following</string>
-		<string>knGHAc2</string>
-		<string>knGHAc2.following</string>
-		<string>knKAc2</string>
-		<string>knKHAc2</string>
-		<string>knKSSAc2</string>
-		<string>knKSSAc2.following</string>
 		<string>knLLAc2</string>
-		<string>knLLAc2.following</string>
-		<string>knMAc2</string>
-		<string>knMAc2.following</string>
-		<string>knNAc2</string>
-		<string>knNAc2.following</string>
-		<string>knPAc2</string>
-		<string>knPAc2.following</string>
-		<string>knPHAc2</string>
-		<string>knPHAc2.following</string>
-		<string>knRAc2</string>
-		<string>knRAc2.following</string>
-		<string>knSAc2</string>
+		<string>knBAc2</string>
+		<string>knYAc2</string>
 		<string>knSAc2.following</string>
+		<string>knPHAc2</string>
+		<string>knRAc2.following</string>
+		<string>knPAc2</string>
+		<string>knYAc2.following</string>
+		<string>knTAc2_RAc2.following</string>
+		<string>knLLAc2.following</string>
+		<string>knSAc2</string>
 		<string>knSHAc2</string>
-		<string>knSHAc2.following</string>
+		<string>knAIlengthmark</string>
+		<string>knGHAc2.following</string>
 		<string>knSSAc2</string>
 		<string>knSSAc2.following</string>
-		<string>knTAc2_RAc2</string>
-		<string>knTAc2_RAc2.following</string>
-		<string>knTTAc2</string>
-		<string>knTTAc2.following</string>
-		<string>knYAc2</string>
-		<string>knYAc2.following</string>
-		<string>knsignvR</string>
+		<string>knCHAc2</string>
+		<string>knKSSAc2.following</string>
+		<string>knBAc2.following</string>
+		<string>knNAc2</string>
+		<string>knSHAc2.following</string>
+		<string>knGHAc2</string>
+		<string>knAIlengthmark.following</string>
+		<string>knBHAc2</string>
 		<string>knsignvR.following</string>
 		<string>knsignvRR</string>
+		<string>knRAc2</string>
+		<string>knMAc2</string>
+		<string>knPHAc2.following</string>
+		<string>knCHAc2.following</string>
+		<string>knTTAc2</string>
+		<string>knBHAc2.following</string>
+		<string>knsignvR</string>
+		<string>knNAc2.following</string>
+		<string>knMAc2.following</string>
+		<string>knKSSAc2</string>
+		<string>knPAc2.following</string>
 		<string>knsignvRR.following</string>
+		<string>knKHAc2</string>
+		<string>knKAc2</string>
+		<string>knTAc2_RAc2</string>
+		<string>knTTAc2.following</string>
 	</array>
 	<key>@MMK_L_knTA</key>
 	<array>
-		<string>knTA</string>
+		<string>knHI</string>
 		<string>knTI</string>
-		<string>knTE</string>
-		<string>knSA</string>
-		<string>knSE</string>
-		<string>knSI</string>
 		<string>knHA</string>
 		<string>knHE</string>
-		<string>knHI</string>
+		<string>knTA</string>
+		<string>knSI</string>
+		<string>knSE</string>
+		<string>knTE</string>
+		<string>knSA</string>
 	</array>
 	<key>@MMK_L_knU</key>
 	<array>
-		<string>knKHA</string>
-		<string>knJHA</string>
-		<string>knMA</string>
-		<string>knYA</string>
-		<string>knA</string>
-		<string>knUU</string>
-		<string>knvLL</string>
-		<string>knvRR</string>
-		<string>knRRA</string>
-		<string>knLLLA</string>
-		<string>knNNA</string>
-		<string>knBAA</string>
-		<string>knBHAA</string>
-		<string>knBHO</string>
-		<string>knBHU</string>
-		<string>knBHUU</string>
-		<string>knBO</string>
-		<string>knBU</string>
-		<string>knBUU</string>
-		<string>knCAA</string>
-		<string>knCHAA</string>
-		<string>knCHO</string>
-		<string>knCHU</string>
-		<string>knCHUU</string>
-		<string>knCO</string>
-		<string>knCU</string>
-		<string>knCUU</string>
-		<string>knDAA</string>
-		<string>knDDAA</string>
-		<string>knDDHAA</string>
-		<string>knDDHO</string>
-		<string>knDDHU</string>
-		<string>knDDHUU</string>
-		<string>knDDO</string>
-		<string>knDDU</string>
-		<string>knDDUU</string>
-		<string>knDHAA</string>
-		<string>knDHO</string>
-		<string>knDHU</string>
-		<string>knDHUU</string>
-		<string>knDO</string>
-		<string>knDU</string>
-		<string>knDUU</string>
-		<string>knGAA</string>
+		<string>knVU</string>
+		<string>knKHO</string>
+		<string>knPUU</string>
+		<string>knTHUU</string>
 		<string>knGHO</string>
+		<string>knKHA</string>
+		<string>knTTUU</string>
+		<string>knRAA</string>
 		<string>knGHU</string>
-		<string>knGHUU</string>
-		<string>knGO</string>
-		<string>knGU</string>
-		<string>knGUU</string>
-		<string>knHAA</string>
-		<string>knGHAA</string>
-		<string>knHO</string>
-		<string>knHU</string>
+		<string>knDDAA</string>
+		<string>knNYAA</string>
+		<string>knDHUU</string>
+		<string>knVO</string>
+		<string>knKHU</string>
+		<string>knKUU</string>
+		<string>knNGO</string>
+		<string>knSHAA</string>
+		<string>knLLLA</string>
+		<string>knPAA</string>
+		<string>knSHU</string>
+		<string>knLLLO</string>
+		<string>knMAA</string>
+		<string>knCHO</string>
+		<string>knYU</string>
+		<string>knNGUU</string>
+		<string>knMUU</string>
+		<string>knLLLU</string>
+		<string>knYI</string>
+		<string>knTUU</string>
 		<string>knHUU</string>
-		<string>knJAA</string>
-		<string>knJHAA</string>
+		<string>knCHU</string>
+		<string>knYO</string>
+		<string>knBUU</string>
+		<string>knSSUU</string>
+		<string>knNGU</string>
+		<string>knLLUU</string>
+		<string>knSHO</string>
+		<string>knKAA</string>
+		<string>knLLLI</string>
+		<string>knNO</string>
+		<string>knPHUU</string>
+		<string>knNUU</string>
+		<string>knDAA</string>
+		<string>knSSU</string>
+		<string>knMI</string>
+		<string>knSSO</string>
+		<string>knGHUU</string>
+		<string>knNU</string>
+		<string>knNYO</string>
+		<string>knDHU</string>
+		<string>knTTHUU</string>
+		<string>knLLLUU</string>
+		<string>knCHAA</string>
+		<string>knDHO</string>
+		<string>knVAA</string>
+		<string>knRRUU</string>
+		<string>knDDHAA</string>
+		<string>knBHUU</string>
+		<string>knvLL</string>
+		<string>knKU</string>
+		<string>knCAA</string>
+		<string>knPU</string>
 		<string>knJHE</string>
+		<string>knGHAA</string>
+		<string>knNNUU</string>
+		<string>knSAA</string>
+		<string>knKO</string>
+		<string>knNAA</string>
+		<string>knLLLAA</string>
+		<string>knCO</string>
+		<string>knRRO</string>
+		<string>knRRA</string>
+		<string>knDDHUU</string>
+		<string>knJAA</string>
+		<string>knDUU</string>
+		<string>knCU</string>
+		<string>knRRU</string>
+		<string>knHO</string>
+		<string>knNNU</string>
+		<string>knTTU</string>
+		<string>knNNA</string>
+		<string>knPHAA</string>
+		<string>knTTO</string>
+		<string>knGAA</string>
+		<string>knHU</string>
+		<string>knNNO</string>
+		<string>knNYUU</string>
+		<string>knYUU</string>
+		<string>knBAA</string>
+		<string>knME</string>
+		<string>knLLAA</string>
+		<string>knMA</string>
+		<string>knNGAA</string>
+		<string>knJHU</string>
+		<string>knDDHU</string>
+		<string>knCHUU</string>
+		<string>knMO</string>
+		<string>knRU</string>
+		<string>knDDU</string>
+		<string>knMU</string>
+		<string>knJHA</string>
+		<string>knRO</string>
+		<string>knDDO</string>
+		<string>knTHU</string>
 		<string>knJHI</string>
 		<string>knJHO</string>
-		<string>knJHU</string>
-		<string>knJHUU</string>
-		<string>knJO</string>
-		<string>knJU</string>
-		<string>knJUU</string>
-		<string>knKAA</string>
-		<string>knKHAA</string>
-		<string>knKHO</string>
-		<string>knKHU</string>
-		<string>knKHUU</string>
-		<string>knKO</string>
-		<string>knKU</string>
-		<string>knKUU</string>
-		<string>knLAA</string>
-		<string>knLLAA</string>
-		<string>knLLLO</string>
-		<string>knLLLU</string>
-		<string>knLLLI</string>
-		<string>knLLLAA</string>
-		<string>knLLLUU</string>
-		<string>knLLO</string>
-		<string>knLLU</string>
-		<string>knLLUU</string>
-		<string>knLO</string>
-		<string>knLU</string>
-		<string>knLUU</string>
-		<string>knMAA</string>
-		<string>knME</string>
-		<string>knMI</string>
-		<string>knMO</string>
-		<string>knMU</string>
-		<string>knMUU</string>
-		<string>knNAA</string>
-		<string>knNGAA</string>
-		<string>knNGO</string>
-		<string>knNGU</string>
-		<string>knNGUU</string>
+		<string>knJHAA</string>
+		<string>knBHO</string>
+		<string>knDHAA</string>
+		<string>knGUU</string>
 		<string>knNNAA</string>
-		<string>knNNI</string>
-		<string>knNNO</string>
-		<string>knNNU</string>
-		<string>knNNUU</string>
-		<string>knNO</string>
-		<string>knNU</string>
-		<string>knNUU</string>
-		<string>knNYAA</string>
-		<string>knNYO</string>
-		<string>knNYU</string>
-		<string>knNYUU</string>
-		<string>knPAA</string>
-		<string>knPHAA</string>
-		<string>knPHO</string>
-		<string>knPHU</string>
-		<string>knPHUU</string>
-		<string>knPO</string>
-		<string>knPU</string>
-		<string>knPUU</string>
-		<string>knRAA</string>
-		<string>knRO</string>
-		<string>knRRAA</string>
-		<string>knRRI</string>
-		<string>knRRO</string>
-		<string>knRRU</string>
-		<string>knRRUU</string>
-		<string>knRU</string>
-		<string>knRUU</string>
-		<string>knSAA</string>
-		<string>knSHAA</string>
-		<string>knSHO</string>
-		<string>knSHU</string>
-		<string>knSHUU</string>
-		<string>knSO</string>
-		<string>knSSAA</string>
-		<string>knSSO</string>
-		<string>knSSU</string>
-		<string>knSSUU</string>
-		<string>knSU</string>
-		<string>knSUU</string>
-		<string>knTAA</string>
-		<string>knTHAA</string>
-		<string>knTHO</string>
-		<string>knTHU</string>
-		<string>knTHUU</string>
-		<string>knTO</string>
-		<string>knTTAA</string>
 		<string>knTTHAA</string>
-		<string>knTTHO</string>
-		<string>knTTHU</string>
-		<string>knTTHUU</string>
-		<string>knTTO</string>
-		<string>knTTU</string>
-		<string>knTTUU</string>
-		<string>knTU</string>
-		<string>knTUU</string>
-		<string>knVAA</string>
-		<string>knVO</string>
-		<string>knVU</string>
+		<string>knvRR</string>
+		<string>knBHU</string>
+		<string>knKHUU</string>
+		<string>knRRAA</string>
+		<string>knJU</string>
+		<string>knDDHO</string>
+		<string>knRUU</string>
+		<string>knDDUU</string>
+		<string>knBHAA</string>
+		<string>knSO</string>
+		<string>knLUU</string>
+		<string>knYA</string>
+		<string>knTAA</string>
 		<string>knVUU</string>
-		<string>knYAA</string>
+		<string>knJO</string>
+		<string>knTHAA</string>
+		<string>knBO</string>
+		<string>knLLO</string>
 		<string>knYE</string>
-		<string>knYI</string>
-		<string>knYO</string>
-		<string>knYU</string>
-		<string>knYUU</string>
-	</array>
-	<key>@MMK_L_l</key>
-	<array>
-		<string>lslash</string>
-		<string>knU</string>
-		<string>knvR</string>
-	</array>
-	<key>@MMK_L_n</key>
-	<array>
-		<string>uni0146</string>
-		<string>m</string>
-		<string>n</string>
-		<string>nacute</string>
-		<string>ncaron</string>
-		<string>ntilde</string>
-		<string>l</string>
-		<string>lacute</string>
-		<string>lcaron</string>
-		<string>uni013C</string>
-		<string>h</string>
+		<string>knTHO</string>
+		<string>knSHUU</string>
+		<string>knBU</string>
+		<string>knLLU</string>
+		<string>knTO</string>
+		<string>knLAA</string>
+		<string>knGU</string>
+		<string>knJUU</string>
+		<string>knGO</string>
+		<string>knTU</string>
+		<string>knPO</string>
+		<string>knKHAA</string>
+		<string>knCUU</string>
+		<string>knHAA</string>
+		<string>knYAA</string>
+		<string>knNNI</string>
+		<string>knNYU</string>
+		<string>knSU</string>
+		<string>knRRI</string>
+		<string>knLO</string>
+		<string>knSSAA</string>
+		<string>knDU</string>
+		<string>knPHU</string>
+		<string>knA</string>
+		<string>knDO</string>
+		<string>knLU</string>
+		<string>knTTAA</string>
+		<string>knJHUU</string>
+		<string>knPHO</string>
+		<string>knUU</string>
+		<string>knTTHU</string>
+		<string>knTTHO</string>
+		<string>knSUU</string>
 	</array>
 	<key>@MMK_L_o</key>
 	<array>
-		<string>oslash</string>
-		<string>egrave</string>
-		<string>b</string>
-		<string>ecircumflex</string>
-		<string>odieresis</string>
+		<string>ae</string>
+		<string>Zdotaccent</string>
 		<string>ograve</string>
 		<string>ocircumflex</string>
-		<string>otilde</string>
-		<string>o</string>
 		<string>edieresis</string>
-		<string>p</string>
+		<string>edotaccent</string>
+		<string>egrave</string>
+		<string>eogonek</string>
+		<string>Zcaron</string>
+		<string>otilde</string>
+		<string>Zacute</string>
+		<string>oslash</string>
+		<string>ecircumflex</string>
+		<string>odieresis</string>
+		<string>ohungarumlaut</string>
+		<string>emacron</string>
 		<string>eacute</string>
+		<string>Z</string>
+		<string>ecaron</string>
+		<string>omacron</string>
+		<string>b</string>
 		<string>e</string>
+		<string>oe</string>
+		<string>o</string>
+		<string>p</string>
+		<string>eth</string>
 		<string>thorn</string>
 		<string>oacute</string>
-		<string>ecaron</string>
-		<string>edotaccent</string>
-		<string>emacron</string>
-		<string>eogonek</string>
-		<string>ohungarumlaut</string>
-		<string>omacron</string>
-		<string>oe</string>
-		<string>ae</string>
-		<string>Z</string>
-		<string>Zacute</string>
-		<string>Zcaron</string>
-		<string>Zdotaccent</string>
-		<string>eth</string>
 	</array>
 	<key>@MMK_L_r</key>
 	<array>
-		<string>uni0157</string>
-		<string>r</string>
 		<string>racute</string>
+		<string>r</string>
+		<string>uni0157</string>
 		<string>rcaron</string>
-	</array>
-	<key>@MMK_L_s</key>
-	<array>
-		<string>uni0219</string>
-		<string>s</string>
-		<string>sacute</string>
-		<string>scaron</string>
-		<string>uni015F</string>
-		<string>germandbls</string>
 	</array>
 	<key>@MMK_L_t</key>
 	<array>
 		<string>uni0163</string>
 		<string>t</string>
-		<string>tcaron</string>
 		<string>uni021B</string>
+		<string>tcaron</string>
 	</array>
 	<key>@MMK_L_y</key>
 	<array>
@@ -639,364 +425,289 @@
 		<string>ydieresis</string>
 		<string>yacute</string>
 	</array>
-	<key>@MMK_L_z</key>
-	<array>
-		<string>z</string>
-		<string>zacute</string>
-		<string>zcaron</string>
-		<string>zdotaccent</string>
-	</array>
 	<key>@MMK_R_A</key>
 	<array>
 		<string>A</string>
 		<string>Aring</string>
 		<string>Adieresis</string>
 		<string>Aacute</string>
+		<string>Amacron</string>
 		<string>Agrave</string>
 		<string>Atilde</string>
 		<string>Acircumflex</string>
-		<string>Abreve</string>
-		<string>Amacron</string>
-		<string>Aogonek</string>
 		<string>AE</string>
-	</array>
-	<key>@MMK_R_I</key>
-	<array>
-		<string>I</string>
-		<string>Iacute</string>
-		<string>Icircumflex</string>
-		<string>Idieresis</string>
-		<string>Idotaccent</string>
-		<string>Igrave</string>
-		<string>Imacron</string>
-		<string>Iogonek</string>
+		<string>Aogonek</string>
+		<string>Abreve</string>
 	</array>
 	<key>@MMK_R_O</key>
 	<array>
 		<string>Oslash</string>
+		<string>Gbreve</string>
 		<string>C</string>
 		<string>Odieresis</string>
 		<string>G</string>
-		<string>Ograve</string>
-		<string>Ocircumflex</string>
-		<string>Otilde</string>
-		<string>O</string>
-		<string>Q</string>
-		<string>Ccedilla</string>
-		<string>Oacute</string>
-		<string>Cacute</string>
-		<string>Ccaron</string>
-		<string>Gbreve</string>
 		<string>Ohungarumlaut</string>
-		<string>Omacron</string>
-		<string>uni0122</string>
+		<string>Ograve</string>
 		<string>OE</string>
+		<string>Cacute</string>
+		<string>uni0122</string>
+		<string>Omacron</string>
+		<string>Ccaron</string>
+		<string>Otilde</string>
+		<string>Q</string>
+		<string>O</string>
+		<string>Ccedilla</string>
+		<string>Ocircumflex</string>
+		<string>Oacute</string>
 	</array>
 	<key>@MMK_R_S</key>
 	<array>
-		<string>uni0218</string>
 		<string>S</string>
 		<string>Sacute</string>
-		<string>Scaron</string>
+		<string>uni0218</string>
 		<string>uni015E</string>
+		<string>Scaron</string>
 	</array>
 	<key>@MMK_R_T</key>
 	<array>
 		<string>uni0162</string>
+		<string>uni021A</string>
 		<string>T</string>
 		<string>Tcaron</string>
-		<string>uni021A</string>
 	</array>
 	<key>@MMK_R_U</key>
 	<array>
 		<string>Udieresis</string>
-		<string>Uacute</string>
-		<string>Ucircumflex</string>
-		<string>U</string>
-		<string>Ugrave</string>
 		<string>Uhungarumlaut</string>
 		<string>Umacron</string>
-		<string>Uogonek</string>
+		<string>Uacute</string>
 		<string>Uring</string>
+		<string>Ugrave</string>
+		<string>Uogonek</string>
+		<string>Ucircumflex</string>
+		<string>U</string>
 	</array>
 	<key>@MMK_R_Y</key>
 	<array>
 		<string>Y</string>
-		<string>Yacute</string>
 		<string>Ydieresis</string>
+		<string>Yacute</string>
 	</array>
 	<key>@MMK_R_a</key>
 	<array>
 		<string>a</string>
 		<string>aring</string>
-		<string>adieresis</string>
+		<string>ae</string>
 		<string>aacute</string>
+		<string>amacron</string>
 		<string>agrave</string>
 		<string>atilde</string>
 		<string>acircumflex</string>
-		<string>abreve</string>
-		<string>amacron</string>
+		<string>adieresis</string>
 		<string>aogonek</string>
-		<string>ae</string>
-	</array>
-	<key>@MMK_R_c</key>
-	<array>
-		<string>c</string>
-		<string>cacute</string>
-		<string>ccaron</string>
-		<string>ccedilla</string>
-	</array>
-	<key>@MMK_R_comma</key>
-	<array>
-		<string>quotedblbase</string>
-		<string>quotesinglbase</string>
-		<string>comma</string>
-		<string>period</string>
-	</array>
-	<key>@MMK_R_guilleft</key>
-	<array>
-		<string>guilsinglleft</string>
-		<string>guillemotleft</string>
-	</array>
-	<key>@MMK_R_guilright</key>
-	<array>
-		<string>guilsinglright</string>
-		<string>guillemotright</string>
-	</array>
-	<key>@MMK_R_knJhac2</key>
-	<array>
-		<string>knJHAc2.following</string>
-		<string>knJHAc2</string>
+		<string>abreve</string>
 	</array>
 	<key>@MMK_R_knKA</key>
 	<array>
+		<string>knKU</string>
 		<string>knK</string>
-		<string>knKAA</string>
 		<string>knKAU</string>
 		<string>knKE</string>
-		<string>knKO</string>
-		<string>knKU</string>
-		<string>knKUU</string>
 		<string>knKA</string>
+		<string>knKO</string>
+		<string>knKAA</string>
+		<string>knKUU</string>
 	</array>
 	<key>@MMK_R_knKHA</key>
 	<array>
-		<string>knKHA</string>
-		<string>knKHA.base</string>
-		<string>knKHE</string>
 		<string>knKHI</string>
 		<string>knKHO</string>
-		<string>knKHU</string>
+		<string>knKHA</string>
 		<string>knKHUU</string>
+		<string>knKHE</string>
 		<string>knKH</string>
+		<string>knKHA.base</string>
+		<string>knKHU</string>
 		<string>knKHAA</string>
 		<string>knKHAU</string>
 	</array>
 	<key>@MMK_R_knLLA</key>
 	<array>
+		<string>knLLI</string>
+		<string>knLLAA</string>
+		<string>knLLO</string>
 		<string>knLLA</string>
 		<string>knLL</string>
-		<string>knLLAA</string>
-		<string>knLLAU</string>
 		<string>knLLE</string>
-		<string>knLLI</string>
-		<string>knLLO</string>
-		<string>knLLU</string>
+		<string>knLLAU</string>
 		<string>knLLUU</string>
+		<string>knLLU</string>
 	</array>
 	<key>@MMK_R_knNYA</key>
 	<array>
-		<string>knNYA</string>
-		<string>knvL</string>
-		<string>knvLL</string>
-		<string>knNYI</string>
-		<string>knNYO</string>
+		<string>knNYAU</string>
 		<string>knNYU</string>
 		<string>knNYUU</string>
-		<string>knNY</string>
-		<string>knNYAA</string>
-		<string>knNYAU</string>
 		<string>knNYE</string>
+		<string>knNYA</string>
+		<string>knvLL</string>
+		<string>knvL</string>
+		<string>knNY</string>
+		<string>knNYO</string>
+		<string>knNYI</string>
+		<string>knNYAA</string>
 	</array>
 	<key>@MMK_R_knRA</key>
 	<array>
-		<string>knTTHA</string>
-		<string>knRA</string>
-		<string>knY</string>
-		<string>knYAA</string>
-		<string>knYAU</string>
+		<string>knLAA</string>
+		<string>knRAU</string>
+		<string>knJHAA</string>
+		<string>knJHU</string>
 		<string>knYAc2</string>
-		<string>knYE</string>
+		<string>knTTHUU</string>
+		<string>knRU</string>
+		<string>knL</string>
+		<string>knRAA</string>
+		<string>knJHAU</string>
+		<string>knJHA</string>
+		<string>knLAU</string>
+		<string>knJHE</string>
+		<string>knRA</string>
+		<string>knJHI</string>
+		<string>knRE</string>
+		<string>knJHO</string>
+		<string>knYAU</string>
+		<string>knRO</string>
+		<string>knYU</string>
+		<string>knRUU</string>
+		<string>knYAA</string>
 		<string>knYI</string>
 		<string>knYO</string>
-		<string>knYU</string>
-		<string>knYUU</string>
-		<string>knTTHE</string>
-		<string>knTTHI</string>
-		<string>knTTHO</string>
-		<string>knTTHU</string>
-		<string>knTTHUU</string>
-		<string>knTTH</string>
-		<string>knTTHAA</string>
-		<string>knTTHAU</string>
-		<string>knRU</string>
-		<string>knRUU</string>
-		<string>knRE</string>
-		<string>knRI</string>
-		<string>knRO</string>
-		<string>knR</string>
-		<string>knRAA</string>
-		<string>knRAU</string>
-		<string>knJH</string>
-		<string>knJHAA</string>
-		<string>knJHAU</string>
-		<string>knJHE</string>
-		<string>knJHI</string>
-		<string>knJHO</string>
-		<string>knJHU</string>
-		<string>knJHUU</string>
 		<string>knYA</string>
-		<string>knJHA</string>
-		<string>knLA</string>
-		<string>knL</string>
-		<string>knLAA</string>
-		<string>knLAU</string>
+		<string>knTTHAA</string>
+		<string>knYE</string>
 		<string>knLE</string>
-		<string>knLI</string>
+		<string>knLA</string>
 		<string>knLO</string>
-		<string>knLU</string>
+		<string>knLI</string>
+		<string>knTTH</string>
 		<string>knLUU</string>
+		<string>knJHUU</string>
+		<string>knY</string>
+		<string>knJH</string>
+		<string>knR</string>
+		<string>knRI</string>
+		<string>knYUU</string>
+		<string>knTTHU</string>
+		<string>knLU</string>
+		<string>knTTHI</string>
+		<string>knTTHAU</string>
+		<string>knTTHO</string>
+		<string>knTTHA</string>
+		<string>knTTHE</string>
 	</array>
 	<key>@MMK_R_knVA</key>
 	<array>
-		<string>knMA</string>
-		<string>knVA</string>
+		<string>knVAU</string>
 		<string>knME</string>
-		<string>knMI</string>
-		<string>knMO</string>
-		<string>knMU</string>
-		<string>knMUU</string>
 		<string>knM</string>
+		<string>knMA</string>
 		<string>knMAA</string>
-		<string>knMAU</string>
-		<string>knVU</string>
 		<string>knVUU</string>
+		<string>knMO</string>
+		<string>knMI</string>
+		<string>knMUU</string>
 		<string>knVE</string>
-		<string>knVI</string>
-		<string>knVO</string>
+		<string>knMU</string>
+		<string>knMAU</string>
+		<string>knVA</string>
+		<string>knVU</string>
 		<string>knV</string>
 		<string>knVAA</string>
-		<string>knVAU</string>
-	</array>
-	<key>@MMK_R_l</key>
-	<array>
-		<string>l</string>
-		<string>lacute</string>
-		<string>lcaron</string>
-		<string>uni013C</string>
-		<string>lslash</string>
+		<string>knVO</string>
+		<string>knVI</string>
 	</array>
 	<key>@MMK_R_o</key>
 	<array>
-		<string>oslash</string>
-		<string>q</string>
-		<string>ecircumflex</string>
-		<string>d</string>
-		<string>g</string>
-		<string>otilde</string>
 		<string>ograve</string>
 		<string>ocircumflex</string>
-		<string>egrave</string>
-		<string>o</string>
-		<string>odieresis</string>
+		<string>uni0123</string>
 		<string>edieresis</string>
-		<string>eacute</string>
-		<string>eth</string>
-		<string>e</string>
-		<string>oacute</string>
+		<string>egrave</string>
+		<string>otilde</string>
 		<string>dcaron</string>
 		<string>gbreve</string>
+		<string>ecircumflex</string>
+		<string>odieresis</string>
 		<string>ohungarumlaut</string>
-		<string>omacron</string>
 		<string>dcroat</string>
+		<string>eacute</string>
+		<string>oslash</string>
+		<string>omacron</string>
+		<string>e</string>
+		<string>d</string>
+		<string>g</string>
 		<string>oe</string>
-		<string>uni0123</string>
-	</array>
-	<key>@MMK_R_quoteleft</key>
-	<array>
-		<string>quotedblleft</string>
-		<string>quoteleft</string>
-	</array>
-	<key>@MMK_R_quoteright</key>
-	<array>
-		<string>quotedbl</string>
-		<string>quotedblright</string>
-		<string>quoteright</string>
-		<string>quotesingle</string>
+		<string>o</string>
+		<string>q</string>
+		<string>eth</string>
+		<string>oacute</string>
 	</array>
 	<key>@MMK_R_r</key>
 	<array>
 		<string>udieresis</string>
-		<string>uacute</string>
-		<string>m</string>
+		<string>uhungarumlaut</string>
+		<string>nacute</string>
+		<string>uni0157</string>
+		<string>rcaron</string>
+		<string>igrave</string>
 		<string>ugrave</string>
-		<string>n</string>
+		<string>dotlessi</string>
+		<string>racute</string>
+		<string>uni0146</string>
 		<string>ntilde</string>
+		<string>uogonek</string>
+		<string>ucircumflex</string>
+		<string>umacron</string>
+		<string>iacute</string>
+		<string>uacute</string>
+		<string>icircumflex</string>
+		<string>uring</string>
+		<string>iogonek</string>
+		<string>i</string>
+		<string>m</string>
+		<string>n</string>
+		<string>imacron</string>
 		<string>r</string>
 		<string>u</string>
-		<string>ucircumflex</string>
-		<string>nacute</string>
 		<string>ncaron</string>
-		<string>racute</string>
-		<string>rcaron</string>
-		<string>uhungarumlaut</string>
-		<string>umacron</string>
-		<string>uogonek</string>
-		<string>uring</string>
-		<string>uni0157</string>
-		<string>uni0146</string>
-		<string>i</string>
-		<string>iacute</string>
-		<string>icircumflex</string>
 		<string>idieresis</string>
-		<string>igrave</string>
-		<string>imacron</string>
-		<string>iogonek</string>
-		<string>dotlessi</string>
-	</array>
-	<key>@MMK_R_registered</key>
-	<array>
-		<string>ordfeminine</string>
-		<string>ordmasculine</string>
-		<string>registered</string>
-		<string>trademark</string>
-		<string>asterisk</string>
 	</array>
 	<key>@MMK_R_s</key>
 	<array>
 		<string>s</string>
 		<string>sacute</string>
-		<string>scaron</string>
 		<string>uni015F</string>
+		<string>scaron</string>
 		<string>uni0219</string>
 	</array>
 	<key>@MMK_R_t</key>
 	<array>
-		<string>t</string>
-		<string>tcaron</string>
-		<string>uni021B</string>
 		<string>uni0163</string>
+		<string>t</string>
+		<string>uni021B</string>
+		<string>tcaron</string>
 	</array>
 	<key>@MMK_R_y</key>
 	<array>
 		<string>y</string>
-		<string>yacute</string>
 		<string>ydieresis</string>
+		<string>yacute</string>
 	</array>
 	<key>@MMK_R_z</key>
 	<array>
-		<string>z</string>
 		<string>zacute</string>
+		<string>z</string>
 		<string>zcaron</string>
 		<string>zdotaccent</string>
 	</array>
