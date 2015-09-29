@@ -3,13 +3,30 @@
   <advance width="740"/>
   <outline>
     <contour>
-      <point x="361" y="-89" type="move"/>
-      <point x="361" y="-192" type="line"/>
+      <point x="356" y="-89" type="move"/>
+      <point x="356" y="-192" type="line"/>
     </contour>
     <component base="knDDI"/>
   </outline>
   <lib>
     <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <real>90.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>x</key>
+          <integer>356</integer>
+          <key>y</key>
+          <integer>55</integer>
+        </dict>
+      </array>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>mask</key>
