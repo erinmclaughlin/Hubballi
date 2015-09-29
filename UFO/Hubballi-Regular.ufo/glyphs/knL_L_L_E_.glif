@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="knLLLE" format="1">
-  <advance width="878"/>
+  <advance width="870"/>
   <outline>
-    <component base="knLLLA.base"/>
-    <component base="knsignE" xOffset="892"/>
+    <component base="knLLLA.base" xOffset="-8"/>
+    <component base="knsignE" xOffset="884"/>
   </outline>
   <lib>
     <dict>
@@ -29,7 +29,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>878</integer>
+          <integer>870</integer>
         </dict>
         <key>wire</key>
         <dict>
@@ -51,7 +51,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>878</integer>
+          <integer>870</integer>
         </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>
