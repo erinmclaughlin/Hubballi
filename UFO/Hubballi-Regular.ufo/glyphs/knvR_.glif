@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="knvR" format="1">
-  <advance width="1046"/>
+  <advance width="1056"/>
   <unicode hex="0C8B"/>
   <outline>
     <contour>
-      <point x="474" y="437" type="move"/>
-      <point x="556" y="437" type="line" smooth="yes"/>
-      <point x="629" y="437"/>
-      <point x="672" y="463"/>
-      <point x="704" y="515" type="curve"/>
+      <point x="479" y="437" type="move"/>
+      <point x="561" y="437" type="line" smooth="yes"/>
+      <point x="634" y="437"/>
+      <point x="677" y="463"/>
+      <point x="709" y="515" type="curve"/>
     </contour>
-    <component base="knKha" xOffset="-59" yOffset="-142"/>
-    <component base="knUsign" xOffset="1015" yOffset="-512"/>
+    <component base="knKha" xOffset="-54" yOffset="-142"/>
+    <component base="knUsign" xOffset="1020" yOffset="-512"/>
     <component base="knKHA"/>
-    <component base="knsignU" xOffset="750"/>
+    <component base="knsignU" xOffset="755"/>
   </outline>
   <lib>
     <dict>
@@ -66,7 +66,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1046</integer>
+          <integer>1056</integer>
         </dict>
         <key>wire</key>
         <dict>
@@ -88,7 +88,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1046</integer>
+          <integer>1056</integer>
         </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>

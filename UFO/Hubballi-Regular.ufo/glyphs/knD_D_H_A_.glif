@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="knDDHA" format="1">
-  <advance width="740"/>
+  <advance width="750"/>
   <unicode hex="0CA2"/>
   <outline>
     <contour>
-      <point x="361" y="-89" type="move"/>
-      <point x="361" y="-192" type="line"/>
+      <point x="366" y="-89" type="move"/>
+      <point x="366" y="-192" type="line"/>
     </contour>
-    <component base="knDda"/>
-    <component base="knDda"/>
+    <component base="knDda" xOffset="5"/>
+    <component base="knDda" xOffset="5"/>
     <component base="knDDA"/>
   </outline>
   <lib>
@@ -52,7 +52,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>740</integer>
+          <integer>750</integer>
         </dict>
         <key>wire</key>
         <dict>
@@ -74,7 +74,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>740</integer>
+          <integer>750</integer>
         </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>
