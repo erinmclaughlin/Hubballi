@@ -315,41 +315,60 @@
 	</dict>
 	<key>@MMK_L_knCA</key>
 	<dict>
-		<key>knKAc2</key>
+		<key>@MMK_R_knKAc2</key>
+		<integer>-10</integer>
+	</dict>
+	<key>@MMK_L_knDA</key>
+	<dict>
+		<key>@MMK_R_knKAc2</key>
+		<integer>-20</integer>
+	</dict>
+	<key>@MMK_L_knGA</key>
+	<dict>
+		<key>@MMK_R_knKAc2</key>
 		<integer>-10</integer>
 	</dict>
 	<key>@MMK_L_knGHA</key>
 	<dict>
-		<key>knKAc2</key>
-		<integer>-30</integer>
+		<key>@MMK_R_knKAc2</key>
+		<integer>-40</integer>
 	</dict>
 	<key>@MMK_L_knKA</key>
 	<dict>
-		<key>knKAc2</key>
-		<integer>-60</integer>
+		<key>@MMK_R_knKAc2</key>
+		<integer>-65</integer>
 	</dict>
-	<key>@MMK_L_knNGA</key>
+	<key>@MMK_L_knLLA</key>
 	<dict>
-		<key>knKAc2</key>
-		<integer>50</integer>
+		<key>@MMK_R_knKAc2</key>
+		<integer>-60</integer>
 	</dict>
 	<key>@MMK_L_knNYA</key>
 	<dict>
-		<key>knKAc2</key>
+		<key>@MMK_R_knKAc2</key>
 		<integer>-60</integer>
+	</dict>
+	<key>@MMK_L_knRA</key>
+	<dict>
+		<key>@MMK_R_knKAc2</key>
+		<integer>-40</integer>
 	</dict>
 	<key>@MMK_L_knSHA</key>
 	<dict>
-		<key>knKAc2</key>
+		<key>@MMK_R_knKAc2</key>
 		<integer>60</integer>
 	</dict>
 	<key>@MMK_L_knSSA</key>
 	<dict>
-		<key>knKAc2</key>
+		<key>@MMK_R_knKAc2</key>
 		<integer>-10</integer>
 	</dict>
 	<key>@MMK_L_knSubTall</key>
 	<dict>
+		<key>@MMK_R_knBA</key>
+		<integer>-10</integer>
+		<key>@MMK_R_knDA</key>
+		<integer>-20</integer>
 		<key>@MMK_R_knKA</key>
 		<integer>-65</integer>
 		<key>@MMK_R_knKHA</key>
@@ -358,20 +377,24 @@
 		<integer>-50</integer>
 		<key>@MMK_R_knNYA</key>
 		<integer>-60</integer>
+		<key>@MMK_R_knPA</key>
+		<integer>-5</integer>
 		<key>@MMK_R_knRA</key>
-		<integer>-40</integer>
+		<integer>-30</integer>
 		<key>@MMK_R_knVA</key>
 		<integer>15</integer>
 	</dict>
 	<key>@MMK_L_knTA</key>
 	<dict>
-		<key>knKAc2</key>
+		<key>@MMK_R_knKAc2</key>
 		<integer>25</integer>
 	</dict>
-	<key>@MMK_L_knU</key>
+	<key>@MMK_L_knUlow</key>
 	<dict>
-		<key>knKAc2</key>
-		<integer>30</integer>
+		<key>@MMK_R_knKAc2</key>
+		<integer>160</integer>
+		<key>@MMK_R_knSubs</key>
+		<integer>150</integer>
 	</dict>
 	<key>@MMK_L_o</key>
 	<dict>
