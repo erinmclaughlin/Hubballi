@@ -400,6 +400,10 @@
 		<integer>-50</integer>
 		<key>@MMK_R_knSHA</key>
 		<integer>-20</integer>
+		<key>@MMK_R_knSubsfollow</key>
+		<integer>80</integer>
+		<key>@MMK_R_knSubstallfollow</key>
+		<integer>135</integer>
 		<key>@MMK_R_knVA</key>
 		<integer>15</integer>
 		<key>@MMK_R_knYA</key>
@@ -685,6 +689,25 @@
 	<dict>
 		<key>period</key>
 		<integer>5</integer>
+	</dict>
+	<key>knKAc2</key>
+	<dict>
+		<key>knCHAc2.following</key>
+		<integer>150</integer>
+		<key>knDDAc2.following</key>
+		<integer>40</integer>
+		<key>knDDHAc2.following</key>
+		<integer>40</integer>
+		<key>knGAc2.following</key>
+		<integer>20</integer>
+		<key>knJHAc2.following</key>
+		<integer>160</integer>
+		<key>knKAc2.following</key>
+		<integer>20</integer>
+		<key>knNYAc2.following</key>
+		<integer>130</integer>
+		<key>knTTHAc2.following</key>
+		<integer>15</integer>
 	</dict>
 	<key>nine</key>
 	<dict>

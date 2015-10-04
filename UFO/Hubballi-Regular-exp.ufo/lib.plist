@@ -1079,6 +1079,9 @@
 				<string>tildecmb.cap</string>
 				<string>tildecmb</string>
 				<string>ringcmb</string>
+				<string>mu</string>
+				<string>estimated</string>
+				<string>idot</string>
 			</array>
 			<key>type</key>
 			<string>glyphList</string>
@@ -1091,6 +1094,30 @@
 		<real>0.0</real>
 		<real>0.7</real>
 	</array>
+	<key>com.typesupply.MetricsMachine4.groupColors</key>
+	<dict>
+		<key>@MMK_L_knSub</key>
+		<array>
+			<real>1.0</real>
+			<real>1.0</real>
+			<real>0.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_R_knSubsfollow</key>
+		<array>
+			<real>1.0</real>
+			<real>0.0</real>
+			<real>1.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_R_knSubstallfollow</key>
+		<array>
+			<real>1.0</real>
+			<real>0.0</real>
+			<real>0.5</real>
+			<real>0.25</real>
+		</array>
+	</dict>
 	<key>public.glyphOrder</key>
 	<array>
 		<string>.notdef</string>
@@ -1944,6 +1971,9 @@
 		<string>tildecmb.cap</string>
 		<string>tildecmb</string>
 		<string>ringcmb</string>
+		<string>mu</string>
+		<string>estimated</string>
+		<string>idot</string>
 	</array>
 </dict>
 </plist>
