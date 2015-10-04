@@ -14,7 +14,7 @@
       Atilde
     </glyphs>
   </group>
-  <group color="0.0 0.0 1.0 0.25" name="C" side="left" type="kerning">
+  <group color="1.0 0.5 0.0 0.25" name="C" side="left" type="kerning">
     <glyphs>
       C
       Cacute
@@ -22,7 +22,7 @@
       Ccedilla
     </glyphs>
   </group>
-  <group color="0.5 0.0 1.0 0.25" name="E" side="left" type="kerning">
+  <group color="1.0 1.0 0.0 0.25" name="E" side="left" type="kerning">
     <glyphs>
       AE
       E
@@ -37,32 +37,13 @@
       OE
     </glyphs>
   </group>
-  <group color="1.0 0.0 1.0 0.25" name="G" side="left" type="kerning">
-    <glyphs>
-      G
-      Gbreve
-      uni0122
-    </glyphs>
-  </group>
-  <group color="1.0 0.0 0.5 0.25" name="I" side="left" type="kerning">
-    <glyphs>
-      I
-      Iacute
-      Icircumflex
-      Idieresis
-      Idotaccent
-      Igrave
-      Imacron
-      Iogonek
-    </glyphs>
-  </group>
-  <group color="1.0 0.0 0.0 0.25" name="K" side="left" type="kerning">
+  <group color="0.0 1.0 0.0 0.25" name="K" side="left" type="kerning">
     <glyphs>
       K
       uni0136
     </glyphs>
   </group>
-  <group color="1.0 0.5 0.0 0.25" name="L" side="left" type="kerning">
+  <group color="0.0 1.0 1.0 0.25" name="L" side="left" type="kerning">
     <glyphs>
       L
       Lacute
@@ -71,16 +52,7 @@
       uni013B
     </glyphs>
   </group>
-  <group color="1.0 1.0 0.0 0.25" name="N" side="left" type="kerning">
-    <glyphs>
-      N
-      Nacute
-      Ncaron
-      Ntilde
-      uni0145
-    </glyphs>
-  </group>
-  <group color="1.0 0.5 0.0 0.25" name="O" side="left" type="kerning">
+  <group color="0.0 0.5 1.0 0.25" name="O" side="left" type="kerning">
     <glyphs>
       D
       Dcaron
@@ -98,13 +70,13 @@
       Q
     </glyphs>
   </group>
-  <group color="0.0 1.0 0.0 0.25" name="P" side="left" type="kerning">
+  <group color="0.0 0.0 1.0 0.25" name="P" side="left" type="kerning">
     <glyphs>
       P
       Thorn
     </glyphs>
   </group>
-  <group color="0.0 1.0 1.0 0.25" name="R" side="left" type="kerning">
+  <group color="0.5 0.0 1.0 0.25" name="R" side="left" type="kerning">
     <glyphs>
       R
       Racute
@@ -112,7 +84,7 @@
       uni0156
     </glyphs>
   </group>
-  <group color="0.0 0.5 1.0 0.25" name="S" side="left" type="kerning">
+  <group color="1.0 0.0 1.0 0.25" name="S" side="left" type="kerning">
     <glyphs>
       S
       Sacute
@@ -121,12 +93,7 @@
       uni0218
     </glyphs>
   </group>
-  <group color="0.0 0.0 1.0 0.25" name="T" side="left" type="kerning">
-    <glyphs>
-      uni0162
-    </glyphs>
-  </group>
-  <group color="1.0 1.0 0.0 0.25" name="U" side="left" type="kerning">
+  <group color="1.0 0.0 0.5 0.25" name="U" side="left" type="kerning">
     <glyphs>
       T
       Tcaron
@@ -142,18 +109,14 @@
       uni021A
     </glyphs>
   </group>
-  <group color="0.0 1.0 0.0 0.25" name="Y" side="left" type="kerning">
+  <group color="1.0 0.0 0.0 0.25" name="Y" side="left" type="kerning">
     <glyphs>
       Y
       Yacute
       Ydieresis
     </glyphs>
   </group>
-  <group color="0.5 0.0 1.0 0.25" name="Z" side="left" type="kerning">
-    <glyphs>
-    </glyphs>
-  </group>
-  <group color="0.0 0.5 1.0 0.25" name="a" side="left" type="kerning">
+  <group color="1.0 0.5 0.0 0.25" name="a" side="left" type="kerning">
     <glyphs>
       a
       aacute
@@ -167,202 +130,240 @@
       atilde
     </glyphs>
   </group>
-  <group color="0.0 0.0 1.0 0.25" name="comma" side="left" type="kerning">
+  <group color="1.0 0.0 0.0 0.25" name="c" side="left" type="kerning">
     <glyphs>
-      comma
-      period
+      c
+      cacute
+      ccaron
+      ccedilla
     </glyphs>
   </group>
-  <group color="1.0 0.5 0.0 0.25" name="k" side="left" type="kerning">
+  <group color="1.0 0.0 0.0 0.25" name="knAAsign" side="left" type="kerning">
     <glyphs>
-      k
-      uni0137
+      knBAA
+      knBHAA
+      knCAA
+      knCHAA
+      knDAA
+      knDDAA
+      knDDHAA
+      knDHAA
+      knGAA
+      knGHAA
+      knHAA
+      knJAA
+      knJHAA
+      knKAA
+      knKHAA
+      knLAA
+      knLLAA
+      knLLLAA
+      knMAA
+      knNAA
+      knNGAA
+      knNNAA
+      knNYAA
+      knPAA
+      knPHAA
+      knRAA
+      knRRAA
+      knSAA
+      knSHAA
+      knSSAA
+      knTAA
+      knTHAA
+      knTTAA
+      knTTHAA
+      knVAA
+      knYAA
+      knvLL
     </glyphs>
   </group>
-  <group color="1.0 0.0 1.0 0.25" name="knAIsign" side="left" type="kerning">
+  <group color="1.0 0.0 1.0 0.25" name="knBHA" side="left" type="kerning">
     <glyphs>
-      knB
-      knBAU
-      knBH
-      knBHAU
-      knC
-      knCAU
-      knCH
-      knCHAU
-      knD
-      knDAU
-      knDD
-      knDDAU
-      knDDH
-      knDDHAU
-      knDH
-      knDHAU
-      knG
-      knGAU
-      knGH
-      knGHAU
-      knH
-      knHAU
-      knJ
-      knJAU
-      knJH
-      knJHAU
-      knK
-      knKAU
-      knKH
-      knKHAU
-      knL
-      knLAU
-      knLL
-      knLLAU
-      knLLL
-      knLLLAU
-      knM
-      knMAU
-      knN
-      knNAU
-      knNE
-      knNG
-      knNGAU
-      knNGE
-      knNGI
-      knNN
-      knNNAU
-      knNY
-      knNYAU
-      knNYI
-      knP
-      knPAU
-      knPH
-      knPHAU
-      knR
-      knRAU
-      knRR
-      knRRAU
-      knS
-      knSAU
-      knSH
-      knSHAU
-      knSS
-      knSSAU
-      knT
-      knTAU
-      knTH
-      knTT
-      knTTAU
-      knTTH
-      knTTHAU
-      knV
-      knVAU
-      knY
-      knYAU
+      knBE
+      knBHA
+      knBHE
+      knBHI
+      knBI
+      knVA
+      knVE
+      knVI
     </glyphs>
   </group>
-  <group color="0.5 0.0 1.0 0.25" name="knCA" side="left" type="kerning">
+  <group color="1.0 0.5 0.0 0.25" name="knCA" side="left" type="kerning">
     <glyphs>
       knCA
       knCE
       knCI
     </glyphs>
   </group>
-  <group color="1.0 1.0 0.0 0.25" name="knGHA" side="left" type="kerning">
+  <group color="0.0 0.0 1.0 0.25" name="knCHA" side="left" type="kerning">
+    <glyphs>
+      knCHA
+      knCHE
+      knCHI
+    </glyphs>
+  </group>
+  <group color="1.0 1.0 0.0 0.25" name="knDA" side="left" type="kerning">
+    <glyphs>
+      knDA
+      knDDA
+      knDDE
+      knDDHA
+      knDDHE
+      knDDHI
+      knDDI
+      knDE
+      knDHA
+      knDHE
+      knDHI
+      knDI
+      knTHA
+      knTHE
+      knTHI
+    </glyphs>
+  </group>
+  <group color="0.5 0.0 1.0 0.25" name="knE" side="left" type="kerning">
+    <glyphs>
+      knE
+      knEE
+    </glyphs>
+  </group>
+  <group color="0.0 1.0 0.0 0.25" name="knGA" side="left" type="kerning">
+    <glyphs>
+      knGA
+      knGE
+      knGI
+    </glyphs>
+  </group>
+  <group color="0.0 1.0 1.0 0.25" name="knGHA" side="left" type="kerning">
     <glyphs>
       knGHA
       knGHE
       knGHI
     </glyphs>
   </group>
-  <group color="1.0 0.0 0.0 0.25" name="knKA" side="left" type="kerning">
+  <group color="0.0 0.5 1.0 0.25" name="knHA" side="left" type="kerning">
+    <glyphs>
+      knHA
+      knHE
+      knHI
+    </glyphs>
+  </group>
+  <group color="0.0 1.0 1.0 0.25" name="knJA" side="left" type="kerning">
+    <glyphs>
+      knAU
+      knJA
+      knNGA
+      knO
+      knOO
+    </glyphs>
+  </group>
+  <group color="0.0 1.0 0.0 0.25" name="knJHA" side="left" type="kerning">
+    <glyphs>
+      knJE
+      knJI
+    </glyphs>
+  </group>
+  <group color="0.0 0.5 1.0 0.25" name="knKA" side="left" type="kerning">
     <glyphs>
       knKA
       knKE
       knKI
     </glyphs>
   </group>
-  <group color="1.0 0.5 0.0 0.25" name="knLLA" side="left" type="kerning">
+  <group color="1.0 1.0 0.0 0.25" name="knKHA" side="left" type="kerning">
+    <glyphs>
+      knKHE
+      knKHI
+    </glyphs>
+  </group>
+  <group color="0.0 1.0 1.0 0.25" name="knLA" side="left" type="kerning">
+    <glyphs>
+      knLA
+      knLE
+      knLI
+    </glyphs>
+  </group>
+  <group color="0.0 0.0 1.0 0.25" name="knLLA" side="left" type="kerning">
     <glyphs>
       knLLA
       knLLE
       knLLI
     </glyphs>
   </group>
-  <group color="0.0 1.0 1.0 0.25" name="knNGA" side="left" type="kerning">
+  <group color="1.0 0.0 0.5 0.25" name="knNA" side="left" type="kerning">
     <glyphs>
-      knBA
-      knBHA
-      knJA
       knNA
-      knNGA
-      knPA
-      knPHA
-      knTTA
-      knVA
+      knNE
+      knNI
+      knSA
+      knSE
+      knSI
     </glyphs>
   </group>
-  <group color="0.0 1.0 0.0 0.25" name="knNYA" side="left" type="kerning">
+  <group color="1.0 0.0 1.0 0.25" name="knNGE" side="left" type="kerning">
+    <glyphs>
+      knLLLE
+      knNGE
+      knNGI
+      knNYE
+      knNYI
+      knRRE
+    </glyphs>
+  </group>
+  <group color="0.5 0.0 1.0 0.25" name="knNNA" side="left" type="kerning">
+    <glyphs>
+      knLLLA
+      knLLLI
+      knNNA
+      knNNE
+      knNNI
+      knRRA
+      knRRI
+    </glyphs>
+  </group>
+  <group color="0.5 0.0 1.0 0.25" name="knNYA" side="left" type="kerning">
     <glyphs>
       knNYA
-      knNYE
     </glyphs>
   </group>
-  <group color="0.0 0.0 1.0 0.25" name="knSHA" side="left" type="kerning">
+  <group color="0.0 0.5 1.0 0.25" name="knPA" side="left" type="kerning">
+    <glyphs>
+      knPA
+      knPE
+      knPHA
+      knPHE
+      knPHI
+      knPI
+    </glyphs>
+  </group>
+  <group color="1.0 0.0 1.0 0.25" name="knRA" side="left" type="kerning">
+    <glyphs>
+      knRA
+      knRE
+      knRI
+      knTTHA
+      knTTHE
+      knTTHI
+    </glyphs>
+  </group>
+  <group color="1.0 0.0 0.5 0.25" name="knSHA" side="left" type="kerning">
     <glyphs>
       knSSA
+      knSSE
+      knSSI
     </glyphs>
   </group>
-  <group color="0.0 0.5 1.0 0.25" name="knSSA" side="left" type="kerning">
+  <group color="1.0 0.0 0.0 0.25" name="knSSA" side="left" type="kerning">
     <glyphs>
       knSHA
+      knSHE
+      knSHI
     </glyphs>
   </group>
-  <group color="1.0 0.0 0.0 0.25" name="knSub" side="left" type="kerning">
-    <glyphs>
-      knCAc2
-      knCAc2.following
-      knDAc2
-      knDAc2.following
-      knDDAc2
-      knDDAc2.following
-      knDDHAc2
-      knDDHAc2.following
-      knDHAc2
-      knDHAc2.following
-      knGAc2
-      knGAc2.following
-      knHAc2
-      knHAc2.following
-      knJAc2
-      knJAc2.following
-      knJHAc2
-      knJHAc2.following
-      knKAc2.following
-      knKHAc2.following
-      knLAc2
-      knLAc2.following
-      knLLLAc2
-      knLLLAc2.following
-      knNGAc2
-      knNGAc2.following
-      knNNAc2
-      knNNAc2.following
-      knNYAc2
-      knNYAc2.following
-      knRRAc2
-      knRRAc2.following
-      knSSAc2.kssa
-      knTAc2
-      knTAc2.following
-      knTHAc2
-      knTHAc2.following
-      knTTHAc2
-      knTTHAc2.following
-      knVAc2
-      knVAc2.following
-      knsignvL
-      knsignvLL
-    </glyphs>
-  </group>
-  <group color="1.0 0.0 0.5 0.25" name="knSubTall" side="left" type="kerning">
+  <group color="1.0 0.5 0.0 0.25" name="knSubTall" side="left" type="kerning">
     <glyphs>
       knAIlengthmark
       knAIlengthmark.following
@@ -408,207 +409,231 @@
       knsignvRR.following
     </glyphs>
   </group>
-  <group color="1.0 0.0 1.0 0.25" name="knTA" side="left" type="kerning">
+  <group color="1.0 1.0 0.0 0.25" name="knTA" side="left" type="kerning">
     <glyphs>
-      knHA
-      knHE
-      knHI
-      knSA
-      knSE
-      knSI
       knTA
       knTE
       knTI
     </glyphs>
   </group>
-  <group color="0.5 0.0 1.0 0.25" name="knU" side="left" type="kerning">
+  <group color="0.0 0.0 1.0 0.25" name="knTTA" side="left" type="kerning">
     <glyphs>
-      knA
-      knBAA
-      knBHAA
-      knBHO
+      knAI
+      knTTA
+      knTTE
+      knTTI
+    </glyphs>
+  </group>
+  <group color="1.0 1.0 0.0 0.25" name="knU" side="left" type="kerning">
+    <glyphs>
+      knBA
       knBHU
-      knBHUU
-      knBO
       knBU
-      knBUU
-      knCAA
-      knCHAA
-      knCHO
       knCHU
-      knCHUU
-      knCO
       knCU
-      knCUU
-      knDAA
-      knDDAA
-      knDDHAA
-      knDDHO
       knDDHU
-      knDDHUU
-      knDDO
       knDDU
-      knDDUU
-      knDHAA
-      knDHO
       knDHU
-      knDHUU
-      knDO
       knDU
-      knDUU
-      knGAA
-      knGHAA
-      knGHO
       knGHU
-      knGHUU
-      knGO
       knGU
-      knGUU
-      knHAA
-      knHO
       knHU
-      knHUU
-      knJAA
       knJHA
-      knJHAA
       knJHE
       knJHI
-      knJHO
       knJHU
-      knJHUU
-      knJO
       knJU
-      knJUU
-      knKAA
       knKHA
-      knKHAA
-      knKHO
       knKHU
-      knKHUU
-      knKO
       knKU
-      knKUU
-      knLAA
-      knLLAA
-      knLLLA
-      knLLLAA
-      knLLLI
-      knLLLO
       knLLLU
-      knLLLUU
-      knLLO
       knLLU
-      knLLUU
-      knLO
       knLU
-      knLUU
       knMA
-      knMAA
       knME
       knMI
-      knMO
       knMU
-      knMUU
-      knNAA
-      knNGAA
-      knNGO
       knNGU
-      knNGUU
-      knNNA
-      knNNAA
-      knNNI
-      knNNO
       knNNU
-      knNNUU
-      knNO
       knNU
-      knNUU
-      knNYAA
-      knNYO
       knNYU
-      knNYUU
-      knPAA
-      knPHAA
-      knPHO
-      knPHU
-      knPHUU
-      knPO
-      knPU
-      knPUU
-      knRAA
-      knRO
-      knRRA
-      knRRAA
-      knRRI
-      knRRO
       knRRU
-      knRRUU
       knRU
-      knRUU
-      knSAA
-      knSHAA
-      knSHO
       knSHU
-      knSHUU
-      knSO
-      knSSAA
-      knSSO
       knSSU
-      knSSUU
       knSU
-      knSUU
-      knTAA
-      knTHAA
-      knTHO
       knTHU
-      knTHUU
-      knTO
-      knTTAA
-      knTTHAA
-      knTTHO
       knTTHU
-      knTTHUU
-      knTTO
       knTTU
-      knTTUU
       knTU
-      knTUU
-      knUU
-      knVAA
-      knVO
-      knVU
-      knVUU
+      knU
       knYA
-      knYAA
       knYE
       knYI
-      knYO
       knYU
+      knvL
+      knvR
+    </glyphs>
+  </group>
+  <group color="0.0 1.0 0.0 0.25" name="knUU" side="left" type="kerning">
+    <glyphs>
+      knBHO
+      knBHUU
+      knBO
+      knBUU
+      knCHO
+      knCHUU
+      knCO
+      knCUU
+      knDDHO
+      knDDHUU
+      knDDO
+      knDDUU
+      knDHO
+      knDHUU
+      knDO
+      knDUU
+      knGHO
+      knGHUU
+      knGO
+      knGUU
+      knHO
+      knHUU
+      knJHO
+      knJHUU
+      knJO
+      knJUU
+      knKHO
+      knKHUU
+      knKO
+      knKUU
+      knLLLO
+      knLLLUU
+      knLLO
+      knLLUU
+      knLO
+      knLUU
+      knMO
+      knMUU
+      knNGO
+      knNGUU
+      knNNO
+      knNNUU
+      knNO
+      knNUU
+      knNYO
+      knNYUU
+      knPHO
+      knPHUU
+      knPO
+      knPUU
+      knRO
+      knRRO
+      knRRUU
+      knRUU
+      knSHO
+      knSHUU
+      knSO
+      knSSO
+      knSSUU
+      knSUU
+      knTHO
+      knTHUU
+      knTO
+      knTTHO
+      knTTHUU
+      knTTO
+      knTTUU
+      knTUU
+      knUU
+      knVO
+      knVUU
+      knYO
       knYUU
-      knvLL
       knvRR
     </glyphs>
   </group>
-  <group color="0.0 1.0 1.0 0.25" name="l" side="left" type="kerning">
+  <group color="0.0 1.0 0.0 0.25" name="knUlow" side="left" type="kerning">
     <glyphs>
-      knU
-      knvR
-      lslash
+      knPHU
+      knPU
+      knVU
     </glyphs>
   </group>
-  <group color="1.0 1.0 0.0 0.25" name="n" side="left" type="kerning">
+  <group color="1.0 0.0 1.0 0.25" name="knVirama" side="left" type="kerning">
     <glyphs>
-      h
-      l
-      lacute
-      lcaron
-      m
-      n
-      nacute
-      ncaron
-      ntilde
-      uni013C
-      uni0146
+      knB
+      knBAU
+      knBH
+      knBHAU
+      knC
+      knCAU
+      knCH
+      knCHAU
+      knD
+      knDAU
+      knDD
+      knDDAU
+      knDDH
+      knDDHAU
+      knDH
+      knDHAU
+      knG
+      knGAU
+      knGH
+      knGHAU
+      knH
+      knHAU
+      knJ
+      knJAU
+      knJH
+      knJHAU
+      knK
+      knKAU
+      knKH
+      knKHAU
+      knL
+      knLAU
+      knLL
+      knLLAU
+      knLLL
+      knLLLAU
+      knM
+      knMAU
+      knN
+      knNAU
+      knNG
+      knNGAU
+      knNN
+      knNNAU
+      knNY
+      knNYAU
+      knP
+      knPAU
+      knPH
+      knPHAU
+      knR
+      knRAU
+      knRR
+      knRRAU
+      knS
+      knSAU
+      knSH
+      knSHAU
+      knSS
+      knSSAU
+      knT
+      knTAU
+      knTH
+      knTHAU
+      knTT
+      knTTAU
+      knTTH
+      knTTHAU
+      knV
+      knVAU
+      knY
+      knYAU
     </glyphs>
   </group>
   <group color="0.0 1.0 1.0 0.25" name="o" side="left" type="kerning">
@@ -643,7 +668,7 @@
       thorn
     </glyphs>
   </group>
-  <group color="1.0 0.0 0.0 0.25" name="r" side="left" type="kerning">
+  <group color="0.0 0.5 1.0 0.25" name="r" side="left" type="kerning">
     <glyphs>
       r
       racute
@@ -653,15 +678,13 @@
   </group>
   <group color="1.0 0.0 0.5 0.25" name="s" side="left" type="kerning">
     <glyphs>
-      germandbls
       s
       sacute
       scaron
       uni015F
-      uni0219
     </glyphs>
   </group>
-  <group color="1.0 0.0 1.0 0.25" name="t" side="left" type="kerning">
+  <group color="0.0 0.0 1.0 0.25" name="t" side="left" type="kerning">
     <glyphs>
       t
       tcaron
@@ -669,14 +692,14 @@
       uni021B
     </glyphs>
   </group>
-  <group color="0.0 0.5 1.0 0.25" name="y" side="left" type="kerning">
+  <group color="0.5 0.0 1.0 0.25" name="y" side="left" type="kerning">
     <glyphs>
       y
       yacute
       ydieresis
     </glyphs>
   </group>
-  <group color="0.0 1.0 0.0 0.25" name="z" side="left" type="kerning">
+  <group color="1.0 0.5 0.0 0.25" name="z" side="left" type="kerning">
     <glyphs>
       z
       zacute
@@ -697,18 +720,6 @@
       Aogonek
       Aring
       Atilde
-    </glyphs>
-  </group>
-  <group color="0.0 0.5 1.0 0.25" name="I" side="right" type="kerning">
-    <glyphs>
-      I
-      Iacute
-      Icircumflex
-      Idieresis
-      Idotaccent
-      Igrave
-      Imacron
-      Iogonek
     </glyphs>
   </group>
   <group color="1.0 0.5 0.0 0.25" name="O" side="right" type="kerning">
@@ -733,7 +744,7 @@
       uni0122
     </glyphs>
   </group>
-  <group color="0.0 1.0 1.0 0.25" name="S" side="right" type="kerning">
+  <group color="1.0 1.0 0.0 0.25" name="S" side="right" type="kerning">
     <glyphs>
       S
       Sacute
@@ -750,7 +761,7 @@
       uni021A
     </glyphs>
   </group>
-  <group color="1.0 1.0 0.0 0.25" name="U" side="right" type="kerning">
+  <group color="0.0 1.0 1.0 0.25" name="U" side="right" type="kerning">
     <glyphs>
       U
       Uacute
@@ -763,14 +774,22 @@
       Uring
     </glyphs>
   </group>
-  <group color="0.0 1.0 0.0 0.25" name="Y" side="right" type="kerning">
+  <group color="0.0 0.5 1.0 0.25" name="Y" side="right" type="kerning">
     <glyphs>
       Y
       Yacute
       Ydieresis
     </glyphs>
   </group>
-  <group color="0.0 1.0 1.0 0.25" name="a" side="right" type="kerning">
+  <group color="0.0 0.5 1.0 0.25" name="Z" side="right" type="kerning">
+    <glyphs>
+      Z
+      Zacute
+      Zcaron
+      Zdotaccent
+    </glyphs>
+  </group>
+  <group color="0.0 0.0 1.0 0.25" name="a" side="right" type="kerning">
     <glyphs>
       a
       aacute
@@ -785,57 +804,213 @@
       atilde
     </glyphs>
   </group>
-  <group color="0.5 0.0 1.0 0.25" name="c" side="right" type="kerning">
+  <group color="0.5 0.0 1.0 0.25" name="knBA" side="right" type="kerning">
     <glyphs>
-      c
-      cacute
-      ccaron
-      ccedilla
+      knAU
+      knB
+      knBA
+      knBAA
+      knBAU
+      knBE
+      knBH
+      knBHA
+      knBHAA
+      knBHAU
+      knBHE
+      knBHI
+      knBHO
+      knBHU
+      knBHUU
+      knBI
+      knBO
+      knBU
+      knBUU
+      knC
+      knCA
+      knCAA
+      knCAU
+      knCE
+      knCI
+      knCO
+      knCU
+      knCUU
+      knJ
+      knJA
+      knJAA
+      knJAU
+      knJE
+      knJI
+      knJO
+      knJU
+      knJUU
+      knNG
+      knNGA
+      knNGAA
+      knNGAU
+      knNGE
+      knNGI
+      knNGO
+      knNGU
+      knNGUU
+      knO
+      knOO
     </glyphs>
   </group>
-  <group color="1.0 0.5 0.0 0.25" name="comma" side="right" type="kerning">
+  <group color="1.0 0.0 0.5 0.25" name="knCHA" side="right" type="kerning">
     <glyphs>
-      comma
-      period
-      quotedblbase
-      quotesinglbase
+      knCH
+      knCHA
+      knCHAA
+      knCHAU
+      knCHE
+      knCHI
+      knCHO
+      knCHU
+      knCHUU
+      knLLL
+      knLLLA
+      knLLLAA
+      knLLLAU
+      knLLLE
+      knLLLI
+      knLLLO
+      knLLLU
+      knLLLUU
+      knRR
+      knRRA
+      knRRAA
+      knRRAU
+      knRRE
+      knRRI
+      knRRO
+      knRRU
+      knRRUU
     </glyphs>
   </group>
-  <group color="1.0 0.0 0.0 0.25" name="guilleft" side="right" type="kerning">
+  <group color="1.0 0.0 1.0 0.25" name="knDA" side="right" type="kerning">
     <glyphs>
-      guillemotleft
-      guilsinglleft
+      knD
+      knDA
+      knDAA
+      knDAU
+      knDD
+      knDDA
+      knDDAA
+      knDDAU
+      knDDE
+      knDDH
+      knDDHA
+      knDDHAA
+      knDDHAU
+      knDDHE
+      knDDHI
+      knDDHO
+      knDDHU
+      knDDHUU
+      knDDI
+      knDDO
+      knDDU
+      knDDUU
+      knDE
+      knDH
+      knDHA
+      knDHAA
+      knDHAU
+      knDHE
+      knDHI
+      knDHO
+      knDHU
+      knDHUU
+      knDI
+      knDO
+      knDU
+      knDUU
+      knTH
+      knTHA
+      knTHAA
+      knTHAU
+      knTHE
+      knTHI
+      knTHO
+      knTHU
+      knTHUU
     </glyphs>
   </group>
-  <group color="1.0 0.0 0.5 0.25" name="guilright" side="right" type="kerning">
+  <group color="0.0 1.0 1.0 0.25" name="knE" side="right" type="kerning">
     <glyphs>
-      guillemotright
-      guilsinglright
+      knAI
+      knE
+      knEE
     </glyphs>
   </group>
-  <group color="1.0 1.0 0.0 0.25" name="knJhac2" side="right" type="kerning">
+  <group color="1.0 0.0 0.0 0.25" name="knGA" side="right" type="kerning">
     <glyphs>
-      knJHAc2
-      knJHAc2.following
+      knG
+      knGA
+      knGAA
+      knGAU
+      knGE
+      knGI
+      knGO
+      knGU
+      knGUU
     </glyphs>
   </group>
-  <group color="0.0 1.0 1.0 0.25" name="knKA" side="right" type="kerning">
+  <group color="1.0 0.5 0.0 0.25" name="knHA" side="right" type="kerning">
+    <glyphs>
+      knH
+      knHA
+      knHAA
+      knHAU
+      knHE
+      knHI
+      knHO
+      knHU
+      knHUU
+    </glyphs>
+  </group>
+  <group color="1.0 0.0 0.5 0.25" name="knKA" side="right" type="kerning">
     <glyphs>
       knK
       knKA
       knKAA
       knKAU
       knKE
+      knKI
       knKO
       knKU
       knKUU
     </glyphs>
   </group>
-  <group color="0.0 1.0 0.0 0.25" name="knKHA" side="right" type="kerning">
+  <group color="1.0 0.0 0.0 0.25" name="knKAc2" side="right" type="kerning">
+    <glyphs>
+      knAIlengthmark
+      knBAc2
+      knBHAc2
+      knCHAc2
+      knGHAc2
+      knKAc2
+      knKHAc2
+      knKSSAc2
+      knLLAc2
+      knMAc2
+      knNAc2
+      knPAc2
+      knPHAc2
+      knRAc2
+      knSAc2
+      knSHAc2
+      knTAc2_RAc2
+      knTTAc2
+      knYAc2
+      knsignvR
+      knsignvRR
+    </glyphs>
+  </group>
+  <group color="1.0 0.5 0.0 0.25" name="knKHA" side="right" type="kerning">
     <glyphs>
       knKH
       knKHA
-      knKHA.base
       knKHAA
       knKHAU
       knKHE
@@ -843,9 +1018,28 @@
       knKHO
       knKHU
       knKHUU
+      knvR
+      knvRR
     </glyphs>
   </group>
-  <group color="1.0 0.0 1.0 0.25" name="knLLA" side="right" type="kerning">
+  <group color="1.0 1.0 0.0 0.25" name="knLA" side="right" type="kerning">
+    <glyphs>
+      knA
+      knAA
+      knL
+      knLA
+      knLAA
+      knLAU
+      knLE
+      knLI
+      knLO
+      knLU
+      knLUU
+      knU
+      knUU
+    </glyphs>
+  </group>
+  <group color="1.0 1.0 0.0 0.25" name="knLLA" side="right" type="kerning">
     <glyphs>
       knLL
       knLLA
@@ -858,8 +1052,30 @@
       knLLUU
     </glyphs>
   </group>
-  <group color="0.0 0.0 1.0 0.25" name="knNYA" side="right" type="kerning">
+  <group color="1.0 0.0 1.0 0.25" name="knNA" side="right" type="kerning">
     <glyphs>
+      knN
+      knNA
+      knNAA
+      knNAU
+      knNE
+      knNI
+      knNO
+      knNU
+      knNUU
+      knS
+      knSA
+      knSAA
+      knSAU
+      knSE
+      knSI
+      knSU
+      knSUU
+    </glyphs>
+  </group>
+  <group color="0.0 1.0 0.0 0.25" name="knNYA" side="right" type="kerning">
+    <glyphs>
+      knI
       knNY
       knNYA
       knNYAA
@@ -873,8 +1089,51 @@
       knvLL
     </glyphs>
   </group>
+  <group color="0.0 1.0 1.0 0.25" name="knPA" side="right" type="kerning">
+    <glyphs>
+      knGH
+      knGHA
+      knGHAA
+      knGHAU
+      knGHE
+      knGHI
+      knGHO
+      knGHU
+      knGHUU
+      knP
+      knPA
+      knPAA
+      knPAU
+      knPE
+      knPH
+      knPHA
+      knPHAA
+      knPHAU
+      knPHE
+      knPHI
+      knPHO
+      knPHU
+      knPHUU
+      knPI
+      knPO
+      knPU
+      knPUU
+      knSO
+      knSS
+      knSSA
+      knSSAA
+      knSSAU
+      knSSAc2
+      knSSE
+      knSSI
+      knSSO
+      knSSU
+      knSSUU
+    </glyphs>
+  </group>
   <group color="0.0 0.5 1.0 0.25" name="knRA" side="right" type="kerning">
     <glyphs>
+      knII
       knJH
       knJHA
       knJHAA
@@ -884,15 +1143,6 @@
       knJHO
       knJHU
       knJHUU
-      knL
-      knLA
-      knLAA
-      knLAU
-      knLE
-      knLI
-      knLO
-      knLU
-      knLUU
       knR
       knRA
       knRAA
@@ -911,16 +1161,79 @@
       knTTHO
       knTTHU
       knTTHUU
-      knY
-      knYA
-      knYAA
-      knYAU
-      knYAc2
-      knYE
-      knYI
-      knYO
-      knYU
-      knYUU
+    </glyphs>
+  </group>
+  <group color="0.0 1.0 0.0 0.25" name="knSHA" side="right" type="kerning">
+    <glyphs>
+      knSH
+      knSHA
+      knSHAA
+      knSHAU
+      knSHE
+      knSHI
+      knSHO
+      knSHU
+      knSHUU
+    </glyphs>
+  </group>
+  <group color="0.0 0.0 1.0 0.25" name="knSubs" side="right" type="kerning">
+    <glyphs>
+      knCAc2
+      knDAc2
+      knDDAc2
+      knDDHAc2
+      knDHAc2
+      knGAc2
+      knHAc2
+      knJAc2
+      knJHAc2
+      knLAc2
+      knLLLAc2
+      knNGAc2
+      knNNAc2
+      knNYAc2
+      knRRAc2
+      knTAc2
+      knTHAc2
+      knTTHAc2
+      knVAc2
+      knsignvL
+      knsignvLL
+    </glyphs>
+  </group>
+  <group color="0.5 0.0 1.0 0.25" name="knTA" side="right" type="kerning">
+    <glyphs>
+      knT
+      knTA
+      knTAA
+      knTAU
+      knTE
+      knTI
+      knTO
+      knTU
+      knTUU
+    </glyphs>
+  </group>
+  <group color="0.0 0.0 1.0 0.25" name="knTTA" side="right" type="kerning">
+    <glyphs>
+      knNN
+      knNNA
+      knNNAA
+      knNNAU
+      knNNE
+      knNNI
+      knNNO
+      knNNU
+      knNNUU
+      knTT
+      knTTA
+      knTTAA
+      knTTAU
+      knTTE
+      knTTI
+      knTTO
+      knTTU
+      knTTUU
     </glyphs>
   </group>
   <group color="0.5 0.0 1.0 0.25" name="knVA" side="right" type="kerning">
@@ -945,25 +1258,37 @@
       knVUU
     </glyphs>
   </group>
-  <group color="1.0 0.0 1.0 0.25" name="l" side="right" type="kerning">
+  <group color="0.0 1.0 1.0 0.25" name="knYA" side="right" type="kerning">
     <glyphs>
-      l
-      lacute
-      lcaron
-      lslash
-      uni013C
+      knY
+      knYA
+      knYAA
+      knYAU
+      knYE
+      knYI
+      knYO
+      knYU
+      knYUU
     </glyphs>
   </group>
-  <group color="0.0 0.5 1.0 0.25" name="o" side="right" type="kerning">
+  <group color="1.0 0.0 1.0 0.25" name="o" side="right" type="kerning">
     <glyphs>
+      c
+      cacute
+      ccaron
+      ccedilla
       d
       dcaron
       dcroat
       e
       eacute
+      ecaron
       ecircumflex
       edieresis
+      edotaccent
       egrave
+      emacron
+      eogonek
       eth
       g
       gbreve
@@ -981,21 +1306,7 @@
       uni0123
     </glyphs>
   </group>
-  <group color="1.0 0.0 1.0 0.25" name="quoteleft" side="right" type="kerning">
-    <glyphs>
-      quotedblleft
-      quoteleft
-    </glyphs>
-  </group>
-  <group color="0.5 0.0 1.0 0.25" name="quoteright" side="right" type="kerning">
-    <glyphs>
-      quotedbl
-      quotedblright
-      quoteright
-      quotesingle
-    </glyphs>
-  </group>
-  <group color="0.0 0.0 1.0 0.25" name="r" side="right" type="kerning">
+  <group color="1.0 0.0 0.5 0.25" name="r" side="right" type="kerning">
     <glyphs>
       dotlessi
       i
@@ -1026,16 +1337,7 @@
       uring
     </glyphs>
   </group>
-  <group color="0.0 0.0 1.0 0.25" name="registered" side="right" type="kerning">
-    <glyphs>
-      asterisk
-      ordfeminine
-      ordmasculine
-      registered
-      trademark
-    </glyphs>
-  </group>
-  <group color="1.0 0.0 0.5 0.25" name="s" side="right" type="kerning">
+  <group color="1.0 0.0 0.0 0.25" name="s" side="right" type="kerning">
     <glyphs>
       s
       sacute
@@ -1044,7 +1346,7 @@
       uni0219
     </glyphs>
   </group>
-  <group color="1.0 0.0 0.0 0.25" name="t" side="right" type="kerning">
+  <group color="1.0 0.5 0.0 0.25" name="t" side="right" type="kerning">
     <glyphs>
       t
       tcaron
@@ -1052,14 +1354,14 @@
       uni021B
     </glyphs>
   </group>
-  <group color="1.0 0.5 0.0 0.25" name="y" side="right" type="kerning">
+  <group color="1.0 1.0 0.0 0.25" name="y" side="right" type="kerning">
     <glyphs>
       y
       yacute
       ydieresis
     </glyphs>
   </group>
-  <group color="1.0 1.0 0.0 0.25" name="z" side="right" type="kerning">
+  <group color="0.0 1.0 0.0 0.25" name="z" side="right" type="kerning">
     <glyphs>
       z
       zacute

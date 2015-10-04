@@ -1170,11 +1170,32 @@
 			<real>0.0</real>
 			<real>0.25</real>
 		</array>
-		<key>@MMK_L_knBA</key>
+		<key>@MMK_L_a</key>
 		<array>
 			<real>1.0</real>
 			<real>0.5</real>
 			<real>0.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_L_c</key>
+		<array>
+			<real>1.0</real>
+			<real>0.0</real>
+			<real>0.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_L_knAAsign</key>
+		<array>
+			<real>1.0</real>
+			<real>0.0</real>
+			<real>0.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_L_knBHA</key>
+		<array>
+			<real>1.0</real>
+			<real>0.0</real>
+			<real>1.0</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_L_knCA</key>
@@ -1186,28 +1207,56 @@
 		</array>
 		<key>@MMK_L_knCHA</key>
 		<array>
+			<real>0.0</real>
+			<real>0.0</real>
+			<real>1.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_L_knDA</key>
+		<array>
 			<real>1.0</real>
 			<real>1.0</real>
 			<real>0.0</real>
 			<real>0.25</real>
 		</array>
-		<key>@MMK_L_knDA</key>
+		<key>@MMK_L_knE</key>
 		<array>
+			<real>0.5</real>
 			<real>0.0</real>
 			<real>1.0</real>
-			<real>0.0</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_L_knGA</key>
 		<array>
 			<real>0.0</real>
 			<real>1.0</real>
-			<real>1.0</real>
+			<real>0.0</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_L_knGHA</key>
 		<array>
+			<real>0.0</real>
 			<real>1.0</real>
+			<real>1.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_L_knHA</key>
+		<array>
+			<real>0.0</real>
+			<real>0.5</real>
+			<real>1.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_L_knJA</key>
+		<array>
+			<real>0.0</real>
+			<real>1.0</real>
+			<real>1.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_L_knJHA</key>
+		<array>
+			<real>0.0</real>
 			<real>1.0</real>
 			<real>0.0</real>
 			<real>0.25</real>
@@ -1215,155 +1264,176 @@
 		<key>@MMK_L_knKA</key>
 		<array>
 			<real>0.0</real>
+			<real>0.5</real>
 			<real>1.0</real>
-			<real>0.0</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_L_knKHA</key>
 		<array>
-			<real>0.5</real>
-			<real>0.0</real>
 			<real>1.0</real>
+			<real>1.0</real>
+			<real>0.0</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_L_knLA</key>
 		<array>
-			<real>1.0</real>
 			<real>0.0</real>
-			<real>0.5</real>
+			<real>1.0</real>
+			<real>1.0</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_L_knLLA</key>
 		<array>
+			<real>0.0</real>
+			<real>0.0</real>
 			<real>1.0</real>
-			<real>0.0</real>
-			<real>0.0</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_L_knNA</key>
 		<array>
 			<real>1.0</real>
 			<real>0.0</real>
+			<real>0.5</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_L_knNGE</key>
+		<array>
+			<real>1.0</real>
+			<real>0.0</real>
 			<real>1.0</real>
 			<real>0.25</real>
 		</array>
-		<key>@MMK_L_knNGA</key>
+		<key>@MMK_L_knNNA</key>
 		<array>
+			<real>0.5</real>
 			<real>0.0</real>
-			<real>1.0</real>
 			<real>1.0</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_L_knNYA</key>
 		<array>
-			<real>0.0</real>
 			<real>0.5</real>
+			<real>0.0</real>
 			<real>1.0</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_L_knPA</key>
 		<array>
 			<real>0.0</real>
-			<real>0.0</real>
+			<real>0.5</real>
 			<real>1.0</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_L_knRA</key>
 		<array>
+			<real>1.0</real>
 			<real>0.0</real>
-			<real>0.5</real>
 			<real>1.0</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_L_knSHA</key>
 		<array>
-			<real>0.0</real>
-			<real>0.0</real>
 			<real>1.0</real>
+			<real>0.0</real>
+			<real>0.5</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_L_knSSA</key>
 		<array>
-			<real>0.5</real>
-			<real>0.0</real>
 			<real>1.0</real>
+			<real>0.0</real>
+			<real>0.0</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_L_knSubTall</key>
 		<array>
 			<real>1.0</real>
+			<real>0.5</real>
 			<real>0.0</real>
-			<real>1.0</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_L_knTA</key>
 		<array>
 			<real>1.0</real>
+			<real>1.0</real>
 			<real>0.0</real>
-			<real>0.5</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_L_knTTA</key>
 		<array>
 			<real>0.0</real>
-			<real>0.5</real>
+			<real>0.0</real>
 			<real>1.0</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_L_knU</key>
 		<array>
 			<real>1.0</real>
+			<real>1.0</real>
 			<real>0.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_L_knUU</key>
+		<array>
+			<real>0.0</real>
+			<real>1.0</real>
 			<real>0.0</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_L_knUlow</key>
 		<array>
-			<real>1.0</real>
 			<real>0.0</real>
 			<real>1.0</real>
-			<real>0.25</real>
-		</array>
-		<key>@MMK_L_knVA</key>
-		<array>
-			<real>0.5</real>
 			<real>0.0</real>
-			<real>1.0</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_L_knVirama</key>
 		<array>
-			<real>0.0</real>
+			<real>1.0</real>
 			<real>0.0</real>
 			<real>1.0</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_L_o</key>
 		<array>
-			<real>1.0</real>
-			<real>0.5</real>
 			<real>0.0</real>
+			<real>1.0</real>
+			<real>1.0</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_L_r</key>
 		<array>
+			<real>0.0</real>
+			<real>0.5</real>
 			<real>1.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_L_s</key>
+		<array>
 			<real>1.0</real>
 			<real>0.0</real>
+			<real>0.5</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_L_t</key>
 		<array>
 			<real>0.0</real>
-			<real>1.0</real>
 			<real>0.0</real>
+			<real>1.0</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_L_y</key>
 		<array>
+			<real>0.5</real>
 			<real>0.0</real>
 			<real>1.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_L_z</key>
+		<array>
 			<real>1.0</real>
+			<real>0.5</real>
+			<real>0.0</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_R_A</key>
@@ -1408,6 +1478,13 @@
 			<real>1.0</real>
 			<real>0.25</real>
 		</array>
+		<key>@MMK_R_Z</key>
+		<array>
+			<real>0.0</real>
+			<real>0.5</real>
+			<real>1.0</real>
+			<real>0.25</real>
+		</array>
 		<key>@MMK_R_a</key>
 		<array>
 			<real>0.0</real>
@@ -1417,36 +1494,36 @@
 		</array>
 		<key>@MMK_R_knBA</key>
 		<array>
-			<real>1.0</real>
 			<real>0.5</real>
 			<real>0.0</real>
+			<real>1.0</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_R_knCHA</key>
 		<array>
+			<real>1.0</real>
 			<real>0.0</real>
-			<real>1.0</real>
-			<real>1.0</real>
+			<real>0.5</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_R_knDA</key>
 		<array>
 			<real>1.0</real>
-			<real>1.0</real>
 			<real>0.0</real>
+			<real>1.0</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_R_knE</key>
 		<array>
+			<real>0.0</real>
 			<real>1.0</real>
-			<real>0.0</real>
-			<real>0.0</real>
+			<real>1.0</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_R_knGA</key>
 		<array>
-			<real>0.0</real>
 			<real>1.0</real>
+			<real>0.0</real>
 			<real>0.0</real>
 			<real>0.25</real>
 		</array>
@@ -1459,23 +1536,23 @@
 		</array>
 		<key>@MMK_R_knKA</key>
 		<array>
-			<real>0.5</real>
-			<real>0.0</real>
 			<real>1.0</real>
+			<real>0.0</real>
+			<real>0.5</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_R_knKAc2</key>
 		<array>
 			<real>1.0</real>
 			<real>0.0</real>
-			<real>0.5</real>
+			<real>0.0</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_R_knKHA</key>
 		<array>
 			<real>1.0</real>
+			<real>0.5</real>
 			<real>0.0</real>
-			<real>1.0</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_R_knLA</key>
@@ -1488,62 +1565,55 @@
 		<key>@MMK_R_knLLA</key>
 		<array>
 			<real>1.0</real>
+			<real>1.0</real>
 			<real>0.0</real>
-			<real>0.5</real>
 			<real>0.25</real>
 		</array>
-		<key>@MMK_R_knNNA</key>
+		<key>@MMK_R_knNA</key>
 		<array>
 			<real>1.0</real>
 			<real>0.0</real>
-			<real>0.5</real>
+			<real>1.0</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_R_knNYA</key>
 		<array>
-			<real>1.0</real>
 			<real>0.0</real>
+			<real>1.0</real>
 			<real>0.0</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_R_knPA</key>
 		<array>
+			<real>0.0</real>
 			<real>1.0</real>
-			<real>0.0</real>
-			<real>0.0</real>
+			<real>1.0</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_R_knRA</key>
 		<array>
-			<real>1.0</real>
-			<real>0.5</real>
 			<real>0.0</real>
-			<real>0.25</real>
-		</array>
-		<key>@MMK_R_knSA</key>
-		<array>
 			<real>0.5</real>
-			<real>0.0</real>
 			<real>1.0</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_R_knSHA</key>
 		<array>
-			<real>1.0</real>
 			<real>0.0</real>
 			<real>1.0</real>
+			<real>0.0</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_R_knSubs</key>
 		<array>
 			<real>0.0</real>
-			<real>1.0</real>
 			<real>0.0</real>
+			<real>1.0</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_R_knTA</key>
 		<array>
-			<real>0.0</real>
+			<real>0.5</real>
 			<real>0.0</real>
 			<real>1.0</real>
 			<real>0.25</real>
@@ -1551,57 +1621,64 @@
 		<key>@MMK_R_knTTA</key>
 		<array>
 			<real>0.0</real>
-			<real>0.5</real>
+			<real>0.0</real>
 			<real>1.0</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_R_knVA</key>
 		<array>
-			<real>1.0</real>
-			<real>1.0</real>
+			<real>0.5</real>
 			<real>0.0</real>
+			<real>1.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_R_knYA</key>
+		<array>
+			<real>0.0</real>
+			<real>1.0</real>
+			<real>1.0</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_R_o</key>
 		<array>
-			<real>0.0</real>
 			<real>1.0</real>
 			<real>0.0</real>
+			<real>1.0</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_R_r</key>
 		<array>
+			<real>1.0</real>
 			<real>0.0</real>
-			<real>1.0</real>
-			<real>1.0</real>
+			<real>0.5</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_R_s</key>
 		<array>
-			<real>0.0</real>
-			<real>0.5</real>
 			<real>1.0</real>
+			<real>0.0</real>
+			<real>0.0</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_R_t</key>
 		<array>
-			<real>0.0</real>
-			<real>0.0</real>
 			<real>1.0</real>
+			<real>0.5</real>
+			<real>0.0</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_R_y</key>
 		<array>
-			<real>0.5</real>
-			<real>0.0</real>
 			<real>1.0</real>
+			<real>1.0</real>
+			<real>0.0</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_R_z</key>
 		<array>
-			<real>1.0</real>
 			<real>0.0</real>
 			<real>1.0</real>
+			<real>0.0</real>
 			<real>0.25</real>
 		</array>
 	</dict>
