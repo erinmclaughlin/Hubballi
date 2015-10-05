@@ -342,31 +342,43 @@
 	<dict>
 		<key>@MMK_R_knKAc2</key>
 		<integer>-60</integer>
+		<key>period</key>
+		<integer>-50</integer>
 	</dict>
 	<key>@MMK_L_knKA</key>
 	<dict>
 		<key>@MMK_R_knKAc2</key>
 		<integer>-65</integer>
+		<key>period</key>
+		<integer>-50</integer>
 	</dict>
 	<key>@MMK_L_knLA</key>
 	<dict>
 		<key>@MMK_R_knKAc2</key>
+		<integer>-30</integer>
+		<key>period</key>
 		<integer>-30</integer>
 	</dict>
 	<key>@MMK_L_knLLA</key>
 	<dict>
 		<key>@MMK_R_knKAc2</key>
 		<integer>-60</integer>
+		<key>period</key>
+		<integer>-70</integer>
 	</dict>
 	<key>@MMK_L_knNYA</key>
 	<dict>
 		<key>@MMK_R_knKAc2</key>
 		<integer>-60</integer>
+		<key>period</key>
+		<integer>-100</integer>
 	</dict>
 	<key>@MMK_L_knRA</key>
 	<dict>
 		<key>@MMK_R_knKAc2</key>
 		<integer>-50</integer>
+		<key>period</key>
+		<integer>-40</integer>
 	</dict>
 	<key>@MMK_L_knSHA</key>
 	<dict>
@@ -384,10 +396,12 @@
 	<dict>
 		<key>@MMK_R_knSubsfollow</key>
 		<integer>0</integer>
+		<key>bracketright</key>
+		<integer>120</integer>
 		<key>comma</key>
 		<integer>100</integer>
 		<key>parenright</key>
-		<integer>100</integer>
+		<integer>140</integer>
 		<key>quotedblright</key>
 		<integer>80</integer>
 		<key>quoteright</key>
@@ -424,13 +438,15 @@
 		<key>@MMK_R_knYA</key>
 		<integer>-30</integer>
 		<key>bracketright</key>
-		<integer>80</integer>
+		<integer>70</integer>
 		<key>colon</key>
 		<integer>40</integer>
 		<key>comma</key>
 		<integer>50</integer>
 		<key>parenright</key>
-		<integer>40</integer>
+		<integer>60</integer>
+		<key>period</key>
+		<integer>30</integer>
 		<key>slash</key>
 		<integer>130</integer>
 	</dict>
@@ -443,6 +459,8 @@
 	<dict>
 		<key>@MMK_R_knE</key>
 		<integer>0</integer>
+		<key>@MMK_R_knKAc2</key>
+		<integer>-50</integer>
 		<key>@MMK_R_knLA</key>
 		<integer>-40</integer>
 		<key>@MMK_R_knNA</key>
@@ -481,9 +499,16 @@
 	<key>@MMK_L_knsignUlow</key>
 	<dict>
 		<key>@MMK_R_knKAc2</key>
-		<integer>160</integer>
+		<integer>20</integer>
 		<key>@MMK_R_knSubs</key>
-		<integer>150</integer>
+		<integer>120</integer>
+	</dict>
+	<key>@MMK_L_knsignVirama</key>
+	<dict>
+		<key>@MMK_R_knKAc2</key>
+		<integer>-50</integer>
+		<key>period</key>
+		<integer>-100</integer>
 	</dict>
 	<key>@MMK_L_o</key>
 	<dict>

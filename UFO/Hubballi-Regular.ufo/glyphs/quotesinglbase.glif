@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="quotesinglbase" format="1">
-  <advance width="235"/>
+  <advance width="255"/>
   <unicode hex="201A"/>
   <outline>
+    <component base="quotesingle" yOffset="-500"/>
     <component base="quotesingle" yOffset="-500"/>
   </outline>
   <lib>
@@ -29,7 +30,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>235</integer>
+          <integer>255</integer>
         </dict>
         <key>wire</key>
         <dict>
@@ -51,7 +52,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>235</integer>
+          <integer>255</integer>
         </dict>
       </dict>
     </dict>
