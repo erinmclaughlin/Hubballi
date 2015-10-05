@@ -46,9 +46,9 @@
 			<key>name</key>
 			<string>kn - topbar</string>
 			<key>x</key>
-			<integer>-28</integer>
+			<integer>18</integer>
 			<key>y</key>
-			<integer>437</integer>
+			<integer>442</integer>
 		</dict>
 		<dict>
 			<key>angle</key>
@@ -58,11 +58,11 @@
 			<key>magnetic</key>
 			<integer>5</integer>
 			<key>name</key>
-			<string>kn - baseline</string>
+			<string>baseline</string>
 			<key>x</key>
-			<integer>-18</integer>
+			<integer>59</integer>
 			<key>y</key>
-			<integer>27</integer>
+			<integer>33</integer>
 		</dict>
 		<dict>
 			<key>angle</key>
@@ -72,25 +72,25 @@
 			<key>magnetic</key>
 			<integer>5</integer>
 			<key>name</key>
-			<string>kn - overshoot</string>
-			<key>x</key>
-			<integer>-1</integer>
-			<key>y</key>
-			<integer>17</integer>
-		</dict>
-		<dict>
-			<key>angle</key>
-			<integer>0</integer>
-			<key>isGlobal</key>
-			<integer>1</integer>
-			<key>magnetic</key>
-			<integer>5</integer>
-			<key>name</key>
-			<string>kn - overshoot</string>
+			<string>overshoot</string>
 			<key>x</key>
 			<integer>-11</integer>
 			<key>y</key>
-			<integer>452</integer>
+			<integer>24</integer>
+		</dict>
+		<dict>
+			<key>angle</key>
+			<integer>0</integer>
+			<key>isGlobal</key>
+			<integer>1</integer>
+			<key>magnetic</key>
+			<integer>5</integer>
+			<key>name</key>
+			<string>kn - overshoot</string>
+			<key>x</key>
+			<integer>-29</integer>
+			<key>y</key>
+			<integer>456</integer>
 		</dict>
 		<dict>
 			<key>angle</key>
@@ -102,9 +102,9 @@
 			<key>name</key>
 			<string>cap</string>
 			<key>x</key>
-			<integer>119</integer>
+			<integer>84</integer>
 			<key>y</key>
-			<integer>512</integer>
+			<integer>519</integer>
 		</dict>
 		<dict>
 			<key>angle</key>
@@ -116,23 +116,9 @@
 			<key>name</key>
 			<string>cap overshoot</string>
 			<key>x</key>
-			<integer>353</integer>
+			<integer>170</integer>
 			<key>y</key>
-			<integer>521</integer>
-		</dict>
-		<dict>
-			<key>angle</key>
-			<integer>0</integer>
-			<key>isGlobal</key>
-			<integer>1</integer>
-			<key>magnetic</key>
-			<integer>5</integer>
-			<key>name</key>
-			<string></string>
-			<key>x</key>
-			<integer>183</integer>
-			<key>y</key>
-			<integer>-242</integer>
+			<integer>527</integer>
 		</dict>
 		<dict>
 			<key>angle</key>
@@ -147,62 +133,6 @@
 			<integer>120</integer>
 			<key>y</key>
 			<integer>-338</integer>
-		</dict>
-		<dict>
-			<key>angle</key>
-			<integer>0</integer>
-			<key>isGlobal</key>
-			<integer>1</integer>
-			<key>magnetic</key>
-			<integer>5</integer>
-			<key>name</key>
-			<string></string>
-			<key>x</key>
-			<integer>30</integer>
-			<key>y</key>
-			<integer>48</integer>
-		</dict>
-		<dict>
-			<key>angle</key>
-			<integer>0</integer>
-			<key>isGlobal</key>
-			<integer>1</integer>
-			<key>magnetic</key>
-			<integer>5</integer>
-			<key>name</key>
-			<string></string>
-			<key>x</key>
-			<integer>348</integer>
-			<key>y</key>
-			<integer>565</integer>
-		</dict>
-		<dict>
-			<key>angle</key>
-			<integer>0</integer>
-			<key>isGlobal</key>
-			<integer>1</integer>
-			<key>magnetic</key>
-			<integer>5</integer>
-			<key>name</key>
-			<string></string>
-			<key>x</key>
-			<integer>100</integer>
-			<key>y</key>
-			<integer>580</integer>
-		</dict>
-		<dict>
-			<key>angle</key>
-			<integer>0</integer>
-			<key>isGlobal</key>
-			<integer>1</integer>
-			<key>magnetic</key>
-			<integer>5</integer>
-			<key>name</key>
-			<string></string>
-			<key>x</key>
-			<integer>245</integer>
-			<key>y</key>
-			<integer>-120</integer>
 		</dict>
 	</array>
 	<key>com.typemytype.robofont.italicSlantOffset</key>
