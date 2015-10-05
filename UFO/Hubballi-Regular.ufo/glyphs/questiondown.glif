@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="questiondown" format="1">
-  <advance width="371"/>
+  <advance width="381"/>
   <unicode hex="00BF"/>
   <outline>
-    <component base="question" xScale="-1" yScale="-1" xOffset="371" yOffset="562"/>
+    <component base="question" xScale="-1" yScale="-1" xOffset="381" yOffset="562"/>
+    <component base="question" xScale="-1" yScale="-1" xOffset="381" yOffset="562"/>
   </outline>
   <lib>
     <dict>
@@ -29,7 +30,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>371</integer>
+          <integer>381</integer>
         </dict>
         <key>wire</key>
         <dict>
@@ -51,7 +52,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>371</integer>
+          <integer>381</integer>
         </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>
