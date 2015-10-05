@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="knsignAA" format="1">
+  <advance width="349"/>
+  <unicode hex="0CBE"/>
+  <outline>
+    <contour>
+      <point x="-180" y="437" type="move"/>
+      <point x="13" y="437" type="line" smooth="yes"/>
+      <point x="159" y="437"/>
+      <point x="264" y="341"/>
+      <point x="264" y="171" type="curve" smooth="yes"/>
+      <point x="264" y="78"/>
+      <point x="217" y="23"/>
+      <point x="154" y="23" type="curve" smooth="yes"/>
+      <point x="95" y="23"/>
+      <point x="62" y="65"/>
+      <point x="61" y="111" type="curve" smooth="yes"/>
+      <point x="60" y="165"/>
+      <point x="101" y="217"/>
+      <point x="175" y="217" type="curve" smooth="yes"/>
+      <point x="204" y="217"/>
+      <point x="234" y="213"/>
+      <point x="259" y="205" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <real>90.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>x</key>
+          <integer>-346</integer>
+          <key>y</key>
+          <integer>347</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>knsignAA</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>349</integer>
+        </dict>
+        <key>wire</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>knsignAA</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>349</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

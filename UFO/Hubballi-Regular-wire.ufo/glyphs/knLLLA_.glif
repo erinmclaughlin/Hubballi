@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="knLLLA" format="1">
+  <advance width="751"/>
+  <unicode hex="0CDE"/>
+  <outline>
+    <contour>
+      <point x="110" y="341" type="move"/>
+      <point x="138" y="299"/>
+      <point x="172" y="273"/>
+      <point x="214" y="273" type="curve" smooth="yes"/>
+      <point x="262" y="273"/>
+      <point x="302" y="305"/>
+      <point x="302" y="355" type="curve" smooth="yes"/>
+      <point x="302" y="404"/>
+      <point x="269" y="439"/>
+      <point x="214" y="439" type="curve" smooth="yes"/>
+      <point x="145" y="439"/>
+      <point x="84" y="352"/>
+      <point x="84" y="229" type="curve"/>
+      <point x="84" y="113"/>
+      <point x="146" y="27"/>
+      <point x="231" y="27" type="curve" smooth="yes"/>
+      <point x="296" y="27"/>
+      <point x="336" y="59"/>
+      <point x="373" y="128" type="curve"/>
+      <point x="378" y="128" type="line"/>
+      <point x="415" y="59"/>
+      <point x="455" y="27"/>
+      <point x="520" y="27" type="curve" smooth="yes"/>
+      <point x="605" y="27"/>
+      <point x="667" y="113"/>
+      <point x="667" y="229" type="curve"/>
+      <point x="667" y="352"/>
+      <point x="606" y="439"/>
+      <point x="537" y="439" type="curve" smooth="yes"/>
+      <point x="482" y="439"/>
+      <point x="449" y="404"/>
+      <point x="449" y="355" type="curve" smooth="yes"/>
+      <point x="449" y="305"/>
+      <point x="489" y="273"/>
+      <point x="537" y="273" type="curve" smooth="yes"/>
+      <point x="579" y="273"/>
+      <point x="613" y="299"/>
+      <point x="641" y="341" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>87</integer>
+          <key>y</key>
+          <integer>491</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>1104</integer>
+          <key>y</key>
+          <integer>48</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>189</integer>
+          <key>y</key>
+          <integer>172</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <real>90.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>x</key>
+          <integer>368</integer>
+          <key>y</key>
+          <integer>-25</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>knLLLA</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>751</integer>
+        </dict>
+        <key>wire</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>knLLLA</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>751</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

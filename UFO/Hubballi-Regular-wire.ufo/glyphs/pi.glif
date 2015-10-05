@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="pi" format="1">
+  <advance width="643"/>
+  <unicode hex="03C0"/>
+  <outline>
+    <contour>
+      <point x="443" y="402" type="move"/>
+      <point x="443" y="27" type="line"/>
+    </contour>
+    <contour>
+      <point x="96" y="407" type="move"/>
+      <point x="546" y="407" type="line"/>
+    </contour>
+    <contour>
+      <point x="203" y="402" type="move"/>
+      <point x="203" y="223" type="line" smooth="yes"/>
+      <point x="203" y="107"/>
+      <point x="177" y="60"/>
+      <point x="123" y="27" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>pi</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>643</integer>
+        </dict>
+        <key>wire</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>pi</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>643</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

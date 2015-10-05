@@ -3,9 +3,22 @@
   <advance width="734"/>
   <outline>
     <contour>
-      <point x="373" y="-89" type="move"/>
-      <point x="373" y="-192" type="line"/>
+      <point x="406" y="-89" type="curve" smooth="yes"/>
+      <point x="406" y="-192" type="line" smooth="yes"/>
+      <point x="406" y="-210"/>
+      <point x="391" y="-225"/>
+      <point x="373" y="-225" type="curve" smooth="yes"/>
+      <point x="355" y="-225"/>
+      <point x="340" y="-210"/>
+      <point x="340" y="-192" type="curve" smooth="yes"/>
+      <point x="340" y="-89" type="line" smooth="yes"/>
+      <point x="340" y="-71"/>
+      <point x="355" y="-56"/>
+      <point x="373" y="-56" type="curve" smooth="yes"/>
+      <point x="391" y="-56"/>
+      <point x="406" y="-71"/>
     </contour>
+    <component base="knBI"/>
     <component base="knBI"/>
   </outline>
   <lib>
@@ -57,13 +70,6 @@
           <integer>734</integer>
         </dict>
       </dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>1.0</real>
-        <real>0.8424</real>
-        <real>0.6742</real>
-        <real>1.0</real>
-      </array>
     </dict>
   </lib>
 </glyph>

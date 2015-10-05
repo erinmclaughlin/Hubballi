@@ -5,6 +5,8 @@
   <outline>
     <component base="I"/>
     <component base="acutecmb.cap" xOffset="135"/>
+    <component base="I"/>
+    <component base="acutecmb.cap" xOffset="135"/>
   </outline>
   <lib>
     <dict>
@@ -55,13 +57,6 @@
           <integer>266</integer>
         </dict>
       </dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>1.0</real>
-        <real>0.974</real>
-        <real>0.577</real>
-        <real>1.0</real>
-      </array>
     </dict>
   </lib>
 </glyph>

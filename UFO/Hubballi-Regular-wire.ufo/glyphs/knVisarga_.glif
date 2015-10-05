@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="knVisarga" format="1">
+  <advance width="346"/>
+  <unicode hex="0C83"/>
+  <outline>
+    <contour>
+      <point x="173" y="453" type="curve" smooth="yes"/>
+      <point x="124" y="453"/>
+      <point x="89" y="412"/>
+      <point x="89" y="372" type="curve" smooth="yes"/>
+      <point x="89" y="327"/>
+      <point x="122" y="291"/>
+      <point x="173" y="291" type="curve" smooth="yes"/>
+      <point x="224" y="291"/>
+      <point x="257" y="327"/>
+      <point x="257" y="372" type="curve" smooth="yes"/>
+      <point x="257" y="413"/>
+      <point x="224" y="453"/>
+    </contour>
+    <contour>
+      <point x="173" y="190" type="curve" smooth="yes"/>
+      <point x="124" y="190"/>
+      <point x="89" y="149"/>
+      <point x="89" y="109" type="curve" smooth="yes"/>
+      <point x="89" y="65"/>
+      <point x="122" y="28"/>
+      <point x="173" y="28" type="curve" smooth="yes"/>
+      <point x="224" y="28"/>
+      <point x="257" y="65"/>
+      <point x="257" y="108" type="curve" smooth="yes"/>
+      <point x="257" y="150"/>
+      <point x="224" y="190"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>-409</integer>
+          <key>y</key>
+          <integer>41</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>151</integer>
+          <key>y</key>
+          <integer>209</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>knVisarga</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>346</integer>
+        </dict>
+        <key>wire</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>knVisarga</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>346</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="P" format="1">
+  <advance width="520"/>
+  <unicode hex="0050"/>
+  <outline>
+    <contour>
+      <point x="154" y="203" type="move"/>
+      <point x="271" y="203" type="line" smooth="yes"/>
+      <point x="384" y="203"/>
+      <point x="442" y="273"/>
+      <point x="442" y="358" type="curve" smooth="yes"/>
+      <point x="442" y="448"/>
+      <point x="372" y="512"/>
+      <point x="271" y="512" type="curve" smooth="yes"/>
+      <point x="128" y="512" type="line"/>
+      <point x="128" y="27" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>P</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>520</integer>
+        </dict>
+        <key>wire</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>P</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>520</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

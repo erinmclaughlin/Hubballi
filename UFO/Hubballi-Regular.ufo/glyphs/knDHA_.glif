@@ -4,9 +4,23 @@
   <unicode hex="0CA7"/>
   <outline>
     <contour>
-      <point x="363" y="-89" type="move"/>
-      <point x="363" y="-192" type="line"/>
+      <point x="396" y="-89" type="curve" smooth="yes"/>
+      <point x="396" y="-192" type="line" smooth="yes"/>
+      <point x="396" y="-210"/>
+      <point x="381" y="-225"/>
+      <point x="363" y="-225" type="curve" smooth="yes"/>
+      <point x="345" y="-225"/>
+      <point x="330" y="-210"/>
+      <point x="330" y="-192" type="curve" smooth="yes"/>
+      <point x="330" y="-89" type="line" smooth="yes"/>
+      <point x="330" y="-71"/>
+      <point x="345" y="-56"/>
+      <point x="363" y="-56" type="curve" smooth="yes"/>
+      <point x="381" y="-56"/>
+      <point x="396" y="-71"/>
     </contour>
+    <component base="knDa" xOffset="5"/>
+    <component base="knDA"/>
     <component base="knDa" xOffset="5"/>
     <component base="knDA"/>
   </outline>
@@ -59,13 +73,6 @@
           <integer>731</integer>
         </dict>
       </dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>0.6312</real>
-        <real>1.0</real>
-        <real>0.9947</real>
-        <real>1.0</real>
-      </array>
     </dict>
   </lib>
 </glyph>

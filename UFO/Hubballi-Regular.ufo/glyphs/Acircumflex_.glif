@@ -5,6 +5,8 @@
   <outline>
     <component base="A"/>
     <component base="circumflexcmb.cap" xOffset="278" yOffset="-20"/>
+    <component base="A"/>
+    <component base="circumflexcmb.cap" xOffset="278" yOffset="-20"/>
   </outline>
   <lib>
     <dict>
@@ -72,13 +74,6 @@
           <integer>568</integer>
         </dict>
       </dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>1.0</real>
-        <real>0.974</real>
-        <real>0.577</real>
-        <real>1.0</real>
-      </array>
     </dict>
   </lib>
 </glyph>

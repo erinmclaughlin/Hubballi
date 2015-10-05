@@ -4,6 +4,8 @@
   <outline>
     <component base="knKHA"/>
     <component base="knsignUU" xOffset="767"/>
+    <component base="knKHA"/>
+    <component base="knsignUU" xOffset="767"/>
   </outline>
   <lib>
     <dict>
@@ -54,13 +56,6 @@
           <integer>1354</integer>
         </dict>
       </dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>0.6312</real>
-        <real>1.0</real>
-        <real>0.9947</real>
-        <real>1.0</real>
-      </array>
     </dict>
   </lib>
 </glyph>

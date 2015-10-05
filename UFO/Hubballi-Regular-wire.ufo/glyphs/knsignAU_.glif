@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="knsignAU" format="1">
+  <advance width="312"/>
+  <unicode hex="0CCC"/>
+  <outline>
+    <contour>
+      <point x="-241" y="608" type="move"/>
+      <point x="-17" y="608" type="line" smooth="yes"/>
+      <point x="129" y="608"/>
+      <point x="234" y="534"/>
+      <point x="234" y="371" type="curve"/>
+      <point x="234" y="278"/>
+      <point x="187" y="223"/>
+      <point x="124" y="223" type="curve" smooth="yes"/>
+      <point x="65" y="223"/>
+      <point x="32" y="265"/>
+      <point x="31" y="311" type="curve" smooth="yes"/>
+      <point x="30" y="365"/>
+      <point x="71" y="417"/>
+      <point x="145" y="417" type="curve" smooth="yes"/>
+      <point x="174" y="417"/>
+      <point x="204" y="413"/>
+      <point x="229" y="405" type="curve"/>
+    </contour>
+    <contour>
+      <point x="-205" y="437" type="move"/>
+      <point x="-106" y="437"/>
+      <point x="-45" y="493"/>
+      <point x="-45" y="603" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <real>90.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>x</key>
+          <integer>-346</integer>
+          <key>y</key>
+          <integer>347</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>knsignAU</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>312</integer>
+        </dict>
+        <key>wire</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>knsignAU</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>312</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

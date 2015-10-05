@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="integral" format="1">
+  <advance width="328"/>
+  <unicode hex="222B"/>
+  <outline>
+    <contour>
+      <point x="275" y="564" type="move"/>
+      <point x="171" y="558"/>
+      <point x="139" y="512"/>
+      <point x="139" y="442" type="curve" smooth="yes"/>
+      <point x="139" y="27" type="line"/>
+    </contour>
+    <contour>
+      <point x="3" y="-153" type="move"/>
+      <point x="107" y="-147"/>
+      <point x="139" y="-101"/>
+      <point x="139" y="-31" type="curve" smooth="yes"/>
+      <point x="139" y="384" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>integral</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>328</integer>
+        </dict>
+        <key>wire</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>integral</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>328</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

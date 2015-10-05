@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ordfeminine" format="1">
+  <advance width="454"/>
+  <unicode hex="00AA"/>
+  <outline>
+    <contour>
+      <point x="103" y="168" type="move"/>
+      <point x="361" y="168" type="line"/>
+    </contour>
+    <contour>
+      <point x="151" y="500" type="move"/>
+      <point x="166" y="505"/>
+      <point x="191" y="511"/>
+      <point x="214" y="511" type="curve" smooth="yes"/>
+      <point x="277" y="511"/>
+      <point x="306" y="473"/>
+      <point x="306" y="418" type="curve" smooth="yes"/>
+      <point x="306" y="358" type="line" smooth="yes"/>
+      <point x="306" y="322"/>
+      <point x="314" y="300"/>
+      <point x="330" y="282" type="curve"/>
+    </contour>
+    <contour>
+      <point x="304" y="411" type="move"/>
+      <point x="281" y="412"/>
+      <point x="261" y="414"/>
+      <point x="241" y="414" type="curve" smooth="yes"/>
+      <point x="191" y="414"/>
+      <point x="159" y="401"/>
+      <point x="137" y="382" type="curve" smooth="yes"/>
+      <point x="123" y="368"/>
+      <point x="119" y="354"/>
+      <point x="119" y="336" type="curve" smooth="yes"/>
+      <point x="119" y="312"/>
+      <point x="137" y="282"/>
+      <point x="184" y="282" type="curve" smooth="yes"/>
+      <point x="236" y="282"/>
+      <point x="273" y="301"/>
+      <point x="306" y="346" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>ordfeminine</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>454</integer>
+        </dict>
+        <key>wire</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>ordfeminine</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>454</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

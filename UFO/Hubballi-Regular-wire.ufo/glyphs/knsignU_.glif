@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="knsignU" format="1">
+  <advance width="296"/>
+  <unicode hex="0CC1"/>
+  <outline>
+    <contour>
+      <point x="-86" y="129" type="move"/>
+      <point x="-36" y="54"/>
+      <point x="16" y="27"/>
+      <point x="77" y="27" type="curve" smooth="yes"/>
+      <point x="169" y="27"/>
+      <point x="216" y="87"/>
+      <point x="216" y="173" type="curve" smooth="yes"/>
+      <point x="216" y="254"/>
+      <point x="170" y="350"/>
+      <point x="110" y="416" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>knsignU</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>296</integer>
+        </dict>
+        <key>wire</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>knsignU</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>296</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

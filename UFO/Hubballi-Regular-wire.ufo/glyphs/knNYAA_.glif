@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="knNYAA" format="1">
+  <advance width="1239"/>
+  <outline>
+    <contour>
+      <point x="750" y="437" type="move"/>
+      <point x="903" y="437" type="line" smooth="yes"/>
+      <point x="1049" y="437"/>
+      <point x="1154" y="341"/>
+      <point x="1154" y="171" type="curve" smooth="yes"/>
+      <point x="1154" y="78"/>
+      <point x="1107" y="23"/>
+      <point x="1044" y="23" type="curve" smooth="yes"/>
+      <point x="985" y="23"/>
+      <point x="952" y="65"/>
+      <point x="951" y="111" type="curve" smooth="yes"/>
+      <point x="950" y="165"/>
+      <point x="991" y="217"/>
+      <point x="1065" y="217" type="curve" smooth="yes"/>
+      <point x="1094" y="217"/>
+      <point x="1124" y="213"/>
+      <point x="1149" y="205" type="curve"/>
+    </contour>
+    <component base="knNYA"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>knNYAA</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1239</integer>
+        </dict>
+        <key>wire</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>knNYAA</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1239</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

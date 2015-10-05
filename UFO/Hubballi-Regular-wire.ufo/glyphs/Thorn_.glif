@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Thorn" format="1">
+  <advance width="515"/>
+  <unicode hex="00DE"/>
+  <outline>
+    <contour>
+      <point x="128" y="512" type="move"/>
+      <point x="128.0" y="27.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="154" y="128" type="move"/>
+      <point x="265" y="128" type="line" smooth="yes"/>
+      <point x="378" y="128"/>
+      <point x="433" y="193"/>
+      <point x="433" y="271" type="curve" smooth="yes"/>
+      <point x="433" y="357"/>
+      <point x="366" y="418"/>
+      <point x="265" y="418" type="curve" smooth="yes"/>
+      <point x="139" y="418" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Thorn</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>515</integer>
+        </dict>
+        <key>wire</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Thorn</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>515</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
