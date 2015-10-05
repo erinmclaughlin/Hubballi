@@ -138,6 +138,13 @@
       ccedilla
     </glyphs>
   </group>
+  <group color="0.0 1.0 1.0 0.25" name="hyphen" side="left" type="kerning">
+    <glyphs>
+      emdash
+      endash
+      hyphen
+    </glyphs>
+  </group>
   <group color="0.0 1.0 1.0 0.25" name="knBHA" side="left" type="kerning">
     <glyphs>
       knBE
@@ -720,6 +727,36 @@
       thorn
     </glyphs>
   </group>
+  <group color="0.0 1.0 0.0 0.25" name="parenleft" side="left" type="kerning">
+    <glyphs>
+      braceleft
+      bracketleft
+      parenleft
+    </glyphs>
+  </group>
+  <group color="1.0 1.0 0.0 0.25" name="period" side="left" type="kerning">
+    <glyphs>
+      comma
+      ellipsis
+      period
+      quotedblbase
+      quotesinglbase
+    </glyphs>
+  </group>
+  <group color="1.0 0.5 0.0 0.25" name="quoteleft" side="left" type="kerning">
+    <glyphs>
+      quotedblleft
+      quoteleft
+    </glyphs>
+  </group>
+  <group color="1.0 0.0 0.0 0.25" name="quoteright" side="left" type="kerning">
+    <glyphs>
+      quotedbl
+      quotedblright
+      quoteright
+      quotesingle
+    </glyphs>
+  </group>
   <group color="1.0 0.0 0.5 0.25" name="r" side="left" type="kerning">
     <glyphs>
       r
@@ -846,6 +883,13 @@
       aogonek
       aring
       atilde
+    </glyphs>
+  </group>
+  <group color="1.0 0.0 0.0 0.25" name="hyphen" side="right" type="kerning">
+    <glyphs>
+      emdash
+      endash
+      hyphen
     </glyphs>
   </group>
   <group color="1.0 0.0 1.0 0.25" name="knBA" side="right" type="kerning">
@@ -1394,6 +1438,36 @@
       otilde
       q
       uni0123
+    </glyphs>
+  </group>
+  <group color="1.0 0.0 0.5 0.25" name="parenright" side="right" type="kerning">
+    <glyphs>
+      braceright
+      bracketright
+      parenright
+    </glyphs>
+  </group>
+  <group color="1.0 0.0 1.0 0.25" name="period" side="right" type="kerning">
+    <glyphs>
+      comma
+      ellipsis
+      period
+      quotedblbase
+      quotesinglbase
+    </glyphs>
+  </group>
+  <group color="0.5 0.0 1.0 0.25" name="quoteleft" side="right" type="kerning">
+    <glyphs>
+      quotedblleft
+      quoteleft
+    </glyphs>
+  </group>
+  <group color="0.0 0.0 1.0 0.25" name="quoteright" side="right" type="kerning">
+    <glyphs>
+      quotedbl
+      quotedblright
+      quoteright
+      quotesingle
     </glyphs>
   </group>
   <group color="0.0 0.5 1.0 0.25" name="r" side="right" type="kerning">

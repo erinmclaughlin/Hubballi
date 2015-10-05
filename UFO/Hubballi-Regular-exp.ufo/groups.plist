@@ -127,6 +127,12 @@
 		<string>cacute</string>
 		<string>ccaron</string>
 	</array>
+	<key>@MMK_L_hyphen</key>
+	<array>
+		<string>emdash</string>
+		<string>endash</string>
+		<string>hyphen</string>
+	</array>
 	<key>@MMK_L_knBHA</key>
 	<array>
 		<string>knBE</string>
@@ -277,45 +283,45 @@
 	</array>
 	<key>@MMK_L_knSub</key>
 	<array>
-		<string>knCAc2</string>
-		<string>knCAc2.following</string>
-		<string>knDAc2</string>
-		<string>knDAc2.following</string>
-		<string>knDDAc2</string>
-		<string>knDDAc2.following</string>
-		<string>knDDHAc2</string>
-		<string>knDDHAc2.following</string>
-		<string>knDHAc2</string>
-		<string>knDHAc2.following</string>
-		<string>knGAc2</string>
-		<string>knGAc2.following</string>
-		<string>knHAc2</string>
-		<string>knHAc2.following</string>
-		<string>knJAc2</string>
-		<string>knJAc2.following</string>
-		<string>knJHAc2</string>
-		<string>knJHAc2.following</string>
-		<string>knLAc2</string>
-		<string>knLAc2.following</string>
-		<string>knLLLAc2</string>
-		<string>knLLLAc2.following</string>
-		<string>knNGAc2</string>
-		<string>knNGAc2.following</string>
-		<string>knNNAc2</string>
-		<string>knNNAc2.following</string>
-		<string>knNYAc2</string>
-		<string>knNYAc2.following</string>
-		<string>knRRAc2</string>
-		<string>knRRAc2.following</string>
-		<string>knSSAc2.kssa</string>
-		<string>knTAc2</string>
-		<string>knTAc2.following</string>
-		<string>knTHAc2</string>
-		<string>knTHAc2.following</string>
-		<string>knTTHAc2</string>
-		<string>knTTHAc2.following</string>
-		<string>knVAc2</string>
 		<string>knVAc2.following</string>
+		<string>knTAc2</string>
+		<string>knTHAc2</string>
+		<string>knJHAc2</string>
+		<string>knNGAc2.following</string>
+		<string>knCAc2.following</string>
+		<string>knVAc2</string>
+		<string>knDDAc2.following</string>
+		<string>knLAc2.following</string>
+		<string>knTTHAc2.following</string>
+		<string>knLAc2</string>
+		<string>knDAc2.following</string>
+		<string>knRRAc2.following</string>
+		<string>knNYAc2</string>
+		<string>knNNAc2</string>
+		<string>knJAc2</string>
+		<string>knTAc2.following</string>
+		<string>knTTHAc2</string>
+		<string>knDAc2</string>
+		<string>knRRAc2</string>
+		<string>knGAc2.following</string>
+		<string>knSSAc2.kssa</string>
+		<string>knGAc2</string>
+		<string>knDDAc2</string>
+		<string>knCAc2</string>
+		<string>knNGAc2</string>
+		<string>knDHAc2</string>
+		<string>knHAc2.following</string>
+		<string>knJAc2.following</string>
+		<string>knNNAc2.following</string>
+		<string>knDDHAc2.following</string>
+		<string>knHAc2</string>
+		<string>knDDHAc2</string>
+		<string>knJHAc2.following</string>
+		<string>knLLLAc2.following</string>
+		<string>knLLLAc2</string>
+		<string>knTHAc2.following</string>
+		<string>knNYAc2.following</string>
+		<string>knDHAc2.following</string>
 	</array>
 	<key>@MMK_L_knSubTall</key>
 	<array>
@@ -466,11 +472,11 @@
 	<key>@MMK_L_knsignEIvariants</key>
 	<array>
 		<string>knLLLE</string>
-		<string>knNGE</string>
 		<string>knNGI</string>
+		<string>knNGE</string>
+		<string>knRRE</string>
 		<string>knNYE</string>
 		<string>knNYI</string>
-		<string>knRRE</string>
 	</array>
 	<key>@MMK_L_knsignU</key>
 	<array>
@@ -607,42 +613,42 @@
 	</array>
 	<key>@MMK_L_knsignVirama</key>
 	<array>
-		<string>knB</string>
-		<string>knBH</string>
-		<string>knC</string>
-		<string>knCH</string>
-		<string>knD</string>
-		<string>knDD</string>
-		<string>knDDH</string>
-		<string>knDH</string>
-		<string>knG</string>
-		<string>knGH</string>
-		<string>knH</string>
-		<string>knJ</string>
-		<string>knJH</string>
-		<string>knK</string>
-		<string>knKH</string>
-		<string>knL</string>
-		<string>knLL</string>
-		<string>knLLL</string>
-		<string>knM</string>
-		<string>knN</string>
-		<string>knNG</string>
-		<string>knNN</string>
-		<string>knNY</string>
-		<string>knP</string>
-		<string>knPH</string>
-		<string>knR</string>
-		<string>knRR</string>
-		<string>knS</string>
-		<string>knSH</string>
-		<string>knSS</string>
-		<string>knT</string>
-		<string>knTH</string>
-		<string>knTT</string>
-		<string>knTTH</string>
-		<string>knV</string>
 		<string>knY</string>
+		<string>knTH</string>
+		<string>knRR</string>
+		<string>knDDH</string>
+		<string>knGH</string>
+		<string>knNN</string>
+		<string>knPH</string>
+		<string>knKH</string>
+		<string>knTT</string>
+		<string>knCH</string>
+		<string>knNG</string>
+		<string>knN</string>
+		<string>knL</string>
+		<string>knM</string>
+		<string>knJ</string>
+		<string>knK</string>
+		<string>knH</string>
+		<string>knG</string>
+		<string>knD</string>
+		<string>knLL</string>
+		<string>knB</string>
+		<string>knC</string>
+		<string>knSS</string>
+		<string>knTTH</string>
+		<string>knNY</string>
+		<string>knSH</string>
+		<string>knDH</string>
+		<string>knV</string>
+		<string>knJH</string>
+		<string>knT</string>
+		<string>knDD</string>
+		<string>knR</string>
+		<string>knS</string>
+		<string>knP</string>
+		<string>knBH</string>
+		<string>knLLL</string>
 		<string>knReph</string>
 	</array>
 	<key>@MMK_L_o</key>
@@ -675,6 +681,32 @@
 		<string>eth</string>
 		<string>thorn</string>
 		<string>oacute</string>
+	</array>
+	<key>@MMK_L_parenleft</key>
+	<array>
+		<string>braceleft</string>
+		<string>bracketleft</string>
+		<string>parenleft</string>
+	</array>
+	<key>@MMK_L_period</key>
+	<array>
+		<string>comma</string>
+		<string>period</string>
+		<string>quotedblbase</string>
+		<string>quotesinglbase</string>
+		<string>ellipsis</string>
+	</array>
+	<key>@MMK_L_quoteleft</key>
+	<array>
+		<string>quotedblleft</string>
+		<string>quoteleft</string>
+	</array>
+	<key>@MMK_L_quoteright</key>
+	<array>
+		<string>quotedbl</string>
+		<string>quotedblright</string>
+		<string>quoteright</string>
+		<string>quotesingle</string>
 	</array>
 	<key>@MMK_L_r</key>
 	<array>
@@ -791,6 +823,12 @@
 		<string>adieresis</string>
 		<string>aogonek</string>
 		<string>abreve</string>
+	</array>
+	<key>@MMK_R_hyphen</key>
+	<array>
+		<string>emdash</string>
+		<string>endash</string>
+		<string>hyphen</string>
 	</array>
 	<key>@MMK_R_knBA</key>
 	<array>
@@ -1002,23 +1040,23 @@
 	<key>@MMK_R_knNA</key>
 	<array>
 		<string>knN</string>
-		<string>knNA</string>
-		<string>knNAA</string>
-		<string>knNAU</string>
-		<string>knNE</string>
-		<string>knNI</string>
+		<string>knSAU</string>
 		<string>knNO</string>
+		<string>knNI</string>
+		<string>knSO</string>
+		<string>knNAU</string>
+		<string>knSU</string>
+		<string>knNA</string>
+		<string>knSUU</string>
+		<string>knNE</string>
+		<string>knSAA</string>
+		<string>knSI</string>
 		<string>knNU</string>
 		<string>knNUU</string>
+		<string>knSE</string>
+		<string>knNAA</string>
 		<string>knS</string>
 		<string>knSA</string>
-		<string>knSAA</string>
-		<string>knSAU</string>
-		<string>knSE</string>
-		<string>knSI</string>
-		<string>knSO</string>
-		<string>knSU</string>
-		<string>knSUU</string>
 	</array>
 	<key>@MMK_R_knNYA</key>
 	<array>
@@ -1108,34 +1146,34 @@
 	</array>
 	<key>@MMK_R_knRRA</key>
 	<array>
-		<string>knCH</string>
-		<string>knCHA</string>
-		<string>knCHAA</string>
-		<string>knCHAU</string>
-		<string>knCHAc2</string>
-		<string>knCHE</string>
-		<string>knCHI</string>
 		<string>knCHO</string>
-		<string>knCHU</string>
 		<string>knCHUU</string>
-		<string>knLLL</string>
-		<string>knLLLA</string>
-		<string>knLLLAA</string>
-		<string>knLLLAU</string>
-		<string>knLLLE</string>
-		<string>knLLLI</string>
-		<string>knLLLO</string>
-		<string>knLLLU</string>
-		<string>knLLLUU</string>
 		<string>knRR</string>
+		<string>knLLLAA</string>
+		<string>knRRI</string>
+		<string>knCHA</string>
+		<string>knLLLA</string>
+		<string>knCHE</string>
+		<string>knRRO</string>
 		<string>knRRA</string>
+		<string>knLLLO</string>
+		<string>knLLLI</string>
+		<string>knRRE</string>
+		<string>knLLLU</string>
+		<string>knLLLAU</string>
+		<string>knCHU</string>
+		<string>knCHAc2</string>
+		<string>knRRU</string>
+		<string>knLLLE</string>
 		<string>knRRAA</string>
 		<string>knRRAU</string>
-		<string>knRRE</string>
-		<string>knRRI</string>
-		<string>knRRO</string>
-		<string>knRRU</string>
+		<string>knLLL</string>
+		<string>knCH</string>
+		<string>knCHAU</string>
+		<string>knLLLUU</string>
+		<string>knCHAA</string>
 		<string>knRRUU</string>
+		<string>knCHI</string>
 	</array>
 	<key>@MMK_R_knSHA</key>
 	<array>
@@ -1219,15 +1257,15 @@
 	</array>
 	<key>@MMK_R_knTA</key>
 	<array>
-		<string>knT</string>
-		<string>knTA</string>
-		<string>knTAA</string>
-		<string>knTAU</string>
-		<string>knTE</string>
-		<string>knTI</string>
 		<string>knTO</string>
-		<string>knTU</string>
+		<string>knTI</string>
+		<string>knTE</string>
+		<string>knTAU</string>
 		<string>knTUU</string>
+		<string>knTA</string>
+		<string>knT</string>
+		<string>knTAA</string>
+		<string>knTU</string>
 	</array>
 	<key>@MMK_R_knTTA</key>
 	<array>
@@ -1316,6 +1354,32 @@
 		<string>q</string>
 		<string>eth</string>
 		<string>oacute</string>
+	</array>
+	<key>@MMK_R_parenright</key>
+	<array>
+		<string>parenright</string>
+		<string>braceright</string>
+		<string>bracketright</string>
+	</array>
+	<key>@MMK_R_period</key>
+	<array>
+		<string>period</string>
+		<string>comma</string>
+		<string>ellipsis</string>
+		<string>quotedblbase</string>
+		<string>quotesinglbase</string>
+	</array>
+	<key>@MMK_R_quoteleft</key>
+	<array>
+		<string>quotedblleft</string>
+		<string>quoteleft</string>
+	</array>
+	<key>@MMK_R_quoteright</key>
+	<array>
+		<string>quotedbl</string>
+		<string>quotedblright</string>
+		<string>quoteright</string>
+		<string>quotesingle</string>
 	</array>
 	<key>@MMK_R_r</key>
 	<array>
