@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="four" format="1">
+  <advance width="541"/>
+  <unicode hex="0034"/>
+  <outline>
+    <contour>
+      <point x="412" y="528" type="curve" smooth="yes"/>
+      <point x="412" y="33" type="line" smooth="yes"/>
+      <point x="412" y="11"/>
+      <point x="394" y="-7"/>
+      <point x="372" y="-7" type="curve" smooth="yes"/>
+      <point x="350" y="-7"/>
+      <point x="332" y="11"/>
+      <point x="332" y="33" type="curve" smooth="yes"/>
+      <point x="332" y="528" type="line" smooth="yes"/>
+      <point x="332" y="550"/>
+      <point x="350" y="568"/>
+      <point x="372" y="568" type="curve" smooth="yes"/>
+      <point x="394" y="568"/>
+      <point x="412" y="550"/>
+    </contour>
+    <contour>
+      <point x="396" y="494" type="curve" smooth="yes"/>
+      <point x="97" y="132" type="line" smooth="yes"/>
+      <point x="83" y="115"/>
+      <point x="57" y="112"/>
+      <point x="41" y="126" type="curve" smooth="yes"/>
+      <point x="24" y="140"/>
+      <point x="21" y="166"/>
+      <point x="35" y="182" type="curve" smooth="yes"/>
+      <point x="334" y="544" type="line" smooth="yes"/>
+      <point x="348" y="561"/>
+      <point x="374" y="564"/>
+      <point x="390" y="550" type="curve" smooth="yes"/>
+      <point x="407" y="536"/>
+      <point x="410" y="510"/>
+    </contour>
+    <contour>
+      <point x="76" y="197" type="curve" smooth="yes"/>
+      <point x="480" y="197" type="line" smooth="yes"/>
+      <point x="502" y="197"/>
+      <point x="520" y="179"/>
+      <point x="520" y="157" type="curve" smooth="yes"/>
+      <point x="520" y="135"/>
+      <point x="502" y="117"/>
+      <point x="480" y="117" type="curve" smooth="yes"/>
+      <point x="76" y="117" type="line" smooth="yes"/>
+      <point x="54" y="117"/>
+      <point x="36" y="135"/>
+      <point x="36" y="157" type="curve" smooth="yes"/>
+      <point x="36" y="179"/>
+      <point x="54" y="197"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>x</key>
+          <integer>277</integer>
+          <key>y</key>
+          <integer>570</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>four</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>541</integer>
+        </dict>
+        <key>wire</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>four</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>541</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

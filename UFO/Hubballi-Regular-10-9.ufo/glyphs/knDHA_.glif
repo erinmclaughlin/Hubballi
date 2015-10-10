@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="knDHA" format="1">
+  <advance width="731"/>
+  <unicode hex="0CA7"/>
+  <outline>
+    <contour>
+      <point x="374" y="-83" type="curve" smooth="yes"/>
+      <point x="374" y="-186" type="line" smooth="yes"/>
+      <point x="374" y="-192"/>
+      <point x="369" y="-197"/>
+      <point x="363" y="-197" type="curve" smooth="yes"/>
+      <point x="357" y="-197"/>
+      <point x="352" y="-192"/>
+      <point x="352" y="-186" type="curve" smooth="yes"/>
+      <point x="352" y="-83" type="line" smooth="yes"/>
+      <point x="352" y="-77"/>
+      <point x="357" y="-72"/>
+      <point x="363" y="-72" type="curve" smooth="yes"/>
+      <point x="369" y="-72"/>
+      <point x="374" y="-77"/>
+    </contour>
+    <component base="knDa" xOffset="5"/>
+    <component base="knDA"/>
+    <component base="knDa" xOffset="5"/>
+    <component base="knDA"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>knDHA</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>731</integer>
+        </dict>
+        <key>wire</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>knDHA</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>731</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

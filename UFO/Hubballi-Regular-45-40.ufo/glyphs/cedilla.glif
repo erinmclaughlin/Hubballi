@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cedilla" format="1">
+  <advance width="500"/>
+  <unicode hex="00B8"/>
+  <outline>
+    <contour>
+      <point x="325" y="-106" type="curve" smooth="yes"/>
+      <point x="300" y="-131"/>
+      <point x="260" y="-170"/>
+      <point x="237" y="-193" type="curve" smooth="yes"/>
+      <point x="220" y="-210"/>
+      <point x="190" y="-210"/>
+      <point x="173" y="-193" type="curve" smooth="yes"/>
+      <point x="156" y="-176"/>
+      <point x="156" y="-146"/>
+      <point x="173" y="-129" type="curve" smooth="yes"/>
+      <point x="196" y="-106"/>
+      <point x="236" y="-67"/>
+      <point x="261" y="-42" type="curve" smooth="yes"/>
+      <point x="278" y="-25"/>
+      <point x="308" y="-25"/>
+      <point x="325" y="-42" type="curve" smooth="yes"/>
+      <point x="342" y="-59"/>
+      <point x="342" y="-89"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>cedilla</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>500</integer>
+        </dict>
+        <key>wire</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>cedilla</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>500</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

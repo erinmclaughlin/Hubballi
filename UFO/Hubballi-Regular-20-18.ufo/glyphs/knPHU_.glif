@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="knPHU" format="1">
+  <advance width="957"/>
+  <outline>
+    <contour>
+      <point x="419" y="104" type="curve" smooth="yes"/>
+      <point x="485" y="-28"/>
+      <point x="556" y="-87"/>
+      <point x="659" y="-87" type="curve" smooth="yes"/>
+      <point x="779" y="-87"/>
+      <point x="852" y="0"/>
+      <point x="852" y="150" type="curve" smooth="yes"/>
+      <point x="852" y="249"/>
+      <point x="814" y="335"/>
+      <point x="748" y="409" type="curve" smooth="yes"/>
+      <point x="741" y="417"/>
+      <point x="742" y="430"/>
+      <point x="750" y="437" type="curve" smooth="yes"/>
+      <point x="758" y="444"/>
+      <point x="771" y="443"/>
+      <point x="778" y="435" type="curve" smooth="yes"/>
+      <point x="850" y="353"/>
+      <point x="892" y="259"/>
+      <point x="892" y="150" type="curve" smooth="yes"/>
+      <point x="892" y="-30"/>
+      <point x="799" y="-127"/>
+      <point x="659" y="-127" type="curve" smooth="yes"/>
+      <point x="542" y="-127"/>
+      <point x="459" y="-66"/>
+      <point x="383" y="86" type="curve" smooth="yes"/>
+      <point x="378" y="96"/>
+      <point x="382" y="108"/>
+      <point x="392" y="113" type="curve" smooth="yes"/>
+      <point x="402" y="118"/>
+      <point x="414" y="114"/>
+    </contour>
+    <component base="knPHA"/>
+    <component base="knPHA"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>knPHU</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>957</integer>
+        </dict>
+        <key>wire</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>knPHU</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>957</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

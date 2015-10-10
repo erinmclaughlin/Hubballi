@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="knBHI" format="1">
+  <advance width="734"/>
+  <outline>
+    <contour>
+      <point x="418" y="-83" type="curve" smooth="yes"/>
+      <point x="418" y="-186" type="line" smooth="yes"/>
+      <point x="418" y="-210"/>
+      <point x="397" y="-231"/>
+      <point x="373" y="-231" type="curve" smooth="yes"/>
+      <point x="349" y="-231"/>
+      <point x="328" y="-210"/>
+      <point x="328" y="-186" type="curve" smooth="yes"/>
+      <point x="328" y="-83" type="line" smooth="yes"/>
+      <point x="328" y="-59"/>
+      <point x="349" y="-38"/>
+      <point x="373" y="-38" type="curve" smooth="yes"/>
+      <point x="397" y="-38"/>
+      <point x="418" y="-59"/>
+    </contour>
+    <component base="knBI"/>
+    <component base="knBI"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>knBHI</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>734</integer>
+        </dict>
+        <key>wire</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>knBHI</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>734</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

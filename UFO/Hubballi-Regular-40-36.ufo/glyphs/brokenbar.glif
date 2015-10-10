@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="brokenbar" format="1">
+  <advance width="310"/>
+  <unicode hex="00A6"/>
+  <outline>
+    <contour>
+      <point x="195" y="159" type="curve" smooth="yes"/>
+      <point x="195" y="-68" type="line" smooth="yes"/>
+      <point x="195" y="-90"/>
+      <point x="177" y="-108"/>
+      <point x="155" y="-108" type="curve" smooth="yes"/>
+      <point x="133" y="-108"/>
+      <point x="115" y="-90"/>
+      <point x="115" y="-68" type="curve" smooth="yes"/>
+      <point x="115" y="159" type="line" smooth="yes"/>
+      <point x="115" y="181"/>
+      <point x="133" y="199"/>
+      <point x="155" y="199" type="curve" smooth="yes"/>
+      <point x="177" y="199"/>
+      <point x="195" y="181"/>
+    </contour>
+    <contour>
+      <point x="195" y="545" type="curve" smooth="yes"/>
+      <point x="195" y="318" type="line" smooth="yes"/>
+      <point x="195" y="296"/>
+      <point x="177" y="278"/>
+      <point x="155" y="278" type="curve" smooth="yes"/>
+      <point x="133" y="278"/>
+      <point x="115" y="296"/>
+      <point x="115" y="318" type="curve" smooth="yes"/>
+      <point x="115" y="545" type="line" smooth="yes"/>
+      <point x="115" y="567"/>
+      <point x="133" y="585"/>
+      <point x="155" y="585" type="curve" smooth="yes"/>
+      <point x="177" y="585"/>
+      <point x="195" y="567"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>x</key>
+          <integer>208</integer>
+          <key>y</key>
+          <integer>232</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>brokenbar</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>310</integer>
+        </dict>
+        <key>wire</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>brokenbar</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>310</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

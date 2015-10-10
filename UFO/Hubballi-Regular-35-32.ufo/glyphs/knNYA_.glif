@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="knNYA" format="1">
+  <advance width="906"/>
+  <unicode hex="0C9E"/>
+  <outline>
+    <contour>
+      <point x="588" y="373" type="curve" smooth="yes"/>
+      <point x="625" y="435"/>
+      <point x="675" y="478"/>
+      <point x="742" y="478" type="curve" smooth="yes"/>
+      <point x="835" y="478"/>
+      <point x="867" y="409"/>
+      <point x="867" y="356" type="curve" smooth="yes"/>
+      <point x="867" y="318"/>
+      <point x="854" y="282"/>
+      <point x="837" y="246" type="curve" smooth="yes"/>
+      <point x="828" y="229"/>
+      <point x="807" y="221"/>
+      <point x="790" y="229" type="curve" smooth="yes"/>
+      <point x="773" y="238"/>
+      <point x="765" y="259"/>
+      <point x="773" y="276" type="curve" smooth="yes"/>
+      <point x="786" y="302"/>
+      <point x="797" y="328"/>
+      <point x="797" y="356" type="curve" smooth="yes"/>
+      <point x="797" y="379"/>
+      <point x="781" y="408"/>
+      <point x="742" y="408" type="curve" smooth="yes"/>
+      <point x="699" y="408"/>
+      <point x="671" y="375"/>
+      <point x="648" y="337" type="curve" smooth="yes"/>
+      <point x="638" y="321"/>
+      <point x="616" y="315"/>
+      <point x="600" y="325" type="curve" smooth="yes"/>
+      <point x="584" y="335"/>
+      <point x="578" y="357"/>
+    </contour>
+    <component base="knI"/>
+    <component base="knI"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>x</key>
+          <integer>720</integer>
+          <key>y</key>
+          <integer>260</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>knNYA</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>906</integer>
+        </dict>
+        <key>wire</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>knNYA</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>906</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

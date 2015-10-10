@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="numbersign" format="1">
+  <advance width="586"/>
+  <unicode hex="0023"/>
+  <outline>
+    <contour>
+      <point x="514" y="503" type="curve" smooth="yes"/>
+      <point x="338" y="19" type="line" smooth="yes"/>
+      <point x="330" y="-1"/>
+      <point x="307" y="-12"/>
+      <point x="286" y="-5" type="curve" smooth="yes"/>
+      <point x="266" y="3"/>
+      <point x="255" y="26"/>
+      <point x="262" y="47" type="curve" smooth="yes"/>
+      <point x="438" y="531" type="line" smooth="yes"/>
+      <point x="446" y="551"/>
+      <point x="469" y="562"/>
+      <point x="490" y="555" type="curve" smooth="yes"/>
+      <point x="510" y="547"/>
+      <point x="521" y="524"/>
+    </contour>
+    <contour>
+      <point x="314" y="503" type="curve" smooth="yes"/>
+      <point x="138" y="19" type="line" smooth="yes"/>
+      <point x="130" y="-1"/>
+      <point x="107" y="-12"/>
+      <point x="86" y="-5" type="curve" smooth="yes"/>
+      <point x="66" y="3"/>
+      <point x="55" y="26"/>
+      <point x="62" y="47" type="curve" smooth="yes"/>
+      <point x="238" y="531" type="line" smooth="yes"/>
+      <point x="246" y="551"/>
+      <point x="269" y="562"/>
+      <point x="290" y="555" type="curve" smooth="yes"/>
+      <point x="310" y="547"/>
+      <point x="321" y="524"/>
+    </contour>
+    <contour>
+      <point x="527" y="348" type="curve" smooth="yes"/>
+      <point x="123" y="348" type="line" smooth="yes"/>
+      <point x="101" y="348"/>
+      <point x="83" y="366"/>
+      <point x="83" y="388" type="curve" smooth="yes"/>
+      <point x="83" y="410"/>
+      <point x="101" y="428"/>
+      <point x="123" y="428" type="curve" smooth="yes"/>
+      <point x="527" y="428" type="line" smooth="yes"/>
+      <point x="549" y="428"/>
+      <point x="567" y="410"/>
+      <point x="567" y="388" type="curve" smooth="yes"/>
+      <point x="567" y="366"/>
+      <point x="549" y="348"/>
+    </contour>
+    <contour>
+      <point x="458" y="148" type="curve" smooth="yes"/>
+      <point x="54" y="148" type="line" smooth="yes"/>
+      <point x="32" y="148"/>
+      <point x="14" y="166"/>
+      <point x="14" y="188" type="curve" smooth="yes"/>
+      <point x="14" y="210"/>
+      <point x="32" y="228"/>
+      <point x="54" y="228" type="curve" smooth="yes"/>
+      <point x="458" y="228" type="line" smooth="yes"/>
+      <point x="480" y="228"/>
+      <point x="498" y="210"/>
+      <point x="498" y="188" type="curve" smooth="yes"/>
+      <point x="498" y="166"/>
+      <point x="480" y="148"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>x</key>
+          <integer>135</integer>
+          <key>y</key>
+          <integer>606</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>x</key>
+          <integer>160</integer>
+          <key>y</key>
+          <integer>-73</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>numbersign</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>586</integer>
+        </dict>
+        <key>wire</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>numbersign</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>586</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

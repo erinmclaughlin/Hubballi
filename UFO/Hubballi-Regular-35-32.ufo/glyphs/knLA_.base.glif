@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="knLA.base" format="1">
+  <advance width="695"/>
+  <outline>
+    <contour>
+      <point x="451" y="478" type="curve" smooth="yes"/>
+      <point x="533" y="478" type="line" smooth="yes"/>
+      <point x="552" y="478"/>
+      <point x="568" y="462"/>
+      <point x="568" y="443" type="curve" smooth="yes"/>
+      <point x="568" y="424"/>
+      <point x="552" y="408"/>
+      <point x="533" y="408" type="curve" smooth="yes"/>
+      <point x="451" y="408" type="line" smooth="yes"/>
+      <point x="432" y="408"/>
+      <point x="416" y="424"/>
+      <point x="416" y="443" type="curve" smooth="yes"/>
+      <point x="416" y="462"/>
+      <point x="432" y="478"/>
+    </contour>
+    <component base="knLA"/>
+    <component base="knLA"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>11</integer>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>knLA.base</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>695</integer>
+        </dict>
+        <key>wire</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>knLA.base</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>695</integer>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.25,0.25,0.25,1</string>
+    </dict>
+  </lib>
+</glyph>

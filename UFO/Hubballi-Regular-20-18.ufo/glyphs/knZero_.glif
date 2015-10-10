@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="knZero" format="1">
+  <advance width="596"/>
+  <unicode hex="0CE6"/>
+  <outline>
+    <contour>
+      <point x="295" y="478" type="curve" smooth="yes"/>
+      <point x="414" y="478"/>
+      <point x="512" y="381"/>
+      <point x="512" y="243" type="curve" smooth="yes"/>
+      <point x="512" y="112"/>
+      <point x="433" y="6"/>
+      <point x="295" y="6" type="curve" smooth="yes"/>
+      <point x="168" y="6"/>
+      <point x="75" y="112"/>
+      <point x="75" y="241" type="curve" smooth="yes"/>
+      <point x="75" y="381"/>
+      <point x="166" y="478"/>
+    </contour>
+    <contour>
+      <point x="295" y="438" type="curve" smooth="yes"/>
+      <point x="188" y="438"/>
+      <point x="115" y="355"/>
+      <point x="115" y="241" type="curve" smooth="yes"/>
+      <point x="115" y="136"/>
+      <point x="190" y="46"/>
+      <point x="295" y="46" type="curve" smooth="yes"/>
+      <point x="409" y="46"/>
+      <point x="472" y="136"/>
+      <point x="472" y="243" type="curve" smooth="yes"/>
+      <point x="472" y="355"/>
+      <point x="394" y="438"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>knZero</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>596</integer>
+        </dict>
+        <key>wire</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>knZero</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>596</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

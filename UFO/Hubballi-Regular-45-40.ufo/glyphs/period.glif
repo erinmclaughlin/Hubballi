@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="period" format="1">
+  <advance width="235"/>
+  <unicode hex="002E"/>
+  <outline>
+    <contour>
+      <point x="119" y="131" type="curve" smooth="yes"/>
+      <point x="155" y="131"/>
+      <point x="184" y="103"/>
+      <point x="184" y="57" type="curve" smooth="yes"/>
+      <point x="184" y="2"/>
+      <point x="155" y="-17"/>
+      <point x="119" y="-17" type="curve" smooth="yes"/>
+      <point x="88" y="-17"/>
+      <point x="53" y="4"/>
+      <point x="53" y="57" type="curve"/>
+      <point x="53" y="101"/>
+      <point x="88" y="131"/>
+    </contour>
+    <contour>
+      <point x="119" y="41" type="curve" smooth="yes"/>
+      <point x="126" y="41"/>
+      <point x="143" y="41"/>
+      <point x="143" y="57" type="curve" smooth="yes"/>
+      <point x="143" y="76"/>
+      <point x="126" y="73"/>
+      <point x="119" y="73" type="curve" smooth="yes"/>
+      <point x="111" y="73"/>
+      <point x="94" y="78"/>
+      <point x="94" y="57" type="curve" smooth="yes"/>
+      <point x="94" y="40"/>
+      <point x="111" y="41"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>period</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>235</integer>
+        </dict>
+        <key>wire</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>period</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>235</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

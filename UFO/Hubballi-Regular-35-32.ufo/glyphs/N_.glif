@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="N" format="1">
+  <advance width="645"/>
+  <unicode hex="004E"/>
+  <outline>
+    <contour>
+      <point x="163" y="518" type="curve" smooth="yes"/>
+      <point x="163" y="33" type="line" smooth="yes"/>
+      <point x="163" y="14"/>
+      <point x="147" y="-2"/>
+      <point x="128" y="-2" type="curve" smooth="yes"/>
+      <point x="109" y="-2"/>
+      <point x="93" y="14"/>
+      <point x="93" y="33" type="curve" smooth="yes"/>
+      <point x="93" y="518" type="line" smooth="yes"/>
+      <point x="93" y="537"/>
+      <point x="109" y="553"/>
+      <point x="128" y="553" type="curve" smooth="yes"/>
+      <point x="147" y="553"/>
+      <point x="163" y="537"/>
+    </contour>
+    <contour>
+      <point x="552" y="518" type="curve" smooth="yes"/>
+      <point x="552" y="33" type="line" smooth="yes"/>
+      <point x="552" y="14"/>
+      <point x="536" y="-2"/>
+      <point x="517" y="-2" type="curve" smooth="yes"/>
+      <point x="498" y="-2"/>
+      <point x="482" y="14"/>
+      <point x="482" y="33" type="curve" smooth="yes"/>
+      <point x="482" y="518" type="line" smooth="yes"/>
+      <point x="482" y="537"/>
+      <point x="498" y="553"/>
+      <point x="517" y="553" type="curve" smooth="yes"/>
+      <point x="536" y="553"/>
+      <point x="552" y="537"/>
+    </contour>
+    <contour>
+      <point x="162" y="539" type="curve" smooth="yes"/>
+      <point x="237" y="439"/>
+      <point x="432" y="197"/>
+      <point x="539" y="54" type="curve" smooth="yes"/>
+      <point x="550" y="39"/>
+      <point x="547" y="16"/>
+      <point x="532" y="5" type="curve" smooth="yes"/>
+      <point x="517" y="-6"/>
+      <point x="494" y="-3"/>
+      <point x="483" y="12" type="curve" smooth="yes"/>
+      <point x="376" y="155"/>
+      <point x="181" y="397"/>
+      <point x="106" y="497" type="curve" smooth="yes"/>
+      <point x="95" y="512"/>
+      <point x="98" y="535"/>
+      <point x="113" y="546" type="curve" smooth="yes"/>
+      <point x="128" y="557"/>
+      <point x="151" y="554"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>x</key>
+          <integer>277</integer>
+          <key>y</key>
+          <integer>570</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>N</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>645</integer>
+        </dict>
+        <key>wire</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>N</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>645</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

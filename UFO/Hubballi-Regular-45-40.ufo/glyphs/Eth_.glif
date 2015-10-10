@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Eth" format="1">
+  <advance width="617"/>
+  <unicode hex="00D0"/>
+  <outline>
+    <contour>
+      <point x="54" y="325" type="curve" smooth="yes"/>
+      <point x="300" y="325" type="line" smooth="yes"/>
+      <point x="324" y="325"/>
+      <point x="345" y="304"/>
+      <point x="345" y="280" type="curve" smooth="yes"/>
+      <point x="345" y="256"/>
+      <point x="324" y="235"/>
+      <point x="300" y="235" type="curve" smooth="yes"/>
+      <point x="54" y="235" type="line" smooth="yes"/>
+      <point x="30" y="235"/>
+      <point x="9" y="256"/>
+      <point x="9" y="280" type="curve" smooth="yes"/>
+      <point x="9" y="304"/>
+      <point x="30" y="325"/>
+    </contour>
+    <component base="D"/>
+    <component base="D"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Eth</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>617</integer>
+        </dict>
+        <key>wire</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Eth</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>617</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
