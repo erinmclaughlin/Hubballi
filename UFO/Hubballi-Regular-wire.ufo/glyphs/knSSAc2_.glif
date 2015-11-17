@@ -7,10 +7,6 @@
       <point x="196" y="-393" type="line"/>
     </contour>
     <contour>
-      <point x="-58" y="-424" type="move"/>
-      <point x="-58" y="-490" type="line"/>
-    </contour>
-    <contour>
       <point x="-57" y="-268" type="move"/>
       <point x="-20" y="-311"/>
       <point x="15" y="-332"/>
@@ -85,6 +81,13 @@
           <integer>149</integer>
         </dict>
       </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.8424</real>
+        <real>0.6742</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>
