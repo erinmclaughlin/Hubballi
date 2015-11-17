@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="knK" format="1">
-  <advance width="946"/>
+  <advance width="956"/>
   <outline>
-    <component base="knKA.base"/>
+    <component base="knKA.base" xOffset="5"/>
     <component base="knVirama" xOffset="694"/>
   </outline>
   <lib>
@@ -29,7 +29,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>946</integer>
+          <integer>956</integer>
         </dict>
         <key>wire</key>
         <dict>
@@ -51,7 +51,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>946</integer>
+          <integer>956</integer>
         </dict>
       </dict>
     </dict>

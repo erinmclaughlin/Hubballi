@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="knVirama" format="1">
+  <advance width="258"/>
+  <unicode hex="0CCD"/>
+  <outline>
+    <contour>
+      <point x="-213" y="468" type="curve" smooth="yes"/>
+      <point x="72" y="468" type="line" smooth="yes"/>
+      <point x="182" y="468"/>
+      <point x="224" y="402"/>
+      <point x="224" y="345" type="curve" smooth="yes"/>
+      <point x="224" y="284"/>
+      <point x="183" y="236"/>
+      <point x="117" y="236" type="curve" smooth="yes"/>
+      <point x="55" y="236"/>
+      <point x="4" y="280"/>
+      <point x="4" y="353" type="curve" smooth="yes"/>
+      <point x="4" y="420"/>
+      <point x="42" y="505"/>
+      <point x="156" y="579" type="curve" smooth="yes"/>
+      <point x="168" y="586"/>
+      <point x="184" y="583"/>
+      <point x="191" y="572" type="curve" smooth="yes"/>
+      <point x="198" y="560"/>
+      <point x="195" y="544"/>
+      <point x="184" y="537" type="curve" smooth="yes"/>
+      <point x="90" y="477"/>
+      <point x="54" y="408"/>
+      <point x="54" y="353" type="curve" smooth="yes"/>
+      <point x="54" y="312"/>
+      <point x="81" y="286"/>
+      <point x="117" y="286" type="curve" smooth="yes"/>
+      <point x="153" y="286"/>
+      <point x="174" y="312"/>
+      <point x="174" y="345" type="curve" smooth="yes"/>
+      <point x="174" y="384"/>
+      <point x="138" y="418"/>
+      <point x="72" y="418" type="curve" smooth="yes"/>
+      <point x="-213" y="418" type="line" smooth="yes"/>
+      <point x="-227" y="418"/>
+      <point x="-238" y="430"/>
+      <point x="-238" y="443" type="curve" smooth="yes"/>
+      <point x="-238" y="457"/>
+      <point x="-227" y="468"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>knVirama</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>258</integer>
+        </dict>
+        <key>wire</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>knVirama</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>258</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

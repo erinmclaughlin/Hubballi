@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="knYA" format="1">
+  <advance width="1224"/>
+  <unicode hex="0CAF"/>
+  <outline>
+    <contour>
+      <point x="65" y="233" type="curve" smooth="yes"/>
+      <point x="65" y="350"/>
+      <point x="169" y="468"/>
+      <point x="301" y="468" type="curve" smooth="yes"/>
+      <point x="435" y="468"/>
+      <point x="537" y="348"/>
+      <point x="537" y="233" type="curve" smooth="yes"/>
+      <point x="537" y="104"/>
+      <point x="446" y="4"/>
+      <point x="301" y="4" type="curve" smooth="yes"/>
+      <point x="154" y="4"/>
+      <point x="65" y="102"/>
+    </contour>
+    <contour>
+      <point x="115" y="233" type="curve" smooth="yes"/>
+      <point x="115" y="130"/>
+      <point x="186" y="54"/>
+      <point x="301" y="54" type="curve" smooth="yes"/>
+      <point x="414" y="54"/>
+      <point x="487" y="132"/>
+      <point x="487" y="233" type="curve" smooth="yes"/>
+      <point x="487" y="324"/>
+      <point x="407" y="418"/>
+      <point x="301" y="418" type="curve" smooth="yes"/>
+      <point x="197" y="418"/>
+      <point x="115" y="326"/>
+    </contour>
+    <contour>
+      <point x="589" y="468" type="curve" smooth="yes"/>
+      <point x="701" y="468" type="line" smooth="yes"/>
+      <point x="763" y="468"/>
+      <point x="800" y="490"/>
+      <point x="828" y="534" type="curve" smooth="yes"/>
+      <point x="835" y="546"/>
+      <point x="851" y="549"/>
+      <point x="862" y="542" type="curve" smooth="yes"/>
+      <point x="874" y="535"/>
+      <point x="877" y="519"/>
+      <point x="870" y="508" type="curve" smooth="yes"/>
+      <point x="834" y="448"/>
+      <point x="785" y="418"/>
+      <point x="701" y="418" type="curve" smooth="yes"/>
+      <point x="589" y="418" type="line" smooth="yes"/>
+      <point x="576" y="418"/>
+      <point x="564" y="430"/>
+      <point x="564" y="443" type="curve" smooth="yes"/>
+      <point x="564" y="457"/>
+      <point x="576" y="468"/>
+    </contour>
+    <component base="knsignU" xOffset="598"/>
+    <component base="knsignU" xOffset="909"/>
+    <component base="knsignU" xOffset="598"/>
+    <component base="knsignU" xOffset="909"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>knYA</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1224</integer>
+        </dict>
+        <key>wire</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>knYA</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1224</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

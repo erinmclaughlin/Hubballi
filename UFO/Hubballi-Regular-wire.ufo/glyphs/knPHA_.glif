@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="knPHA" format="1">
-  <advance width="726"/>
+  <advance width="736"/>
   <unicode hex="0CAB"/>
   <outline>
     <contour>
-      <point x="364" y="-83" type="move"/>
-      <point x="364" y="-186" type="line"/>
+      <point x="369" y="-83" type="move"/>
+      <point x="369" y="-186" type="line"/>
     </contour>
-    <component base="knPa" xOffset="5"/>
+    <component base="knPa" xOffset="10"/>
     <component base="knPA"/>
   </outline>
   <lib>
@@ -87,7 +87,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>726</integer>
+          <integer>736</integer>
         </dict>
         <key>wire</key>
         <dict>
@@ -109,7 +109,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>726</integer>
+          <integer>736</integer>
         </dict>
       </dict>
     </dict>

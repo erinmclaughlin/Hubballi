@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="knNNE" format="1">
-  <advance width="770"/>
+  <advance width="780"/>
   <outline>
     <component base="knsignE" xOffset="755"/>
-    <component base="knNNA.base"/>
+    <component base="knNNA.base" xOffset="5"/>
   </outline>
   <lib>
     <dict>
@@ -29,7 +29,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>770</integer>
+          <integer>780</integer>
         </dict>
         <key>wire</key>
         <dict>
@@ -51,7 +51,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>770</integer>
+          <integer>780</integer>
         </dict>
       </dict>
     </dict>

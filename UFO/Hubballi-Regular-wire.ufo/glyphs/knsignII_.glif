@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="knsignII" format="1">
-  <advance width="362"/>
+  <advance width="372"/>
   <unicode hex="0CC0"/>
   <outline>
-    <component base="knIsign"/>
-    <component base="knLength" xOffset="365" yOffset="-174"/>
+    <component base="knIsign" xOffset="5"/>
+    <component base="knLength" xOffset="370" yOffset="-174"/>
     <component base="knsignI"/>
     <component base="knLengthmark"/>
   </outline>
@@ -35,7 +35,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>362</integer>
+          <integer>372</integer>
         </dict>
         <key>wire</key>
         <dict>
@@ -57,7 +57,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>362</integer>
+          <integer>372</integer>
         </dict>
       </dict>
     </dict>

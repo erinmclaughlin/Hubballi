@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="knDDHA" format="1">
-  <advance width="750"/>
+  <advance width="760"/>
   <unicode hex="0CA2"/>
   <outline>
     <contour>
-      <point x="366" y="-83" type="move"/>
-      <point x="366" y="-186" type="line"/>
+      <point x="371" y="-83" type="move"/>
+      <point x="371" y="-186" type="line"/>
     </contour>
-    <component base="knDda" xOffset="5"/>
-    <component base="knDda" xOffset="5"/>
+    <component base="knDda" xOffset="10"/>
+    <component base="knDda" xOffset="10"/>
     <component base="knDDA"/>
   </outline>
   <lib>
@@ -52,7 +52,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>750</integer>
+          <integer>760</integer>
         </dict>
         <key>wire</key>
         <dict>
@@ -74,7 +74,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>750</integer>
+          <integer>760</integer>
         </dict>
       </dict>
     </dict>

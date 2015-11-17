@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="knBAU" format="1">
-  <advance width="1043"/>
+  <advance width="1053"/>
   <outline>
-    <component base="knBA.base"/>
+    <component base="knBA.base" xOffset="5"/>
     <component base="knsignAU" xOffset="726"/>
   </outline>
   <lib>
@@ -29,7 +29,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1043</integer>
+          <integer>1053</integer>
         </dict>
         <key>wire</key>
         <dict>
@@ -51,7 +51,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1043</integer>
+          <integer>1053</integer>
         </dict>
       </dict>
     </dict>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="knLLAA" format="1">
-  <advance width="994"/>
+  <advance width="1004"/>
   <outline>
-    <component base="knLLA.base"/>
+    <component base="knLLA.base" xOffset="5"/>
     <component base="knsignAA" xOffset="645"/>
   </outline>
   <lib>
@@ -29,7 +29,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>994</integer>
+          <integer>1004</integer>
         </dict>
         <key>wire</key>
         <dict>
@@ -51,7 +51,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>994</integer>
+          <integer>1004</integer>
         </dict>
       </dict>
     </dict>
