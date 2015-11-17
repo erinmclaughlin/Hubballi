@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="knYAA" format="1">
-  <advance width="1566"/>
+  <advance width="1586"/>
   <outline>
-    <component base="knYA.base"/>
+    <component base="knYA.base" xOffset="10"/>
     <component base="knsignAA" xOffset="1217"/>
-    <component base="knYA.base"/>
+    <component base="knYA.base" xOffset="10"/>
     <component base="knsignAA" xOffset="1217"/>
   </outline>
   <lib>
@@ -31,7 +31,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1566</integer>
+          <integer>1586</integer>
         </dict>
         <key>wire</key>
         <dict>
@@ -53,7 +53,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1566</integer>
+          <integer>1586</integer>
         </dict>
       </dict>
     </dict>

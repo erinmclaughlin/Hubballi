@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="knSSA" format="1">
-  <advance width="740"/>
+  <advance width="750"/>
   <unicode hex="0CB7"/>
   <outline>
     <contour>
-      <point x="508" y="200" type="move"/>
-      <point x="656" y="-23" type="line"/>
+      <point x="513" y="200" type="move"/>
+      <point x="661" y="-23" type="line"/>
     </contour>
-    <component base="knPa" xOffset="10"/>
+    <component base="knPa" xOffset="15"/>
     <component base="knPA"/>
   </outline>
   <lib>
@@ -34,7 +34,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>740</integer>
+          <integer>750</integer>
         </dict>
         <key>wire</key>
         <dict>
@@ -56,7 +56,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>740</integer>
+          <integer>750</integer>
         </dict>
       </dict>
     </dict>

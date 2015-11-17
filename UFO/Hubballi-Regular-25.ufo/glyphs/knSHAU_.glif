@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="knSHAU" format="1">
-  <advance width="950"/>
+  <advance width="970"/>
   <outline>
-    <component base="knSHA.base"/>
+    <component base="knSHA.base" xOffset="10"/>
     <component base="knsignAU" xOffset="633"/>
-    <component base="knSHA.base"/>
+    <component base="knSHA.base" xOffset="10"/>
     <component base="knsignAU" xOffset="633"/>
   </outline>
   <lib>
@@ -31,7 +31,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>950</integer>
+          <integer>970</integer>
         </dict>
         <key>wire</key>
         <dict>
@@ -53,7 +53,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>950</integer>
+          <integer>970</integer>
         </dict>
       </dict>
     </dict>

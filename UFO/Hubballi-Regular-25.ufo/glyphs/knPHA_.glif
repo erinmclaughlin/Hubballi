@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="knPHA" format="1">
-  <advance width="726"/>
+  <advance width="746"/>
   <unicode hex="0CAB"/>
   <outline>
     <contour>
-      <point x="389" y="-83" type="curve" smooth="yes"/>
-      <point x="389" y="-186" type="line" smooth="yes"/>
-      <point x="389" y="-200"/>
-      <point x="378" y="-211"/>
-      <point x="364" y="-211" type="curve" smooth="yes"/>
-      <point x="351" y="-211"/>
-      <point x="339" y="-200"/>
-      <point x="339" y="-186" type="curve" smooth="yes"/>
-      <point x="339" y="-83" type="line" smooth="yes"/>
-      <point x="339" y="-70"/>
-      <point x="351" y="-58"/>
-      <point x="364" y="-58" type="curve" smooth="yes"/>
-      <point x="378" y="-58"/>
-      <point x="389" y="-70"/>
+      <point x="399" y="-83" type="curve" smooth="yes"/>
+      <point x="399" y="-186" type="line" smooth="yes"/>
+      <point x="399" y="-200"/>
+      <point x="388" y="-211"/>
+      <point x="374" y="-211" type="curve" smooth="yes"/>
+      <point x="361" y="-211"/>
+      <point x="349" y="-200"/>
+      <point x="349" y="-186" type="curve" smooth="yes"/>
+      <point x="349" y="-83" type="line" smooth="yes"/>
+      <point x="349" y="-70"/>
+      <point x="361" y="-58"/>
+      <point x="374" y="-58" type="curve" smooth="yes"/>
+      <point x="388" y="-58"/>
+      <point x="399" y="-70"/>
     </contour>
-    <component base="knPa" xOffset="5"/>
+    <component base="knPa" xOffset="15"/>
     <component base="knPA"/>
-    <component base="knPa" xOffset="5"/>
+    <component base="knPa" xOffset="15"/>
     <component base="knPA"/>
   </outline>
   <lib>
@@ -101,7 +101,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>726</integer>
+          <integer>746</integer>
         </dict>
         <key>wire</key>
         <dict>
@@ -123,7 +123,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>726</integer>
+          <integer>746</integer>
         </dict>
       </dict>
     </dict>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="knPAU" format="1">
-  <advance width="1033"/>
+  <advance width="1053"/>
   <outline>
-    <component base="knPA.base"/>
+    <component base="knPA.base" xOffset="10"/>
     <component base="knsignAU" xOffset="716"/>
-    <component base="knPA.base"/>
+    <component base="knPA.base" xOffset="10"/>
     <component base="knsignAU" xOffset="716"/>
   </outline>
   <lib>
@@ -31,7 +31,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1033</integer>
+          <integer>1053</integer>
         </dict>
         <key>wire</key>
         <dict>
@@ -53,7 +53,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1033</integer>
+          <integer>1053</integer>
         </dict>
       </dict>
     </dict>

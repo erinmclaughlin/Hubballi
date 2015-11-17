@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="knvR" format="1">
-  <advance width="1066"/>
+  <advance width="1076"/>
   <unicode hex="0C8B"/>
   <outline>
     <contour>
-      <point x="484" y="443" type="move"/>
-      <point x="566" y="443" type="line" smooth="yes"/>
-      <point x="639" y="443"/>
-      <point x="682" y="469"/>
-      <point x="714" y="521" type="curve"/>
+      <point x="489" y="443" type="move"/>
+      <point x="571" y="443" type="line" smooth="yes"/>
+      <point x="644" y="443"/>
+      <point x="687" y="469"/>
+      <point x="719" y="521" type="curve"/>
     </contour>
-    <component base="knKha" xOffset="-49" yOffset="-142"/>
-    <component base="knUsign" xOffset="1025" yOffset="-512"/>
+    <component base="knKha" xOffset="-44" yOffset="-142"/>
+    <component base="knUsign" xOffset="1030" yOffset="-512"/>
     <component base="knKHA"/>
     <component base="knsignU" xOffset="755"/>
   </outline>
@@ -66,7 +66,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1066</integer>
+          <integer>1076</integer>
         </dict>
         <key>wire</key>
         <dict>
@@ -88,7 +88,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1066</integer>
+          <integer>1076</integer>
         </dict>
       </dict>
     </dict>

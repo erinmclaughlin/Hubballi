@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="knL" format="1">
-  <advance width="1004"/>
+  <advance width="1024"/>
   <outline>
-    <component base="knLA.base"/>
+    <component base="knLA.base" xOffset="10"/>
     <component base="knVirama" xOffset="752"/>
-    <component base="knLA.base"/>
+    <component base="knLA.base" xOffset="10"/>
     <component base="knVirama" xOffset="752"/>
   </outline>
   <lib>
@@ -31,7 +31,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1004</integer>
+          <integer>1024</integer>
         </dict>
         <key>wire</key>
         <dict>
@@ -53,7 +53,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1004</integer>
+          <integer>1024</integer>
         </dict>
       </dict>
     </dict>

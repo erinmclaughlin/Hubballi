@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="knJHA.base" format="1">
-  <advance width="1217"/>
+  <advance width="1222"/>
   <outline>
     <contour>
-      <point x="969" y="443" type="move"/>
-      <point x="1030" y="443" type="line"/>
+      <point x="974" y="443" type="move"/>
+      <point x="1035" y="443" type="line"/>
     </contour>
-    <component base="knJHA" xOffset="5"/>
+    <component base="knJHA" xOffset="10"/>
   </outline>
   <lib>
     <dict>
@@ -34,7 +34,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1217</integer>
+          <integer>1222</integer>
         </dict>
         <key>wire</key>
         <dict>
@@ -56,7 +56,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1217</integer>
+          <integer>1222</integer>
         </dict>
       </dict>
       <key>public.markColor</key>

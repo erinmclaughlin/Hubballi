@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="knMA.base" format="1">
-  <advance width="993"/>
+  <advance width="1003"/>
   <outline>
     <contour>
-      <point x="756" y="468" type="curve" smooth="yes"/>
-      <point x="810" y="468" type="line" smooth="yes"/>
-      <point x="824" y="468"/>
-      <point x="835" y="457"/>
-      <point x="835" y="443" type="curve" smooth="yes"/>
-      <point x="835" y="430"/>
-      <point x="824" y="418"/>
-      <point x="810" y="418" type="curve" smooth="yes"/>
-      <point x="756" y="418" type="line" smooth="yes"/>
-      <point x="743" y="418"/>
-      <point x="731" y="430"/>
-      <point x="731" y="443" type="curve" smooth="yes"/>
-      <point x="731" y="457"/>
-      <point x="743" y="468"/>
+      <point x="766" y="468" type="curve" smooth="yes"/>
+      <point x="820" y="468" type="line" smooth="yes"/>
+      <point x="834" y="468"/>
+      <point x="845" y="457"/>
+      <point x="845" y="443" type="curve" smooth="yes"/>
+      <point x="845" y="430"/>
+      <point x="834" y="418"/>
+      <point x="820" y="418" type="curve" smooth="yes"/>
+      <point x="766" y="418" type="line" smooth="yes"/>
+      <point x="753" y="418"/>
+      <point x="741" y="430"/>
+      <point x="741" y="443" type="curve" smooth="yes"/>
+      <point x="741" y="457"/>
+      <point x="753" y="468"/>
     </contour>
-    <component base="knMA" xOffset="5"/>
-    <component base="knMA" xOffset="5"/>
+    <component base="knMA" xOffset="15"/>
+    <component base="knMA" xOffset="15"/>
   </outline>
   <lib>
     <dict>
@@ -47,7 +47,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>993</integer>
+          <integer>1003</integer>
         </dict>
         <key>wire</key>
         <dict>
@@ -69,7 +69,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>993</integer>
+          <integer>1003</integer>
         </dict>
       </dict>
       <key>public.markColor</key>

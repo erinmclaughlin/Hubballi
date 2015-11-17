@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="knsignEE" format="1">
-  <advance width="389"/>
+  <advance width="409"/>
   <unicode hex="0CC7"/>
   <outline>
-    <component base="knEsign"/>
-    <component base="knLength" xOffset="12"/>
+    <component base="knEsign" xOffset="10"/>
+    <component base="knLength" xOffset="22"/>
     <component base="knsignE"/>
     <component base="knLengthmark"/>
-    <component base="knEsign"/>
-    <component base="knLength" xOffset="12"/>
+    <component base="knEsign" xOffset="10"/>
+    <component base="knLength" xOffset="22"/>
     <component base="knsignE"/>
     <component base="knLengthmark"/>
   </outline>
@@ -36,7 +36,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>389</integer>
+          <integer>409</integer>
         </dict>
         <key>wire</key>
         <dict>
@@ -58,7 +58,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>389</integer>
+          <integer>409</integer>
         </dict>
       </dict>
     </dict>

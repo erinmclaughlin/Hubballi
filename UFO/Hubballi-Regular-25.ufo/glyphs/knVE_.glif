@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="knVE" format="1">
-  <advance width="706"/>
+  <advance width="726"/>
   <outline>
-    <component base="knVA.base"/>
+    <component base="knVA.base" xOffset="10"/>
     <component base="knsignE" xOffset="687"/>
-    <component base="knVA.base"/>
+    <component base="knVA.base" xOffset="10"/>
     <component base="knsignE" xOffset="687"/>
   </outline>
   <lib>
@@ -31,7 +31,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>706</integer>
+          <integer>726</integer>
         </dict>
         <key>wire</key>
         <dict>
@@ -53,7 +53,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>706</integer>
+          <integer>726</integer>
         </dict>
       </dict>
     </dict>
