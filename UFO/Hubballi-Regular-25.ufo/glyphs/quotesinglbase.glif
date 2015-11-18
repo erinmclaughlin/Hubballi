@@ -3,10 +3,32 @@
   <advance width="255"/>
   <unicode hex="201A"/>
   <outline>
-    <component base="quotesingle" yOffset="-500"/>
-    <component base="quotesingle" yOffset="-500"/>
-    <component base="quotesingle" yOffset="-500"/>
-    <component base="quotesingle" yOffset="-500"/>
+    <contour>
+      <point x="148" y="93" type="curve" smooth="yes"/>
+      <point x="152" y="79"/>
+      <point x="155" y="58"/>
+      <point x="155" y="36" type="curve" smooth="yes"/>
+      <point x="155" y="-15"/>
+      <point x="138" y="-67"/>
+      <point x="109" y="-106" type="curve" smooth="yes"/>
+      <point x="101" y="-117"/>
+      <point x="85" y="-119"/>
+      <point x="74" y="-111" type="curve" smooth="yes"/>
+      <point x="63" y="-103"/>
+      <point x="61" y="-87"/>
+      <point x="69" y="-76" type="curve" smooth="yes"/>
+      <point x="92" y="-45"/>
+      <point x="105" y="-5"/>
+      <point x="105" y="36" type="curve" smooth="yes"/>
+      <point x="105" y="52"/>
+      <point x="104" y="67"/>
+      <point x="100" y="77" type="curve" smooth="yes"/>
+      <point x="96" y="90"/>
+      <point x="103" y="104"/>
+      <point x="116" y="109" type="curve" smooth="yes"/>
+      <point x="129" y="113"/>
+      <point x="143" y="106"/>
+    </contour>
   </outline>
   <lib>
     <dict>
@@ -57,6 +79,13 @@
           <integer>255</integer>
         </dict>
       </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.8891</real>
+        <real>0.9578</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>

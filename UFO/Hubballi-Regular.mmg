@@ -145,6 +145,12 @@
       hyphen
     </glyphs>
   </group>
+  <group color="0.0 0.5 1.0 0.25" name="k" side="left" type="kerning">
+    <glyphs>
+      k
+      uni0137
+    </glyphs>
+  </group>
   <group color="0.0 1.0 1.0 0.25" name="knBHA" side="left" type="kerning">
     <glyphs>
       knBE
@@ -897,11 +903,13 @@
       knAU
       knB
       knBA
+      knBA.base
       knBAA
       knBAU
       knBE
       knBH
       knBHA
+      knBHA.base
       knBHAA
       knBHAU
       knBHE
@@ -915,6 +923,7 @@
       knBUU
       knC
       knCA
+      knCA.base
       knCAA
       knCAU
       knCE
@@ -924,6 +933,7 @@
       knCUU
       knJ
       knJA
+      knJA.base
       knJAA
       knJAU
       knJE
@@ -933,6 +943,7 @@
       knJUU
       knNG
       knNGA
+      knNGA.base
       knNGAA
       knNGAU
       knNGE
@@ -948,15 +959,18 @@
     <glyphs>
       knD
       knDA
+      knDA.base
       knDAA
       knDAU
       knDD
       knDDA
+      knDDA.base
       knDDAA
       knDDAU
       knDDE
       knDDH
       knDDHA
+      knDDHA.base
       knDDHAA
       knDDHAU
       knDDHE
@@ -971,6 +985,7 @@
       knDE
       knDH
       knDHA
+      knDHA.base
       knDHAA
       knDHAU
       knDHE
@@ -984,6 +999,7 @@
       knDUU
       knTH
       knTHA
+      knTHA.base
       knTHAA
       knTHAU
       knTHE
@@ -1004,6 +1020,7 @@
     <glyphs>
       knG
       knGA
+      knGA.base
       knGAA
       knGAU
       knGE
@@ -1017,6 +1034,7 @@
     <glyphs>
       knH
       knHA
+      knHA.base
       knHAA
       knHAU
       knHE
@@ -1030,6 +1048,7 @@
     <glyphs>
       knK
       knKA
+      knKA.base
       knKAA
       knKAU
       knKE
@@ -1067,6 +1086,7 @@
     <glyphs>
       knKH
       knKHA
+      knKHA.base
       knKHAA
       knKHAU
       knKHE
@@ -1085,6 +1105,7 @@
       knAnusvara
       knL
       knLA
+      knLA.base
       knLAA
       knLAU
       knLE
@@ -1100,6 +1121,7 @@
     <glyphs>
       knLL
       knLLA
+      knLLA.base
       knLLAA
       knLLAU
       knLLE
@@ -1113,6 +1135,7 @@
     <glyphs>
       knN
       knNA
+      knNA.base
       knNAA
       knNAU
       knNE
@@ -1122,6 +1145,7 @@
       knNUU
       knS
       knSA
+      knSA.base
       knSAA
       knSAU
       knSE
@@ -1136,6 +1160,7 @@
       knI
       knNY
       knNYA
+      knNYA.base
       knNYAA
       knNYAU
       knNYE
@@ -1151,6 +1176,7 @@
     <glyphs>
       knGH
       knGHA
+      knGHA.base
       knGHAA
       knGHAU
       knGHE
@@ -1160,11 +1186,13 @@
       knGHUU
       knP
       knPA
+      knPA.base
       knPAA
       knPAU
       knPE
       knPH
       knPHA
+      knPHA.base
       knPHAA
       knPHAU
       knPHE
@@ -1178,6 +1206,7 @@
       knPUU
       knSS
       knSSA
+      knSSA.base
       knSSAA
       knSSAU
       knSSAc2
@@ -1193,6 +1222,7 @@
       knII
       knJH
       knJHA
+      knJHA.base
       knJHAA
       knJHAU
       knJHE
@@ -1202,6 +1232,7 @@
       knJHUU
       knR
       knRA
+      knRA.base
       knRAA
       knRAU
       knRE
@@ -1211,6 +1242,7 @@
       knRUU
       knTTH
       knTTHA
+      knTTHA.base
       knTTHAA
       knTTHAU
       knTTHE
@@ -1224,6 +1256,7 @@
     <glyphs>
       knCH
       knCHA
+      knCHA.base
       knCHAA
       knCHAU
       knCHAc2
@@ -1234,6 +1267,7 @@
       knCHUU
       knLLL
       knLLLA
+      knLLLA.base
       knLLLAA
       knLLLAU
       knLLLE
@@ -1243,6 +1277,7 @@
       knLLLUU
       knRR
       knRRA
+      knRRA.base
       knRRAA
       knRRAU
       knRRE
@@ -1256,6 +1291,7 @@
     <glyphs>
       knSH
       knSHA
+      knSHA.base
       knSHAA
       knSHAU
       knSHE
@@ -1339,6 +1375,7 @@
     <glyphs>
       knT
       knTA
+      knTA.base
       knTAA
       knTAU
       knTE
@@ -1352,6 +1389,7 @@
     <glyphs>
       knNN
       knNNA
+      knNNA.base
       knNNAA
       knNNAU
       knNNE
@@ -1361,6 +1399,7 @@
       knNNUU
       knTT
       knTTA
+      knTTA.base
       knTTAA
       knTTAU
       knTTE
@@ -1374,6 +1413,7 @@
     <glyphs>
       knM
       knMA
+      knMA.base
       knMAA
       knMAU
       knME
@@ -1383,6 +1423,7 @@
       knMUU
       knV
       knVA
+      knVA.base
       knVAA
       knVAU
       knVE
@@ -1396,6 +1437,7 @@
     <glyphs>
       knY
       knYA
+      knYA.base
       knYAA
       knYAU
       knYE

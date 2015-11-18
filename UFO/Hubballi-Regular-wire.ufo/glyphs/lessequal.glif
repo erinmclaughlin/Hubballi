@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lessequal" format="1">
-  <advance width="491"/>
+  <advance width="573.9"/>
   <unicode hex="2264"/>
   <outline>
-    <component base="greaterequal" xScale="-1" xOffset="490"/>
+    <component base="greaterequal" xScale="-1.1" yScale="1.1" xOffset="584" yOffset="-9"/>
   </outline>
   <lib>
     <dict>
@@ -29,7 +29,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>491</integer>
+          <real>573.9</real>
         </dict>
         <key>wire</key>
         <dict>
@@ -51,9 +51,16 @@
           <array>
           </array>
           <key>width</key>
-          <integer>491</integer>
+          <real>573.9</real>
         </dict>
       </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6312</real>
+        <real>1.0</real>
+        <real>0.9947</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>
