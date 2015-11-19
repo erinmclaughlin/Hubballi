@@ -65,6 +65,8 @@
 		<string>Dcroat</string>
 		<string>Eth</string>
 		<string>Oacute</string>
+		<string>copyright</string>
+		<string>at</string>
 	</array>
 	<key>@MMK_L_P</key>
 	<array>
@@ -86,6 +88,12 @@
 		<string>uni015E</string>
 		<string>Scaron</string>
 	</array>
+	<key>@MMK_L_T</key>
+	<array>
+		<string>T</string>
+		<string>Tcaron</string>
+		<string>uni021A</string>
+	</array>
 	<key>@MMK_L_U</key>
 	<array>
 		<string>Udieresis</string>
@@ -96,10 +104,7 @@
 		<string>Ugrave</string>
 		<string>Uogonek</string>
 		<string>Ucircumflex</string>
-		<string>T</string>
 		<string>U</string>
-		<string>uni021A</string>
-		<string>Tcaron</string>
 	</array>
 	<key>@MMK_L_Y</key>
 	<array>
@@ -120,6 +125,18 @@
 		<string>aogonek</string>
 		<string>abreve</string>
 	</array>
+	<key>@MMK_L_asterisk</key>
+	<array>
+		<string>asterisk</string>
+		<string>degree</string>
+		<string>registered</string>
+		<string>trademark</string>
+		<string>ordmasculine</string>
+		<string>ordfeminine</string>
+		<string>twosuperior</string>
+		<string>threesuperior</string>
+		<string>onesuperior</string>
+	</array>
 	<key>@MMK_L_c</key>
 	<array>
 		<string>ccedilla</string>
@@ -127,11 +144,25 @@
 		<string>cacute</string>
 		<string>ccaron</string>
 	</array>
+	<key>@MMK_L_exclam</key>
+	<array>
+		<string>colon</string>
+		<string>semicolon</string>
+		<string>exclam</string>
+		<string>guillemotleft</string>
+		<string>guilsinglleft</string>
+	</array>
 	<key>@MMK_L_hyphen</key>
 	<array>
 		<string>emdash</string>
 		<string>endash</string>
 		<string>hyphen</string>
+		<string>guillemotright</string>
+		<string>guilsinglright</string>
+		<string>plus</string>
+		<string>greater</string>
+		<string>divide</string>
+		<string>minus</string>
 	</array>
 	<key>@MMK_L_k</key>
 	<array>
@@ -774,6 +805,8 @@
 		<string>Ccedilla</string>
 		<string>Ocircumflex</string>
 		<string>Oacute</string>
+		<string>at</string>
+		<string>copyright</string>
 	</array>
 	<key>@MMK_R_S</key>
 	<array>
@@ -829,11 +862,43 @@
 		<string>aogonek</string>
 		<string>abreve</string>
 	</array>
+	<key>@MMK_R_asterisk</key>
+	<array>
+		<string>registered</string>
+		<string>degree</string>
+		<string>trademark</string>
+		<string>asterisk</string>
+		<string>ordfeminine</string>
+		<string>ordmasculine</string>
+		<string>onesuperior</string>
+		<string>threesuperior</string>
+		<string>twosuperior</string>
+	</array>
+	<key>@MMK_R_exclam</key>
+	<array>
+		<string>exclam</string>
+		<string>colon</string>
+		<string>semicolon</string>
+		<string>guillemotright</string>
+		<string>guilsinglright</string>
+	</array>
+	<key>@MMK_R_f</key>
+	<array>
+		<string>fl</string>
+		<string>fi</string>
+		<string>f</string>
+	</array>
 	<key>@MMK_R_hyphen</key>
 	<array>
 		<string>emdash</string>
 		<string>endash</string>
 		<string>hyphen</string>
+		<string>guillemotleft</string>
+		<string>guilsinglleft</string>
+		<string>less</string>
+		<string>divide</string>
+		<string>plus</string>
+		<string>minus</string>
 	</array>
 	<key>@MMK_R_knBA</key>
 	<array>

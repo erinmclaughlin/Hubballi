@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Eth" format="1">
-  <advance width="617"/>
+  <advance width="632.0"/>
   <unicode hex="00D0"/>
   <outline>
     <contour>
-      <point x="54" y="280" type="move"/>
-      <point x="300" y="280" type="line"/>
+      <point x="69" y="280" type="move"/>
+      <point x="315" y="280" type="line"/>
     </contour>
-    <component base="D"/>
+    <component base="D" xOffset="15"/>
   </outline>
   <lib>
     <dict>
@@ -33,7 +33,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>617</integer>
+          <real>632.0</real>
         </dict>
         <key>wire</key>
         <dict>
@@ -55,7 +55,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>617</integer>
+          <real>632.0</real>
         </dict>
       </dict>
     </dict>

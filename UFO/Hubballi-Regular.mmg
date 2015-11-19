@@ -68,6 +68,8 @@
       Oslash
       Otilde
       Q
+      at
+      copyright
     </glyphs>
   </group>
   <group color="0.0 0.0 1.0 0.25" name="P" side="left" type="kerning">
@@ -93,10 +95,15 @@
       uni0218
     </glyphs>
   </group>
-  <group color="1.0 0.0 0.5 0.25" name="U" side="left" type="kerning">
+  <group color="0.0 0.0 1.0 0.25" name="T" side="left" type="kerning">
     <glyphs>
       T
       Tcaron
+      uni021A
+    </glyphs>
+  </group>
+  <group color="1.0 0.0 0.5 0.25" name="U" side="left" type="kerning">
+    <glyphs>
       U
       Uacute
       Ucircumflex
@@ -106,7 +113,6 @@
       Umacron
       Uogonek
       Uring
-      uni021A
     </glyphs>
   </group>
   <group color="1.0 0.0 0.0 0.25" name="Y" side="left" type="kerning">
@@ -130,6 +136,19 @@
       atilde
     </glyphs>
   </group>
+  <group color="0.5 0.0 1.0 0.25" name="asterisk" side="left" type="kerning">
+    <glyphs>
+      asterisk
+      degree
+      onesuperior
+      ordfeminine
+      ordmasculine
+      registered
+      threesuperior
+      trademark
+      twosuperior
+    </glyphs>
+  </group>
   <group color="1.0 1.0 0.0 0.25" name="c" side="left" type="kerning">
     <glyphs>
       c
@@ -138,11 +157,26 @@
       ccedilla
     </glyphs>
   </group>
+  <group color="1.0 0.0 1.0 0.25" name="exclam" side="left" type="kerning">
+    <glyphs>
+      colon
+      exclam
+      guillemotleft
+      guilsinglleft
+      semicolon
+    </glyphs>
+  </group>
   <group color="0.0 1.0 1.0 0.25" name="hyphen" side="left" type="kerning">
     <glyphs>
+      divide
       emdash
       endash
+      greater
+      guillemotright
+      guilsinglright
       hyphen
+      minus
+      plus
     </glyphs>
   </group>
   <group color="0.0 0.5 1.0 0.25" name="k" side="left" type="kerning">
@@ -828,6 +862,8 @@
       Oslash
       Otilde
       Q
+      at
+      copyright
       uni0122
     </glyphs>
   </group>
@@ -891,11 +927,46 @@
       atilde
     </glyphs>
   </group>
+  <group color="1.0 0.5 0.0 0.25" name="asterisk" side="right" type="kerning">
+    <glyphs>
+      asterisk
+      degree
+      onesuperior
+      ordfeminine
+      ordmasculine
+      registered
+      threesuperior
+      trademark
+      twosuperior
+    </glyphs>
+  </group>
+  <group color="0.0 1.0 0.0 0.25" name="exclam" side="right" type="kerning">
+    <glyphs>
+      colon
+      exclam
+      guillemotright
+      guilsinglright
+      semicolon
+    </glyphs>
+  </group>
+  <group color="1.0 1.0 0.0 0.25" name="f" side="right" type="kerning">
+    <glyphs>
+      f
+      fi
+      fl
+    </glyphs>
+  </group>
   <group color="1.0 0.0 0.0 0.25" name="hyphen" side="right" type="kerning">
     <glyphs>
+      divide
       emdash
       endash
+      guillemotleft
+      guilsinglleft
       hyphen
+      less
+      minus
+      plus
     </glyphs>
   </group>
   <group color="1.0 0.0 1.0 0.25" name="knBA" side="right" type="kerning">
