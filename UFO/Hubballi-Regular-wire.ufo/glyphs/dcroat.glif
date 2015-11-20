@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dcroat" format="1">
-  <advance width="514"/>
+  <advance width="517"/>
   <unicode hex="0111"/>
   <outline>
+    <contour>
+      <point x="247" y="478" type="move"/>
+      <point x="458" y="478" type="line"/>
+    </contour>
     <component base="d"/>
-    <component base="hyphen" xScale="1.09599459946" xOffset="112" yOffset="250"/>
   </outline>
   <lib>
     <dict>
@@ -30,7 +33,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>514</integer>
+          <integer>517</integer>
         </dict>
         <key>wire</key>
         <dict>
@@ -42,6 +45,31 @@
           </array>
           <key>contours</key>
           <array>
+            <dict>
+              <key>points</key>
+              <array>
+                <dict>
+                  <key>segmentType</key>
+                  <string>move</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>237</integer>
+                  <key>y</key>
+                  <integer>478</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>458</integer>
+                  <key>y</key>
+                  <integer>478</integer>
+                </dict>
+              </array>
+            </dict>
           </array>
           <key>lib</key>
           <dict>
@@ -52,7 +80,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>514</integer>
+          <integer>517</integer>
         </dict>
       </dict>
     </dict>

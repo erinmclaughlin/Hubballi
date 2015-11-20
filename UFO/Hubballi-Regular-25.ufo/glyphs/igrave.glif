@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="igrave" format="1">
-  <advance width="217"/>
+  <advance width="242"/>
   <unicode hex="00EC"/>
   <outline>
-    <component base="dotlessi"/>
-    <component base="gravecmb" xOffset="101"/>
-    <component base="dotlessi"/>
-    <component base="gravecmb" xOffset="101"/>
+    <component base="dotlessi" xOffset="13"/>
+    <component base="gravecmb" xOffset="114"/>
+    <component base="dotlessi" xOffset="13"/>
+    <component base="gravecmb" xOffset="114"/>
   </outline>
   <lib>
     <dict>
@@ -32,7 +32,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>217</integer>
+          <integer>242</integer>
         </dict>
         <key>wire</key>
         <dict>
@@ -54,7 +54,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>217</integer>
+          <integer>242</integer>
         </dict>
       </dict>
     </dict>

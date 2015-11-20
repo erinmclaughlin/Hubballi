@@ -62,8 +62,10 @@
 		<string>O</string>
 		<string>Dcaron</string>
 		<string>Q</string>
+		<string>at</string>
 		<string>Dcroat</string>
 		<string>Eth</string>
+		<string>copyright</string>
 		<string>Oacute</string>
 	</array>
 	<key>@MMK_L_P</key>
@@ -86,6 +88,12 @@
 		<string>uni015E</string>
 		<string>Scaron</string>
 	</array>
+	<key>@MMK_L_T</key>
+	<array>
+		<string>uni021A</string>
+		<string>T</string>
+		<string>Tcaron</string>
+	</array>
 	<key>@MMK_L_U</key>
 	<array>
 		<string>Udieresis</string>
@@ -96,10 +104,7 @@
 		<string>Ugrave</string>
 		<string>Uogonek</string>
 		<string>Ucircumflex</string>
-		<string>T</string>
 		<string>U</string>
-		<string>uni021A</string>
-		<string>Tcaron</string>
 	</array>
 	<key>@MMK_L_Y</key>
 	<array>
@@ -120,6 +125,18 @@
 		<string>aogonek</string>
 		<string>abreve</string>
 	</array>
+	<key>@MMK_L_asterisk</key>
+	<array>
+		<string>ordfeminine</string>
+		<string>degree</string>
+		<string>onesuperior</string>
+		<string>ordmasculine</string>
+		<string>trademark</string>
+		<string>registered</string>
+		<string>asterisk</string>
+		<string>twosuperior</string>
+		<string>threesuperior</string>
+	</array>
 	<key>@MMK_L_c</key>
 	<array>
 		<string>ccedilla</string>
@@ -127,11 +144,25 @@
 		<string>cacute</string>
 		<string>ccaron</string>
 	</array>
+	<key>@MMK_L_exclam</key>
+	<array>
+		<string>guillemotleft</string>
+		<string>exclam</string>
+		<string>colon</string>
+		<string>guilsinglleft</string>
+		<string>semicolon</string>
+	</array>
 	<key>@MMK_L_hyphen</key>
 	<array>
-		<string>emdash</string>
+		<string>guillemotright</string>
 		<string>endash</string>
+		<string>divide</string>
+		<string>guilsinglright</string>
+		<string>minus</string>
+		<string>plus</string>
+		<string>emdash</string>
 		<string>hyphen</string>
+		<string>greater</string>
 	</array>
 	<key>@MMK_L_k</key>
 	<array>
@@ -770,7 +801,9 @@
 		<string>Ccaron</string>
 		<string>Otilde</string>
 		<string>Q</string>
+		<string>copyright</string>
 		<string>O</string>
+		<string>at</string>
 		<string>Ccedilla</string>
 		<string>Ocircumflex</string>
 		<string>Oacute</string>
@@ -829,11 +862,43 @@
 		<string>aogonek</string>
 		<string>abreve</string>
 	</array>
+	<key>@MMK_R_asterisk</key>
+	<array>
+		<string>ordfeminine</string>
+		<string>degree</string>
+		<string>onesuperior</string>
+		<string>ordmasculine</string>
+		<string>trademark</string>
+		<string>registered</string>
+		<string>asterisk</string>
+		<string>twosuperior</string>
+		<string>threesuperior</string>
+	</array>
+	<key>@MMK_R_exclam</key>
+	<array>
+		<string>guilsinglright</string>
+		<string>exclam</string>
+		<string>colon</string>
+		<string>guillemotright</string>
+		<string>semicolon</string>
+	</array>
+	<key>@MMK_R_f</key>
+	<array>
+		<string>fi</string>
+		<string>fl</string>
+		<string>f</string>
+	</array>
 	<key>@MMK_R_hyphen</key>
 	<array>
-		<string>emdash</string>
 		<string>endash</string>
+		<string>guillemotleft</string>
+		<string>divide</string>
+		<string>less</string>
 		<string>hyphen</string>
+		<string>guilsinglleft</string>
+		<string>plus</string>
+		<string>emdash</string>
+		<string>minus</string>
 	</array>
 	<key>@MMK_R_knBA</key>
 	<array>

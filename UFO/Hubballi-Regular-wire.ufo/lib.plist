@@ -1089,6 +1089,13 @@
 			<real>1.0</real>
 			<real>0.25</real>
 		</array>
+		<key>@MMK_L_T</key>
+		<array>
+			<real>0.0</real>
+			<real>0.0</real>
+			<real>1.0</real>
+			<real>0.25</real>
+		</array>
 		<key>@MMK_L_U</key>
 		<array>
 			<real>1.0</real>
@@ -1110,11 +1117,25 @@
 			<real>0.0</real>
 			<real>0.25</real>
 		</array>
+		<key>@MMK_L_asterisk</key>
+		<array>
+			<real>0.5</real>
+			<real>0.0</real>
+			<real>1.0</real>
+			<real>0.25</real>
+		</array>
 		<key>@MMK_L_c</key>
 		<array>
 			<real>1.0</real>
 			<real>1.0</real>
 			<real>0.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_L_exclam</key>
+		<array>
+			<real>1.0</real>
+			<real>0.0</real>
+			<real>1.0</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_L_hyphen</key>
@@ -1472,6 +1493,27 @@
 			<real>0.5</real>
 			<real>0.0</real>
 			<real>1.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_R_asterisk</key>
+		<array>
+			<real>1.0</real>
+			<real>0.5</real>
+			<real>0.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_R_exclam</key>
+		<array>
+			<real>0.0</real>
+			<real>1.0</real>
+			<real>0.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_R_f</key>
+		<array>
+			<real>1.0</real>
+			<real>1.0</real>
+			<real>0.0</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_R_hyphen</key>

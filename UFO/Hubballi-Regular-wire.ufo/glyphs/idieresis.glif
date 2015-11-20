@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="idieresis" format="1">
-  <advance width="217"/>
+  <advance width="242"/>
   <unicode hex="00EF"/>
   <outline>
-    <component base="dotlessi"/>
-    <component base="dieresiscmb" xOffset="108"/>
+    <component base="dotlessi" xOffset="13"/>
+    <component base="dieresiscmb" xOffset="121"/>
   </outline>
   <lib>
     <dict>
@@ -30,7 +30,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>217</integer>
+          <integer>242</integer>
         </dict>
         <key>wire</key>
         <dict>
@@ -52,7 +52,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>217</integer>
+          <integer>242</integer>
         </dict>
       </dict>
     </dict>

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="icircumflex" format="1">
-  <advance width="217"/>
+  <advance width="242"/>
   <unicode hex="00EE"/>
   <outline>
-    <component base="dotlessi"/>
-    <component base="circumflexcmb" xOffset="102"/>
-    <component base="dotlessi"/>
-    <component base="circumflexcmb" xOffset="102"/>
+    <component base="dotlessi" xOffset="13"/>
+    <component base="circumflexcmb" xOffset="115"/>
+    <component base="dotlessi" xOffset="13"/>
+    <component base="circumflexcmb" xOffset="115"/>
   </outline>
   <lib>
     <dict>
@@ -32,7 +32,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>217</integer>
+          <integer>242</integer>
         </dict>
         <key>wire</key>
         <dict>
@@ -54,7 +54,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>217</integer>
+          <integer>242</integer>
         </dict>
       </dict>
     </dict>

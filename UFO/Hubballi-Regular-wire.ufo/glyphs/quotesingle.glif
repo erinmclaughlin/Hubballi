@@ -4,10 +4,8 @@
   <unicode hex="0027"/>
   <outline>
     <contour>
-      <point x="139" y="578" type="move"/>
-      <point x="130" y="526"/>
-      <point x="106" y="437"/>
-      <point x="93" y="402" type="curve"/>
+      <point x="133" y="578" type="move"/>
+      <point x="93" y="402" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -118,6 +116,47 @@
                   <integer>67</integer>
                   <key>y</key>
                   <integer>381</integer>
+                </dict>
+              </array>
+            </dict>
+            <dict>
+              <key>points</key>
+              <array>
+                <dict>
+                  <key>segmentType</key>
+                  <string>move</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>139</integer>
+                  <key>y</key>
+                  <integer>578</integer>
+                </dict>
+                <dict>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>130</integer>
+                  <key>y</key>
+                  <integer>526</integer>
+                </dict>
+                <dict>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>106</integer>
+                  <key>y</key>
+                  <integer>437</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>curve</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>93</integer>
+                  <key>y</key>
+                  <integer>402</integer>
                 </dict>
               </array>
             </dict>

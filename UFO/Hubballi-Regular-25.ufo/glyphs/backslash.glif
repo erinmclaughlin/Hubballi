@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="backslash" format="1">
-  <advance width="402.63238406"/>
+  <advance width="405"/>
   <unicode hex="005C"/>
   <outline>
-    <component base="slash" xScale="-1" xOffset="403"/>
+    <component base="slash" yScale="-1" xOffset="6" yOffset="546"/>
+    <component base="slash" yScale="-1" xOffset="6" yOffset="546"/>
   </outline>
   <lib>
     <dict>
@@ -19,9 +20,9 @@
           <key>name</key>
           <string></string>
           <key>x</key>
-          <integer>316</integer>
+          <integer>341</integer>
           <key>y</key>
-          <integer>635</integer>
+          <integer>613</integer>
         </dict>
       </array>
       <key>com.typemytype.robofont.layerData</key>
@@ -46,7 +47,7 @@
           <array>
           </array>
           <key>width</key>
-          <real>402.63238406005104</real>
+          <integer>405</integer>
         </dict>
         <key>wire</key>
         <dict>
@@ -68,7 +69,7 @@
           <array>
           </array>
           <key>width</key>
-          <real>402.63238406005104</real>
+          <integer>405</integer>
         </dict>
       </dict>
     </dict>
