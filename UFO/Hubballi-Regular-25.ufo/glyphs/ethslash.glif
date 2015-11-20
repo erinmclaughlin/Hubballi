@@ -1,12 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Iogonek" format="1">
-  <advance width="266"/>
-  <unicode hex="012E"/>
+<glyph name="ethslash" format="1">
+  <advance width="500"/>
   <outline>
-    <component base="I"/>
-    <component base="ogonekcmb" xOffset="148" yOffset="4"/>
-    <component base="I"/>
-    <component base="ogonekcmb" xOffset="148" yOffset="4"/>
+    <contour>
+      <point x="177" y="460" type="curve" smooth="yes"/>
+      <point x="351" y="539" type="line" smooth="yes"/>
+      <point x="363" y="544"/>
+      <point x="377" y="539"/>
+      <point x="382" y="528" type="curve" smooth="yes"/>
+      <point x="387" y="516"/>
+      <point x="382" y="502"/>
+      <point x="371" y="497" type="curve" smooth="yes"/>
+      <point x="197" y="418" type="line" smooth="yes"/>
+      <point x="185" y="413"/>
+      <point x="171" y="418"/>
+      <point x="166" y="429" type="curve" smooth="yes"/>
+      <point x="161" y="441"/>
+      <point x="166" y="455"/>
+    </contour>
   </outline>
   <lib>
     <dict>
@@ -27,12 +38,12 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>Iogonek</string>
+          <string>ethslash</string>
           <key>unicodes</key>
           <array>
           </array>
           <key>width</key>
-          <integer>266</integer>
+          <integer>500</integer>
         </dict>
         <key>wire</key>
         <dict>
@@ -49,12 +60,12 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>Iogonek</string>
+          <string>ethslash</string>
           <key>unicodes</key>
           <array>
           </array>
           <key>width</key>
-          <integer>266</integer>
+          <integer>500</integer>
         </dict>
       </dict>
     </dict>

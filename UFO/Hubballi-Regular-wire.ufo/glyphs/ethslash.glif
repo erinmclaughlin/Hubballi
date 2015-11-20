@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Iogonek" format="1">
-  <advance width="266"/>
-  <unicode hex="012E"/>
+<glyph name="ethslash" format="1">
+  <advance width="500"/>
   <outline>
-    <component base="I"/>
-    <component base="ogonekcmb" xOffset="148" yOffset="4"/>
-    <component base="I"/>
-    <component base="ogonekcmb" xOffset="148" yOffset="4"/>
+    <contour>
+      <point x="187" y="439" type="move"/>
+      <point x="361" y="518" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
@@ -27,12 +26,12 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>Iogonek</string>
+          <string>ethslash</string>
           <key>unicodes</key>
           <array>
           </array>
           <key>width</key>
-          <integer>266</integer>
+          <integer>500</integer>
         </dict>
         <key>wire</key>
         <dict>
@@ -49,12 +48,12 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>Iogonek</string>
+          <string>ethslash</string>
           <key>unicodes</key>
           <array>
           </array>
           <key>width</key>
-          <integer>266</integer>
+          <integer>500</integer>
         </dict>
       </dict>
     </dict>

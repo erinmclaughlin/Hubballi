@@ -3,11 +3,8 @@
   <advance width="517"/>
   <unicode hex="0111"/>
   <outline>
-    <contour>
-      <point x="247" y="478" type="move"/>
-      <point x="458" y="478" type="line"/>
-    </contour>
     <component base="d"/>
+    <component base="macroncmb" xOffset="357" yOffset="-62"/>
   </outline>
   <lib>
     <dict>
@@ -55,6 +52,31 @@
                   <false/>
                   <key>x</key>
                   <integer>237</integer>
+                  <key>y</key>
+                  <integer>478</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>458</integer>
+                  <key>y</key>
+                  <integer>478</integer>
+                </dict>
+              </array>
+            </dict>
+            <dict>
+              <key>points</key>
+              <array>
+                <dict>
+                  <key>segmentType</key>
+                  <string>move</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>247</integer>
                   <key>y</key>
                   <integer>478</integer>
                 </dict>
