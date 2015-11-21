@@ -2,44 +2,8 @@
 <glyph name="knGAc2.following" format="1">
   <advance width="460"/>
   <outline>
-    <contour>
-      <point x="475" y="-340" type="curve" smooth="yes"/>
-      <point x="483" y="-320"/>
-      <point x="494" y="-297"/>
-      <point x="494" y="-261" type="curve" smooth="yes"/>
-      <point x="494" y="-185"/>
-      <point x="442" y="-108"/>
-      <point x="374" y="-108" type="curve" smooth="yes"/>
-      <point x="306" y="-108"/>
-      <point x="253" y="-187"/>
-      <point x="253" y="-261" type="curve" smooth="yes"/>
-      <point x="253" y="-296"/>
-      <point x="262" y="-318"/>
-      <point x="271" y="-339" type="curve" smooth="yes"/>
-      <point x="276" y="-350"/>
-      <point x="271" y="-364"/>
-      <point x="259" y="-369" type="curve" smooth="yes"/>
-      <point x="248" y="-374"/>
-      <point x="234" y="-369"/>
-      <point x="229" y="-357" type="curve" smooth="yes"/>
-      <point x="218" y="-332"/>
-      <point x="207" y="-304"/>
-      <point x="207" y="-261" type="curve" smooth="yes"/>
-      <point x="207" y="-159"/>
-      <point x="286" y="-62"/>
-      <point x="374" y="-62" type="curve" smooth="yes"/>
-      <point x="462" y="-62"/>
-      <point x="540" y="-157"/>
-      <point x="540" y="-261" type="curve" smooth="yes"/>
-      <point x="540" y="-305"/>
-      <point x="527" y="-332"/>
-      <point x="519" y="-356" type="curve" smooth="yes"/>
-      <point x="514" y="-368"/>
-      <point x="501" y="-374"/>
-      <point x="489" y="-370" type="curve" smooth="yes"/>
-      <point x="477" y="-365"/>
-      <point x="471" y="-352"/>
-    </contour>
+    <component base="knGAc2" xOffset="440"/>
+    <component base="knGAc2" xOffset="440"/>
   </outline>
   <lib>
     <dict>

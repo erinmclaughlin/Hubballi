@@ -2,31 +2,7 @@
 <glyph name="knDHAc2.following" format="1">
   <advance width="523"/>
   <outline>
-    <contour>
-      <point x="426" y="-474" type="move"/>
-      <point x="426" y="-540" type="line"/>
-    </contour>
-    <contour>
-      <point x="427" y="-121" type="curve" smooth="yes"/>
-      <point x="299" y="-121"/>
-      <point x="230" y="-226"/>
-      <point x="230" y="-292" type="curve" smooth="yes"/>
-      <point x="230" y="-354"/>
-      <point x="270" y="-386"/>
-      <point x="323" y="-386" type="curve" smooth="yes"/>
-      <point x="366" y="-386"/>
-      <point x="397" y="-368"/>
-      <point x="424" y="-332" type="curve"/>
-      <point x="425" y="-332" type="line"/>
-      <point x="456" y="-367"/>
-      <point x="482" y="-386"/>
-      <point x="529" y="-386" type="curve" smooth="yes"/>
-      <point x="581" y="-386"/>
-      <point x="621" y="-355"/>
-      <point x="621" y="-292" type="curve" smooth="yes"/>
-      <point x="621" y="-226"/>
-      <point x="554" y="-121"/>
-    </contour>
+    <component base="knDHAc2" xOffset="502"/>
   </outline>
   <lib>
     <dict>
