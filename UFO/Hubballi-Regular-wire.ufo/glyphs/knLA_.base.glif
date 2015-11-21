@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="knLA.base" format="1">
-  <advance width="705"/>
+  <advance width="695"/>
   <outline>
     <contour>
-      <point x="461" y="443" type="move"/>
-      <point x="543" y="443" type="line"/>
+      <point x="451" y="443" type="move"/>
+      <point x="533" y="443" type="line"/>
     </contour>
-    <component base="knLA" xOffset="10"/>
+    <component base="knLA"/>
   </outline>
   <lib>
     <dict>
@@ -34,7 +34,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>705</integer>
+          <integer>695</integer>
         </dict>
         <key>wire</key>
         <dict>
@@ -56,7 +56,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>705</integer>
+          <integer>695</integer>
         </dict>
       </dict>
       <key>public.markColor</key>

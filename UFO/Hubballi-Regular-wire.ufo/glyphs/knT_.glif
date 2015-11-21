@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="knT" format="1">
-  <advance width="918"/>
+  <advance width="908"/>
   <outline>
-    <component base="knTA.base" xOffset="10"/>
-    <component base="knVirama" xOffset="638"/>
+    <component base="knTA.base"/>
+    <component base="knVirama" xOffset="628"/>
   </outline>
   <lib>
     <dict>
@@ -29,7 +29,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>918</integer>
+          <integer>908</integer>
         </dict>
         <key>wire</key>
         <dict>
@@ -51,7 +51,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>918</integer>
+          <integer>908</integer>
         </dict>
       </dict>
     </dict>

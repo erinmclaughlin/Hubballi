@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="knHAA" format="1">
-  <advance width="1127"/>
+  <advance width="1117"/>
   <outline>
-    <component base="knsignAA" xOffset="758"/>
-    <component base="knHA.base" xOffset="10"/>
-    <component base="knsignAA" xOffset="758"/>
-    <component base="knHA.base" xOffset="10"/>
+    <component base="knsignAA" xOffset="748"/>
+    <component base="knHA.base"/>
+    <component base="knsignAA" xOffset="748"/>
+    <component base="knHA.base"/>
   </outline>
   <lib>
     <dict>
@@ -31,7 +31,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1127</integer>
+          <integer>1117</integer>
         </dict>
         <key>wire</key>
         <dict>
@@ -53,7 +53,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1127</integer>
+          <integer>1117</integer>
         </dict>
       </dict>
     </dict>

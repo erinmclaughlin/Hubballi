@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="knTTHAU" format="1">
-  <advance width="1008"/>
+  <advance width="998"/>
   <outline>
-    <component base="knTTHA.base" xOffset="10"/>
-    <component base="knsignAU" xOffset="671"/>
+    <component base="knTTHA.base"/>
+    <component base="knsignAU" xOffset="661"/>
   </outline>
   <lib>
     <dict>
@@ -29,7 +29,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1008</integer>
+          <integer>998</integer>
         </dict>
         <key>wire</key>
         <dict>
@@ -51,7 +51,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1008</integer>
+          <integer>998</integer>
         </dict>
       </dict>
     </dict>

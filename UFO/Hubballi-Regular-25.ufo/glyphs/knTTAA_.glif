@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="knTTAA" format="1">
-  <advance width="1116"/>
+  <advance width="1106"/>
   <outline>
-    <component base="knsignAA" xOffset="747"/>
-    <component base="knTTA.base" xOffset="10"/>
-    <component base="knsignAA" xOffset="747"/>
-    <component base="knTTA.base" xOffset="10"/>
+    <component base="knsignAA" xOffset="737"/>
+    <component base="knTTA.base"/>
+    <component base="knsignAA" xOffset="737"/>
+    <component base="knTTA.base"/>
   </outline>
   <lib>
     <dict>
@@ -31,7 +31,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1116</integer>
+          <integer>1106</integer>
         </dict>
         <key>wire</key>
         <dict>
@@ -53,7 +53,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1116</integer>
+          <integer>1106</integer>
         </dict>
       </dict>
     </dict>

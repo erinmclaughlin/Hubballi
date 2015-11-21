@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="knNGA.base" format="1">
-  <advance width="714"/>
+  <advance width="704"/>
   <outline>
     <contour>
-      <point x="609" y="468" type="curve" smooth="yes"/>
-      <point x="700" y="468" type="line" smooth="yes"/>
-      <point x="714" y="468"/>
-      <point x="725" y="457"/>
-      <point x="725" y="443" type="curve" smooth="yes"/>
-      <point x="725" y="430"/>
-      <point x="714" y="418"/>
-      <point x="700" y="418" type="curve" smooth="yes"/>
-      <point x="609" y="418" type="line" smooth="yes"/>
-      <point x="596" y="418"/>
-      <point x="584" y="430"/>
-      <point x="584" y="443" type="curve" smooth="yes"/>
-      <point x="584" y="457"/>
-      <point x="596" y="468"/>
+      <point x="599" y="468" type="curve" smooth="yes"/>
+      <point x="690" y="468" type="line" smooth="yes"/>
+      <point x="704" y="468"/>
+      <point x="715" y="457"/>
+      <point x="715" y="443" type="curve" smooth="yes"/>
+      <point x="715" y="430"/>
+      <point x="704" y="418"/>
+      <point x="690" y="418" type="curve" smooth="yes"/>
+      <point x="599" y="418" type="line" smooth="yes"/>
+      <point x="586" y="418"/>
+      <point x="574" y="430"/>
+      <point x="574" y="443" type="curve" smooth="yes"/>
+      <point x="574" y="457"/>
+      <point x="586" y="468"/>
     </contour>
-    <component base="knNGA" xOffset="10"/>
-    <component base="knNGA" xOffset="10"/>
+    <component base="knNGA"/>
+    <component base="knNGA"/>
   </outline>
   <lib>
     <dict>
@@ -47,7 +47,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>714</integer>
+          <integer>704</integer>
         </dict>
         <key>wire</key>
         <dict>
@@ -69,7 +69,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>714</integer>
+          <integer>704</integer>
         </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="knDE" format="1">
-  <advance width="751"/>
+  <advance width="741"/>
   <outline>
-    <component base="knDA.base" xOffset="10"/>
-    <component base="knsignE" xOffset="710"/>
-    <component base="knDA.base" xOffset="10"/>
-    <component base="knsignE" xOffset="710"/>
+    <component base="knDA.base"/>
+    <component base="knsignE" xOffset="700"/>
+    <component base="knDA.base"/>
+    <component base="knsignE" xOffset="700"/>
   </outline>
   <lib>
     <dict>
@@ -31,7 +31,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>751</integer>
+          <integer>741</integer>
         </dict>
         <key>wire</key>
         <dict>
@@ -53,7 +53,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>751</integer>
+          <integer>741</integer>
         </dict>
       </dict>
     </dict>

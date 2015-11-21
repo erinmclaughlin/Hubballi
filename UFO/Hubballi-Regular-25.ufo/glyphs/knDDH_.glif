@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="knDDH" format="1">
-  <advance width="1027"/>
+  <advance width="1017"/>
   <outline>
-    <component base="knDDHA.base" xOffset="10"/>
-    <component base="knVirama" xOffset="747"/>
-    <component base="knDDHA.base" xOffset="10"/>
-    <component base="knVirama" xOffset="747"/>
+    <component base="knDDHA.base"/>
+    <component base="knVirama" xOffset="737"/>
+    <component base="knDDHA.base"/>
+    <component base="knVirama" xOffset="737"/>
   </outline>
   <lib>
     <dict>
@@ -31,7 +31,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1027</integer>
+          <integer>1017</integer>
         </dict>
         <key>wire</key>
         <dict>
@@ -53,7 +53,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1027</integer>
+          <integer>1017</integer>
         </dict>
       </dict>
     </dict>

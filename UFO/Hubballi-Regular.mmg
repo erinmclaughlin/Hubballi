@@ -356,44 +356,24 @@
   <group color="0.0 1.0 1.0 0.25" name="knSub" side="left" type="kerning">
     <glyphs>
       knCAc2
-      knCAc2.following
       knDAc2
-      knDAc2.following
       knDDAc2
-      knDDAc2.following
       knDDHAc2
-      knDDHAc2.following
       knDHAc2
-      knDHAc2.following
       knGAc2
-      knGAc2.following
       knHAc2
-      knHAc2.following
       knJAc2
-      knJAc2.following
       knJHAc2
-      knJHAc2.following
       knLAc2
-      knLAc2.following
       knLLLAc2
-      knLLLAc2.following
       knNGAc2
-      knNGAc2.following
       knNNAc2
-      knNNAc2.following
       knNYAc2
-      knNYAc2.following
       knRRAc2
-      knRRAc2.following
-      knSSAc2.kssa
       knTAc2
-      knTAc2.following
       knTHAc2
-      knTHAc2.following
       knTTHAc2
-      knTTHAc2.following
       knVAc2
-      knVAc2.following
     </glyphs>
   </group>
   <group color="0.0 0.5 1.0 0.25" name="knSubTall" side="left" type="kerning">
@@ -442,6 +422,29 @@
       knsignvR.following
       knsignvRR
       knsignvRR.following
+    </glyphs>
+  </group>
+  <group color="1.0 0.0 0.5 0.25" name="knSubfollowing" side="left" type="kerning">
+    <glyphs>
+      knCAc2.following
+      knDAc2.following
+      knDDAc2.following
+      knDDHAc2.following
+      knDHAc2.following
+      knGAc2.following
+      knHAc2.following
+      knJAc2.following
+      knJHAc2.following
+      knLAc2.following
+      knLLLAc2.following
+      knNGAc2.following
+      knNNAc2.following
+      knNYAc2.following
+      knRRAc2.following
+      knTAc2.following
+      knTHAc2.following
+      knTTHAc2.following
+      knVAc2.following
     </glyphs>
   </group>
   <group color="0.0 0.0 1.0 0.25" name="knTA" side="left" type="kerning">

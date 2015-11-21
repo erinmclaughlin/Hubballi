@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="knRRE" format="1">
-  <advance width="900"/>
+  <advance width="898"/>
   <outline>
-    <component base="knRRA.base" xOffset="2"/>
-    <component base="knsignE" xOffset="889"/>
-    <component base="knRRA.base" xOffset="2"/>
-    <component base="knsignE" xOffset="889"/>
+    <component base="knRRA.base"/>
+    <component base="knsignE" xOffset="887"/>
+    <component base="knRRA.base"/>
+    <component base="knsignE" xOffset="887"/>
   </outline>
   <lib>
     <dict>
@@ -31,7 +31,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>900</integer>
+          <integer>898</integer>
         </dict>
         <key>wire</key>
         <dict>
@@ -53,7 +53,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>900</integer>
+          <integer>898</integer>
         </dict>
       </dict>
     </dict>

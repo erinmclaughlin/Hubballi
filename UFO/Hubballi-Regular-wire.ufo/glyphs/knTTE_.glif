@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="knTTE" format="1">
-  <advance width="768"/>
+  <advance width="758"/>
   <outline>
-    <component base="knTTA.base" xOffset="10"/>
-    <component base="knsignE" xOffset="788"/>
+    <component base="knTTA.base"/>
+    <component base="knsignE" xOffset="778"/>
   </outline>
   <lib>
     <dict>
@@ -29,7 +29,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>768</integer>
+          <integer>758</integer>
         </dict>
         <key>wire</key>
         <dict>
@@ -51,7 +51,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>768</integer>
+          <integer>758</integer>
         </dict>
       </dict>
     </dict>

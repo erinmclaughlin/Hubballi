@@ -319,45 +319,25 @@
 	</array>
 	<key>@MMK_L_knSub</key>
 	<array>
-		<string>knVAc2.following</string>
+		<string>knRRAc2</string>
 		<string>knTAc2</string>
 		<string>knTHAc2</string>
-		<string>knJHAc2</string>
-		<string>knNGAc2.following</string>
-		<string>knCAc2.following</string>
-		<string>knVAc2</string>
-		<string>knDDAc2.following</string>
-		<string>knLAc2.following</string>
-		<string>knTTHAc2.following</string>
-		<string>knLAc2</string>
-		<string>knDAc2.following</string>
-		<string>knRRAc2.following</string>
 		<string>knNYAc2</string>
+		<string>knTTHAc2</string>
 		<string>knNNAc2</string>
 		<string>knJAc2</string>
-		<string>knTAc2.following</string>
-		<string>knTTHAc2</string>
-		<string>knDAc2</string>
-		<string>knRRAc2</string>
-		<string>knGAc2.following</string>
-		<string>knSSAc2.kssa</string>
+		<string>knVAc2</string>
 		<string>knGAc2</string>
-		<string>knDDAc2</string>
-		<string>knCAc2</string>
-		<string>knNGAc2</string>
-		<string>knDHAc2</string>
-		<string>knHAc2.following</string>
-		<string>knJAc2.following</string>
-		<string>knNNAc2.following</string>
-		<string>knDDHAc2.following</string>
 		<string>knHAc2</string>
+		<string>knDDAc2</string>
 		<string>knDDHAc2</string>
-		<string>knJHAc2.following</string>
-		<string>knLLLAc2.following</string>
+		<string>knCAc2</string>
+		<string>knDAc2</string>
+		<string>knDHAc2</string>
 		<string>knLLLAc2</string>
-		<string>knTHAc2.following</string>
-		<string>knNYAc2.following</string>
-		<string>knDHAc2.following</string>
+		<string>knJHAc2</string>
+		<string>knLAc2</string>
+		<string>knNGAc2</string>
 	</array>
 	<key>@MMK_L_knSubTall</key>
 	<array>
@@ -405,6 +385,28 @@
 		<string>knKAc2</string>
 		<string>knTAc2_RAc2</string>
 		<string>knTTAc2.following</string>
+	</array>
+	<key>@MMK_L_knSubfollowing</key>
+	<array>
+		<string>knVAc2.following</string>
+		<string>knGAc2.following</string>
+		<string>knRRAc2.following</string>
+		<string>knNGAc2.following</string>
+		<string>knCAc2.following</string>
+		<string>knDDHAc2.following</string>
+		<string>knTHAc2.following</string>
+		<string>knTAc2.following</string>
+		<string>knTTHAc2.following</string>
+		<string>knJHAc2.following</string>
+		<string>knLLLAc2.following</string>
+		<string>knDDAc2.following</string>
+		<string>knLAc2.following</string>
+		<string>knNYAc2.following</string>
+		<string>knDHAc2.following</string>
+		<string>knHAc2.following</string>
+		<string>knJAc2.following</string>
+		<string>knNNAc2.following</string>
+		<string>knDAc2.following</string>
 	</array>
 	<key>@MMK_L_knTA</key>
 	<array>
@@ -1019,16 +1021,16 @@
 	</array>
 	<key>@MMK_R_knGA</key>
 	<array>
-		<string>knG</string>
-		<string>knGA</string>
 		<string>knGA.base</string>
-		<string>knGAA</string>
+		<string>knG</string>
 		<string>knGAU</string>
-		<string>knGE</string>
-		<string>knGI</string>
-		<string>knGO</string>
 		<string>knGU</string>
 		<string>knGUU</string>
+		<string>knGI</string>
+		<string>knGO</string>
+		<string>knGAA</string>
+		<string>knGA</string>
+		<string>knGE</string>
 	</array>
 	<key>@MMK_R_knHA</key>
 	<array>

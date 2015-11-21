@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="knVAA" format="1">
-  <advance width="1079"/>
+  <advance width="1069"/>
   <outline>
-    <component base="knVA.base" xOffset="10"/>
-    <component base="knsignAA" xOffset="710"/>
+    <component base="knVA.base"/>
+    <component base="knsignAA" xOffset="700"/>
   </outline>
   <lib>
     <dict>
@@ -29,7 +29,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1079</integer>
+          <integer>1069</integer>
         </dict>
         <key>wire</key>
         <dict>
@@ -51,7 +51,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1079</integer>
+          <integer>1069</integer>
         </dict>
       </dict>
     </dict>

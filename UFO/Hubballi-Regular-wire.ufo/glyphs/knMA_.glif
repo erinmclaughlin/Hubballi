@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="knMA" format="1">
-  <advance width="1034"/>
+  <advance width="1029"/>
   <unicode hex="0CAE"/>
   <outline>
-    <component base="knVa" xOffset="20"/>
-    <component base="knUsign" xOffset="804" yOffset="-118"/>
-    <component base="knVA" xOffset="5"/>
-    <component base="knsignU" xOffset="713"/>
+    <component base="knVa" xOffset="15"/>
+    <component base="knUsign" xOffset="799" yOffset="-118"/>
+    <component base="knVA"/>
+    <component base="knsignU" xOffset="708"/>
   </outline>
   <lib>
     <dict>
@@ -32,7 +32,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1034</integer>
+          <integer>1029</integer>
         </dict>
         <key>wire</key>
         <dict>
@@ -54,7 +54,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1034</integer>
+          <integer>1029</integer>
         </dict>
       </dict>
     </dict>

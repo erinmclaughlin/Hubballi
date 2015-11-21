@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="knYA.base" format="1">
-  <advance width="1199"/>
+  <advance width="1189"/>
   <outline>
     <contour>
-      <point x="954" y="443" type="move"/>
-      <point x="1015" y="443" type="line"/>
+      <point x="944" y="443" type="move"/>
+      <point x="1005" y="443" type="line"/>
     </contour>
-    <component base="knYA" xOffset="10"/>
+    <component base="knYA"/>
   </outline>
   <lib>
     <dict>
@@ -34,7 +34,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1199</integer>
+          <integer>1189</integer>
         </dict>
         <key>wire</key>
         <dict>
@@ -56,7 +56,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1199</integer>
+          <integer>1189</integer>
         </dict>
       </dict>
       <key>public.markColor</key>

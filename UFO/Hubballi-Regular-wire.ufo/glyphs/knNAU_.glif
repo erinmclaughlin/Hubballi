@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="knNAU" format="1">
-  <advance width="973"/>
+  <advance width="963"/>
   <outline>
-    <component base="knNA.base" xOffset="10"/>
-    <component base="knsignAU" xOffset="636"/>
+    <component base="knNA.base"/>
+    <component base="knsignAU" xOffset="626"/>
   </outline>
   <lib>
     <dict>
@@ -29,7 +29,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>973</integer>
+          <integer>963</integer>
         </dict>
         <key>wire</key>
         <dict>
@@ -51,7 +51,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>973</integer>
+          <integer>963</integer>
         </dict>
       </dict>
     </dict>
