@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="notequal" format="1">
+  <advance width="540"/>
+  <unicode hex="2260"/>
+  <outline>
+    <contour>
+      <point x="381" y="489" type="curve" smooth="yes"/>
+      <point x="211" y="34" type="line" smooth="yes"/>
+      <point x="207" y="22"/>
+      <point x="192" y="15"/>
+      <point x="179" y="20" type="curve" smooth="yes"/>
+      <point x="167" y="24"/>
+      <point x="160" y="39"/>
+      <point x="165" y="52" type="curve" smooth="yes"/>
+      <point x="335" y="507" type="line" smooth="yes"/>
+      <point x="339" y="519"/>
+      <point x="354" y="526"/>
+      <point x="367" y="521" type="curve" smooth="yes"/>
+      <point x="379" y="517"/>
+      <point x="386" y="502"/>
+    </contour>
+    <component base="equal"/>
+    <component base="equal"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>notequal</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>540</integer>
+        </dict>
+        <key>wire</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+            <dict>
+              <key>points</key>
+              <array>
+                <dict>
+                  <key>segmentType</key>
+                  <string>move</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>360</integer>
+                  <key>y</key>
+                  <integer>508</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>188</integer>
+                  <key>y</key>
+                  <integer>43</integer>
+                </dict>
+              </array>
+            </dict>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>notequal</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>540</integer>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6312</real>
+        <real>1.0</real>
+        <real>0.9947</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

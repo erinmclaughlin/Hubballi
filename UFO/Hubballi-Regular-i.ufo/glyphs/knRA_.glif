@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="knRA" format="1">
+  <advance width="663"/>
+  <unicode hex="0CB0"/>
+  <outline>
+    <contour>
+      <point x="98" y="233" type="curve" smooth="yes"/>
+      <point x="98" y="357"/>
+      <point x="202" y="468"/>
+      <point x="339" y="468" type="curve" smooth="yes"/>
+      <point x="479" y="468"/>
+      <point x="574" y="355"/>
+      <point x="574" y="233" type="curve" smooth="yes"/>
+      <point x="574" y="104"/>
+      <point x="484" y="4"/>
+      <point x="337" y="4" type="curve" smooth="yes"/>
+      <point x="192" y="4"/>
+      <point x="98" y="102"/>
+    </contour>
+    <contour>
+      <point x="94" y="468" type="curve" smooth="yes"/>
+      <point x="462" y="468" type="line" smooth="yes"/>
+      <point x="524" y="468"/>
+      <point x="561" y="490"/>
+      <point x="589" y="534" type="curve" smooth="yes"/>
+      <point x="596" y="546"/>
+      <point x="612" y="549"/>
+      <point x="623" y="542" type="curve" smooth="yes"/>
+      <point x="635" y="535"/>
+      <point x="638" y="519"/>
+      <point x="631" y="508" type="curve" smooth="yes"/>
+      <point x="595" y="448"/>
+      <point x="546" y="418"/>
+      <point x="462" y="418" type="curve" smooth="yes"/>
+      <point x="94" y="418" type="line" smooth="yes"/>
+      <point x="81" y="418"/>
+      <point x="69" y="430"/>
+      <point x="69" y="443" type="curve" smooth="yes"/>
+      <point x="69" y="457"/>
+      <point x="81" y="468"/>
+    </contour>
+    <contour>
+      <point x="148" y="233" type="curve" smooth="yes"/>
+      <point x="148" y="130"/>
+      <point x="224" y="54"/>
+      <point x="337" y="54" type="curve" smooth="yes"/>
+      <point x="452" y="54"/>
+      <point x="524" y="132"/>
+      <point x="524" y="233" type="curve" smooth="yes"/>
+      <point x="524" y="329"/>
+      <point x="449" y="418"/>
+      <point x="339" y="418" type="curve" smooth="yes"/>
+      <point x="232" y="418"/>
+      <point x="148" y="331"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>-409</integer>
+          <key>y</key>
+          <integer>41</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>151</integer>
+          <key>y</key>
+          <integer>209</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <real>90.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>x</key>
+          <integer>320</integer>
+          <key>y</key>
+          <integer>295</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>knRA</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>663</integer>
+        </dict>
+        <key>wire</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>knRA</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>663</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
