@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="w" format="1">
+  <advance width="709"/>
+  <unicode hex="0077"/>
+  <outline>
+    <contour>
+      <point x="78" y="374" type="move"/>
+      <point x="115" y="241"/>
+      <point x="163" y="116"/>
+      <point x="204" y="30" type="curve"/>
+      <point x="206" y="30" type="line"/>
+      <point x="249" y="116"/>
+      <point x="317" y="255"/>
+      <point x="351" y="364" type="curve"/>
+    </contour>
+    <contour>
+      <point x="358" y="364" type="move"/>
+      <point x="405" y="231"/>
+      <point x="458" y="115"/>
+      <point x="504" y="29" type="curve"/>
+      <point x="506" y="29" type="line"/>
+      <point x="545" y="115"/>
+      <point x="599" y="253"/>
+      <point x="632" y="373" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>x</key>
+          <integer>445</integer>
+          <key>y</key>
+          <integer>406</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>w</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>709</integer>
+        </dict>
+        <key>wire</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>w</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>709</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

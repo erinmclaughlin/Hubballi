@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="knKA" format="1">
+  <advance width="703"/>
+  <unicode hex="0C95"/>
+  <outline>
+    <contour>
+      <point x="98" y="443" type="move"/>
+      <point x="480" y="443" type="line" smooth="yes"/>
+      <point x="553" y="443"/>
+      <point x="596" y="469"/>
+      <point x="628" y="521" type="curve"/>
+    </contour>
+    <contour>
+      <point x="94" y="288" type="move"/>
+      <point x="607" y="288" type="line" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="352" y="291" type="move"/>
+      <point x="352" y="415" type="line" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="309" y="286" type="move"/>
+      <point x="233" y="274"/>
+      <point x="185" y="219"/>
+      <point x="185" y="157" type="curve" smooth="yes"/>
+      <point x="185" y="93"/>
+      <point x="228" y="25"/>
+      <point x="351" y="25" type="curve" smooth="yes"/>
+      <point x="477" y="25"/>
+      <point x="519" y="94"/>
+      <point x="519" y="157" type="curve" smooth="yes"/>
+      <point x="519" y="219"/>
+      <point x="470" y="275"/>
+      <point x="394" y="286" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>-409</integer>
+          <key>y</key>
+          <integer>41</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>151</integer>
+          <key>y</key>
+          <integer>209</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <real>90.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>x</key>
+          <integer>369</integer>
+          <key>y</key>
+          <integer>134</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>knKA</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>703</integer>
+        </dict>
+        <key>wire</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>knKA</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>703</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="threesuperior" format="1">
+  <advance width="392"/>
+  <outline>
+    <contour>
+      <point x="113" y="518" type="move"/>
+      <point x="285" y="518" type="line"/>
+    </contour>
+    <contour>
+      <point x="103" y="273" type="move"/>
+      <point x="127" y="264"/>
+      <point x="158" y="257"/>
+      <point x="194" y="257" type="curve" smooth="yes"/>
+      <point x="261" y="257"/>
+      <point x="294" y="288"/>
+      <point x="294" y="329" type="curve" smooth="yes"/>
+      <point x="294" y="371"/>
+      <point x="259" y="399"/>
+      <point x="201" y="399" type="curve" smooth="yes"/>
+      <point x="173" y="399"/>
+      <point x="151" y="395"/>
+      <point x="139" y="391" type="curve"/>
+    </contour>
+    <contour>
+      <point x="280" y="514" type="move"/>
+      <point x="141" y="393" type="line" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>threesuperior</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>392</integer>
+        </dict>
+        <key>wire</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>threesuperior</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>392</integer>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.974</real>
+        <real>0.577</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

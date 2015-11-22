@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="knAIlengthmark.following" format="1">
+  <advance width="604"/>
+  <outline>
+    <contour>
+      <point x="232" y="-226" type="move"/>
+      <point x="258" y="-241"/>
+      <point x="278" y="-249"/>
+      <point x="309" y="-249" type="curve" smooth="yes"/>
+      <point x="346" y="-249"/>
+      <point x="381" y="-223"/>
+      <point x="381" y="-179" type="curve" smooth="yes"/>
+      <point x="381" y="-147"/>
+      <point x="359" y="-113"/>
+      <point x="311" y="-113" type="curve" smooth="yes"/>
+      <point x="263" y="-113"/>
+      <point x="230" y="-157"/>
+      <point x="230" y="-209" type="curve" smooth="yes"/>
+      <point x="230" y="-257"/>
+      <point x="248" y="-293"/>
+      <point x="282" y="-327" type="curve" smooth="yes"/>
+      <point x="312" y="-357"/>
+      <point x="363" y="-372"/>
+      <point x="412" y="-372" type="curve" smooth="yes"/>
+      <point x="463" y="-372"/>
+      <point x="507" y="-354"/>
+      <point x="534" y="-327" type="curve" smooth="yes"/>
+      <point x="559" y="-302"/>
+      <point x="573" y="-266"/>
+      <point x="573" y="-227" type="curve" smooth="yes"/>
+      <point x="573" y="-185"/>
+      <point x="555" y="-147"/>
+      <point x="531" y="-123" type="curve" smooth="yes"/>
+      <point x="514" y="-106"/>
+      <point x="500" y="-96"/>
+      <point x="479" y="-86" type="curve"/>
+    </contour>
+    <contour>
+      <point x="484" y="-85" type="move"/>
+      <point x="525" y="-73"/>
+      <point x="548" y="-46"/>
+      <point x="548" y="-7" type="curve" smooth="yes"/>
+      <point x="548" y="14"/>
+      <point x="539" y="36"/>
+      <point x="524" y="54" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>x</key>
+          <integer>39</integer>
+          <key>y</key>
+          <integer>129</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>knAIlengthmark.following</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>604</integer>
+        </dict>
+        <key>wire</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>knAIlengthmark.following</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>604</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

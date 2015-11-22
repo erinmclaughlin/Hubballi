@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="trademark" format="1">
+  <advance width="768"/>
+  <unicode hex="2122"/>
+  <outline>
+    <contour>
+      <point x="170" y="543" type="move"/>
+      <point x="170" y="302" type="line"/>
+    </contour>
+    <contour>
+      <point x="65" y="543" type="move"/>
+      <point x="277" y="543" type="line"/>
+    </contour>
+    <contour>
+      <point x="410" y="547" type="move"/>
+      <point x="398" y="476"/>
+      <point x="382" y="359"/>
+      <point x="376" y="301" type="curve"/>
+    </contour>
+    <contour>
+      <point x="645" y="548" type="move"/>
+      <point x="661" y="470"/>
+      <point x="673" y="368"/>
+      <point x="682" y="301" type="curve"/>
+    </contour>
+    <contour>
+      <point x="420" y="541" type="move"/>
+      <point x="450" y="478"/>
+      <point x="497" y="380"/>
+      <point x="530" y="311" type="curve"/>
+    </contour>
+    <contour>
+      <point x="532" y="317" type="move"/>
+      <point x="561" y="384"/>
+      <point x="601" y="471"/>
+      <point x="638" y="544" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>trademark</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>768</integer>
+        </dict>
+        <key>wire</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>trademark</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>768</integer>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.974</real>
+        <real>0.577</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

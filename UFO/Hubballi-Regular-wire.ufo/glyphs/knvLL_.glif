@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="knvLL" format="1">
+  <advance width="1239"/>
+  <unicode hex="0CE1"/>
+  <outline>
+    <contour>
+      <point x="762" y="443" type="move"/>
+      <point x="888" y="443" type="line" smooth="yes"/>
+      <point x="1034" y="443"/>
+      <point x="1139" y="347"/>
+      <point x="1139" y="177" type="curve" smooth="yes"/>
+      <point x="1139" y="84"/>
+      <point x="1092" y="29"/>
+      <point x="1029" y="29" type="curve" smooth="yes"/>
+      <point x="970" y="29"/>
+      <point x="937" y="71"/>
+      <point x="936" y="117" type="curve" smooth="yes"/>
+      <point x="935" y="171"/>
+      <point x="976" y="223"/>
+      <point x="1050" y="223" type="curve" smooth="yes"/>
+      <point x="1079" y="223"/>
+      <point x="1109" y="219"/>
+      <point x="1134" y="211" type="curve"/>
+    </contour>
+    <component base="knvL"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>knvLL</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1239</integer>
+        </dict>
+        <key>wire</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>knvLL</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1239</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
