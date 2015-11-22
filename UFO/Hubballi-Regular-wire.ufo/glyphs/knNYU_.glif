@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="knNYU" format="1">
-  <advance width="1221"/>
+  <advance width="1196"/>
   <outline>
     <contour>
       <point x="628" y="355" type="move"/>
@@ -10,18 +10,18 @@
       <point x="818" y="443"/>
       <point x="842" y="394"/>
       <point x="842" y="356" type="curve" smooth="yes"/>
-      <point x="842" y="321"/>
-      <point x="820" y="271"/>
-      <point x="820" y="206" type="curve" smooth="yes"/>
-      <point x="820" y="108"/>
-      <point x="887" y="33"/>
-      <point x="987" y="33" type="curve" smooth="yes"/>
-      <point x="1079" y="33"/>
-      <point x="1126" y="93"/>
-      <point x="1126" y="179" type="curve" smooth="yes"/>
-      <point x="1126" y="260"/>
-      <point x="1080" y="356"/>
-      <point x="1020" y="422" type="curve"/>
+      <point x="842" y="311"/>
+      <point x="820" y="251"/>
+      <point x="820" y="186" type="curve" smooth="yes"/>
+      <point x="820" y="88"/>
+      <point x="867" y="33"/>
+      <point x="967" y="33" type="curve" smooth="yes"/>
+      <point x="1059" y="33"/>
+      <point x="1106" y="93"/>
+      <point x="1106" y="179" type="curve" smooth="yes"/>
+      <point x="1106" y="260"/>
+      <point x="1060" y="356"/>
+      <point x="1000" y="422" type="curve"/>
     </contour>
     <contour>
       <point x="575" y="-13" type="move"/>
@@ -79,7 +79,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1221</integer>
+          <integer>1196</integer>
         </dict>
         <key>wire</key>
         <dict>
@@ -101,9 +101,16 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1221</integer>
+          <integer>1196</integer>
         </dict>
       </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.7255</real>
+        <real>0.7149</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>

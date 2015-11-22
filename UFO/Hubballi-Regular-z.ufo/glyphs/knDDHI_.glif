@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="knDDHI" format="1">
+  <advance width="759"/>
+  <outline>
+    <contour>
+      <point x="396" y="-83" type="curve" smooth="yes"/>
+      <point x="396" y="-186" type="line" smooth="yes"/>
+      <point x="396" y="-200"/>
+      <point x="385" y="-211"/>
+      <point x="371" y="-211" type="curve" smooth="yes"/>
+      <point x="358" y="-211"/>
+      <point x="346" y="-200"/>
+      <point x="346" y="-186" type="curve" smooth="yes"/>
+      <point x="346" y="-83" type="line" smooth="yes"/>
+      <point x="346" y="-70"/>
+      <point x="358" y="-58"/>
+      <point x="371" y="-58" type="curve" smooth="yes"/>
+      <point x="385" y="-58"/>
+      <point x="396" y="-70"/>
+    </contour>
+    <component base="knDDI"/>
+    <component base="knDDI"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <real>90.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>x</key>
+          <integer>356</integer>
+          <key>y</key>
+          <integer>55</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>knDDHI</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>759</integer>
+        </dict>
+        <key>wire</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>knDDHI</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>759</integer>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.794</real>
+        <real>0.975</real>
+        <real>0.8356</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

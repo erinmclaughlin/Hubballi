@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="oslash" format="1">
+  <advance width="510"/>
+  <unicode hex="00F8"/>
+  <outline>
+    <contour>
+      <point x="65" y="51" type="curve" smooth="yes"/>
+      <point x="406" y="393" type="line" smooth="yes"/>
+      <point x="416" y="402"/>
+      <point x="432" y="402"/>
+      <point x="442" y="393" type="curve" smooth="yes"/>
+      <point x="451" y="383"/>
+      <point x="451" y="367"/>
+      <point x="442" y="357" type="curve" smooth="yes"/>
+      <point x="101" y="15" type="line" smooth="yes"/>
+      <point x="91" y="6"/>
+      <point x="75" y="6"/>
+      <point x="65" y="15" type="curve" smooth="yes"/>
+      <point x="56" y="25"/>
+      <point x="56" y="41"/>
+    </contour>
+    <component base="o" xOffset="3"/>
+    <component base="o" xOffset="3"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>oslash</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>510</integer>
+        </dict>
+        <key>wire</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>oslash</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>510</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
