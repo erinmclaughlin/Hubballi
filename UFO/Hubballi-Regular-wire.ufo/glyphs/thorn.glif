@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="thorn" format="1">
-  <advance width="513"/>
+  <advance width="503"/>
   <unicode hex="00FE"/>
   <outline>
     <contour>
-      <point x="115" y="-158" type="move"/>
-      <point x="115" y="543" type="line"/>
+      <point x="110" y="-158" type="move"/>
+      <point x="110" y="543" type="line"/>
     </contour>
     <contour>
-      <point x="115" y="97" type="move"/>
-      <point x="161" y="59"/>
-      <point x="216" y="33"/>
-      <point x="270" y="33" type="curve" smooth="yes"/>
-      <point x="368" y="33"/>
-      <point x="435" y="107"/>
-      <point x="435" y="204" type="curve" smooth="yes"/>
-      <point x="435" y="315"/>
-      <point x="363" y="375"/>
-      <point x="282" y="375" type="curve" smooth="yes"/>
-      <point x="217" y="375"/>
-      <point x="161" y="332"/>
-      <point x="116" y="268" type="curve"/>
+      <point x="110" y="97" type="move"/>
+      <point x="156" y="59"/>
+      <point x="211" y="33"/>
+      <point x="265" y="33" type="curve" smooth="yes"/>
+      <point x="363" y="33"/>
+      <point x="430" y="107"/>
+      <point x="430" y="204" type="curve" smooth="yes"/>
+      <point x="430" y="315"/>
+      <point x="358" y="375"/>
+      <point x="277" y="375" type="curve" smooth="yes"/>
+      <point x="212" y="375"/>
+      <point x="156" y="332"/>
+      <point x="111" y="268" type="curve"/>
     </contour>
   </outline>
   <lib>
@@ -47,7 +47,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>513</integer>
+          <integer>503</integer>
         </dict>
         <key>wire</key>
         <dict>
@@ -69,7 +69,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>513</integer>
+          <integer>503</integer>
         </dict>
       </dict>
     </dict>

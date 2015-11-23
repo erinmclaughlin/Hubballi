@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ethslash" format="1">
-  <advance width="500"/>
+  <advance width="490"/>
   <outline>
     <contour>
-      <point x="190" y="441" type="move"/>
-      <point x="354" y="540" type="line"/>
+      <point x="185" y="441" type="move"/>
+      <point x="349" y="540" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -31,7 +31,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>500</integer>
+          <integer>490</integer>
         </dict>
         <key>wire</key>
         <dict>
@@ -43,31 +43,6 @@
           </array>
           <key>contours</key>
           <array>
-            <dict>
-              <key>points</key>
-              <array>
-                <dict>
-                  <key>segmentType</key>
-                  <string>move</string>
-                  <key>smooth</key>
-                  <false/>
-                  <key>x</key>
-                  <integer>187</integer>
-                  <key>y</key>
-                  <integer>439</integer>
-                </dict>
-                <dict>
-                  <key>segmentType</key>
-                  <string>line</string>
-                  <key>smooth</key>
-                  <false/>
-                  <key>x</key>
-                  <integer>361</integer>
-                  <key>y</key>
-                  <integer>518</integer>
-                </dict>
-              </array>
-            </dict>
           </array>
           <key>lib</key>
           <dict>
@@ -78,16 +53,9 @@
           <array>
           </array>
           <key>width</key>
-          <integer>500</integer>
+          <integer>490</integer>
         </dict>
       </dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>1.0</real>
-        <real>0.7255</real>
-        <real>0.7149</real>
-        <real>1.0</real>
-      </array>
     </dict>
   </lib>
 </glyph>

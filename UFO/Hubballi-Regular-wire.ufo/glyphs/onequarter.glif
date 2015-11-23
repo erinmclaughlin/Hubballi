@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="onequarter" format="1">
-  <advance width="724"/>
+  <advance width="714"/>
   <unicode hex="00BC"/>
   <outline>
     <contour>
-      <point x="497" y="518" type="move"/>
-      <point x="214" y="33" type="line"/>
+      <point x="492" y="518" type="move"/>
+      <point x="209" y="33" type="line"/>
     </contour>
     <contour>
-      <point x="560" y="294" type="move"/>
-      <point x="560" y="34" type="line"/>
+      <point x="555" y="294" type="move"/>
+      <point x="555" y="34" type="line"/>
     </contour>
     <contour>
-      <point x="556" y="289" type="move"/>
-      <point x="402" y="109" type="line"/>
+      <point x="551" y="289" type="move"/>
+      <point x="397" y="109" type="line"/>
     </contour>
     <contour>
-      <point x="407" y="109" type="move"/>
-      <point x="622" y="109" type="line"/>
+      <point x="402" y="109" type="move"/>
+      <point x="617" y="109" type="line"/>
     </contour>
     <contour>
-      <point x="207" y="525" type="move"/>
-      <point x="207" y="267" type="line"/>
+      <point x="202" y="525" type="move"/>
+      <point x="202" y="267" type="line"/>
     </contour>
     <contour>
-      <point x="207" y="528" type="move"/>
-      <point x="125" y="484" type="line"/>
+      <point x="202" y="528" type="move"/>
+      <point x="120" y="484" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -52,7 +52,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>724</integer>
+          <integer>714</integer>
         </dict>
         <key>wire</key>
         <dict>
@@ -74,16 +74,9 @@
           <array>
           </array>
           <key>width</key>
-          <integer>724</integer>
+          <integer>714</integer>
         </dict>
       </dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>1.0</real>
-        <real>0.974</real>
-        <real>0.577</real>
-        <real>1.0</real>
-      </array>
     </dict>
   </lib>
 </glyph>

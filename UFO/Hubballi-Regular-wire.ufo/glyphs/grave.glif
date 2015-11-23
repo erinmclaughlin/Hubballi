@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="grave" format="1">
-  <advance width="500"/>
+  <advance width="490"/>
   <unicode hex="0060"/>
   <outline>
     <contour>
-      <point x="217" y="606" type="move"/>
-      <point x="244" y="571"/>
-      <point x="261" y="550"/>
-      <point x="286" y="511" type="curve"/>
+      <point x="212" y="606" type="move"/>
+      <point x="239" y="571"/>
+      <point x="256" y="550"/>
+      <point x="281" y="511" type="curve"/>
     </contour>
   </outline>
   <lib>
@@ -34,7 +34,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>500</integer>
+          <integer>490</integer>
         </dict>
         <key>wire</key>
         <dict>
@@ -46,47 +46,6 @@
           </array>
           <key>contours</key>
           <array>
-            <dict>
-              <key>points</key>
-              <array>
-                <dict>
-                  <key>segmentType</key>
-                  <string>move</string>
-                  <key>smooth</key>
-                  <false/>
-                  <key>x</key>
-                  <integer>220</integer>
-                  <key>y</key>
-                  <integer>597</integer>
-                </dict>
-                <dict>
-                  <key>smooth</key>
-                  <false/>
-                  <key>x</key>
-                  <integer>248</integer>
-                  <key>y</key>
-                  <integer>562</integer>
-                </dict>
-                <dict>
-                  <key>smooth</key>
-                  <false/>
-                  <key>x</key>
-                  <integer>262</integer>
-                  <key>y</key>
-                  <integer>544</integer>
-                </dict>
-                <dict>
-                  <key>segmentType</key>
-                  <string>curve</string>
-                  <key>smooth</key>
-                  <false/>
-                  <key>x</key>
-                  <integer>286</integer>
-                  <key>y</key>
-                  <integer>505</integer>
-                </dict>
-              </array>
-            </dict>
           </array>
           <key>lib</key>
           <dict>
@@ -97,7 +56,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>500</integer>
+          <integer>490</integer>
         </dict>
       </dict>
     </dict>

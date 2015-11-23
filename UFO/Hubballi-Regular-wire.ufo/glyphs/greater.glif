@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="greater" format="1">
-  <advance width="525"/>
+  <advance width="515"/>
   <unicode hex="003E"/>
   <outline>
     <component base="less" xScale="-1" xOffset="527"/>
@@ -46,7 +46,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>525</integer>
+          <integer>515</integer>
         </dict>
         <key>wire</key>
         <dict>
@@ -68,16 +68,9 @@
           <array>
           </array>
           <key>width</key>
-          <integer>525</integer>
+          <integer>515</integer>
         </dict>
       </dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>0.6312</real>
-        <real>1.0</real>
-        <real>0.9947</real>
-        <real>1.0</real>
-      </array>
     </dict>
   </lib>
 </glyph>

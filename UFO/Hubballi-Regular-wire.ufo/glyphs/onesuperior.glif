@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="onesuperior" format="1">
-  <advance width="242"/>
+  <advance width="232"/>
   <outline>
     <contour>
-      <point x="144" y="525" type="move"/>
-      <point x="144" y="267" type="line"/>
+      <point x="139" y="525" type="move"/>
+      <point x="139" y="267" type="line"/>
     </contour>
     <contour>
-      <point x="144" y="528" type="move"/>
-      <point x="62" y="484" type="line"/>
+      <point x="139" y="528" type="move"/>
+      <point x="57" y="484" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -35,7 +35,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>242</integer>
+          <integer>232</integer>
         </dict>
         <key>wire</key>
         <dict>
@@ -57,16 +57,9 @@
           <array>
           </array>
           <key>width</key>
-          <integer>242</integer>
+          <integer>232</integer>
         </dict>
       </dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>1.0</real>
-        <real>0.974</real>
-        <real>0.577</real>
-        <real>1.0</real>
-      </array>
     </dict>
   </lib>
 </glyph>

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bracketleft" format="1">
-  <advance width="325"/>
+  <advance width="315"/>
   <unicode hex="005B"/>
   <outline>
     <contour>
-      <point x="238" y="613" type="move"/>
-      <point x="103" y="613" type="line"/>
-      <point x="103" y="-66" type="line"/>
-      <point x="238" y="-66" type="line"/>
+      <point x="233" y="613" type="move"/>
+      <point x="98" y="613" type="line"/>
+      <point x="98" y="-66" type="line"/>
+      <point x="233" y="-66" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -51,7 +51,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>325</integer>
+          <integer>315</integer>
         </dict>
         <key>wire</key>
         <dict>
@@ -63,51 +63,6 @@
           </array>
           <key>contours</key>
           <array>
-            <dict>
-              <key>points</key>
-              <array>
-                <dict>
-                  <key>segmentType</key>
-                  <string>move</string>
-                  <key>smooth</key>
-                  <false/>
-                  <key>x</key>
-                  <integer>238</integer>
-                  <key>y</key>
-                  <integer>613</integer>
-                </dict>
-                <dict>
-                  <key>segmentType</key>
-                  <string>line</string>
-                  <key>smooth</key>
-                  <false/>
-                  <key>x</key>
-                  <integer>103</integer>
-                  <key>y</key>
-                  <integer>613</integer>
-                </dict>
-                <dict>
-                  <key>segmentType</key>
-                  <string>line</string>
-                  <key>smooth</key>
-                  <false/>
-                  <key>x</key>
-                  <integer>103</integer>
-                  <key>y</key>
-                  <integer>-66</integer>
-                </dict>
-                <dict>
-                  <key>segmentType</key>
-                  <string>line</string>
-                  <key>smooth</key>
-                  <false/>
-                  <key>x</key>
-                  <integer>238</integer>
-                  <key>y</key>
-                  <integer>-66</integer>
-                </dict>
-              </array>
-            </dict>
           </array>
           <key>lib</key>
           <dict>
@@ -118,7 +73,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>325</integer>
+          <integer>315</integer>
         </dict>
       </dict>
     </dict>
