@@ -40,7 +40,11 @@
 		<integer>10</integer>
 		<key>Eth</key>
 		<integer>5</integer>
+		<key>J</key>
+		<integer>20</integer>
 		<key>Lslash</key>
+		<integer>10</integer>
+		<key>M</key>
 		<integer>10</integer>
 		<key>Oslash</key>
 		<integer>10</integer>
@@ -112,6 +116,8 @@
 		<integer>10</integer>
 		<key>Eth</key>
 		<integer>10</integer>
+		<key>M</key>
+		<integer>5</integer>
 		<key>j</key>
 		<integer>5</integer>
 		<key>question</key>
@@ -133,6 +139,8 @@
 		<integer>30</integer>
 		<key>@MMK_R_O</key>
 		<integer>-5</integer>
+		<key>@MMK_R_Y</key>
+		<integer>10</integer>
 		<key>@MMK_R_a</key>
 		<integer>5</integer>
 		<key>@MMK_R_exclam</key>
@@ -151,8 +159,16 @@
 		<integer>-10</integer>
 		<key>@MMK_R_z</key>
 		<integer>5</integer>
+		<key>J</key>
+		<integer>20</integer>
+		<key>M</key>
+		<integer>15</integer>
 		<key>Oslash</key>
 		<integer>0</integer>
+		<key>V</key>
+		<integer>10</integer>
+		<key>W</key>
+		<integer>10</integer>
 		<key>j</key>
 		<integer>5</integer>
 		<key>p</key>
@@ -171,7 +187,7 @@
 	<key>@MMK_L_L</key>
 	<dict>
 		<key>@MMK_R_A</key>
-		<integer>20</integer>
+		<integer>25</integer>
 		<key>@MMK_R_O</key>
 		<integer>-10</integer>
 		<key>@MMK_R_T</key>
@@ -210,6 +226,10 @@
 		<integer>15</integer>
 		<key>Eth</key>
 		<integer>-5</integer>
+		<key>J</key>
+		<integer>20</integer>
+		<key>M</key>
+		<integer>10</integer>
 		<key>Oslash</key>
 		<integer>0</integer>
 		<key>V</key>
@@ -241,6 +261,8 @@
 	<dict>
 		<key>@MMK_R_A</key>
 		<integer>5</integer>
+		<key>@MMK_R_O</key>
+		<integer>10</integer>
 		<key>@MMK_R_T</key>
 		<integer>-25</integer>
 		<key>@MMK_R_Y</key>
@@ -933,15 +955,15 @@
 		<key>@MMK_R_knSubsfollow</key>
 		<integer>0</integer>
 		<key>@MMK_R_parenright</key>
-		<integer>140</integer>
+		<integer>170</integer>
 		<key>@MMK_R_period</key>
-		<integer>100</integer>
+		<integer>150</integer>
 		<key>@MMK_R_quoteright</key>
 		<integer>80</integer>
 		<key>bracketright</key>
 		<integer>120</integer>
 		<key>slash</key>
-		<integer>130</integer>
+		<integer>140</integer>
 	</dict>
 	<key>@MMK_L_knSubTall</key>
 	<dict>
@@ -980,13 +1002,11 @@
 		<key>@MMK_R_parenright</key>
 		<integer>70</integer>
 		<key>@MMK_R_period</key>
-		<integer>50</integer>
+		<integer>60</integer>
 		<key>knLengthmark</key>
 		<integer>-15</integer>
 		<key>knReph</key>
 		<integer>-20</integer>
-		<key>parenright</key>
-		<integer>60</integer>
 		<key>period</key>
 		<integer>30</integer>
 		<key>slash</key>
@@ -1024,6 +1044,8 @@
 		<integer>-40</integer>
 		<key>@MMK_R_knPI</key>
 		<integer>-60</integer>
+		<key>@MMK_R_period</key>
+		<integer>-100</integer>
 	</dict>
 	<key>@MMK_L_knsignEIvariants</key>
 	<dict>
@@ -1047,6 +1069,8 @@
 		<integer>0</integer>
 		<key>@MMK_R_knYA</key>
 		<integer>-45</integer>
+		<key>@MMK_R_period</key>
+		<integer>-100</integer>
 		<key>knE</key>
 		<integer>-70</integer>
 		<key>knEE</key>
@@ -1059,6 +1083,16 @@
 		<integer>-35</integer>
 		<key>knVI</key>
 		<integer>-80</integer>
+	</dict>
+	<key>@MMK_L_knsignU</key>
+	<dict>
+		<key>@MMK_R_period</key>
+		<integer>-30</integer>
+	</dict>
+	<key>@MMK_L_knsignUU</key>
+	<dict>
+		<key>@MMK_R_period</key>
+		<integer>-30</integer>
 	</dict>
 	<key>@MMK_L_knsignUlow</key>
 	<dict>
@@ -1116,6 +1150,8 @@
 		<integer>-10</integer>
 		<key>@MMK_R_f</key>
 		<integer>10</integer>
+		<key>@MMK_R_o</key>
+		<integer>5</integer>
 		<key>@MMK_R_s</key>
 		<integer>-10</integer>
 		<key>@MMK_R_t</key>
@@ -1529,8 +1565,12 @@
 		<integer>-5</integer>
 		<key>Eth</key>
 		<integer>5</integer>
+		<key>J</key>
+		<integer>5</integer>
 		<key>Lslash</key>
 		<integer>5</integer>
+		<key>M</key>
+		<integer>10</integer>
 		<key>V</key>
 		<integer>-10</integer>
 		<key>W</key>
@@ -1654,6 +1694,8 @@
 	</dict>
 	<key>M</key>
 	<dict>
+		<key>@MMK_R_A</key>
+		<integer>10</integer>
 		<key>@MMK_R_O</key>
 		<integer>-5</integer>
 		<key>@MMK_R_T</key>
@@ -2107,20 +2149,51 @@
 		<key>@MMK_R_knPI</key>
 		<integer>-10</integer>
 	</dict>
+	<key>knAIlengthmark</key>
+	<dict>
+		<key>parenright</key>
+		<integer>80</integer>
+	</dict>
+	<key>knAIlengthmark.following</key>
+	<dict>
+		<key>parenright</key>
+		<integer>80</integer>
+	</dict>
 	<key>knBAc2</key>
 	<dict>
 		<key>@MMK_R_knSubsfollow</key>
 		<integer>-90</integer>
+		<key>parenright</key>
+		<integer>80</integer>
+	</dict>
+	<key>knBAc2.following</key>
+	<dict>
+		<key>parenright</key>
+		<integer>80</integer>
 	</dict>
 	<key>knBHAc2</key>
 	<dict>
 		<key>@MMK_R_knSubsfollow</key>
 		<integer>-90</integer>
+		<key>parenright</key>
+		<integer>80</integer>
+	</dict>
+	<key>knBHAc2.following</key>
+	<dict>
+		<key>parenright</key>
+		<integer>80</integer>
 	</dict>
 	<key>knCHAc2</key>
 	<dict>
 		<key>@MMK_R_knSubsfollow</key>
 		<integer>-80</integer>
+		<key>parenright</key>
+		<integer>80</integer>
+	</dict>
+	<key>knCHAc2.following</key>
+	<dict>
+		<key>parenright</key>
+		<integer>80</integer>
 	</dict>
 	<key>knEight</key>
 	<dict>
@@ -2147,6 +2220,13 @@
 	<dict>
 		<key>@MMK_R_knSubsfollow</key>
 		<integer>50</integer>
+		<key>parenright</key>
+		<integer>80</integer>
+	</dict>
+	<key>knGHAc2.following</key>
+	<dict>
+		<key>parenright</key>
+		<integer>80</integer>
 	</dict>
 	<key>knHAc2</key>
 	<dict>
@@ -2163,10 +2243,37 @@
 		<key>@MMK_R_knSubsfollow</key>
 		<integer>130</integer>
 	</dict>
+	<key>knKAc2</key>
+	<dict>
+		<key>parenright</key>
+		<integer>80</integer>
+	</dict>
+	<key>knKAc2.following</key>
+	<dict>
+		<key>parenright</key>
+		<integer>80</integer>
+	</dict>
 	<key>knKHAc2</key>
 	<dict>
 		<key>@MMK_R_knSubsfollow</key>
 		<integer>-80</integer>
+		<key>parenright</key>
+		<integer>80</integer>
+	</dict>
+	<key>knKHAc2.following</key>
+	<dict>
+		<key>parenright</key>
+		<integer>80</integer>
+	</dict>
+	<key>knKSSAc2</key>
+	<dict>
+		<key>parenright</key>
+		<integer>80</integer>
+	</dict>
+	<key>knKSSAc2.following</key>
+	<dict>
+		<key>parenright</key>
+		<integer>80</integer>
 	</dict>
 	<key>knLAc2</key>
 	<dict>
@@ -2177,6 +2284,13 @@
 	<dict>
 		<key>@MMK_R_knSubsfollow</key>
 		<integer>-90</integer>
+		<key>parenright</key>
+		<integer>80</integer>
+	</dict>
+	<key>knLLAc2.following</key>
+	<dict>
+		<key>parenright</key>
+		<integer>80</integer>
 	</dict>
 	<key>knLengthmark</key>
 	<dict>
@@ -2185,10 +2299,27 @@
 		<key>knKI</key>
 		<integer>-10</integer>
 	</dict>
+	<key>knMAc2</key>
+	<dict>
+		<key>parenright</key>
+		<integer>80</integer>
+	</dict>
+	<key>knMAc2.following</key>
+	<dict>
+		<key>parenright</key>
+		<integer>80</integer>
+	</dict>
 	<key>knNAc2</key>
 	<dict>
 		<key>@MMK_R_knSubsfollow</key>
 		<integer>-50</integer>
+		<key>parenright</key>
+		<integer>80</integer>
+	</dict>
+	<key>knNAc2.following</key>
+	<dict>
+		<key>parenright</key>
+		<integer>80</integer>
 	</dict>
 	<key>knNYAc2</key>
 	<dict>
@@ -2211,31 +2342,73 @@
 	<dict>
 		<key>@MMK_R_knSubsfollow</key>
 		<integer>-90</integer>
+		<key>parenright</key>
+		<integer>80</integer>
+	</dict>
+	<key>knPAc2.following</key>
+	<dict>
+		<key>parenright</key>
+		<integer>80</integer>
 	</dict>
 	<key>knPHAc2</key>
 	<dict>
 		<key>@MMK_R_knSubsfollow</key>
 		<integer>-90</integer>
+		<key>parenright</key>
+		<integer>80</integer>
+	</dict>
+	<key>knPHAc2.following</key>
+	<dict>
+		<key>parenright</key>
+		<integer>80</integer>
 	</dict>
 	<key>knRAc2</key>
 	<dict>
 		<key>@MMK_R_knSubsfollow</key>
 		<integer>-140</integer>
+		<key>parenright</key>
+		<integer>80</integer>
+	</dict>
+	<key>knRAc2.following</key>
+	<dict>
+		<key>parenright</key>
+		<integer>80</integer>
 	</dict>
 	<key>knSAc2</key>
 	<dict>
 		<key>@MMK_R_knSubsfollow</key>
 		<integer>-90</integer>
+		<key>parenright</key>
+		<integer>80</integer>
+	</dict>
+	<key>knSAc2.following</key>
+	<dict>
+		<key>parenright</key>
+		<integer>80</integer>
 	</dict>
 	<key>knSHAc2</key>
 	<dict>
 		<key>@MMK_R_knSubsfollow</key>
 		<integer>-40</integer>
+		<key>parenright</key>
+		<integer>80</integer>
+	</dict>
+	<key>knSHAc2.following</key>
+	<dict>
+		<key>parenright</key>
+		<integer>80</integer>
 	</dict>
 	<key>knSSAc2</key>
 	<dict>
 		<key>@MMK_R_knSubsfollow</key>
 		<integer>-50</integer>
+		<key>parenright</key>
+		<integer>80</integer>
+	</dict>
+	<key>knSSAc2.following</key>
+	<dict>
+		<key>parenright</key>
+		<integer>80</integer>
 	</dict>
 	<key>knSSAc2.kssa</key>
 	<dict>
@@ -2348,10 +2521,27 @@
 		<key>knTwo</key>
 		<integer>40</integer>
 	</dict>
+	<key>knTAc2_RAc2</key>
+	<dict>
+		<key>parenright</key>
+		<integer>80</integer>
+	</dict>
+	<key>knTAc2_RAc2.following</key>
+	<dict>
+		<key>parenright</key>
+		<integer>80</integer>
+	</dict>
 	<key>knTTAc2</key>
 	<dict>
 		<key>@MMK_R_knSubsfollow</key>
 		<integer>-90</integer>
+		<key>parenright</key>
+		<integer>80</integer>
+	</dict>
+	<key>knTTAc2.following</key>
+	<dict>
+		<key>parenright</key>
+		<integer>80</integer>
 	</dict>
 	<key>knThree</key>
 	<dict>
@@ -2375,11 +2565,40 @@
 	<dict>
 		<key>@MMK_R_knSubsfollow</key>
 		<integer>-110</integer>
+		<key>comma</key>
+		<integer>30</integer>
+		<key>parenright</key>
+		<integer>30</integer>
+	</dict>
+	<key>knYAc2.following</key>
+	<dict>
+		<key>parenright</key>
+		<integer>80</integer>
 	</dict>
 	<key>knZero</key>
 	<dict>
 		<key>@MMK_R_period</key>
 		<integer>-20</integer>
+	</dict>
+	<key>knsignvR</key>
+	<dict>
+		<key>parenright</key>
+		<integer>80</integer>
+	</dict>
+	<key>knsignvR.following</key>
+	<dict>
+		<key>parenright</key>
+		<integer>80</integer>
+	</dict>
+	<key>knsignvRR</key>
+	<dict>
+		<key>parenright</key>
+		<integer>80</integer>
+	</dict>
+	<key>knsignvRR.following</key>
+	<dict>
+		<key>parenright</key>
+		<integer>80</integer>
 	</dict>
 	<key>l</key>
 	<dict>
