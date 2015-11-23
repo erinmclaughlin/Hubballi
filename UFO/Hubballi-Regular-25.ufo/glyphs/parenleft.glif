@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="parenleft" format="1">
+  <advance width="315"/>
+  <unicode hex="0028"/>
+  <outline>
+    <contour>
+      <point x="252" y="596" type="curve" smooth="yes"/>
+      <point x="180" y="517"/>
+      <point x="122" y="397"/>
+      <point x="122" y="269" type="curve" smooth="yes"/>
+      <point x="122" y="144"/>
+      <point x="176" y="29"/>
+      <point x="251" y="-49" type="curve" smooth="yes"/>
+      <point x="260" y="-58"/>
+      <point x="260" y="-75"/>
+      <point x="250" y="-84" type="curve" smooth="yes"/>
+      <point x="241" y="-93"/>
+      <point x="224" y="-93"/>
+      <point x="215" y="-83" type="curve" smooth="yes"/>
+      <point x="132" y="3"/>
+      <point x="72" y="130"/>
+      <point x="72" y="269" type="curve" smooth="yes"/>
+      <point x="72" y="409"/>
+      <point x="136" y="543"/>
+      <point x="214" y="630" type="curve" smooth="yes"/>
+      <point x="224" y="640"/>
+      <point x="240" y="641"/>
+      <point x="250" y="632" type="curve" smooth="yes"/>
+      <point x="260" y="622"/>
+      <point x="261" y="606"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>x</key>
+          <integer>181</integer>
+          <key>y</key>
+          <integer>267</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>parenleft</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>315</integer>
+        </dict>
+        <key>wire</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>parenleft</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>315</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

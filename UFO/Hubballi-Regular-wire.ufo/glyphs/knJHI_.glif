@@ -1,36 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="knJHI" format="1">
-  <advance width="1217"/>
+  <advance width="1243"/>
   <outline>
     <contour>
-      <point x="836" y="-83" type="move"/>
-      <point x="836" y="-186" type="line"/>
+      <point x="841" y="-83" type="move"/>
+      <point x="841" y="-186" type="line"/>
     </contour>
     <contour>
-      <point x="535" y="135" type="move"/>
-      <point x="585" y="60"/>
-      <point x="637" y="33"/>
-      <point x="698" y="33" type="curve" smooth="yes"/>
-      <point x="790" y="33"/>
-      <point x="837" y="93"/>
-      <point x="837" y="179" type="curve" smooth="yes"/>
-      <point x="837" y="260"/>
-      <point x="791" y="356"/>
-      <point x="731" y="422" type="curve"/>
+      <point x="522" y="151" type="move"/>
+      <point x="581" y="68"/>
+      <point x="642" y="33"/>
+      <point x="703" y="33" type="curve" smooth="yes"/>
+      <point x="795" y="33"/>
+      <point x="842" y="93"/>
+      <point x="842" y="179" type="curve" smooth="yes"/>
+      <point x="842" y="260"/>
+      <point x="802" y="353"/>
+      <point x="723" y="440" type="curve"/>
     </contour>
     <contour>
-      <point x="846" y="135" type="move"/>
-      <point x="896" y="60"/>
-      <point x="948" y="33"/>
-      <point x="1009" y="33" type="curve" smooth="yes"/>
-      <point x="1101" y="33"/>
-      <point x="1148" y="93"/>
-      <point x="1148" y="179" type="curve" smooth="yes"/>
-      <point x="1148" y="260"/>
-      <point x="1102" y="356"/>
-      <point x="1042" y="422" type="curve"/>
+      <point x="841" y="141" type="move"/>
+      <point x="901" y="61"/>
+      <point x="953" y="33"/>
+      <point x="1014" y="33" type="curve" smooth="yes"/>
+      <point x="1106" y="33"/>
+      <point x="1153" y="93"/>
+      <point x="1153" y="179" type="curve" smooth="yes"/>
+      <point x="1153" y="260"/>
+      <point x="1107" y="356"/>
+      <point x="1047" y="422" type="curve"/>
     </contour>
-    <component base="knRI"/>
+    <component base="knRI" xOffset="-5"/>
   </outline>
   <lib>
     <dict>
@@ -56,7 +56,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1217</integer>
+          <integer>1243</integer>
         </dict>
         <key>wire</key>
         <dict>
@@ -78,7 +78,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1217</integer>
+          <integer>1243</integer>
         </dict>
       </dict>
     </dict>

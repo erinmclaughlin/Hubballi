@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="knVU" format="1">
-  <advance width="933"/>
+  <advance width="948"/>
   <outline>
     <contour>
-      <point x="377" y="95" type="move"/>
-      <point x="448" y="-47"/>
-      <point x="525" y="-107"/>
-      <point x="635" y="-107" type="curve" smooth="yes"/>
-      <point x="765" y="-107"/>
-      <point x="848" y="-15"/>
-      <point x="848" y="150" type="curve"/>
-      <point x="848" y="254"/>
-      <point x="808" y="344"/>
-      <point x="739" y="422" type="curve"/>
+      <point x="387" y="95" type="move"/>
+      <point x="458" y="-47"/>
+      <point x="535" y="-107"/>
+      <point x="645" y="-107" type="curve" smooth="yes"/>
+      <point x="775" y="-107"/>
+      <point x="858" y="-15"/>
+      <point x="858" y="150" type="curve" smooth="yes"/>
+      <point x="858" y="254"/>
+      <point x="818" y="344"/>
+      <point x="749" y="422" type="curve"/>
     </contour>
     <component base="knVA"/>
   </outline>
@@ -40,7 +40,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>933</integer>
+          <integer>948</integer>
         </dict>
         <key>wire</key>
         <dict>
@@ -62,7 +62,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>933</integer>
+          <integer>948</integer>
         </dict>
       </dict>
     </dict>

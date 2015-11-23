@@ -1,28 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Q" format="1">
-  <advance width="620"/>
+  <advance width="630"/>
   <unicode hex="0051"/>
   <outline>
     <contour>
-      <point x="313" y="21" type="move"/>
-      <point x="332" y="-52"/>
-      <point x="401" y="-110"/>
-      <point x="507" y="-110" type="curve"/>
+      <point x="318" y="21" type="move"/>
+      <point x="337" y="-52"/>
+      <point x="406" y="-110"/>
+      <point x="512" y="-110" type="curve"/>
     </contour>
-    <contour>
-      <point x="312" y="527" type="curve" smooth="yes"/>
-      <point x="177" y="527"/>
-      <point x="86" y="423"/>
-      <point x="86" y="272" type="curve" smooth="yes"/>
-      <point x="86" y="134"/>
-      <point x="179" y="24"/>
-      <point x="312" y="24" type="curve" smooth="yes"/>
-      <point x="453" y="24"/>
-      <point x="534" y="134"/>
-      <point x="534" y="275" type="curve" smooth="yes"/>
-      <point x="534" y="423"/>
-      <point x="435" y="527"/>
-    </contour>
+    <component base="O"/>
   </outline>
   <lib>
     <dict>
@@ -48,7 +35,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>620</integer>
+          <integer>630</integer>
         </dict>
         <key>wire</key>
         <dict>
@@ -70,7 +57,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>620</integer>
+          <integer>630</integer>
         </dict>
       </dict>
     </dict>

@@ -1,36 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="knJHA" format="1">
-  <advance width="1229"/>
+  <advance width="1244"/>
   <unicode hex="0C9D"/>
   <outline>
     <contour>
-      <point x="832" y="-83" type="move"/>
-      <point x="832" y="-186" type="line"/>
+      <point x="842" y="-83" type="move"/>
+      <point x="842" y="-186" type="line"/>
     </contour>
     <contour>
-      <point x="84" y="443" type="move"/>
-      <point x="442" y="443" type="line" smooth="yes"/>
-      <point x="515" y="443"/>
-      <point x="558" y="469"/>
-      <point x="590" y="521" type="curve"/>
+      <point x="94" y="443" type="move"/>
+      <point x="452" y="443" type="line" smooth="yes"/>
+      <point x="525" y="443"/>
+      <point x="568" y="469"/>
+      <point x="600" y="521" type="curve"/>
     </contour>
     <contour>
-      <point x="204" y="443"/>
-      <point x="113" y="344"/>
-      <point x="113" y="233" type="curve" smooth="yes"/>
-      <point x="113" y="116"/>
-      <point x="196" y="29"/>
-      <point x="321" y="29" type="curve" smooth="yes"/>
-      <point x="448" y="29"/>
-      <point x="529" y="118"/>
-      <point x="529" y="233" type="curve" smooth="yes"/>
-      <point x="529" y="342"/>
-      <point x="444" y="443"/>
-      <point x="323" y="443" type="curve" smooth="yes"/>
+      <point x="214" y="443"/>
+      <point x="123" y="344"/>
+      <point x="123" y="233" type="curve" smooth="yes"/>
+      <point x="123" y="116"/>
+      <point x="206" y="29"/>
+      <point x="331" y="29" type="curve" smooth="yes"/>
+      <point x="458" y="29"/>
+      <point x="539" y="118"/>
+      <point x="539" y="233" type="curve" smooth="yes"/>
+      <point x="539" y="342"/>
+      <point x="454" y="443"/>
+      <point x="333" y="443" type="curve" smooth="yes"/>
     </contour>
-    <component base="knRa" xOffset="63" yOffset="-132"/>
-    <component base="knsignU" xOffset="617"/>
-    <component base="knsignU" xOffset="928"/>
+    <contour>
+      <point x="523" y="151" type="move"/>
+      <point x="582" y="68"/>
+      <point x="643" y="33"/>
+      <point x="704" y="33" type="curve" smooth="yes"/>
+      <point x="796" y="33"/>
+      <point x="843" y="93"/>
+      <point x="843" y="179" type="curve" smooth="yes"/>
+      <point x="843" y="260"/>
+      <point x="803" y="353"/>
+      <point x="724" y="440" type="curve"/>
+    </contour>
+    <contour>
+      <point x="842" y="141" type="move"/>
+      <point x="902" y="61"/>
+      <point x="954" y="33"/>
+      <point x="1015" y="33" type="curve" smooth="yes"/>
+      <point x="1107" y="33"/>
+      <point x="1154" y="93"/>
+      <point x="1154" y="179" type="curve" smooth="yes"/>
+      <point x="1154" y="260"/>
+      <point x="1108" y="356"/>
+      <point x="1048" y="422" type="curve"/>
+    </contour>
+    <component base="knRa" xOffset="73" yOffset="-132"/>
   </outline>
   <lib>
     <dict>
@@ -60,6 +82,20 @@
           <key>y</key>
           <integer>209</integer>
         </dict>
+        <dict>
+          <key>angle</key>
+          <real>90.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>x</key>
+          <integer>843</integer>
+          <key>y</key>
+          <integer>284</integer>
+        </dict>
       </array>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
@@ -83,7 +119,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1229</integer>
+          <integer>1244</integer>
         </dict>
         <key>wire</key>
         <dict>
@@ -105,7 +141,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1229</integer>
+          <integer>1244</integer>
         </dict>
       </dict>
     </dict>

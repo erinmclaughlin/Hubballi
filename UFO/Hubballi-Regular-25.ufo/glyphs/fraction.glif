@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="fraction" format="1">
+  <advance width="454"/>
+  <unicode hex="2044"/>
+  <outline>
+    <contour>
+      <point x="393" y="505" type="curve" smooth="yes"/>
+      <point x="110" y="20" type="line" smooth="yes"/>
+      <point x="103" y="9"/>
+      <point x="87" y="5"/>
+      <point x="75" y="11" type="curve" smooth="yes"/>
+      <point x="64" y="18"/>
+      <point x="60" y="34"/>
+      <point x="66" y="46" type="curve" smooth="yes"/>
+      <point x="349" y="531" type="line" smooth="yes"/>
+      <point x="356" y="542"/>
+      <point x="372" y="546"/>
+      <point x="384" y="540" type="curve" smooth="yes"/>
+      <point x="395" y="533"/>
+      <point x="399" y="517"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>fraction</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>454</integer>
+        </dict>
+        <key>wire</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>fraction</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>454</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

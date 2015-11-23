@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="asterisk" format="1">
-  <advance width="423"/>
+  <advance width="431"/>
   <unicode hex="002A"/>
   <outline>
     <contour>
-      <point x="210" y="517" type="move"/>
-      <point x="210" y="291" type="line"/>
+      <point x="215" y="548" type="move"/>
+      <point x="215" y="300" type="line"/>
     </contour>
     <contour>
-      <point x="104" y="464" type="move"/>
-      <point x="317" y="340" type="line"/>
+      <point x="99" y="490" type="move"/>
+      <point x="332" y="354" type="line"/>
     </contour>
     <contour>
-      <point x="104" y="340" type="move"/>
-      <point x="317" y="464" type="line"/>
+      <point x="99" y="354" type="move"/>
+      <point x="332" y="490" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -40,7 +40,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>423</integer>
+          <integer>431</integer>
         </dict>
         <key>wire</key>
         <dict>
@@ -62,7 +62,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>423</integer>
+          <integer>431</integer>
         </dict>
       </dict>
     </dict>

@@ -1,27 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="guillemotright" format="1">
-  <advance width="448"/>
+  <advance width="438"/>
   <unicode hex="00BB"/>
   <outline>
     <contour>
-      <point x="91" y="74" type="move"/>
-      <point x="202" y="198" type="line"/>
+      <point x="86" y="49" type="move"/>
+      <point x="197" y="199" type="line"/>
     </contour>
     <contour>
-      <point x="202" y="202" type="move"/>
-      <point x="91" y="326" type="line"/>
+      <point x="197" y="204" type="move"/>
+      <point x="86" y="354" type="line"/>
     </contour>
     <contour>
-      <point x="261" y="74" type="move"/>
-      <point x="372" y="198" type="line"/>
+      <point x="256" y="49" type="move"/>
+      <point x="367" y="199" type="line"/>
     </contour>
     <contour>
-      <point x="372" y="202" type="move"/>
-      <point x="261" y="326" type="line"/>
+      <point x="367" y="204" type="move"/>
+      <point x="256" y="354" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <real>90.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>x</key>
+          <integer>91</integer>
+          <key>y</key>
+          <integer>160</integer>
+        </dict>
+      </array>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>mask</key>
@@ -44,7 +61,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>448</integer>
+          <integer>438</integer>
         </dict>
         <key>wire</key>
         <dict>
@@ -66,7 +83,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>448</integer>
+          <integer>438</integer>
         </dict>
       </dict>
     </dict>

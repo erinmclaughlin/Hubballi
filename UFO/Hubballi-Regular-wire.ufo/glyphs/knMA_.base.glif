@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="knMA.base" format="1">
-  <advance width="993"/>
+  <advance width="988"/>
   <outline>
     <contour>
-      <point x="756" y="443" type="move"/>
-      <point x="810" y="443" type="line"/>
+      <point x="751" y="443" type="move"/>
+      <point x="805" y="443" type="line"/>
     </contour>
-    <component base="knMA" xOffset="5"/>
+    <component base="knMA"/>
   </outline>
   <lib>
     <dict>
@@ -34,7 +34,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>993</integer>
+          <integer>988</integer>
         </dict>
         <key>wire</key>
         <dict>
@@ -56,7 +56,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>993</integer>
+          <integer>988</integer>
         </dict>
       </dict>
       <key>public.markColor</key>

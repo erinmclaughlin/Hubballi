@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="cedilla" format="1">
-  <advance width="500"/>
+  <advance width="490"/>
   <unicode hex="00B8"/>
   <outline>
     <contour>
-      <point x="293" y="-74" type="move"/>
-      <point x="268" y="-99"/>
-      <point x="228" y="-138"/>
-      <point x="205" y="-161" type="curve"/>
+      <point x="294" y="-73" type="move"/>
+      <point x="267" y="-99"/>
+      <point x="216" y="-150"/>
+      <point x="193" y="-173" type="curve"/>
     </contour>
   </outline>
   <lib>
@@ -34,7 +34,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>500</integer>
+          <integer>490</integer>
         </dict>
         <key>wire</key>
         <dict>
@@ -56,7 +56,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>500</integer>
+          <integer>490</integer>
         </dict>
       </dict>
     </dict>

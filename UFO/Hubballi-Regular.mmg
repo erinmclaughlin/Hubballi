@@ -68,6 +68,8 @@
       Oslash
       Otilde
       Q
+      at
+      copyright
     </glyphs>
   </group>
   <group color="0.0 0.0 1.0 0.25" name="P" side="left" type="kerning">
@@ -93,10 +95,15 @@
       uni0218
     </glyphs>
   </group>
-  <group color="1.0 0.0 0.5 0.25" name="U" side="left" type="kerning">
+  <group color="0.0 0.0 1.0 0.25" name="T" side="left" type="kerning">
     <glyphs>
       T
       Tcaron
+      uni021A
+    </glyphs>
+  </group>
+  <group color="1.0 0.0 0.5 0.25" name="U" side="left" type="kerning">
+    <glyphs>
       U
       Uacute
       Ucircumflex
@@ -106,7 +113,6 @@
       Umacron
       Uogonek
       Uring
-      uni021A
     </glyphs>
   </group>
   <group color="1.0 0.0 0.0 0.25" name="Y" side="left" type="kerning">
@@ -130,6 +136,19 @@
       atilde
     </glyphs>
   </group>
+  <group color="0.5 0.0 1.0 0.25" name="asterisk" side="left" type="kerning">
+    <glyphs>
+      asterisk
+      degree
+      onesuperior
+      ordfeminine
+      ordmasculine
+      registered
+      threesuperior
+      trademark
+      twosuperior
+    </glyphs>
+  </group>
   <group color="1.0 1.0 0.0 0.25" name="c" side="left" type="kerning">
     <glyphs>
       c
@@ -138,11 +157,32 @@
       ccedilla
     </glyphs>
   </group>
+  <group color="1.0 0.0 1.0 0.25" name="exclam" side="left" type="kerning">
+    <glyphs>
+      colon
+      exclam
+      guillemotleft
+      guilsinglleft
+      semicolon
+    </glyphs>
+  </group>
   <group color="0.0 1.0 1.0 0.25" name="hyphen" side="left" type="kerning">
     <glyphs>
+      divide
       emdash
       endash
+      greater
+      guillemotright
+      guilsinglright
       hyphen
+      minus
+      plus
+    </glyphs>
+  </group>
+  <group color="0.0 0.5 1.0 0.25" name="k" side="left" type="kerning">
+    <glyphs>
+      k
+      uni0137
     </glyphs>
   </group>
   <group color="0.0 1.0 1.0 0.25" name="knBHA" side="left" type="kerning">
@@ -278,8 +318,14 @@
       knPE
       knPHA
       knPHE
+    </glyphs>
+  </group>
+  <group color="1.0 0.0 0.0 0.25" name="knPI" side="left" type="kerning">
+    <glyphs>
       knPHI
       knPI
+      knSI
+      knSSI
     </glyphs>
   </group>
   <group color="1.0 0.5 0.0 0.25" name="knRA" side="left" type="kerning">
@@ -296,14 +342,12 @@
     <glyphs>
       knSA
       knSE
-      knSI
     </glyphs>
   </group>
   <group color="1.0 1.0 0.0 0.25" name="knSHA" side="left" type="kerning">
     <glyphs>
       knSSA
       knSSE
-      knSSI
     </glyphs>
   </group>
   <group color="0.0 1.0 0.0 0.25" name="knSSA" side="left" type="kerning">
@@ -316,44 +360,24 @@
   <group color="0.0 1.0 1.0 0.25" name="knSub" side="left" type="kerning">
     <glyphs>
       knCAc2
-      knCAc2.following
       knDAc2
-      knDAc2.following
       knDDAc2
-      knDDAc2.following
       knDDHAc2
-      knDDHAc2.following
       knDHAc2
-      knDHAc2.following
       knGAc2
-      knGAc2.following
       knHAc2
-      knHAc2.following
       knJAc2
-      knJAc2.following
       knJHAc2
-      knJHAc2.following
       knLAc2
-      knLAc2.following
       knLLLAc2
-      knLLLAc2.following
       knNGAc2
-      knNGAc2.following
       knNNAc2
-      knNNAc2.following
       knNYAc2
-      knNYAc2.following
       knRRAc2
-      knRRAc2.following
-      knSSAc2.kssa
       knTAc2
-      knTAc2.following
       knTHAc2
-      knTHAc2.following
       knTTHAc2
-      knTTHAc2.following
       knVAc2
-      knVAc2.following
     </glyphs>
   </group>
   <group color="0.0 0.5 1.0 0.25" name="knSubTall" side="left" type="kerning">
@@ -402,6 +426,29 @@
       knsignvR.following
       knsignvRR
       knsignvRR.following
+    </glyphs>
+  </group>
+  <group color="1.0 0.0 0.5 0.25" name="knSubfollowing" side="left" type="kerning">
+    <glyphs>
+      knCAc2.following
+      knDAc2.following
+      knDDAc2.following
+      knDDHAc2.following
+      knDHAc2.following
+      knGAc2.following
+      knHAc2.following
+      knJAc2.following
+      knJHAc2.following
+      knLAc2.following
+      knLLLAc2.following
+      knNGAc2.following
+      knNNAc2.following
+      knNYAc2.following
+      knRRAc2.following
+      knTAc2.following
+      knTHAc2.following
+      knTTHAc2.following
+      knVAc2.following
     </glyphs>
   </group>
   <group color="0.0 0.0 1.0 0.25" name="knTA" side="left" type="kerning">
@@ -751,6 +798,8 @@
   </group>
   <group color="1.0 0.0 0.0 0.25" name="quoteright" side="left" type="kerning">
     <glyphs>
+      dcaron
+      lcaron
       quotedbl
       quotedblright
       quoteright
@@ -822,6 +871,8 @@
       Oslash
       Otilde
       Q
+      at
+      copyright
       uni0122
     </glyphs>
   </group>
@@ -885,11 +936,46 @@
       atilde
     </glyphs>
   </group>
+  <group color="1.0 0.5 0.0 0.25" name="asterisk" side="right" type="kerning">
+    <glyphs>
+      asterisk
+      degree
+      onesuperior
+      ordfeminine
+      ordmasculine
+      registered
+      threesuperior
+      trademark
+      twosuperior
+    </glyphs>
+  </group>
+  <group color="0.0 1.0 0.0 0.25" name="exclam" side="right" type="kerning">
+    <glyphs>
+      colon
+      exclam
+      guillemotright
+      guilsinglright
+      semicolon
+    </glyphs>
+  </group>
+  <group color="1.0 1.0 0.0 0.25" name="f" side="right" type="kerning">
+    <glyphs>
+      f
+      fi
+      fl
+    </glyphs>
+  </group>
   <group color="1.0 0.0 0.0 0.25" name="hyphen" side="right" type="kerning">
     <glyphs>
+      divide
       emdash
       endash
+      guillemotleft
+      guilsinglleft
       hyphen
+      less
+      minus
+      plus
     </glyphs>
   </group>
   <group color="1.0 0.0 1.0 0.25" name="knBA" side="right" type="kerning">
@@ -897,11 +983,13 @@
       knAU
       knB
       knBA
+      knBA.base
       knBAA
       knBAU
       knBE
       knBH
       knBHA
+      knBHA.base
       knBHAA
       knBHAU
       knBHE
@@ -915,6 +1003,7 @@
       knBUU
       knC
       knCA
+      knCA.base
       knCAA
       knCAU
       knCE
@@ -924,6 +1013,7 @@
       knCUU
       knJ
       knJA
+      knJA.base
       knJAA
       knJAU
       knJE
@@ -933,6 +1023,7 @@
       knJUU
       knNG
       knNGA
+      knNGA.base
       knNGAA
       knNGAU
       knNGE
@@ -948,15 +1039,18 @@
     <glyphs>
       knD
       knDA
+      knDA.base
       knDAA
       knDAU
       knDD
       knDDA
+      knDDA.base
       knDDAA
       knDDAU
       knDDE
       knDDH
       knDDHA
+      knDDHA.base
       knDDHAA
       knDDHAU
       knDDHE
@@ -971,6 +1065,7 @@
       knDE
       knDH
       knDHA
+      knDHA.base
       knDHAA
       knDHAU
       knDHE
@@ -984,6 +1079,7 @@
       knDUU
       knTH
       knTHA
+      knTHA.base
       knTHAA
       knTHAU
       knTHE
@@ -1004,6 +1100,7 @@
     <glyphs>
       knG
       knGA
+      knGA.base
       knGAA
       knGAU
       knGE
@@ -1017,6 +1114,7 @@
     <glyphs>
       knH
       knHA
+      knHA.base
       knHAA
       knHAU
       knHE
@@ -1030,6 +1128,7 @@
     <glyphs>
       knK
       knKA
+      knKA.base
       knKAA
       knKAU
       knKE
@@ -1067,6 +1166,7 @@
     <glyphs>
       knKH
       knKHA
+      knKHA.base
       knKHAA
       knKHAU
       knKHE
@@ -1085,6 +1185,7 @@
       knAnusvara
       knL
       knLA
+      knLA.base
       knLAA
       knLAU
       knLE
@@ -1100,6 +1201,7 @@
     <glyphs>
       knLL
       knLLA
+      knLLA.base
       knLLAA
       knLLAU
       knLLE
@@ -1113,6 +1215,7 @@
     <glyphs>
       knN
       knNA
+      knNA.base
       knNAA
       knNAU
       knNE
@@ -1122,10 +1225,10 @@
       knNUU
       knS
       knSA
+      knSA.base
       knSAA
       knSAU
       knSE
-      knSI
       knSO
       knSU
       knSUU
@@ -1136,6 +1239,7 @@
       knI
       knNY
       knNYA
+      knNYA.base
       knNYAA
       knNYAU
       knNYE
@@ -1151,41 +1255,50 @@
     <glyphs>
       knGH
       knGHA
+      knGHA.base
       knGHAA
       knGHAU
       knGHE
-      knGHI
       knGHO
       knGHU
       knGHUU
       knP
       knPA
+      knPA.base
       knPAA
       knPAU
       knPE
       knPH
       knPHA
+      knPHA.base
       knPHAA
       knPHAU
       knPHE
-      knPHI
       knPHO
       knPHU
       knPHUU
-      knPI
       knPO
       knPU
       knPUU
       knSS
       knSSA
+      knSSA.base
       knSSAA
       knSSAU
       knSSAc2
       knSSE
-      knSSI
       knSSO
       knSSU
       knSSUU
+    </glyphs>
+  </group>
+  <group color="0.0 1.0 1.0 0.25" name="knPI" side="right" type="kerning">
+    <glyphs>
+      knGHI
+      knPHI
+      knPI
+      knSI
+      knSSI
     </glyphs>
   </group>
   <group color="0.5 0.0 1.0 0.25" name="knRA" side="right" type="kerning">
@@ -1193,6 +1306,7 @@
       knII
       knJH
       knJHA
+      knJHA.base
       knJHAA
       knJHAU
       knJHE
@@ -1202,6 +1316,7 @@
       knJHUU
       knR
       knRA
+      knRA.base
       knRAA
       knRAU
       knRE
@@ -1211,6 +1326,7 @@
       knRUU
       knTTH
       knTTHA
+      knTTHA.base
       knTTHAA
       knTTHAU
       knTTHE
@@ -1224,6 +1340,7 @@
     <glyphs>
       knCH
       knCHA
+      knCHA.base
       knCHAA
       knCHAU
       knCHAc2
@@ -1234,6 +1351,7 @@
       knCHUU
       knLLL
       knLLLA
+      knLLLA.base
       knLLLAA
       knLLLAU
       knLLLE
@@ -1243,6 +1361,7 @@
       knLLLUU
       knRR
       knRRA
+      knRRA.base
       knRRAA
       knRRAU
       knRRE
@@ -1256,6 +1375,7 @@
     <glyphs>
       knSH
       knSHA
+      knSHA.base
       knSHAA
       knSHAU
       knSHE
@@ -1339,6 +1459,7 @@
     <glyphs>
       knT
       knTA
+      knTA.base
       knTAA
       knTAU
       knTE
@@ -1352,6 +1473,7 @@
     <glyphs>
       knNN
       knNNA
+      knNNA.base
       knNNAA
       knNNAU
       knNNE
@@ -1361,6 +1483,7 @@
       knNNUU
       knTT
       knTTA
+      knTTA.base
       knTTAA
       knTTAU
       knTTE
@@ -1374,6 +1497,7 @@
     <glyphs>
       knM
       knMA
+      knMA.base
       knMAA
       knMAU
       knME
@@ -1383,6 +1507,7 @@
       knMUU
       knV
       knVA
+      knVA.base
       knVAA
       knVAU
       knVE
@@ -1396,6 +1521,7 @@
     <glyphs>
       knY
       knYA
+      knYA.base
       knYAA
       knYAU
       knYE

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Iogonek" format="1">
-  <advance width="266"/>
+  <advance width="256"/>
   <unicode hex="012E"/>
   <outline>
     <component base="I"/>
-    <component base="ogonekcmb" xOffset="157"/>
+    <component base="ogonekcmb" xOffset="148" yOffset="4"/>
   </outline>
   <lib>
     <dict>
@@ -30,7 +30,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>266</integer>
+          <integer>256</integer>
         </dict>
         <key>wire</key>
         <dict>
@@ -52,7 +52,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>266</integer>
+          <integer>256</integer>
         </dict>
       </dict>
     </dict>

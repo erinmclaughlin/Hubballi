@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="knsignAI" format="1">
-  <advance width="172"/>
+  <advance width="192"/>
   <unicode hex="0CC8"/>
   <outline>
-    <component base="knAIlength"/>
+    <component base="knAIlength" xOffset="10"/>
     <component base="knsignE"/>
-    <component base="knAIlengthmark"/>
+    <component base="knAIlengthmark" xOffset="10"/>
   </outline>
   <lib>
     <dict>
@@ -31,7 +31,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>172</integer>
+          <integer>192</integer>
         </dict>
         <key>wire</key>
         <dict>
@@ -53,7 +53,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>172</integer>
+          <integer>192</integer>
         </dict>
       </dict>
     </dict>

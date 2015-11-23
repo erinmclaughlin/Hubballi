@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="knTHI" format="1">
+  <advance width="729"/>
+  <outline>
+    <contour>
+      <point x="370" y="331" type="curve" smooth="yes"/>
+      <point x="402" y="331"/>
+      <point x="424" y="302"/>
+      <point x="424" y="278" type="curve" smooth="yes"/>
+      <point x="424" y="250"/>
+      <point x="402" y="225"/>
+      <point x="370" y="225" type="curve" smooth="yes"/>
+      <point x="342" y="225"/>
+      <point x="317" y="249"/>
+      <point x="317" y="279" type="curve" smooth="yes"/>
+      <point x="317" y="302"/>
+      <point x="341" y="331"/>
+    </contour>
+    <contour>
+      <point x="395" y="-83" type="curve" smooth="yes"/>
+      <point x="395" y="-186" type="line" smooth="yes"/>
+      <point x="395" y="-200"/>
+      <point x="384" y="-211"/>
+      <point x="370" y="-211" type="curve" smooth="yes"/>
+      <point x="357" y="-211"/>
+      <point x="345" y="-200"/>
+      <point x="345" y="-186" type="curve" smooth="yes"/>
+      <point x="345" y="-83" type="line" smooth="yes"/>
+      <point x="345" y="-70"/>
+      <point x="357" y="-58"/>
+      <point x="370" y="-58" type="curve" smooth="yes"/>
+      <point x="384" y="-58"/>
+      <point x="395" y="-70"/>
+    </contour>
+    <contour>
+      <point x="370" y="281" type="curve" smooth="yes"/>
+      <point x="369" y="281"/>
+      <point x="367" y="280"/>
+      <point x="367" y="279" type="curve" smooth="yes"/>
+      <point x="367" y="277"/>
+      <point x="368" y="275"/>
+      <point x="370" y="275" type="curve" smooth="yes"/>
+      <point x="372" y="275"/>
+      <point x="374" y="276"/>
+      <point x="374" y="278" type="curve" smooth="yes"/>
+      <point x="374" y="280"/>
+      <point x="372" y="281"/>
+    </contour>
+    <component base="knDI"/>
+    <component base="knDI"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <real>90.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>x</key>
+          <integer>370</integer>
+          <key>y</key>
+          <integer>-67</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>knTHI</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>729</integer>
+        </dict>
+        <key>wire</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>knTHI</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>729</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

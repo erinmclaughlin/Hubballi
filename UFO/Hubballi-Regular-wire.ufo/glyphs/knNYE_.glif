@@ -1,9 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="knNYE" format="1">
-  <advance width="1079"/>
+  <advance width="1261"/>
   <outline>
-    <component base="knNYA.base"/>
-    <component base="knsignE" xOffset="1088"/>
+    <contour>
+      <point x="571" y="-13" type="move"/>
+      <point x="521" y="134"/>
+      <point x="429" y="212"/>
+      <point x="335" y="212" type="curve" smooth="yes"/>
+      <point x="263" y="212"/>
+      <point x="230" y="169"/>
+      <point x="230" y="132" type="curve" smooth="yes"/>
+      <point x="230" y="94"/>
+      <point x="263" y="53"/>
+      <point x="336" y="53" type="curve" smooth="yes"/>
+      <point x="503" y="53"/>
+      <point x="624" y="215"/>
+      <point x="624" y="322" type="curve" smooth="yes"/>
+      <point x="624" y="401"/>
+      <point x="577" y="449"/>
+      <point x="508" y="449" type="curve" smooth="yes"/>
+      <point x="440" y="449"/>
+      <point x="399" y="404"/>
+      <point x="360" y="336" type="curve"/>
+      <point x="355" y="336" type="line"/>
+      <point x="318" y="403"/>
+      <point x="271" y="450"/>
+      <point x="199" y="450" type="curve" smooth="yes"/>
+      <point x="130" y="450"/>
+      <point x="88" y="399"/>
+      <point x="88" y="338" type="curve" smooth="yes"/>
+      <point x="88" y="314"/>
+      <point x="95" y="290"/>
+      <point x="111" y="264" type="curve"/>
+    </contour>
+    <contour>
+      <point x="947" y="443" type="move"/>
+      <point x="1062" y="443" type="line" smooth="yes"/>
+      <point x="1179" y="443"/>
+      <point x="1213" y="489"/>
+      <point x="1213" y="542" type="curve" smooth="yes"/>
+      <point x="1213" y="588"/>
+      <point x="1178" y="622"/>
+      <point x="1127" y="622" type="curve" smooth="yes"/>
+      <point x="1072" y="622"/>
+      <point x="1033" y="578"/>
+      <point x="1033" y="518" type="curve" smooth="yes"/>
+      <point x="1033" y="491"/>
+      <point x="1040" y="464"/>
+      <point x="1044" y="448" type="curve"/>
+      <point x="1044" y="448"/>
+    </contour>
+    <contour>
+      <point x="624" y="355" type="move"/>
+      <point x="654" y="405"/>
+      <point x="693" y="443"/>
+      <point x="748" y="443" type="curve" smooth="yes"/>
+      <point x="814" y="443"/>
+      <point x="838" y="394"/>
+      <point x="838" y="342" type="curve" smooth="yes"/>
+      <point x="838" y="286"/>
+      <point x="873" y="254"/>
+      <point x="924" y="254" type="curve" smooth="yes"/>
+      <point x="999" y="254"/>
+      <point x="1041" y="321"/>
+      <point x="1041" y="445" type="curve"/>
+    </contour>
   </outline>
   <lib>
     <dict>
@@ -29,7 +90,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1079</integer>
+          <integer>1261</integer>
         </dict>
         <key>wire</key>
         <dict>
@@ -51,7 +112,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1079</integer>
+          <integer>1261</integer>
         </dict>
       </dict>
     </dict>

@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="circumflex" format="1">
-  <advance width="500"/>
+  <advance width="490"/>
   <unicode hex="02C6"/>
   <outline>
     <contour>
-      <point x="245" y="601" type="move"/>
-      <point x="215" y="571"/>
-      <point x="183" y="540"/>
-      <point x="157" y="514" type="curve"/>
+      <point x="240" y="603" type="move"/>
+      <point x="210" y="573"/>
+      <point x="178" y="542"/>
+      <point x="152" y="516" type="curve"/>
     </contour>
     <contour>
-      <point x="339" y="514" type="move"/>
-      <point x="313" y="540"/>
-      <point x="282" y="571"/>
-      <point x="251" y="601" type="curve"/>
+      <point x="334" y="516" type="move"/>
+      <point x="308" y="542"/>
+      <point x="277" y="573"/>
+      <point x="246" y="603" type="curve"/>
     </contour>
   </outline>
   <lib>
@@ -40,7 +40,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>500</integer>
+          <integer>490</integer>
         </dict>
         <key>wire</key>
         <dict>
@@ -62,7 +62,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>500</integer>
+          <integer>490</integer>
         </dict>
       </dict>
     </dict>

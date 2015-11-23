@@ -1,57 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="knsignvRR" format="1">
-  <advance width="476"/>
+  <advance width="446"/>
   <unicode hex="0CC4"/>
   <outline>
     <contour>
-      <point x="74" y="59" type="move"/>
-      <point x="220" y="59" type="line" smooth="yes"/>
-      <point x="342" y="59"/>
-      <point x="396" y="3"/>
-      <point x="396" y="-72" type="curve"/>
-      <point x="396" y="-141"/>
-      <point x="359" y="-182"/>
-      <point x="311" y="-182" type="curve" smooth="yes"/>
-      <point x="265" y="-182"/>
-      <point x="239" y="-151"/>
-      <point x="238" y="-117" type="curve" smooth="yes"/>
-      <point x="238" y="-76"/>
-      <point x="269" y="-38"/>
-      <point x="327" y="-38" type="curve" smooth="yes"/>
-      <point x="349" y="-38"/>
-      <point x="373" y="-40"/>
-      <point x="392" y="-47" type="curve"/>
+      <point x="54" y="59" type="move"/>
+      <point x="200" y="59" type="line" smooth="yes"/>
+      <point x="322" y="59"/>
+      <point x="376" y="3"/>
+      <point x="376" y="-72" type="curve"/>
+      <point x="376" y="-141"/>
+      <point x="339" y="-182"/>
+      <point x="291" y="-182" type="curve" smooth="yes"/>
+      <point x="245" y="-182"/>
+      <point x="219" y="-151"/>
+      <point x="218" y="-117" type="curve" smooth="yes"/>
+      <point x="218" y="-76"/>
+      <point x="249" y="-38"/>
+      <point x="307" y="-38" type="curve" smooth="yes"/>
+      <point x="329" y="-38"/>
+      <point x="353" y="-40"/>
+      <point x="372" y="-47" type="curve"/>
     </contour>
-    <contour>
-      <point x="-227" y="-226" type="move"/>
-      <point x="-209" y="-239"/>
-      <point x="-189" y="-253"/>
-      <point x="-149" y="-253" type="curve" smooth="yes"/>
-      <point x="-112" y="-253"/>
-      <point x="-76" y="-226"/>
-      <point x="-76" y="-179" type="curve" smooth="yes"/>
-      <point x="-76" y="-145"/>
-      <point x="-98" y="-112"/>
-      <point x="-146" y="-112" type="curve" smooth="yes"/>
-      <point x="-194" y="-112"/>
-      <point x="-229" y="-155"/>
-      <point x="-229" y="-210" type="curve" smooth="yes"/>
-      <point x="-229" y="-261"/>
-      <point x="-213" y="-301"/>
-      <point x="-179" y="-335" type="curve" smooth="yes"/>
-      <point x="-149" y="-365"/>
-      <point x="-101" y="-381"/>
-      <point x="-52" y="-381" type="curve" smooth="yes"/>
-      <point x="1" y="-381"/>
-      <point x="43" y="-364"/>
-      <point x="73" y="-334" type="curve" smooth="yes"/>
-      <point x="106" y="-301"/>
-      <point x="123" y="-252"/>
-      <point x="123" y="-187" type="curve" smooth="yes"/>
-      <point x="123" y="-126"/>
-      <point x="106" y="-38"/>
-      <point x="76" y="54" type="curve"/>
-    </contour>
+    <component base="knsignvR"/>
   </outline>
   <lib>
     <dict>
@@ -77,7 +48,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>476</integer>
+          <integer>446</integer>
         </dict>
         <key>wire</key>
         <dict>
@@ -99,7 +70,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>476</integer>
+          <integer>446</integer>
         </dict>
       </dict>
     </dict>

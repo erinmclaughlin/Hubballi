@@ -1,25 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="knNAc2.following" format="1">
-  <advance width="561"/>
+  <advance width="546"/>
   <outline>
-    <contour>
-      <point x="636" y="-343" type="move"/>
-      <point x="511" y="-198"/>
-      <point x="426" y="-144"/>
-      <point x="344" y="-144" type="curve" smooth="yes"/>
-      <point x="270" y="-144"/>
-      <point x="230" y="-188"/>
-      <point x="230" y="-237" type="curve" smooth="yes"/>
-      <point x="230" y="-289"/>
-      <point x="277" y="-328"/>
-      <point x="345" y="-328" type="curve" smooth="yes"/>
-      <point x="450" y="-328"/>
-      <point x="533" y="-247"/>
-      <point x="533" y="-144" type="curve" smooth="yes"/>
-      <point x="533" y="-82"/>
-      <point x="513" y="-9"/>
-      <point x="492" y="54" type="curve"/>
-    </contour>
+    <component base="knNAc2" xOffset="436"/>
   </outline>
   <lib>
     <dict>
@@ -84,7 +67,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>561</integer>
+          <integer>546</integer>
         </dict>
         <key>wire</key>
         <dict>
@@ -106,7 +89,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>561</integer>
+          <integer>546</integer>
         </dict>
       </dict>
     </dict>

@@ -1,43 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="knYAc2.following" format="1">
-  <advance width="567"/>
+  <advance width="569"/>
   <outline>
-    <contour>
-      <point x="230" y="-150" type="move"/>
-      <point x="246" y="-138"/>
-      <point x="263" y="-132"/>
-      <point x="283" y="-132" type="curve" smooth="yes"/>
-      <point x="317" y="-132"/>
-      <point x="343" y="-158"/>
-      <point x="343" y="-190" type="curve" smooth="yes"/>
-      <point x="343" y="-207"/>
-      <point x="339" y="-221"/>
-      <point x="332" y="-240" type="curve" smooth="yes"/>
-      <point x="326" y="-256"/>
-      <point x="322" y="-274"/>
-      <point x="322" y="-292" type="curve" smooth="yes"/>
-      <point x="322" y="-313"/>
-      <point x="329" y="-334"/>
-      <point x="347" y="-352" type="curve" smooth="yes"/>
-      <point x="362" y="-367"/>
-      <point x="387" y="-380"/>
-      <point x="420" y="-380" type="curve" smooth="yes"/>
-      <point x="492" y="-380"/>
-      <point x="540" y="-326"/>
-      <point x="540" y="-253" type="curve" smooth="yes"/>
-      <point x="540" y="-209"/>
-      <point x="518" y="-162"/>
-      <point x="467" y="-111" type="curve" smooth="yes"/>
-      <point x="431" y="-75"/>
-      <point x="411" y="-43"/>
-      <point x="411" y="-7" type="curve" smooth="yes"/>
-      <point x="411" y="33"/>
-      <point x="438" y="67"/>
-      <point x="482" y="67" type="curve" smooth="yes"/>
-      <point x="501" y="67"/>
-      <point x="515" y="62"/>
-      <point x="528" y="54" type="curve"/>
-    </contour>
+    <component base="knYAc2" xOffset="377"/>
   </outline>
   <lib>
     <dict>
@@ -102,7 +67,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>567</integer>
+          <integer>569</integer>
         </dict>
         <key>wire</key>
         <dict>
@@ -124,7 +89,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>567</integer>
+          <integer>569</integer>
         </dict>
       </dict>
     </dict>

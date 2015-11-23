@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="knGH" format="1">
-  <advance width="1092"/>
+  <advance width="1100"/>
   <outline>
-    <component base="knGHA.base" xOffset="-10"/>
-    <component base="knVirama" xOffset="840"/>
+    <contour>
+      <point x="539" y="443" type="move"/>
+      <point x="634" y="443" type="line"/>
+    </contour>
+    <component base="knGHA.base"/>
+    <component base="knVirama" xOffset="820"/>
   </outline>
   <lib>
     <dict>
@@ -29,7 +33,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1092</integer>
+          <integer>1100</integer>
         </dict>
         <key>wire</key>
         <dict>
@@ -51,7 +55,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1092</integer>
+          <integer>1100</integer>
         </dict>
       </dict>
     </dict>

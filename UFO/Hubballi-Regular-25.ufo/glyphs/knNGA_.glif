@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="knNGA" format="1">
+  <advance width="742"/>
+  <unicode hex="0C99"/>
+  <outline>
+    <contour>
+      <point x="433" y="376" type="curve" smooth="yes"/>
+      <point x="465" y="376"/>
+      <point x="487" y="347"/>
+      <point x="487" y="323" type="curve" smooth="yes"/>
+      <point x="487" y="295"/>
+      <point x="465" y="270"/>
+      <point x="433" y="270" type="curve" smooth="yes"/>
+      <point x="405" y="270"/>
+      <point x="380" y="294"/>
+      <point x="380" y="324" type="curve" smooth="yes"/>
+      <point x="380" y="347"/>
+      <point x="404" y="376"/>
+    </contour>
+    <contour>
+      <point x="243" y="357" type="curve" smooth="yes"/>
+      <point x="287" y="491"/>
+      <point x="368" y="536"/>
+      <point x="448" y="536" type="curve" smooth="yes"/>
+      <point x="524" y="536"/>
+      <point x="587" y="505"/>
+      <point x="645" y="417" type="curve" smooth="yes"/>
+      <point x="652" y="405"/>
+      <point x="649" y="390"/>
+      <point x="638" y="382" type="curve" smooth="yes"/>
+      <point x="626" y="375"/>
+      <point x="611" y="378"/>
+      <point x="603" y="389" type="curve" smooth="yes"/>
+      <point x="557" y="459"/>
+      <point x="508" y="486"/>
+      <point x="448" y="486" type="curve" smooth="yes"/>
+      <point x="384" y="486"/>
+      <point x="325" y="445"/>
+      <point x="291" y="341" type="curve" smooth="yes"/>
+      <point x="287" y="328"/>
+      <point x="272" y="321"/>
+      <point x="259" y="325" type="curve" smooth="yes"/>
+      <point x="246" y="329"/>
+      <point x="239" y="344"/>
+    </contour>
+    <contour>
+      <point x="433" y="326" type="curve" smooth="yes"/>
+      <point x="432" y="326"/>
+      <point x="430" y="325"/>
+      <point x="430" y="324" type="curve" smooth="yes"/>
+      <point x="430" y="322"/>
+      <point x="431" y="320"/>
+      <point x="433" y="320" type="curve" smooth="yes"/>
+      <point x="435" y="320"/>
+      <point x="437" y="321"/>
+      <point x="437" y="323" type="curve" smooth="yes"/>
+      <point x="437" y="325"/>
+      <point x="435" y="326"/>
+    </contour>
+    <component base="knO" yOffset="1"/>
+    <component base="knO" yOffset="1"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>1104</integer>
+          <key>y</key>
+          <integer>48</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>189</integer>
+          <key>y</key>
+          <integer>172</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>knNGA</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>742</integer>
+        </dict>
+        <key>wire</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>knNGA</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>742</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

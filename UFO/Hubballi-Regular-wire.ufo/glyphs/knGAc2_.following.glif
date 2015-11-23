@@ -2,21 +2,7 @@
 <glyph name="knGAc2.following" format="1">
   <advance width="460"/>
   <outline>
-    <contour>
-      <point x="497" y="-348" type="move"/>
-      <point x="505" y="-326"/>
-      <point x="517" y="-301"/>
-      <point x="517" y="-261" type="curve" smooth="yes"/>
-      <point x="517" y="-171"/>
-      <point x="452" y="-85"/>
-      <point x="374" y="-85" type="curve" smooth="yes"/>
-      <point x="296" y="-85"/>
-      <point x="230" y="-173"/>
-      <point x="230" y="-261" type="curve" smooth="yes"/>
-      <point x="230" y="-300"/>
-      <point x="240" y="-325"/>
-      <point x="250" y="-348" type="curve"/>
-    </contour>
+    <component base="knGAc2" xOffset="440"/>
   </outline>
   <lib>
     <dict>
