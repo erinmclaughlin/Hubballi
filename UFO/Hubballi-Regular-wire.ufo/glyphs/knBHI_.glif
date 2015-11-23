@@ -1,15 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="knBHI" format="1">
-  <advance width="763"/>
+  <advance width="769"/>
   <outline>
     <contour>
-      <point x="383" y="-83" type="move"/>
-      <point x="383" y="-186" type="line"/>
+      <point x="381" y="-83" type="move"/>
+      <point x="381" y="-186" type="line"/>
     </contour>
     <component base="knBI"/>
   </outline>
   <lib>
     <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <real>90.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>x</key>
+          <integer>381</integer>
+          <key>y</key>
+          <integer>78</integer>
+        </dict>
+      </array>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>mask</key>
@@ -32,7 +49,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>763</integer>
+          <integer>769</integer>
         </dict>
         <key>wire</key>
         <dict>
@@ -54,7 +71,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>763</integer>
+          <integer>769</integer>
         </dict>
       </dict>
     </dict>

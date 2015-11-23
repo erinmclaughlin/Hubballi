@@ -226,18 +226,18 @@
 	<key>@MMK_L_knHA</key>
 	<array>
 		<string>knHA</string>
-		<string>knHE</string>
 		<string>knHI</string>
+		<string>knHE</string>
 	</array>
 	<key>@MMK_L_knJA</key>
 	<array>
-		<string>knAU</string>
-		<string>knJA</string>
-		<string>knJE</string>
-		<string>knJI</string>
-		<string>knNGA</string>
 		<string>knO</string>
 		<string>knOO</string>
+		<string>knNGA</string>
+		<string>knJA</string>
+		<string>knJE</string>
+		<string>knAU</string>
+		<string>knJI</string>
 	</array>
 	<key>@MMK_L_knKA</key>
 	<array>
@@ -287,8 +287,13 @@
 		<string>knPE</string>
 		<string>knPHA</string>
 		<string>knPHE</string>
+	</array>
+	<key>@MMK_L_knPI</key>
+	<array>
 		<string>knPHI</string>
 		<string>knPI</string>
+		<string>knSSI</string>
+		<string>knSI</string>
 	</array>
 	<key>@MMK_L_knRA</key>
 	<array>
@@ -303,11 +308,9 @@
 	<array>
 		<string>knSA</string>
 		<string>knSE</string>
-		<string>knSI</string>
 	</array>
 	<key>@MMK_L_knSHA</key>
 	<array>
-		<string>knSSI</string>
 		<string>knSSE</string>
 		<string>knSSA</string>
 	</array>
@@ -470,42 +473,42 @@
 	</array>
 	<key>@MMK_L_knsignAU</key>
 	<array>
-		<string>knBAU</string>
-		<string>knBHAU</string>
-		<string>knCAU</string>
-		<string>knCHAU</string>
-		<string>knDAU</string>
+		<string>knNYAU</string>
+		<string>knSAU</string>
+		<string>knRAU</string>
 		<string>knDDAU</string>
-		<string>knDDHAU</string>
-		<string>knDHAU</string>
-		<string>knGAU</string>
-		<string>knGHAU</string>
-		<string>knHAU</string>
-		<string>knJAU</string>
+		<string>knNAU</string>
 		<string>knJHAU</string>
-		<string>knKAU</string>
-		<string>knKHAU</string>
+		<string>knNGAU</string>
+		<string>knMAU</string>
+		<string>knBAU</string>
 		<string>knLAU</string>
 		<string>knLLAU</string>
-		<string>knLLLAU</string>
-		<string>knMAU</string>
-		<string>knNAU</string>
-		<string>knNGAU</string>
-		<string>knNNAU</string>
-		<string>knNYAU</string>
-		<string>knPAU</string>
-		<string>knPHAU</string>
-		<string>knRAU</string>
-		<string>knRRAU</string>
-		<string>knSAU</string>
-		<string>knSHAU</string>
-		<string>knSSAU</string>
-		<string>knTAU</string>
-		<string>knTHAU</string>
-		<string>knTTAU</string>
-		<string>knTTHAU</string>
-		<string>knVAU</string>
+		<string>knGHAU</string>
 		<string>knYAU</string>
+		<string>knTTHAU</string>
+		<string>knKAU</string>
+		<string>knTTAU</string>
+		<string>knJAU</string>
+		<string>knNNAU</string>
+		<string>knLLLAU</string>
+		<string>knSHAU</string>
+		<string>knHAU</string>
+		<string>knDHAU</string>
+		<string>knKHAU</string>
+		<string>knPHAU</string>
+		<string>knTHAU</string>
+		<string>knGAU</string>
+		<string>knTAU</string>
+		<string>knRRAU</string>
+		<string>knBHAU</string>
+		<string>knSSAU</string>
+		<string>knDAU</string>
+		<string>knVAU</string>
+		<string>knCHAU</string>
+		<string>knCAU</string>
+		<string>knDDHAU</string>
+		<string>knPAU</string>
 	</array>
 	<key>@MMK_L_knsignEIvariants</key>
 	<array>
@@ -1132,12 +1135,11 @@
 		<string>knN</string>
 		<string>knSAU</string>
 		<string>knNO</string>
-		<string>knSU</string>
 		<string>knNI</string>
 		<string>knSO</string>
 		<string>knNAU</string>
 		<string>knNAA</string>
-		<string>knSI</string>
+		<string>knSU</string>
 		<string>knNA</string>
 		<string>knSUU</string>
 		<string>knNE</string>
@@ -1179,7 +1181,6 @@
 		<string>knGHAU</string>
 		<string>knPH</string>
 		<string>knPO</string>
-		<string>knPI</string>
 		<string>knSSE</string>
 		<string>knGHA</string>
 		<string>knSSAc2</string>
@@ -1194,21 +1195,26 @@
 		<string>knPHU</string>
 		<string>knPU</string>
 		<string>knSS</string>
-		<string>knPHI</string>
+		<string>knSSO</string>
 		<string>knPHAA</string>
-		<string>knGHI</string>
 		<string>knGHUU</string>
 		<string>knPHO</string>
 		<string>knPHA</string>
-		<string>knSSI</string>
 		<string>knPHA.base</string>
 		<string>knPHE</string>
 		<string>knGH</string>
 		<string>knSSA</string>
-		<string>knSSO</string>
 		<string>knPAU</string>
 		<string>knPA.base</string>
 		<string>knSSA.base</string>
+	</array>
+	<key>@MMK_R_knPI</key>
+	<array>
+		<string>knPHI</string>
+		<string>knPI</string>
+		<string>knSSI</string>
+		<string>knGHI</string>
+		<string>knSI</string>
 	</array>
 	<key>@MMK_R_knRA</key>
 	<array>

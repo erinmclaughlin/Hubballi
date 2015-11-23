@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="knYA.base" format="1">
-  <advance width="1189"/>
+  <advance width="1184"/>
   <outline>
     <contour>
-      <point x="944" y="468" type="curve" smooth="yes"/>
-      <point x="1005" y="468" type="line" smooth="yes"/>
-      <point x="1019" y="468"/>
-      <point x="1030" y="457"/>
-      <point x="1030" y="443" type="curve" smooth="yes"/>
-      <point x="1030" y="430"/>
-      <point x="1019" y="418"/>
-      <point x="1005" y="418" type="curve" smooth="yes"/>
-      <point x="944" y="418" type="line" smooth="yes"/>
-      <point x="931" y="418"/>
-      <point x="919" y="430"/>
-      <point x="919" y="443" type="curve" smooth="yes"/>
-      <point x="919" y="457"/>
-      <point x="931" y="468"/>
+      <point x="939" y="468" type="curve" smooth="yes"/>
+      <point x="1000" y="468" type="line" smooth="yes"/>
+      <point x="1014" y="468"/>
+      <point x="1025" y="457"/>
+      <point x="1025" y="443" type="curve" smooth="yes"/>
+      <point x="1025" y="430"/>
+      <point x="1014" y="418"/>
+      <point x="1000" y="418" type="curve" smooth="yes"/>
+      <point x="939" y="418" type="line" smooth="yes"/>
+      <point x="926" y="418"/>
+      <point x="914" y="430"/>
+      <point x="914" y="443" type="curve" smooth="yes"/>
+      <point x="914" y="457"/>
+      <point x="926" y="468"/>
     </contour>
-    <component base="knYA"/>
-    <component base="knYA"/>
+    <component base="knYA" xOffset="-5"/>
+    <component base="knYA" xOffset="-5"/>
   </outline>
   <lib>
     <dict>
@@ -47,7 +47,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1189</integer>
+          <integer>1184</integer>
         </dict>
         <key>wire</key>
         <dict>
@@ -69,7 +69,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1189</integer>
+          <integer>1184</integer>
         </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>
