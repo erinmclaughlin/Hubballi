@@ -2,8 +2,13 @@
 <glyph name="knNGO" format="1">
   <advance width="1352"/>
   <outline>
+    <contour>
+      <point x="666" y="443" type="move"/>
+      <point x="596" y="443" type="line"/>
+    </contour>
     <component base="knsignUU" xOffset="745"/>
-    <component base="knNGE"/>
+    <component base="knNGA"/>
+    <component base="knsignE" xOffset="910"/>
   </outline>
   <lib>
     <dict>

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="less" format="1">
+  <advance width="530"/>
+  <unicode hex="003C"/>
+  <outline>
+    <contour>
+      <point x="95" y="298" type="curve" smooth="yes"/>
+      <point x="405" y="438" type="line" smooth="yes"/>
+      <point x="416" y="443"/>
+      <point x="430" y="438"/>
+      <point x="435" y="426" type="curve" smooth="yes"/>
+      <point x="440" y="415"/>
+      <point x="435" y="401"/>
+      <point x="423" y="396" type="curve" smooth="yes"/>
+      <point x="113" y="256" type="line" smooth="yes"/>
+      <point x="102" y="251"/>
+      <point x="88" y="256"/>
+      <point x="83" y="268" type="curve" smooth="yes"/>
+      <point x="78" y="279"/>
+      <point x="83" y="293"/>
+    </contour>
+    <contour>
+      <point x="411" y="106" type="curve" smooth="yes"/>
+      <point x="89" y="252" type="line" smooth="yes"/>
+      <point x="77" y="257"/>
+      <point x="72" y="271"/>
+      <point x="77" y="282" type="curve" smooth="yes"/>
+      <point x="82" y="294"/>
+      <point x="96" y="299"/>
+      <point x="107" y="294" type="curve" smooth="yes"/>
+      <point x="429" y="148" type="line" smooth="yes"/>
+      <point x="441" y="143"/>
+      <point x="446" y="129"/>
+      <point x="441" y="118" type="curve" smooth="yes"/>
+      <point x="436" y="106"/>
+      <point x="422" y="101"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>x</key>
+          <integer>277</integer>
+          <key>y</key>
+          <integer>570</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>x</key>
+          <integer>340</integer>
+          <key>y</key>
+          <integer>340</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>x</key>
+          <integer>343</integer>
+          <key>y</key>
+          <integer>162</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>x</key>
+          <integer>184</integer>
+          <key>y</key>
+          <integer>254</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>less</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>530</integer>
+        </dict>
+        <key>wire</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>less</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>530</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

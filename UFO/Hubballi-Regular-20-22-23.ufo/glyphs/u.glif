@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="u" format="1">
+  <advance width="497"/>
+  <unicode hex="0075"/>
+  <outline>
+    <contour>
+      <point x="410" y="375" type="curve" smooth="yes"/>
+      <point x="410" y="33" type="line" smooth="yes"/>
+      <point x="410" y="21"/>
+      <point x="399" y="10"/>
+      <point x="387" y="10" type="curve" smooth="yes"/>
+      <point x="375" y="10"/>
+      <point x="364" y="21"/>
+      <point x="364" y="33" type="curve" smooth="yes"/>
+      <point x="364" y="375" type="line" smooth="yes"/>
+      <point x="364" y="387"/>
+      <point x="375" y="398"/>
+      <point x="387" y="398" type="curve" smooth="yes"/>
+      <point x="399" y="398"/>
+      <point x="410" y="387"/>
+    </contour>
+    <contour>
+      <point x="123" y="375" type="curve" smooth="yes"/>
+      <point x="123" y="175" type="line" smooth="yes"/>
+      <point x="123" y="92"/>
+      <point x="158" y="56"/>
+      <point x="212" y="56" type="curve" smooth="yes"/>
+      <point x="269" y="56"/>
+      <point x="327" y="102"/>
+      <point x="364" y="153" type="curve" smooth="yes"/>
+      <point x="372" y="164"/>
+      <point x="386" y="166"/>
+      <point x="396" y="159" type="curve" smooth="yes"/>
+      <point x="407" y="151"/>
+      <point x="409" y="137"/>
+      <point x="402" y="127" type="curve" smooth="yes"/>
+      <point x="355" y="62"/>
+      <point x="281" y="10"/>
+      <point x="212" y="10" type="curve" smooth="yes"/>
+      <point x="138" y="10"/>
+      <point x="77" y="48"/>
+      <point x="77" y="175" type="curve" smooth="yes"/>
+      <point x="77" y="375" type="line" smooth="yes"/>
+      <point x="77" y="387"/>
+      <point x="88" y="398"/>
+      <point x="100" y="398" type="curve" smooth="yes"/>
+      <point x="112" y="398"/>
+      <point x="123" y="387"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>x</key>
+          <integer>445</integer>
+          <key>y</key>
+          <integer>406</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>u</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>497</integer>
+        </dict>
+        <key>wire</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>u</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>497</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

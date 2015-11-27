@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="perthousand" format="1">
+  <advance width="1133"/>
+  <unicode hex="2030"/>
+  <outline>
+    <contour>
+      <point x="931" y="318" type="curve" smooth="yes"/>
+      <point x="1001" y="318"/>
+      <point x="1062" y="255"/>
+      <point x="1062" y="159" type="curve" smooth="yes"/>
+      <point x="1062" y="69"/>
+      <point x="1012" y="0"/>
+      <point x="931" y="0" type="curve" smooth="yes"/>
+      <point x="857" y="0"/>
+      <point x="799" y="70"/>
+      <point x="799" y="158" type="curve" smooth="yes"/>
+      <point x="799" y="255"/>
+      <point x="856" y="318"/>
+    </contour>
+    <contour>
+      <point x="931" y="272" type="curve" smooth="yes"/>
+      <point x="878" y="272"/>
+      <point x="845" y="221"/>
+      <point x="845" y="158" type="curve" smooth="yes"/>
+      <point x="845" y="100"/>
+      <point x="879" y="46"/>
+      <point x="931" y="46" type="curve" smooth="yes"/>
+      <point x="988" y="46"/>
+      <point x="1016" y="101"/>
+      <point x="1016" y="159" type="curve" smooth="yes"/>
+      <point x="1016" y="221"/>
+      <point x="981" y="272"/>
+    </contour>
+    <component base="percent"/>
+    <component base="percent"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>perthousand</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1133</integer>
+        </dict>
+        <key>wire</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>perthousand</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1133</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
