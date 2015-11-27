@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Tcaron" format="1">
-  <advance width="558"/>
+  <advance width="550"/>
   <unicode hex="0164"/>
   <outline>
     <component base="T"/>
-    <component base="caroncmb.cap" xOffset="282"/>
-    <component base="T"/>
-    <component base="caroncmb.cap" xOffset="282"/>
+    <component base="caroncmb.cap" xOffset="278"/>
   </outline>
   <lib>
     <dict>
@@ -22,9 +20,9 @@
           <key>name</key>
           <string></string>
           <key>x</key>
-          <integer>283</integer>
+          <integer>272</integer>
           <key>y</key>
-          <integer>287</integer>
+          <integer>583</integer>
         </dict>
       </array>
       <key>com.typemytype.robofont.layerData</key>
@@ -49,7 +47,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>558</integer>
+          <integer>550</integer>
         </dict>
         <key>wire</key>
         <dict>
@@ -71,7 +69,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>558</integer>
+          <integer>550</integer>
         </dict>
       </dict>
     </dict>
