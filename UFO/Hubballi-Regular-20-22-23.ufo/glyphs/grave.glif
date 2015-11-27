@@ -4,24 +4,24 @@
   <unicode hex="0060"/>
   <outline>
     <contour>
-      <point x="230" y="610" type="curve" smooth="yes"/>
-      <point x="258" y="574"/>
-      <point x="275" y="553"/>
-      <point x="300" y="513" type="curve" smooth="yes"/>
-      <point x="307" y="503"/>
-      <point x="304" y="488"/>
-      <point x="293" y="482" type="curve" smooth="yes"/>
-      <point x="283" y="475"/>
-      <point x="268" y="478"/>
-      <point x="262" y="489" type="curve" smooth="yes"/>
-      <point x="237" y="527"/>
-      <point x="220" y="548"/>
-      <point x="194" y="582" type="curve" smooth="yes"/>
-      <point x="186" y="592"/>
-      <point x="188" y="607"/>
-      <point x="198" y="614" type="curve" smooth="yes"/>
-      <point x="208" y="622"/>
-      <point x="223" y="620"/>
+      <point x="228" y="608" type="curve" smooth="yes"/>
+      <point x="255" y="573"/>
+      <point x="272" y="551"/>
+      <point x="298" y="512" type="curve" smooth="yes"/>
+      <point x="304" y="503"/>
+      <point x="301" y="490"/>
+      <point x="292" y="484" type="curve" smooth="yes"/>
+      <point x="283" y="478"/>
+      <point x="270" y="481"/>
+      <point x="264" y="490" type="curve" smooth="yes"/>
+      <point x="240" y="529"/>
+      <point x="223" y="549"/>
+      <point x="196" y="584" type="curve" smooth="yes"/>
+      <point x="190" y="592"/>
+      <point x="191" y="605"/>
+      <point x="200" y="612" type="curve" smooth="yes"/>
+      <point x="208" y="618"/>
+      <point x="221" y="617"/>
     </contour>
   </outline>
   <lib>
@@ -73,6 +73,13 @@
           <integer>490</integer>
         </dict>
       </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6312</real>
+        <real>1.0</real>
+        <real>0.9947</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>
