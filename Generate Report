@@ -1,0 +1,88 @@
+Batch Generate Files:
+---------------------
+Decompose:
+----------
+Hubballi Regular
+
+Remove Overlap:
+---------------
+Hubballi Regular
+
+Generate:
+---------
+Hubballi Regular to /Users/erinmclaughlin/Desktop/JOBS/_Google HUBLI/Hubballi/Hubballi-Regular.otf
+--------------------
+
+parts Report
+
+[Warning] The copyright was normalized for storage in the CFF table and consequently some characters were dropped: 'Copyright c 2015, Erin McLaughlin hello@erinmclaughlin.com. Digitized data copyright 2015, Google Corporation.'
+
+
+autohint Report
+
+Hinting font /font.otf. Start time: Sat Dec  5 20:31:36 2015.
+.........................................
+.........................................
+.........................................
+.........................................
+.........................................
+.........................................
+.........................................
+.........................................
+.........................................
+.........................................
+.........................................
+.........................................
+.........................................
+.........................................
+.........................................
+.........................................
+.........................................
+.........................................
+.........................................
+.........................................
+..............................
+Saving font file with new hints...Sat Dec  5 20:31:41 2015
+Done with font /font.otf. End time: Sat Dec  5 20:31:42 2015.
+
+
+makeotf Report
+
+makeotf [Note] Converting source font '/font.otf' to temporary Unix Type1 font file '/font.otf.tmp'.
+makeotf [Note] setting the DONT_USE_WIN_LINE_METRICS OS/2 fsSelection bit 7 from fontinfo keyword.
+makeotf [Note] setting the WEIGHT_WIDTH_SLOPE_ONLY OS/2 fsSelection bit 8 from fontinfo keyword.
+makeotf [Note] setting the OBLIQUE OS/2 fsSelection bit 9 from fontinfo keyword.
+makeotf [Note] Writing options file /current.fpr
+makeotf [Note] Running makeotfexe with commands:
+   cd ""
+   makeotfexe -f font.otf.tmp -o Hubballi-Regular.otf -ff features -gf glyphOrder -mf menuname -r
+makeotfexe [NOTE] Wrote new font file 'Hubballi-Regular.otf'.
+
+
+Built release mode font 'Hubballi-Regular.otf' Revision 1.000
+
+--------------------
+Hubballi Regular to /Users/erinmclaughlin/Desktop/JOBS/_Google HUBLI/Hubballi/Hubballi-Regular.ttf
+--------------------
+
+ttfautohint Report
+
+
+
+
+makeotf Report
+
+makeotf [Note] Converting source font '/Hubballi-Regular.ttf' to temporary Unix Type1 font file '/Hubballi-Regular.ttf.tmp'.
+makeotf [Note] setting the DONT_USE_WIN_LINE_METRICS OS/2 fsSelection bit 7 from fontinfo keyword.
+makeotf [Note] setting the WEIGHT_WIDTH_SLOPE_ONLY OS/2 fsSelection bit 8 from fontinfo keyword.
+makeotf [Note] setting the OBLIQUE OS/2 fsSelection bit 9 from fontinfo keyword.
+makeotf [Note] Writing options file /current.fpr
+makeotf [Note] Running makeotfexe with commands:
+   cd ""
+   makeotfexe -f Hubballi-Regular.ttf.tmp -o Hubballi-Regular.ttf -ff features -gf glyphOrder -mf menuname -r
+makeotfexe [NOTE] Wrote new font file 'Hubballi-Regular.ttf'.
+
+
+Built release mode font 'Hubballi-Regular.ttf' Revision 1.000
+
+--------------------
