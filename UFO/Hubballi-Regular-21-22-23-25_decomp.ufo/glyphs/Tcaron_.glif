@@ -28,7 +28,45 @@
       <point x="246" y="10"/>
       <point x="258" y="-2"/>
     </contour>
-    <component base="caroncmb.cap" xOffset="277"/>
+    <contour>
+      <point x="280" y="631"/>
+      <point x="285" y="633"/>
+      <point x="289" y="636" type="curve" smooth="yes"/>
+      <point x="322" y="660"/>
+      <point x="357" y="684"/>
+      <point x="385" y="705" type="curve" smooth="yes"/>
+      <point x="391" y="710"/>
+      <point x="394" y="717"/>
+      <point x="394" y="724" type="curve" smooth="yes"/>
+      <point x="394" y="735"/>
+      <point x="384" y="745"/>
+      <point x="371" y="745" type="curve" smooth="yes"/>
+      <point x="367" y="745"/>
+      <point x="363" y="744"/>
+      <point x="359" y="741" type="curve" smooth="yes"/>
+      <point x="334" y="722"/>
+      <point x="303" y="701"/>
+      <point x="272" y="679" type="curve"/>
+      <point x="242" y="701"/>
+      <point x="211" y="722"/>
+      <point x="186" y="741" type="curve" smooth="yes"/>
+      <point x="182" y="744"/>
+      <point x="178" y="745"/>
+      <point x="174" y="745" type="curve" smooth="yes"/>
+      <point x="160" y="745"/>
+      <point x="151" y="735"/>
+      <point x="151" y="724" type="curve" smooth="yes"/>
+      <point x="151" y="717"/>
+      <point x="154" y="710"/>
+      <point x="160" y="705" type="curve" smooth="yes"/>
+      <point x="188" y="684"/>
+      <point x="222" y="660"/>
+      <point x="256" y="636" type="curve" smooth="yes"/>
+      <point x="260" y="633"/>
+      <point x="265" y="631"/>
+      <point x="271" y="631" type="curve" smooth="yes"/>
+      <point x="275" y="631" type="line" smooth="yes"/>
+    </contour>
   </outline>
   <lib>
     <dict>
