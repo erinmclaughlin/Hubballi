@@ -7,15 +7,13 @@
 	<key>capHeight</key>
 	<integer>535</integer>
 	<key>copyright</key>
-	<string>Copyright (c) 2015 Erin McLaughlin</string>
+	<string>Copyright (c) 2015, Erin McLaughlin (hello@erinmclaughlin.com). Digitized data copyright 2015, Google Corporation.</string>
 	<key>descender</key>
 	<integer>-191</integer>
 	<key>familyName</key>
 	<string>Hubballi</string>
 	<key>italicAngle</key>
 	<real>0.0</real>
-	<key>openTypeHeadCreated</key>
-	<string>2015/12/04 21:25:30</string>
 	<key>openTypeHeadFlags</key>
 	<array>
 		<integer>0</integer>
@@ -24,7 +22,7 @@
 	<key>openTypeHeadLowestRecPPEM</key>
 	<integer>3</integer>
 	<key>openTypeHheaAscender</key>
-	<integer>561</integer>
+	<integer>634</integer>
 	<key>openTypeHheaCaretOffset</key>
 	<integer>0</integer>
 	<key>openTypeHheaCaretSlopeRise</key>
@@ -32,13 +30,13 @@
 	<key>openTypeHheaCaretSlopeRun</key>
 	<integer>0</integer>
 	<key>openTypeHheaDescender</key>
-	<integer>-191</integer>
+	<integer>-366</integer>
 	<key>openTypeHheaLineGap</key>
-	<integer>200</integer>
+	<integer>0</integer>
 	<key>openTypeNameDesigner</key>
 	<string>Erin McLaughlin</string>
 	<key>openTypeNameLicense</key>
-	<string>This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL</string>
+	<string>This Font Software is licensed under the SIL Open Font License, Version 1.1.</string>
 	<key>openTypeNameLicenseURL</key>
 	<string>http://scripts.sil.org/OFL</string>
 	<key>openTypeNameManufacturer</key>
@@ -48,9 +46,7 @@
 	<key>openTypeNamePreferredFamilyName</key>
 	<string>Hubballi</string>
 	<key>openTypeNameUniqueID</key>
-	<string>1.000;ITFO;Hubballi-Regular</string>
-	<key>openTypeNameVersion</key>
-	<string>Version 1.000;PS 1.0;hotconv 1.0.72;makeotf.lib2.5.5900 DEVELOPMENT</string>
+	<string>1.000;GOOG;Hubballi Regular Regular</string>
 	<key>openTypeOS2CodePageRanges</key>
 	<array>
 		<integer>0</integer>
@@ -76,7 +72,7 @@
 	<array>
 	</array>
 	<key>openTypeOS2StrikeoutPosition</key>
-	<integer>232</integer>
+	<integer>224</integer>
 	<key>openTypeOS2StrikeoutSize</key>
 	<integer>0</integer>
 	<key>openTypeOS2SubscriptXOffset</key>
@@ -99,11 +95,11 @@
 	<array>
 	</array>
 	<key>openTypeOS2TypoAscender</key>
-	<integer>561</integer>
+	<integer>634</integer>
 	<key>openTypeOS2TypoDescender</key>
-	<integer>-191</integer>
+	<integer>-366</integer>
 	<key>openTypeOS2TypoLineGap</key>
-	<integer>200</integer>
+	<integer>0</integer>
 	<key>openTypeOS2UnicodeRanges</key>
 	<array>
 		<integer>24</integer>
@@ -115,9 +111,15 @@
 	<key>openTypeOS2WidthClass</key>
 	<integer>5</integer>
 	<key>openTypeOS2WinAscent</key>
-	<integer>850</integer>
+	<integer>634</integer>
 	<key>openTypeOS2WinDescent</key>
-	<integer>350</integer>
+	<integer>366</integer>
+	<key>openTypeVheaVertTypoAscender</key>
+	<integer>634</integer>
+	<key>openTypeVheaVertTypoDescender</key>
+	<integer>366</integer>
+	<key>openTypeVheaVertTypoLineGap</key>
+	<integer>0</integer>
 	<key>postscriptBlueValues</key>
 	<array>
 		<integer>-193</integer>
@@ -139,12 +141,8 @@
 	<key>postscriptFamilyOtherBlues</key>
 	<array>
 	</array>
-	<key>postscriptFontName</key>
-	<string>Hubballi-Regular</string>
 	<key>postscriptForceBold</key>
 	<false/>
-	<key>postscriptFullName</key>
-	<string>Hubballi Regular</string>
 	<key>postscriptIsFixedPitch</key>
 	<false/>
 	<key>postscriptOtherBlues</key>
@@ -164,10 +162,6 @@
 	<integer>0</integer>
 	<key>postscriptUnderlineThickness</key>
 	<integer>0</integer>
-	<key>postscriptWeightName</key>
-	<string>Light</string>
-	<key>styleMapFamilyName</key>
-	<string>Hubballi Regular</string>
 	<key>styleMapStyleName</key>
 	<string>regular</string>
 	<key>styleName</key>
