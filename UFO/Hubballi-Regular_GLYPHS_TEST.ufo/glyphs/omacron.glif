@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="omacron" format="1">
+  <advance width="495"/>
+  <unicode hex="014D"/>
+  <outline>
+    <contour>
+      <point x="348" y="517" type="line" smooth="yes"/>
+      <point x="360" y="517"/>
+      <point x="370" y="527"/>
+      <point x="370" y="539" type="curve" smooth="yes"/>
+      <point x="370" y="551"/>
+      <point x="360" y="561"/>
+      <point x="348" y="561" type="curve" smooth="yes"/>
+      <point x="147" y="561" type="line" smooth="yes"/>
+      <point x="135" y="561"/>
+      <point x="125" y="551"/>
+      <point x="125" y="539" type="curve" smooth="yes"/>
+      <point x="125" y="527"/>
+      <point x="135" y="517"/>
+      <point x="147" y="517" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="247" y="396" type="curve" smooth="yes"/>
+      <point x="124" y="396"/>
+      <point x="48" y="304"/>
+      <point x="48" y="193" type="curve" smooth="yes"/>
+      <point x="48" y="82"/>
+      <point x="126" y="-4"/>
+      <point x="247" y="-4" type="curve" smooth="yes"/>
+      <point x="369" y="-4"/>
+      <point x="446" y="81"/>
+      <point x="446" y="191" type="curve" smooth="yes"/>
+      <point x="446" y="304"/>
+      <point x="369" y="396"/>
+    </contour>
+    <contour>
+      <point x="247" y="346" type="curve" smooth="yes"/>
+      <point x="339" y="346"/>
+      <point x="396" y="276"/>
+      <point x="396" y="191" type="curve" smooth="yes"/>
+      <point x="396" y="109"/>
+      <point x="337" y="46"/>
+      <point x="247" y="46" type="curve" smooth="yes"/>
+      <point x="156" y="46"/>
+      <point x="98" y="110"/>
+      <point x="98" y="193" type="curve" smooth="yes"/>
+      <point x="98" y="276"/>
+      <point x="154" y="346"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>
