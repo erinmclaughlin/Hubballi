@@ -8,7 +8,7 @@ Hubballi will be available for free via the Google Web Fonts project.
 Feel free to contact me at hello@erinmclaughlin.com with comments or questions.
 
 
-![Screenshot of a test]()</a>
+![Screenshot of a test](https://raw.githubusercontent.com/erinmclaughlin/Hubballi/feedback/tests/screenshots/mac-pdf/Screen%20Shot%202016-01-18%20at%2012.45.17%20AM.png)</a>
 
 ##Version 1.000
 * 1 weights: Regular
