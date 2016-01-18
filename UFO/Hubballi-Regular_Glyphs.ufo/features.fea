@@ -3,9 +3,9 @@ languagesystem DFLT dflt;
 languagesystem knd2 dflt;
 languagesystem knda dflt;
 
-@BELOW_BASE_MARKS = [ knsignvR knsignvRR knAIlengthmark knKAc2 knKHAc2 knGAc2 knGHAc2 knNGAc2 knCAc2 knCHAc2 knJAc2 knJHAc2 knNYAc2 knTTAc2 knTTHAc2 knDDAc2 knDDHAc2 knNNAc2 knTAc2 knTHAc2 knDAc2 knDHAc2 knNAc2 knPAc2 knPHAc2 knBAc2 knBHAc2 knMAc2 knYAc2 knRAc2 knLAc2 knVAc2 knSHAc2 knSSAc2 knSAc2 knHAc2 knRRAc2 knLLAc2 knLLLAc2 knKSSAc2 knTAc2_RAc2 ];
+@BELOW_BASE_MARKS = [ knRAc2 knsignvR knsignvRR knAIlengthmark knKAc2 knKHAc2 knGAc2 knGHAc2 knNGAc2 knCAc2 knCHAc2 knJAc2 knJHAc2 knNYAc2 knTTAc2 knTTHAc2 knDDAc2 knDDHAc2 knNNAc2 knTAc2 knTHAc2 knDAc2 knDHAc2 knNAc2 knPAc2 knPHAc2 knBAc2 knBHAc2 knMAc2 knYAc2 knRAc2 knLAc2 knVAc2 knSHAc2 knSSAc2 knSAc2 knHAc2 knRRAc2 knLLAc2 knLLLAc2 knKSSAc2 knTAc2_RAc2 ];
 
-@BELOW_BASE_MARKS_FOLLOWING = [ knsignvR.following knsignvRR.following knAIlengthmark.following knKAc2.following knKHAc2.following knGAc2.following knGHAc2.following knNGAc2.following knCAc2.following knCHAc2.following knJAc2.following knJHAc2.following knNYAc2.following knTTAc2.following knTTHAc2.following knDDAc2.following knDDHAc2.following knNNAc2.following knTAc2.following knTHAc2.following knDAc2.following knDHAc2.following knNAc2.following knPAc2.following knPHAc2.following knBAc2.following knBHAc2.following knMAc2.following knYAc2.following knRAc2.following knLAc2.following knVAc2.following knSHAc2.following knSSAc2.following knSAc2.following knHAc2.following knRRAc2.following knLLAc2.following knLLLAc2.following knKSSAc2.following knTAc2_RAc2.following ];
+@BELOW_BASE_MARKS_FOLLOWING = [ knRAc2.following knsignvR.following knsignvRR.following knAIlengthmark.following knKAc2.following knKHAc2.following knGAc2.following knGHAc2.following knNGAc2.following knCAc2.following knCHAc2.following knJAc2.following knJHAc2.following knNYAc2.following knTTAc2.following knTTHAc2.following knDDAc2.following knDDHAc2.following knNNAc2.following knTAc2.following knTHAc2.following knDAc2.following knDHAc2.following knNAc2.following knPAc2.following knPHAc2.following knBAc2.following knBHAc2.following knMAc2.following knYAc2.following knRAc2.following knLAc2.following knVAc2.following knSHAc2.following knSSAc2.following knSAc2.following knHAc2.following knRRAc2.following knLLAc2.following knLLLAc2.following knKSSAc2.following knTAc2_RAc2.following ];
 
 @COMBINING_MARKS = [ knCandrabindu knNukta knSSAc2.kssa @BELOW_BASE_MARKS @BELOW_BASE_MARKS_FOLLOWING ];
 
@@ -15,6 +15,7 @@ sub knRA knVirama by knReph;
 
 feature blwf {
 lookup blwf_new {
+
   sub knVirama knKA by knKAc2;
   sub knVirama knKHA by knKHAc2;
   sub knVirama knGA by knGAc2;
@@ -51,9 +52,11 @@ lookup blwf_new {
   sub knVirama knRRA by knRRAc2;
   sub knVirama knLLA by knLLAc2;
   sub knVirama knLLLA by knLLLAc2;
+  
 } blwf_new;
 
 lookup blwf_old {
+
   sub knKA knVirama by knKAc2;
   sub knKHA knVirama by knKHAc2;
   sub knGA knVirama by knGAc2;
@@ -90,16 +93,8 @@ lookup blwf_old {
   sub knRRA knVirama by knRRAc2;
   sub knLLA knVirama by knLLAc2;
   sub knLLLA knVirama by knLLLAc2;
+  
 } blwf_old;
-
-script DFLT;
-	lookup blwf_new;
-
-script knd2;
-	lookup blwf_new;
-
-script knda;
-	lookup blwf_old;
 } blwf;
 
 feature pres {
@@ -382,11 +377,6 @@ lookup pres_c2_following {
     by
     @BELOW_BASE_MARKS_FOLLOWING;
 } pres_c2_following;
-
-  lookup pres_matra;
-  lookup pres_kssa;
-  lookup pres_c2_following;
-  lookup pres_c2_ligating;
 } pres;
 
 feature haln {
