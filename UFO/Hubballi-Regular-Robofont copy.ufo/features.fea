@@ -1,0 +1,646 @@
+# Prefix: languagesystem
+languagesystem DFLT dflt;
+languagesystem knd2 dflt;
+languagesystem knda dflt;
+languagesystem latn dflt;
+
+@KERN_RIGHT_s = [ s sacute uni015F scaron uni0219 ];
+
+@KERN_RIGHT_knM = [ knVU knME knM knMA knMAA knMO knMI knVE knMU knMAU knVA.base knV knVO knVI knVAU knMA.base knVUU knMUU knVAA knVA ];
+
+@KERN_RIGHT_quotedbl = [ quoteright quotedblright quotedbl quotesingle ];
+
+@KERN_LEFT_dcaron = [ quoteright quotedblright quotedbl lcaron quotesingle dcaron ];
+
+@KERN_RIGHT_knCH = [ knLLLAA knRRAA knLLLUU knLLLI knCHUU knRR knCHAU knRRAU knLLL knLLLE knRRI knCHA knLLLA knCHE knCH knRRO knLLLO knRRA knCHI knRRA.base knCHO knRRE knLLLU knCHAA knLLLAU knCHU knCHAc2 knLLLA.base knRRUU knRRU knCHA.base ];
+
+@KERN_RIGHT_knGHI = [ knPHI knPI knSI knGHI knSSI ];
+
+@KERN_LEFT_S = [ S Sacute uni0218 uni015E Scaron ];
+
+@KERN_LEFT_t = [ uni0163 t uni021B tcaron ];
+
+@KERN_LEFT_knKA = [ knKE knKA knKI ];
+
+@KERN_RIGHT_knAI = [ knEE knE knAI ];
+
+@KERN_LEFT_knPHU = [ knVU knPHU knPU ];
+
+@KERN_RIGHT_knGH = [ knGHE knPUU knPAA knGHO knPHUU knGHAA knGHU knPE knGHAU knPH knPO knPHA.base knGHA knGHA.base knPHE knSSAc2 knPA knSSUU knPHAU knSSAA knSSU knSS knPU knPHU knSSO knPHAA knGHUU knPHO knPHA knSSE knSSAU knP knSSA knPAU knGH knPA.base knSSA.base ];
+
+@KERN_RIGHT_dotlessi = [ udieresis uhungarumlaut r nacute iacute uacute rcaron igrave icircumflex m ugrave uring ncaron umacron dotlessi racute iogonek i uni0157 uni0146 n imacron ntilde uogonek ucircumflex u idieresis ];
+
+@KERN_LEFT_L = [ Lslash uni013B L Lacute Lcaron ];
+
+@KERN_RIGHT_C = [ Oslash Omacron G C Ccaron Otilde Q O Oacute Gbreve copyright Odieresis Ohungarumlaut Ograve Ocircumflex Cacute uni0122 Ccedilla OE at ];
+
+@KERN_RIGHT_Z = [ Zacute Z Zcaron Zdotaccent ];
+
+@KERN_LEFT_knBHO = [ knTHO knKHO knKUU knTHUU knGHO knTUU knTTUU knNNUU knRO knDDO knVO knJHO knNGO knBHO knLLLO knCHO knNGUU knMUU knGUU knHUU knDDHO knYO knBUU knSSUU knLLUU knSHO knCHUU knvRR knKHUU knPHUU knNUU knRUU knDDUU knTTO knSSO knLUU knGHUU knVUU knNYO knJO knBO knLLO knTTHUU knLLLUU knDHO knSHUU knRRUU knNYUU knBHUU knTO knDHUU knNO knJUU knGO knKO knPO knCO knRRO knDDHUU knCUU knDUU knHO knLO knDO knJHUU knPHO knMO knUU knNNO knSO knYUU knTTHO knPUU knSUU ];
+
+@KERN_RIGHT_knCAc2 = [ knRRAc2 knTAc2 knTHAc2 knVAc2 knGAc2 knDDAc2 knCAc2 knsignvLL knDHAc2 knJHAc2 knLAc2 knNYAc2 knTTHAc2 knNNAc2 knJAc2 knHAc2 knDDHAc2 knDAc2 knLLLAc2 knsignvL knNGAc2 ];
+
+@KERN_LEFT_knBAU = [ knNYAU knSAU knRAU knDDAU knNAU knJHAU knNGAU knMAU knBAU knLAU knLLAU knGHAU knYAU knTTHAU knKAU knPHAU knJAU knNNAU knLLLAU knSHAU knHAU knDHAU knKHAU knTTAU knTHAU knGAU knTAU knRRAU knBHAU knSSAU knDAU knVAU knCHAU knCAU knDDHAU knPAU ];
+
+@KERN_RIGHT_knLL = [ knLLI knLLAA knLLO knLLA knLLA.base knLLE knLL knLLAU knLLUU knLLU ];
+
+@KERN_LEFT_knAIlengthmark = [ knLLAc2 knBAc2 knYAc2 knSAc2.following knTTAc2 knKHAc2.following knRAc2.following knPAc2 knYAc2.following knTAc2_RAc2.following knsignvRR knSAc2 knSHAc2 knAIlengthmark knGHAc2.following knSSAc2 knSSAc2.following knCHAc2 knBHAc2.following knBAc2.following knNAc2 knSHAc2.following knGHAc2 knAIlengthmark.following knBHAc2 knsignvR.following knKAc2.following knRAc2 knMAc2 knPHAc2.following knCHAc2.following knPHAc2 knKSSAc2.following knsignvR knNAc2.following knMAc2.following knKSSAc2 knLLAc2.following knPAc2.following knsignvRR.following knKHAc2 knKAc2 knTAc2_RAc2 knTTAc2.following ];
+
+@KERN_LEFT_c = [ c ccedilla cacute ccaron ];
+
+@KERN_LEFT_knSSA = [ knSSE knSSA ];
+
+@KERN_RIGHT_knKH = [ knKHI knKHO knvR knKHAA knKHAU knKHUU knKHE knvRR knKHA.base knKHU knKHA knKH ];
+
+@KERN_RIGHT_U = [ Udieresis Uhungarumlaut Umacron Uacute Uring Ugrave Uogonek Ucircumflex U ];
+
+@KERN_LEFT_Y = [ Y Ydieresis Yacute ];
+
+@KERN_LEFT_z = [ zacute z zcaron zdotaccent ];
+
+@KERN_RIGHT_knA = [ knLU knAA knLE knLA.base knLA knLO knL knLI knA knLUU knLAU knAnusvara knUU knU knLAA ];
+
+@KERN_LEFT_knRA = [ knTTHI knRI knTTHA knRE knTTHE knRA ];
+
+@KERN_RIGHT_knII = [ knII knRAU knJHAA knJHU knRUU knTTHUU knRU knTTHE knRAA knJHAU knJHA knJHUU knRO knJHE knRA knJH knJHI knRE knJHO knRI knTTH knRA.base knJHA.base knTTHAU knR knTTHU knTTHI knTTHA.base knTTHO knTTHA knTTHAA ];
+
+@KERN_LEFT_knAU = [ knJA knO knJE knAU knJI knOO knNGA ];
+
+@KERN_LEFT_knHA = [ knHI knHA knHE ];
+
+@KERN_LEFT_knCA = [ knCE knCI knCA ];
+
+@KERN_RIGHT_y = [ y ydieresis yacute ];
+
+@KERN_LEFT_asterisk = [ ordfeminine onesuperior degree ordmasculine trademark registered asterisk twosuperior threesuperior ];
+
+@KERN_RIGHT_comma = [ ellipsis comma period quotesinglbase quotedblbase ];
+
+@KERN_LEFT_R = [ Racute R Rcaron uni0156 ];
+
+@KERN_RIGHT_braceright = [ parenright bracketright braceright ];
+
+@KERN_RIGHT_t = [ uni0163 t uni021B tcaron ];
+
+@KERN_RIGHT_quotedblleft = [ quotedblleft quoteleft ];
+
+@KERN_RIGHT_A = [ A Aring Adieresis Aacute Amacron Agrave Atilde Acircumflex AE Abreve Aogonek ];
+
+@KERN_RIGHT_knSH = [ knSHAA knSHE knSHU knSHA.base knSHA knSH knSHI knSHAU knSHO knSHUU ];
+
+@KERN_LEFT_knLLA = [ knLLI knLLE knLLA ];
+
+@KERN_RIGHT_S = [ S Sacute uni0218 uni015E Scaron ];
+
+@KERN_LEFT_knSHA = [ knSHA knSHI knSHE ];
+
+@KERN_LEFT_U = [ Udieresis Uhungarumlaut Umacron Uacute Uring Ugrave Uogonek Ucircumflex U ];
+
+@KERN_LEFT_knCAc2 = [ knRRAc2 knTAc2 knTHAc2 knVAc2 knGAc2 knDDAc2 knCAc2 knNGAc2 knDHAc2 knJHAc2 knLAc2 knNYAc2 knDDHAc2 knNNAc2 knJAc2 knHAc2 knTTHAc2 knDAc2 knLLLAc2 ];
+
+@KERN_RIGHT_knAU = [ knBAA knJA.base knCE knCAA knNGAA knJU knCA.base knNGA.base knOO knJUU knCAU knNGAU knBAU knNGA knBHA.base knCA knNGO knCO knBHI knBHO knNGI knCI knBA.base knNGE knBHA knJAU knCUU knNGUU knBHE knAU knBUU knNGU knCU knBHU knO knJ knNG knB knC knBHAA knJA knJAA knJE knJI knBHAU knJO knBI knBH knBO knBA knBE knBU knBHUU ];
+
+@KERN_LEFT_knTA = [ knTE knTA knTI ];
+
+@KERN_LEFT_K = [ K uni0136 ];
+
+@KERN_LEFT_AE = [ Ecaron Egrave Eogonek E OE Edieresis Emacron Eacute Ecircumflex AE Edotaccent ];
+
+@KERN_LEFT_knB = [ knTH knRR knDDH knGH knNN knPH knKH knTT knCH knD knN knL knM knJ knK knH knG knNG knLL knB knC knSS knTTH knNY knSH knDH knV knJH knT knDD knR knS knP knBH knLLL knReph knY ];
+
+@KERN_RIGHT_knAIlengthmark = [ knLLAc2 knBAc2 knNAc2 knYAc2 knGHAc2 knBHAc2 knPHAc2 knRAc2 knMAc2 knPAc2 knsignvRR knTTAc2 knSAc2 knsignvR knSHAc2 knAIlengthmark knKSSAc2 knKHAc2 knKAc2 knTAc2_RAc2 ];
+
+@KERN_LEFT_divide = [ guillemotright endash greater guilsinglright plus hyphen emdash minus divide ];
+
+@KERN_LEFT_A = [ A Aring Adieresis Aacute Amacron Agrave Atilde Acircumflex Abreve Aogonek ];
+
+@KERN_LEFT_colon = [ colon exclam guillemotleft guilsinglleft semicolon ];
+
+@KERN_RIGHT_knN = [ knN knSAU knNO knNI knNE knSU knNA knSO knSAA knNU knNUU knSE knNA.base knS knSA knNAA knNAU knSA.base knSUU ];
+
+@KERN_LEFT_y = [ y ydieresis yacute ];
+
+@KERN_LEFT_D = [ Oslash Omacron D Otilde O Dcaron Q at Eth Oacute Odieresis copyright Ohungarumlaut Ograve Ocircumflex Dcroat ];
+
+@KERN_RIGHT_knG = [ knGA.base knG knGAU knGU knGUU knGI knGO knGAA knGA knGE ];
+
+@KERN_LEFT_r = [ racute r uni0157 rcaron ];
+
+@KERN_RIGHT_knY = [ knY knYAU knYUU knYU knYI knYAA knYO knYA knYA.base knYE ];
+
+@KERN_LEFT_knGA = [ knGI knGA knGE ];
+
+@KERN_LEFT_knA = [ knAnusvara knLE knLA knLI knA ];
+
+@KERN_LEFT_knBA = [ knME knKU knMA knJHU knKHA knRU knMI knGU knMU knGHU knJHA knJHE knTHU knTU knJHI knKHU knNYU knSHU knDDHU knYU knLLLU knYI knCHU knYA knNGU knCU knRRU knBHU knSSU knJU knNNU knDU knSU knTTU knDDU knLU knNU knU knHU knvR knBA knDHU knTTHU knYE knvL knBU knLLU ];
+
+@KERN_RIGHT_knAIlengthmark.following = [ knRRAc2.following knNGAc2.following knCAc2.following knKHAc2.following knRAc2.following knDDAc2.following knLAc2.following knSAc2.following knYAc2.following knDAc2.following knSSAc2.following knTTHAc2.following knTHAc2.following knGHAc2.following knBHAc2.following knTAc2_RAc2.following knKSSAc2.following knVAc2.following knGAc2.following knBAc2.following knLLAc2.following knSHAc2.following knAIlengthmark.following knsignvR.following knKAc2.following knNYAc2.following knPHAc2.following knHAc2.following knCHAc2.following knNNAc2.following knTAc2.following knNAc2.following knMAc2.following knDDHAc2.following knPAc2.following knJHAc2.following knLLLAc2.following knsignvRR.following knJAc2.following knDHAc2.following knTTAc2.following ];
+
+@KERN_RIGHT_z = [ zacute z zcaron zdotaccent ];
+
+@KERN_RIGHT_c = [ gbreve ecircumflex odieresis ohungarumlaut ograve ocircumflex cacute c otilde edieresis emacron omacron dcroat eacute ccedilla edotaccent oslash o egrave eogonek e d g oe uni0123 ccaron dcaron q ecaron eth oacute ];
+
+@KERN_RIGHT__empty_lu.0_st.1_cl.0 = [  ];
+
+@KERN_LEFT_knPHI = [ knPHI knPI knSI knSSI ];
+
+@KERN_RIGHT_knI = [ knNYAU knNYU knI knNYUU knNYE knNYA knvLL knvL knNYA.base knNYO knNYI knNYAA knNY ];
+
+@KERN_LEFT_T = [ Tcaron uni021A T ];
+
+@KERN_RIGHT_colon = [ guilsinglright exclam colon guillemotright semicolon ];
+
+@KERN_LEFT_k = [ k uni0137 ];
+
+@KERN_RIGHT_Y = [ Y Ydieresis Yacute ];
+
+@KERN_LEFT_knLLLE = [ knLLLE knNYE knNGI knNGE knNYI knRRE ];
+
+@KERN_LEFT_knCAc2.following = [ knVAc2.following knGAc2.following knRRAc2.following knNGAc2.following knCAc2.following knDDAc2.following knLAc2.following knHAc2.following knJAc2.following knNNAc2.following knDAc2.following knTTHAc2.following knTHAc2.following knTAc2.following knDDHAc2.following knJHAc2.following knLLLAc2.following knNYAc2.following knDHAc2.following ];
+
+@KERN_LEFT_a = [ a aring adieresis aacute amacron agrave atilde acircumflex abreve aogonek ];
+
+@KERN_RIGHT_T = [ uni0162 Tcaron uni021A T ];
+
+@KERN_RIGHT_asterisk = [ ordfeminine onesuperior degree ordmasculine trademark registered asterisk twosuperior threesuperior ];
+
+@KERN_RIGHT_knK = [ knKA.base knKU knK knKAU knKE knKA knKO knKI knKAA knKUU ];
+
+@KERN_LEFT_comma = [ ellipsis comma period quotesinglbase quotedblbase ];
+
+@KERN_RIGHT_divide = [ endash guillemotleft divide less hyphen guilsinglleft plus emdash minus ];
+
+@KERN_RIGHT_f = [ fi fl f ];
+
+@KERN_RIGHT_knT = [ knTO knTAU knTI knTUU knTA.base knTA knTAA knTU knTE knT ];
+
+@KERN_LEFT_braceleft = [ bracketleft parenleft braceleft ];
+
+@KERN_LEFT_C = [ C Ccedilla Cacute Ccaron ];
+
+@KERN_LEFT_knDA = [ knTHI knTHE knTHA knDDE knDDHI knDDI knDHI knDI knDHE knDDHA knDDA knDE knDDHE knDHA knDA ];
+
+@KERN_LEFT_quotedblleft = [ quotedblleft quoteleft ];
+
+@KERN_RIGHT_a = [ a aring ae aacute amacron agrave atilde acircumflex adieresis abreve aogonek ];
+
+@KERN_LEFT_Z = [ ecaron ae odieresis Zdotaccent ograve ocircumflex omacron edieresis b emacron eacute ecircumflex Z edotaccent oslash egrave eogonek e Zcaron oe ohungarumlaut otilde o p Zacute eth thorn oacute ];
+
+@KERN_LEFT_knGHA = [ knGHE knGHA knGHI ];
+
+@KERN_RIGHT_knD = [ knTHO knTHI knTH knDDHUU knDDO knTHA knDDH knDDI knDDAA knDHUU knTHU knDDA.base knDDE knTHA.base knDDHA.base knTHUU knDDHU knDHAA knDDHI knDAU knDDHO knTHE knDDHA knDUU knDHAU knDDHE knD knDDA knTHAU knDAA knDDUU knDDU knDO knDI knDH knDE knDD knDA knTHAA knDU knDDHAU knDHU knDHA.base knDHO knDHI knDDAU knDHE knDDHAA knDHA knDA.base ];
+
+@KERN_LEFT_P = [ P Thorn ];
+
+@BELOW_BASE_MARKS = [ knRAc2 knsignvR knsignvRR knAIlengthmark knKAc2 knKHAc2 knGAc2 knGHAc2 knNGAc2 knCAc2 knCHAc2 knJAc2 knJHAc2 knNYAc2 knTTAc2 knTTHAc2 knDDAc2 knDDHAc2 knNNAc2 knTAc2 knTHAc2 knDAc2 knDHAc2 knNAc2 knPAc2 knPHAc2 knBAc2 knBHAc2 knMAc2 knYAc2 knRAc2 knLAc2 knVAc2 knSHAc2 knSSAc2 knSAc2 knHAc2 knRRAc2 knLLAc2 knLLLAc2 knKSSAc2 knTAc2_RAc2 ];
+
+@BELOW_BASE_MARKS_FOLLOWING = [ knRAc2.following knsignvR.following knsignvRR.following knAIlengthmark.following knKAc2.following knKHAc2.following knGAc2.following knGHAc2.following knNGAc2.following knCAc2.following knCHAc2.following knJAc2.following knJHAc2.following knNYAc2.following knTTAc2.following knTTHAc2.following knDDAc2.following knDDHAc2.following knNNAc2.following knTAc2.following knTHAc2.following knDAc2.following knDHAc2.following knNAc2.following knPAc2.following knPHAc2.following knBAc2.following knBHAc2.following knMAc2.following knYAc2.following knRAc2.following knLAc2.following knVAc2.following knSHAc2.following knSSAc2.following knSAc2.following knHAc2.following knRRAc2.following knLLAc2.following knLLLAc2.following knKSSAc2.following knTAc2_RAc2.following ];
+
+@COMBINING_MARKS = [ knCandrabindu knNukta knSSAc2.kssa @BELOW_BASE_MARKS @BELOW_BASE_MARKS_FOLLOWING ];
+
+feature sups {
+# automatic
+sub two by twosuperior;
+sub three by threesuperior;
+sub one by onesuperior;
+} sups;
+
+feature frac {
+# automatic
+sub one slash four by onequarter;
+sub one slash two by onehalf;
+sub three slash four by threequarters;
+} frac;
+
+feature liga {
+# automatic
+sub f i by fi;
+sub f l by fl;
+} liga;
+
+feature rphf {
+sub knRA knVirama by knReph;
+} rphf;
+
+feature blwf {
+lookup blwf_new {
+
+  sub knVirama knKA by knKAc2;
+  sub knVirama knKHA by knKHAc2;
+  sub knVirama knGA by knGAc2;
+  sub knVirama knGHA by knGHAc2;
+  sub knVirama knNGA by knNGAc2;
+  sub knVirama knCA by knCAc2;
+  sub knVirama knCHA by knCHAc2;
+  sub knVirama knJA by knJAc2;
+  sub knVirama knJHA by knJHAc2;
+  sub knVirama knNYA by knNYAc2;
+  sub knVirama knTTA by knTTAc2;
+  sub knVirama knTTHA by knTTHAc2;
+  sub knVirama knDDA by knDDAc2;
+  sub knVirama knDDHA by knDDHAc2;
+  sub knVirama knNNA by knNNAc2;
+  sub knVirama knTA by knTAc2;
+  sub knVirama knTHA by knTHAc2;
+  sub knVirama knDA by knDAc2;
+  sub knVirama knDHA by knDHAc2;
+  sub knVirama knNA by knNAc2;
+  sub knVirama knPA by knPAc2;
+  sub knVirama knPHA by knPHAc2;
+  sub knVirama knBA by knBAc2;
+  sub knVirama knBHA by knBHAc2;
+  sub knVirama knMA by knMAc2;
+  sub knVirama knYA by knYAc2;
+  sub knVirama knRA by knRAc2;
+  sub knVirama knLA by knLAc2;
+  sub knVirama knVA by knVAc2;
+  sub knVirama knSHA by knSHAc2;
+  sub knVirama knSSA by knSSAc2;
+  sub knVirama knSA by knSAc2;
+  sub knVirama knHA by knHAc2;
+  sub knVirama knRRA by knRRAc2;
+  sub knVirama knLLA by knLLAc2;
+  sub knVirama knLLLA by knLLLAc2;
+  
+} blwf_new;
+
+lookup blwf_old {
+
+  sub knKA knVirama by knKAc2;
+  sub knKHA knVirama by knKHAc2;
+  sub knGA knVirama by knGAc2;
+  sub knGHA knVirama by knGHAc2;
+  sub knNGA knVirama by knNGAc2;
+  sub knCA knVirama by knCAc2;
+  sub knCHA knVirama by knCHAc2;
+  sub knJA knVirama by knJAc2;
+  sub knJHA knVirama by knJHAc2;
+  sub knNYA knVirama by knNYAc2;
+  sub knTTA knVirama by knTTAc2;
+  sub knTTHA knVirama by knTTHAc2;
+  sub knDDA knVirama by knDDAc2;
+  sub knDDHA knVirama by knDDHAc2;
+  sub knNNA knVirama by knNNAc2;
+  sub knTA knVirama by knTAc2;
+  sub knTHA knVirama by knTHAc2;
+  sub knDA knVirama by knDAc2;
+  sub knDHA knVirama by knDHAc2;
+  sub knNA knVirama by knNAc2;
+  sub knPA knVirama by knPAc2;
+  sub knPHA knVirama by knPHAc2;
+  sub knBA knVirama by knBAc2;
+  sub knBHA knVirama by knBHAc2;
+  sub knMA knVirama by knMAc2;
+  sub knYA knVirama by knYAc2;
+  sub knRA knVirama by knRAc2;
+  sub knLA knVirama by knLAc2;
+  sub knVA knVirama by knVAc2;
+  sub knSHA knVirama by knSHAc2;
+  sub knSSA knVirama by knSSAc2;
+  sub knSA knVirama by knSAc2;
+  sub knHA knVirama by knHAc2;
+  sub knRRA knVirama by knRRAc2;
+  sub knLLA knVirama by knLLAc2;
+  sub knLLLA knVirama by knLLLAc2;
+  
+} blwf_old;
+
+script DFLT;
+    lookup blwf_new;
+
+  script knd2;
+    lookup blwf_new;
+
+  script knda;
+    lookup blwf_old;
+} blwf;
+
+feature pres {
+lookup pres_matra {
+
+  sub knKA knsignAA by knKAA;
+  sub knKHA knsignAA by knKHAA;
+  sub knGA knsignAA by knGAA;
+  sub knGHA knsignAA by knGHAA;
+  sub knNGA knsignAA by knNGAA;
+  sub knCA knsignAA by knCAA;
+  sub knCHA knsignAA by knCHAA;
+  sub knJA knsignAA by knJAA;
+  sub knJHA knsignAA by knJHAA;
+  sub knNYA knsignAA by knNYAA;
+  sub knTTA knsignAA by knTTAA;
+  sub knTTHA knsignAA by knTTHAA;
+  sub knDDA knsignAA by knDDAA;
+  sub knDDHA knsignAA by knDDHAA;
+  sub knNNA knsignAA by knNNAA;
+  sub knTA knsignAA by knTAA;
+  sub knTHA knsignAA by knTHAA;
+  sub knDA knsignAA by knDAA;
+  sub knDHA knsignAA by knDHAA;
+  sub knNA knsignAA by knNAA;
+  sub knPA knsignAA by knPAA;
+  sub knPHA knsignAA by knPHAA;
+  sub knBA knsignAA by knBAA;
+  sub knBHA knsignAA by knBHAA;
+  sub knMA knsignAA by knMAA;
+  sub knYA knsignAA by knYAA;
+  sub knRA knsignAA by knRAA;
+  sub knLA knsignAA by knLAA;
+  sub knVA knsignAA by knVAA;
+  sub knSHA knsignAA by knSHAA;
+  sub knSSA knsignAA by knSSAA;
+  sub knSA knsignAA by knSAA;
+  sub knHA knsignAA by knHAA;
+  sub knRRA knsignAA by knRRAA;
+  sub knLLA knsignAA by knLLAA;
+  sub knLLLA knsignAA by knLLLAA;
+
+  sub knKA knsignI by knKI;
+  sub knKHA knsignI by knKHI;
+  sub knGA knsignI by knGI;
+  sub knGHA knsignI by knGHI;
+  sub knNGA knsignI by knNGI;
+  sub knCA knsignI by knCI;
+  sub knCHA knsignI by knCHI;
+  sub knJA knsignI by knJI;
+  sub knJHA knsignI by knJHI;
+  sub knNYA knsignI by knNYI;
+  sub knTTA knsignI by knTTI;
+  sub knTTHA knsignI by knTTHI;
+  sub knDDA knsignI by knDDI;
+  sub knDDHA knsignI by knDDHI;
+  sub knNNA knsignI by knNNI;
+  sub knTA knsignI by knTI;
+  sub knTHA knsignI by knTHI;
+  sub knDA knsignI by knDI;
+  sub knDHA knsignI by knDHI;
+  sub knNA knsignI by knNI;
+  sub knPA knsignI by knPI;
+  sub knPHA knsignI by knPHI;
+  sub knBA knsignI by knBI;
+  sub knBHA knsignI by knBHI;
+  sub knMA knsignI by knMI;
+  sub knYA knsignI by knYI;
+  sub knRA knsignI by knRI;
+  sub knLA knsignI by knLI;
+  sub knVA knsignI by knVI;
+  sub knSHA knsignI by knSHI;
+  sub knSSA knsignI by knSSI;
+  sub knSA knsignI by knSI;
+  sub knHA knsignI by knHI;
+  sub knRRA knsignI by knRRI;
+  sub knLLA knsignI by knLLI;
+  sub knLLLA knsignI by knLLLI;
+
+  sub knKA knsignU by knKU;
+  sub knKHA knsignU by knKHU;
+  sub knGA knsignU by knGU;
+  sub knGHA knsignU by knGHU;
+  sub knNGA knsignU by knNGU;
+  sub knCA knsignU by knCU;
+  sub knCHA knsignU by knCHU;
+  sub knJA knsignU by knJU;
+  sub knJHA knsignU by knJHU;
+  sub knNYA knsignU by knNYU;
+  sub knTTA knsignU by knTTU;
+  sub knTTHA knsignU by knTTHU;
+  sub knDDA knsignU by knDDU;
+  sub knDDHA knsignU by knDDHU;
+  sub knNNA knsignU by knNNU;
+  sub knTA knsignU by knTU;
+  sub knTHA knsignU by knTHU;
+  sub knDA knsignU by knDU;
+  sub knDHA knsignU by knDHU;
+  sub knNA knsignU by knNU;
+  sub knPA knsignU by knPU;
+  sub knPHA knsignU by knPHU;
+  sub knBA knsignU by knBU;
+  sub knBHA knsignU by knBHU;
+  sub knMA knsignU by knMU;
+  sub knYA knsignU by knYU;
+  sub knRA knsignU by knRU;
+  sub knLA knsignU by knLU;
+  sub knVA knsignU by knVU;
+  sub knSHA knsignU by knSHU;
+  sub knSSA knsignU by knSSU;
+  sub knSA knsignU by knSU;
+  sub knHA knsignU by knHU;
+  sub knRRA knsignU by knRRU;
+  sub knLLA knsignU by knLLU;
+  sub knLLLA knsignU by knLLLU;
+
+  sub knKA knsignUU by knKUU;
+  sub knKHA knsignUU by knKHUU;
+  sub knGA knsignUU by knGUU;
+  sub knGHA knsignUU by knGHUU;
+  sub knNGA knsignUU by knNGUU;
+  sub knCA knsignUU by knCUU;
+  sub knCHA knsignUU by knCHUU;
+  sub knJA knsignUU by knJUU;
+  sub knJHA knsignUU by knJHUU;
+  sub knNYA knsignUU by knNYUU;
+  sub knTTA knsignUU by knTTUU;
+  sub knTTHA knsignUU by knTTHUU;
+  sub knDDA knsignUU by knDDUU;
+  sub knDDHA knsignUU by knDDHUU;
+  sub knNNA knsignUU by knNNUU;
+  sub knTA knsignUU by knTUU;
+  sub knTHA knsignUU by knTHUU;
+  sub knDA knsignUU by knDUU;
+  sub knDHA knsignUU by knDHUU;
+  sub knNA knsignUU by knNUU;
+  sub knPA knsignUU by knPUU;
+  sub knPHA knsignUU by knPHUU;
+  sub knBA knsignUU by knBUU;
+  sub knBHA knsignUU by knBHUU;
+  sub knMA knsignUU by knMUU;
+  sub knYA knsignUU by knYUU;
+  sub knRA knsignUU by knRUU;
+  sub knLA knsignUU by knLUU;
+  sub knVA knsignUU by knVUU;
+  sub knSHA knsignUU by knSHUU;
+  sub knSSA knsignUU by knSSUU;
+  sub knSA knsignUU by knSUU;
+  sub knHA knsignUU by knHUU;
+  sub knRRA knsignUU by knRRUU;
+  sub knLLA knsignUU by knLLUU;
+  sub knLLLA knsignUU by knLLLUU;
+
+  sub knKA knsignE by knKE;
+  sub knKHA knsignE by knKHE;
+  sub knGA knsignE by knGE;
+  sub knGHA knsignE by knGHE;
+  sub knNGA knsignE by knNGE;
+  sub knCA knsignE by knCE;
+  sub knCHA knsignE by knCHE;
+  sub knJA knsignE by knJE;
+  sub knJHA knsignE by knJHE;
+  sub knNYA knsignE by knNYE;
+  sub knTTA knsignE by knTTE;
+  sub knTTHA knsignE by knTTHE;
+  sub knDDA knsignE by knDDE;
+  sub knDDHA knsignE by knDDHE;
+  sub knNNA knsignE by knNNE;
+  sub knTA knsignE by knTE;
+  sub knTHA knsignE by knTHE;
+  sub knDA knsignE by knDE;
+  sub knDHA knsignE by knDHE;
+  sub knNA knsignE by knNE;
+  sub knPA knsignE by knPE;
+  sub knPHA knsignE by knPHE;
+  sub knBA knsignE by knBE;
+  sub knBHA knsignE by knBHE;
+  sub knMA knsignE by knME;
+  sub knYA knsignE by knYE;
+  sub knRA knsignE by knRE;
+  sub knLA knsignE by knLE;
+  sub knVA knsignE by knVE;
+  sub knSHA knsignE by knSHE;
+  sub knSSA knsignE by knSSE;
+  sub knSA knsignE by knSE;
+  sub knHA knsignE by knHE;
+  sub knRRA knsignE by knRRE;
+  sub knLLA knsignE by knLLE;
+  sub knLLLA knsignE by knLLLE;
+
+  sub knKA knsignE knsignUU by knKO;
+  sub knKHA knsignE knsignUU by knKHO;
+  sub knGA knsignE knsignUU by knGO;
+  sub knGHA knsignE knsignUU by knGHO;
+  sub knNGA knsignE knsignUU by knNGO;
+  sub knCA knsignE knsignUU by knCO;
+  sub knCHA knsignE knsignUU by knCHO;
+  sub knJA knsignE knsignUU by knJO;
+  sub knJHA knsignE knsignUU by knJHO;
+  sub knNYA knsignE knsignUU by knNYO;
+  sub knTTA knsignE knsignUU by knTTO;
+  sub knTTHA knsignE knsignUU by knTTHO;
+  sub knDDA knsignE knsignUU by knDDO;
+  sub knDDHA knsignE knsignUU by knDDHO;
+  sub knNNA knsignE knsignUU by knNNO;
+  sub knTA knsignE knsignUU by knTO;
+  sub knTHA knsignE knsignUU by knTHO;
+  sub knDA knsignE knsignUU by knDO;
+  sub knDHA knsignE knsignUU by knDHO;
+  sub knNA knsignE knsignUU by knNO;
+  sub knPA knsignE knsignUU by knPO;
+  sub knPHA knsignE knsignUU by knPHO;
+  sub knBA knsignE knsignUU by knBO;
+  sub knBHA knsignE knsignUU by knBHO;
+  sub knMA knsignE knsignUU by knMO;
+  sub knYA knsignE knsignUU by knYO;
+  sub knRA knsignE knsignUU by knRO;
+  sub knLA knsignE knsignUU by knLO;
+  sub knVA knsignE knsignUU by knVO;
+  sub knSHA knsignE knsignUU by knSHO;
+  sub knSSA knsignE knsignUU by knSSO;
+  sub knSA knsignE knsignUU by knSO;
+  sub knHA knsignE knsignUU by knHO;
+  sub knRRA knsignE knsignUU by knRRO;
+  sub knLLA knsignE knsignUU by knLLO;
+  sub knLLLA knsignE knsignUU by knLLLO;
+
+  sub knKA knsignAU by knKAU;
+  sub knKHA knsignAU by knKHAU;
+  sub knGA knsignAU by knGAU;
+  sub knGHA knsignAU by knGHAU;
+  sub knNGA knsignAU by knNGAU;
+  sub knCA knsignAU by knCAU;
+  sub knCHA knsignAU by knCHAU;
+  sub knJA knsignAU by knJAU;
+  sub knJHA knsignAU by knJHAU;
+  sub knNYA knsignAU by knNYAU;
+  sub knTTA knsignAU by knTTAU;
+  sub knTTHA knsignAU by knTTHAU;
+  sub knDDA knsignAU by knDDAU;
+  sub knDDHA knsignAU by knDDHAU;
+  sub knNNA knsignAU by knNNAU;
+  sub knTA knsignAU by knTAU;
+  sub knTHA knsignAU by knTHAU;
+  sub knDA knsignAU by knDAU;
+  sub knDHA knsignAU by knDHAU;
+  sub knNA knsignAU by knNAU;
+  sub knPA knsignAU by knPAU;
+  sub knPHA knsignAU by knPHAU;
+  sub knBA knsignAU by knBAU;
+  sub knBHA knsignAU by knBHAU;
+  sub knMA knsignAU by knMAU;
+  sub knYA knsignAU by knYAU;
+  sub knRA knsignAU by knRAU;
+  sub knLA knsignAU by knLAU;
+  sub knVA knsignAU by knVAU;
+  sub knSHA knsignAU by knSHAU;
+  sub knSSA knsignAU by knSSAU;
+  sub knSA knsignAU by knSAU;
+  sub knHA knsignAU by knHAU;
+  sub knRRA knsignAU by knRRAU;
+  sub knLLA knsignAU by knLLAU;
+  sub knLLLA knsignAU by knLLLAU;
+
+} pres_matra;
+
+lookup pres_kssa {
+  sub [knKA knKAA knKI knKU knKUU knKE knKO knKAU] knSSAc2' by knSSAc2.kssa;
+} pres_kssa;
+
+lookup pres_c2_ligating {
+  sub knKAc2 knSSAc2 by knKSSAc2;
+  sub knTAc2 knRAc2 by knTAc2_RAc2;
+} pres_c2_ligating;
+
+lookup pres_c2_following {
+  sub
+    [@BELOW_BASE_MARKS @BELOW_BASE_MARKS_FOLLOWING knSSAc2.kssa]
+    @BELOW_BASE_MARKS'
+    by
+    @BELOW_BASE_MARKS_FOLLOWING;
+} pres_c2_following;
+} pres;
+
+feature haln {
+lookup haln {
+
+  lookupflag IgnoreMarks;
+
+  sub knKA knVirama by knK;
+  sub knKHA knVirama by knKH;
+  sub knGA knVirama by knG;
+  sub knGHA knVirama by knGH;
+  sub knNGA knVirama by knNG;
+  sub knCA knVirama by knC;
+  sub knCHA knVirama by knCH;
+  sub knJA knVirama by knJ;
+  sub knJHA knVirama by knJH;
+  sub knNYA knVirama by knNY;
+  sub knTTA knVirama by knTT;
+  sub knTTHA knVirama by knTTH;
+  sub knDDA knVirama by knDD;
+  sub knDDHA knVirama by knDDH;
+  sub knNNA knVirama by knNN;
+  sub knTA knVirama by knT;
+  sub knTHA knVirama by knTH;
+  sub knDA knVirama by knD;
+  sub knDHA knVirama by knDH;
+  sub knNA knVirama by knN;
+  sub knPA knVirama by knP;
+  sub knPHA knVirama by knPH;
+  sub knBA knVirama by knB;
+  sub knBHA knVirama by knBH;
+  sub knMA knVirama by knM;
+  sub knYA knVirama by knY;
+  sub knRA knVirama by knR;
+  sub knLA knVirama by knL;
+  sub knVA knVirama by knV;
+  sub knSHA knVirama by knSH;
+  sub knSSA knVirama by knSS;
+  sub knSA knVirama by knS;
+  sub knHA knVirama by knH;
+  sub knRRA knVirama by knRR;
+  sub knLLA knVirama by knLL;
+  sub knLLLA knVirama by knLLL;
+
+  lookupflag 0;
+
+} haln;
+} haln;
+
