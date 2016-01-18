@@ -14,6 +14,8 @@ Feel free to contact me at hello@erinmclaughlin.com with comments or questions.
 * 1 weights: Regular
 * Support for Kannada and Latin 2
 
+![Screenshot of a test](https://raw.githubusercontent.com/erinmclaughlin/Hubballi/feedback/tests/screenshots/mac-pdf/Screen%20Shot%202016-01-18%20at%2012.47.55%20AM.png)</a>
+
 ====
 
 _Thank you to Dave Crossland, Liang Hai, Vaishnavi Murthy, Pablo Impallari, and all of the other Google Web Fonts contributors for your help with this project. Continued thanks to Fiona Ross for your guidance and training. Thank you to AM, Scrappy, and my family for their support._
