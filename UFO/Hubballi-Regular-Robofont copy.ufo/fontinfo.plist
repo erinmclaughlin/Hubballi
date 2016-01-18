@@ -2,6 +2,10 @@
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>DisableAllAutomaticBehaviour</key>
+	<true/>
+	<key>GlyphClassDef</key>
+	<string> , , @COMBINING_MARKS, </string>
 	<key>ascender</key>
 	<integer>561</integer>
 	<key>capHeight</key>

@@ -4,10 +4,10 @@ languagesystem knda dflt;
 languagesystem latn dflt;
 
 
-include (features/GENERATED_classes.fea);
-include (features/extension.fea);
-include (features/tables.fea);
-include (features/lookups.fea);
+include (fea/GENERATED_classes.fea);
+include (fea/extension.fea);
+include (fea/tables.fea);
+include (fea/lookups.fea);
 
 
 # -------------------
@@ -204,6 +204,6 @@ feature haln {
 
 
 
-include (features/Hubballi-Regular-kern.fea);
+include (fea/Hubballi-Regular-kern.fea);
 
 #
