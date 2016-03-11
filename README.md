@@ -1,7 +1,7 @@
 # Hubballi ಹುಬ್ಬಳ್ಳಿ
 =====
 
-Hubballi is a Kannada and Latin typeface designed by [Erin McLaughlin](http://www.erinmclaughlin.com). 
+Hubballi is a Kannada and Latin typeface designed by [Erin McLaughlin](http://www.erinmclaughlin.com). Hubballi is a monolinear typeface with an informal, friendly appearance. It was created by drawing a skeleton form in RoboFont that was then expanded via the "[Outliner](https://github.com/typemytype/RoboFontExtensions/tree/master/outliner)" extension by Frederik Berlaen. It is my intention to expand the design to additional weights, due to the relative ease of the skeleton/Outliner workflow.
 
 Hubballi will be available for free via the Google Web Fonts project.
 
