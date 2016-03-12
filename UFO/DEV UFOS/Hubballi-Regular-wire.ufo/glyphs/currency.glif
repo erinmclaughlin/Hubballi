@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="currency" format="1">
+  <advance width="521"/>
+  <unicode hex="00A4"/>
+  <outline>
+    <contour>
+      <point x="260" y="386" type="curve" smooth="yes"/>
+      <point x="162" y="386"/>
+      <point x="102" y="312"/>
+      <point x="102" y="224" type="curve" smooth="yes"/>
+      <point x="102" y="136"/>
+      <point x="164" y="68"/>
+      <point x="260" y="68" type="curve" smooth="yes"/>
+      <point x="356" y="68"/>
+      <point x="418" y="135"/>
+      <point x="418" y="222" type="curve" smooth="yes"/>
+      <point x="418" y="312"/>
+      <point x="357" y="386"/>
+    </contour>
+    <contour>
+      <point x="444" y="24" type="move"/>
+      <point x="373" y="102" type="line"/>
+    </contour>
+    <contour>
+      <point x="147" y="349" type="move"/>
+      <point x="82" y="420" type="line"/>
+    </contour>
+    <contour>
+      <point x="373" y="350" type="move"/>
+      <point x="438" y="422" type="line"/>
+    </contour>
+    <contour>
+      <point x="77" y="24" type="move"/>
+      <point x="145" y="99" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>currency</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>521</integer>
+        </dict>
+        <key>wire</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>currency</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>521</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

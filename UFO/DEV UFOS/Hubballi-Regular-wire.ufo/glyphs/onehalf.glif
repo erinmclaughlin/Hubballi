@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="onehalf" format="1">
+  <advance width="780"/>
+  <unicode hex="00BD"/>
+  <outline>
+    <contour>
+      <point x="492" y="508" type="move"/>
+      <point x="209" y="23" type="line"/>
+    </contour>
+    <contour>
+      <point x="202" y="515" type="move"/>
+      <point x="202" y="257" type="line"/>
+    </contour>
+    <contour>
+      <point x="202" y="518" type="move"/>
+      <point x="120" y="474" type="line"/>
+    </contour>
+    <contour>
+      <point x="471" y="28" type="move"/>
+      <point x="560" y="111" type="line" smooth="yes"/>
+      <point x="618" y="166"/>
+      <point x="636" y="187"/>
+      <point x="636" y="220" type="curve" smooth="yes"/>
+      <point x="636" y="250"/>
+      <point x="612" y="279"/>
+      <point x="561" y="279" type="curve" smooth="yes"/>
+      <point x="532" y="279"/>
+      <point x="509" y="271"/>
+      <point x="484" y="255" type="curve"/>
+    </contour>
+    <contour>
+      <point x="655" y="23" type="move"/>
+      <point x="466" y="23" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>onehalf</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>780</integer>
+        </dict>
+        <key>wire</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>onehalf</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>780</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

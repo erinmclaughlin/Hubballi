@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="C" format="1">
+  <advance width="566"/>
+  <unicode hex="0043"/>
+  <outline>
+    <contour>
+      <point x="470" y="488" type="move"/>
+      <point x="437" y="506"/>
+      <point x="387" y="517"/>
+      <point x="334" y="517" type="curve" smooth="yes"/>
+      <point x="201" y="517"/>
+      <point x="86" y="415"/>
+      <point x="86" y="262" type="curve" smooth="yes"/>
+      <point x="86" y="122"/>
+      <point x="179" y="14"/>
+      <point x="340" y="14" type="curve" smooth="yes"/>
+      <point x="392" y="14"/>
+      <point x="438" y="25"/>
+      <point x="475" y="44" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>C</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>566</integer>
+        </dict>
+        <key>wire</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>C</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>566</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

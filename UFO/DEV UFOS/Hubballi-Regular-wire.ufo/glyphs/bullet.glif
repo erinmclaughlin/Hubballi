@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bullet" format="1">
+  <advance width="521"/>
+  <unicode hex="2022"/>
+  <outline>
+    <contour>
+      <point x="260" y="340" type="curve" smooth="yes"/>
+      <point x="198" y="340"/>
+      <point x="155" y="288"/>
+      <point x="155" y="237" type="curve" smooth="yes"/>
+      <point x="155" y="179"/>
+      <point x="201" y="134"/>
+      <point x="260" y="134" type="curve" smooth="yes"/>
+      <point x="322" y="134"/>
+      <point x="365" y="180"/>
+      <point x="365" y="236" type="curve" smooth="yes"/>
+      <point x="365" y="288"/>
+      <point x="326" y="340"/>
+    </contour>
+    <contour>
+      <point x="261" y="281" type="curve" smooth="yes"/>
+      <point x="235" y="281"/>
+      <point x="216" y="260"/>
+      <point x="216" y="239" type="curve" smooth="yes"/>
+      <point x="216" y="213"/>
+      <point x="236" y="194"/>
+      <point x="261" y="194" type="curve" smooth="yes"/>
+      <point x="286" y="194"/>
+      <point x="305" y="213"/>
+      <point x="305" y="237" type="curve" smooth="yes"/>
+      <point x="305" y="260"/>
+      <point x="290" y="281"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>bullet</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>521</integer>
+        </dict>
+        <key>wire</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>bullet</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>521</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

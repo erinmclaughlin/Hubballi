@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Eth" format="1">
+  <advance width="627"/>
+  <unicode hex="00D0"/>
+  <outline>
+    <contour>
+      <point x="64" y="295" type="curve" smooth="yes"/>
+      <point x="310" y="295" type="line" smooth="yes"/>
+      <point x="324" y="295"/>
+      <point x="335" y="284"/>
+      <point x="335" y="270" type="curve" smooth="yes"/>
+      <point x="335" y="257"/>
+      <point x="324" y="245"/>
+      <point x="310" y="245" type="curve" smooth="yes"/>
+      <point x="64" y="245" type="line" smooth="yes"/>
+      <point x="51" y="245"/>
+      <point x="39" y="257"/>
+      <point x="39" y="270" type="curve" smooth="yes"/>
+      <point x="39" y="284"/>
+      <point x="51" y="295"/>
+    </contour>
+    <component base="D" xOffset="15"/>
+    <component base="D" xOffset="15"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Eth</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>627</integer>
+        </dict>
+        <key>wire</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Eth</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>627</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

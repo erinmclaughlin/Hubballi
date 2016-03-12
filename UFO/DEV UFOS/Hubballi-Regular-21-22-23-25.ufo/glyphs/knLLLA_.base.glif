@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="knLLLA.base" format="1">
+  <advance width="730"/>
+  <outline>
+    <contour>
+      <point x="578" y="456" type="curve" smooth="yes"/>
+      <point x="680" y="456" type="line" smooth="yes"/>
+      <point x="692" y="456"/>
+      <point x="703" y="445"/>
+      <point x="703" y="433" type="curve" smooth="yes"/>
+      <point x="703" y="421"/>
+      <point x="692" y="410"/>
+      <point x="680" y="410" type="curve" smooth="yes"/>
+      <point x="578" y="410" type="line" smooth="yes"/>
+      <point x="566" y="410"/>
+      <point x="555" y="421"/>
+      <point x="555" y="433" type="curve" smooth="yes"/>
+      <point x="555" y="445"/>
+      <point x="566" y="456"/>
+    </contour>
+    <component base="knLLLA"/>
+    <component base="knLLLA"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>11</integer>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>knLLLA.base</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>730</integer>
+        </dict>
+        <key>wire</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>knLLLA.base</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>730</integer>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.25,0.25,0.25,1</string>
+    </dict>
+  </lib>
+</glyph>

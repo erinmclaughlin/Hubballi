@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="knsignvRR" format="1">
+  <advance width="446"/>
+  <unicode hex="0CC4"/>
+  <outline>
+    <contour>
+      <point x="54" y="49" type="move"/>
+      <point x="200" y="49" type="line" smooth="yes"/>
+      <point x="322" y="49"/>
+      <point x="376" y="-7"/>
+      <point x="376" y="-82" type="curve"/>
+      <point x="376" y="-151"/>
+      <point x="339" y="-192"/>
+      <point x="291" y="-192" type="curve" smooth="yes"/>
+      <point x="245" y="-192"/>
+      <point x="218" y="-161"/>
+      <point x="218" y="-127" type="curve" smooth="yes"/>
+      <point x="218" y="-86"/>
+      <point x="249" y="-48"/>
+      <point x="307" y="-48" type="curve" smooth="yes"/>
+      <point x="329" y="-48"/>
+      <point x="353" y="-50"/>
+      <point x="372" y="-57" type="curve"/>
+    </contour>
+    <component base="knsignvR"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>knsignvRR</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>446</integer>
+        </dict>
+        <key>wire</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>knsignvRR</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>446</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

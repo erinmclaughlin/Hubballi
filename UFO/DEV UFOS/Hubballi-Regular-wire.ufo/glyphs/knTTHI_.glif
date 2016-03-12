@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="knTTHI" format="1">
+  <advance width="642"/>
+  <outline>
+    <contour>
+      <point x="198" y="429"/>
+      <point x="105" y="328"/>
+      <point x="105" y="220" type="curve" smooth="yes"/>
+      <point x="105" y="104"/>
+      <point x="192" y="13"/>
+      <point x="329" y="13" type="curve" smooth="yes"/>
+      <point x="468" y="13"/>
+      <point x="552" y="106"/>
+      <point x="552" y="220" type="curve" smooth="yes"/>
+      <point x="552" y="326"/>
+      <point x="464" y="429"/>
+      <point x="330" y="429" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="546" y="277" type="move"/>
+      <point x="545" y="375"/>
+      <point x="514" y="456"/>
+      <point x="470" y="498" type="curve" smooth="yes"/>
+      <point x="430" y="535"/>
+      <point x="367" y="566"/>
+      <point x="287" y="566" type="curve" smooth="yes"/>
+      <point x="161" y="566"/>
+      <point x="107" y="506"/>
+      <point x="107" y="452" type="curve" smooth="yes"/>
+      <point x="107" y="422"/>
+      <point x="119" y="392"/>
+      <point x="159" y="362" type="curve"/>
+    </contour>
+    <contour>
+      <point x="327" y="256" type="curve" smooth="yes"/>
+      <point x="312" y="256"/>
+      <point x="299" y="241"/>
+      <point x="299" y="229" type="curve" smooth="yes"/>
+      <point x="299" y="213"/>
+      <point x="312" y="200"/>
+      <point x="327" y="200" type="curve" smooth="yes"/>
+      <point x="344" y="200"/>
+      <point x="356" y="213"/>
+      <point x="356" y="228" type="curve" smooth="yes"/>
+      <point x="356" y="241"/>
+      <point x="344" y="256"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>knTTHI</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>642</integer>
+        </dict>
+        <key>wire</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>knTTHI</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>642</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

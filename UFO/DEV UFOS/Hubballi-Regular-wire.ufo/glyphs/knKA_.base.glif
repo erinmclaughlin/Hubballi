@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="knKA.base" format="1">
+  <advance width="688"/>
+  <outline>
+    <contour>
+      <point x="98" y="433" type="move"/>
+      <point x="480" y="433" type="line" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="94" y="278" type="move"/>
+      <point x="607" y="278" type="line" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="352" y="281" type="move"/>
+      <point x="352" y="405" type="line" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="309" y="276" type="move"/>
+      <point x="233" y="264"/>
+      <point x="185" y="209"/>
+      <point x="185" y="147" type="curve" smooth="yes"/>
+      <point x="185" y="83"/>
+      <point x="228" y="15"/>
+      <point x="351" y="15" type="curve" smooth="yes"/>
+      <point x="477" y="15"/>
+      <point x="519" y="84"/>
+      <point x="519" y="147" type="curve" smooth="yes"/>
+      <point x="519" y="209"/>
+      <point x="470" y="265"/>
+      <point x="394" y="276" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>11</integer>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>knKA.base</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>688</integer>
+        </dict>
+        <key>wire</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>knKA.base</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>688</integer>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.25,0.25,0.25,1</string>
+    </dict>
+  </lib>
+</glyph>

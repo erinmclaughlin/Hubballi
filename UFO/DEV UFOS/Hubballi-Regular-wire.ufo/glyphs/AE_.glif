@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="AE" format="1">
+  <advance width="755"/>
+  <unicode hex="00C6"/>
+  <outline>
+    <contour>
+      <point x="354" y="508" type="move"/>
+      <point x="251" y="339"/>
+      <point x="125" y="149"/>
+      <point x="43" y="23" type="curve"/>
+    </contour>
+    <contour>
+      <point x="143" y="168" type="move"/>
+      <point x="392" y="168" type="line"/>
+    </contour>
+    <contour>
+      <point x="410" y="508" type="move"/>
+      <point x="359" y="508" type="line"/>
+    </contour>
+    <component base="E" xOffset="270"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>AE</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>755</integer>
+        </dict>
+        <key>wire</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>AE</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>755</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

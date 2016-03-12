@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="knVU" format="1">
+  <advance width="948"/>
+  <outline>
+    <contour>
+      <point x="387" y="85" type="move"/>
+      <point x="458" y="-57"/>
+      <point x="535" y="-117"/>
+      <point x="645" y="-117" type="curve" smooth="yes"/>
+      <point x="775" y="-117"/>
+      <point x="858" y="-25"/>
+      <point x="858" y="140" type="curve" smooth="yes"/>
+      <point x="858" y="244"/>
+      <point x="818" y="334"/>
+      <point x="749" y="412" type="curve"/>
+    </contour>
+    <component base="knVA"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>knVU</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>948</integer>
+        </dict>
+        <key>wire</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>knVU</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>948</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="knAU" format="1">
+  <advance width="748"/>
+  <unicode hex="0C94"/>
+  <outline>
+    <contour>
+      <point x="100" y="633" type="move"/>
+      <point x="449" y="633" type="line" smooth="yes"/>
+      <point x="595" y="633"/>
+      <point x="660" y="566"/>
+      <point x="660" y="476" type="curve"/>
+      <point x="660" y="393"/>
+      <point x="616" y="344"/>
+      <point x="558" y="344" type="curve" smooth="yes"/>
+      <point x="503" y="344"/>
+      <point x="471" y="381"/>
+      <point x="471" y="422" type="curve" smooth="yes"/>
+      <point x="471" y="471"/>
+      <point x="508" y="517"/>
+      <point x="577" y="517" type="curve" smooth="yes"/>
+      <point x="604" y="517"/>
+      <point x="632" y="514"/>
+      <point x="655" y="506" type="curve"/>
+    </contour>
+    <contour>
+      <point x="105" y="465" type="move"/>
+      <point x="181" y="465" type="line" smooth="yes"/>
+      <point x="290" y="465"/>
+      <point x="339" y="527"/>
+      <point x="338" y="625" type="curve"/>
+    </contour>
+    <component base="knO" xOffset="2"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>knAU</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>748</integer>
+        </dict>
+        <key>wire</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>knAU</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>748</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

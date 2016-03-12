@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="knNNA.base" format="1">
+  <advance width="749"/>
+  <outline>
+    <contour>
+      <point x="111" y="433" type="move"/>
+      <point x="558" y="433" type="line"/>
+    </contour>
+    <contour>
+      <point x="219" y="173" type="move"/>
+      <point x="155" y="175"/>
+      <point x="102" y="145"/>
+      <point x="102" y="97" type="curve" smooth="yes"/>
+      <point x="102" y="51"/>
+      <point x="149" y="22"/>
+      <point x="226" y="22" type="curve" smooth="yes"/>
+      <point x="245" y="22"/>
+      <point x="263" y="25"/>
+      <point x="281" y="29" type="curve"/>
+    </contour>
+    <contour>
+      <point x="651" y="121" type="move"/>
+      <point x="623" y="149"/>
+      <point x="590" y="169"/>
+      <point x="536" y="169" type="curve" smooth="yes"/>
+      <point x="472" y="169"/>
+      <point x="443" y="131"/>
+      <point x="443" y="92" type="curve" smooth="yes"/>
+      <point x="443" y="50"/>
+      <point x="482" y="18"/>
+      <point x="535" y="18" type="curve" smooth="yes"/>
+      <point x="612" y="18"/>
+      <point x="663" y="66"/>
+      <point x="662" y="174" type="curve" smooth="yes"/>
+      <point x="661" y="286"/>
+      <point x="601" y="335"/>
+      <point x="523" y="335" type="curve" smooth="yes"/>
+      <point x="461" y="335"/>
+      <point x="414" y="295"/>
+      <point x="379" y="242" type="curve"/>
+      <point x="375" y="242" type="line"/>
+      <point x="343" y="293"/>
+      <point x="293" y="336"/>
+      <point x="218" y="336" type="curve" smooth="yes"/>
+      <point x="146" y="336"/>
+      <point x="114" y="298"/>
+      <point x="114" y="257" type="curve" smooth="yes"/>
+      <point x="114" y="212"/>
+      <point x="163" y="173"/>
+      <point x="232" y="173" type="curve" smooth="yes"/>
+      <point x="236" y="173"/>
+      <point x="238" y="173"/>
+      <point x="242" y="173" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>11</integer>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>knNNA.base</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>749</integer>
+        </dict>
+        <key>wire</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>knNNA.base</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>749</integer>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.25,0.25,0.25,1</string>
+    </dict>
+  </lib>
+</glyph>

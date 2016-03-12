@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="breve" format="1">
+  <advance width="490"/>
+  <unicode hex="02D8"/>
+  <outline>
+    <contour>
+      <point x="163" y="589" type="curve" smooth="yes"/>
+      <point x="183" y="560"/>
+      <point x="212" y="538"/>
+      <point x="247" y="538" type="curve" smooth="yes"/>
+      <point x="286" y="538"/>
+      <point x="309" y="559"/>
+      <point x="327" y="589" type="curve" smooth="yes"/>
+      <point x="334" y="599"/>
+      <point x="348" y="602"/>
+      <point x="358" y="596" type="curve" smooth="yes"/>
+      <point x="368" y="589"/>
+      <point x="371" y="575"/>
+      <point x="365" y="565" type="curve" smooth="yes"/>
+      <point x="337" y="521"/>
+      <point x="302" y="494"/>
+      <point x="247" y="494" type="curve" smooth="yes"/>
+      <point x="198" y="494"/>
+      <point x="155" y="522"/>
+      <point x="127" y="565" type="curve" smooth="yes"/>
+      <point x="120" y="575"/>
+      <point x="123" y="589"/>
+      <point x="133" y="595" type="curve" smooth="yes"/>
+      <point x="143" y="602"/>
+      <point x="157" y="599"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <real>90.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>x</key>
+          <integer>252</integer>
+          <key>y</key>
+          <integer>587</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>breve</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>490</integer>
+        </dict>
+        <key>wire</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>breve</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>490</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

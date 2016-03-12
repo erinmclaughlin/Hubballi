@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="knvRR" format="1">
+  <advance width="1372"/>
+  <unicode hex="0CE0"/>
+  <outline>
+    <contour>
+      <point x="489" y="433" type="move"/>
+      <point x="571" y="433" type="line" smooth="yes"/>
+      <point x="644" y="433"/>
+      <point x="687" y="459"/>
+      <point x="719" y="511" type="curve"/>
+    </contour>
+    <component base="knKHA"/>
+    <component base="knsignUU" xOffset="765"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>knvRR</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1372</integer>
+        </dict>
+        <key>wire</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>knvRR</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1372</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

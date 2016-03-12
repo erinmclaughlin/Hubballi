@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="knGHAc2" format="1">
+  <advance width="119"/>
+  <outline>
+    <contour>
+      <point x="118" y="-185" type="move"/>
+      <point x="145" y="-213"/>
+      <point x="173" y="-225"/>
+      <point x="205" y="-225" type="curve" smooth="yes"/>
+      <point x="245" y="-225"/>
+      <point x="270" y="-197"/>
+      <point x="270" y="-159" type="curve" smooth="yes"/>
+      <point x="270" y="-143"/>
+      <point x="268" y="-129"/>
+      <point x="264" y="-115" type="curve"/>
+    </contour>
+    <contour>
+      <point x="-78" y="-359" type="move"/>
+      <point x="-78" y="-425" type="line"/>
+    </contour>
+    <component base="knPAc2"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>knGHAc2</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>119</integer>
+        </dict>
+        <key>wire</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>knGHAc2</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>119</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
