@@ -9,7 +9,6 @@ include (features/extension.fea);
 include (features/tables.fea);
 include (features/lookups.fea);
 
-
 # -------------------
 # LATIN FEATURES
 # -------------------
@@ -58,6 +57,7 @@ sub f l by fl;
 # ----------
 
 feature rphf {
+    lookupflag IgnoreMarks;
   lookup rphf;
 } rphf;
 
@@ -73,6 +73,8 @@ feature rphf {
 # ----------------
 
 feature blwf {
+
+lookupflag IgnoreMarks;
 
   script DFLT;
     lookup blwf_new;
@@ -115,6 +117,9 @@ feature blwf {
 # ---------------------
 
 feature pres {
+  
+  lookupflag IgnoreMarks;
+    
   lookup pres_matra;
   lookup pres_kssa;
   lookup pres_c2_following;
@@ -147,6 +152,7 @@ feature pres {
 # ------------
 
 feature haln {
+lookupflag IgnoreMarks;
   lookup haln;
 } haln;
 
