@@ -21,7 +21,7 @@ Version 1.000
 
 * * *
 
-Thanks to Dave Crossland, Liang Hai, Vaishnavi Murthy, Pablo Impallari, and all of the other Google Fonts contributors for help with this project. 
+Thanks to Dave Crossland, Liang Hai, Nicolás Silva, Vaishnavi Murthy, Pablo Impallari, and all of the other Google Fonts contributors for help with this project. 
 Continued thanks to Fiona Ross for guidance and training. 
 Thank you to AM, Scrappy, and my family for their support.
 
