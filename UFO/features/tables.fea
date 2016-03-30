@@ -91,5 +91,6 @@ table name {
 # ----------------
 
 table GDEF {
-  GlyphClassDef @BASE, @LIGA, @COMBINING_MARKS, ;
+    
+    GlyphClassDef @BASE, @LIGA, @COMBINING_MARKS, ;
 } GDEF;
