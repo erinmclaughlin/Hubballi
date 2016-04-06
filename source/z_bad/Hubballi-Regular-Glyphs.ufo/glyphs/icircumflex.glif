@@ -3,66 +3,13 @@
   <advance width="232"/>
   <unicode hex="00EE"/>
   <outline>
-    <contour>
-      <point x="91" y="25" type="line" smooth="yes"/>
-      <point x="91" y="12"/>
-      <point x="102" y="0"/>
-      <point x="116" y="0" type="curve" smooth="yes"/>
-      <point x="129" y="0"/>
-      <point x="141" y="11"/>
-      <point x="141" y="25" type="curve" smooth="yes"/>
-      <point x="141" y="367" type="line" smooth="yes"/>
-      <point x="141" y="381"/>
-      <point x="130" y="392"/>
-      <point x="116" y="392" type="curve" smooth="yes"/>
-      <point x="103" y="392"/>
-      <point x="91" y="381"/>
-      <point x="91" y="367" type="curve" smooth="yes"/>
-    </contour>
-    <contour>
-      <point x="206" y="486" type="curve" smooth="yes"/>
-      <point x="219" y="486"/>
-      <point x="228" y="496"/>
-      <point x="228" y="508" type="curve" smooth="yes"/>
-      <point x="228" y="514"/>
-      <point x="226" y="520"/>
-      <point x="222" y="524" type="curve" smooth="yes"/>
-      <point x="195" y="550"/>
-      <point x="164" y="581"/>
-      <point x="133" y="611" type="curve" smooth="yes"/>
-      <point x="129" y="615"/>
-      <point x="124" y="617"/>
-      <point x="118" y="617" type="curve" smooth="yes"/>
-      <point x="112" y="617" type="line" smooth="yes"/>
-      <point x="106" y="617"/>
-      <point x="101" y="615"/>
-      <point x="96" y="611" type="curve" smooth="yes"/>
-      <point x="66" y="581"/>
-      <point x="34" y="550"/>
-      <point x="8" y="524" type="curve" smooth="yes"/>
-      <point x="4" y="520"/>
-      <point x="2" y="514"/>
-      <point x="2" y="508" type="curve" smooth="yes"/>
-      <point x="2" y="496"/>
-      <point x="12" y="486"/>
-      <point x="24" y="486" type="curve" smooth="yes"/>
-      <point x="30" y="486"/>
-      <point x="36" y="488"/>
-      <point x="40" y="492" type="curve" smooth="yes"/>
-      <point x="62" y="514"/>
-      <point x="89" y="541"/>
-      <point x="116" y="567" type="curve"/>
-      <point x="142" y="541"/>
-      <point x="168" y="514"/>
-      <point x="190" y="492" type="curve" smooth="yes"/>
-      <point x="195" y="488"/>
-      <point x="200" y="486"/>
-    </contour>
+    <component base="dotlessi"/>
+    <component base="circumflexcmb" xOffset="121"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-04-01 03:15:49 +0000</string>
+      <string>2016-04-06 19:04:33 +0000</string>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>background</key>
