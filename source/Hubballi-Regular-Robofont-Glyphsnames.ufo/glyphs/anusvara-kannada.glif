@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="anusvara-kannada" format="1">
+  <advance width="540"/>
+  <outline>
+    <contour>
+      <point x="60" y="220" type="curve" smooth="yes"/>
+      <point x="60" y="102"/>
+      <point x="155" y="-4"/>
+      <point x="281" y="-4" type="curve" smooth="yes"/>
+      <point x="406" y="-4"/>
+      <point x="500" y="103"/>
+      <point x="500" y="220" type="curve" smooth="yes"/>
+      <point x="500" y="335"/>
+      <point x="404" y="442"/>
+      <point x="281" y="442" type="curve" smooth="yes"/>
+      <point x="157" y="442"/>
+      <point x="60" y="337"/>
+    </contour>
+    <contour>
+      <point x="106" y="220" type="curve" smooth="yes"/>
+      <point x="106" y="313"/>
+      <point x="183" y="396"/>
+      <point x="281" y="396" type="curve" smooth="yes"/>
+      <point x="378" y="396"/>
+      <point x="454" y="311"/>
+      <point x="454" y="220" type="curve" smooth="yes"/>
+      <point x="454" y="127"/>
+      <point x="380" y="42"/>
+      <point x="281" y="42" type="curve" smooth="yes"/>
+      <point x="181" y="42"/>
+      <point x="106" y="126"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>anusvara-kannada</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>540</integer>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6312</real>
+        <real>1.0</real>
+        <real>0.9947</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

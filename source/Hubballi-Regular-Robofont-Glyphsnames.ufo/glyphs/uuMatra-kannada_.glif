@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uuMatra-kannada" format="1">
+  <advance width="607"/>
+  <outline>
+    <contour>
+      <point x="407" y="42" type="curve" smooth="yes"/>
+      <point x="366" y="42"/>
+      <point x="341" y="72"/>
+      <point x="341" y="106" type="curve" smooth="yes"/>
+      <point x="341" y="149"/>
+      <point x="371" y="183"/>
+      <point x="428" y="183" type="curve" smooth="yes"/>
+      <point x="451" y="183"/>
+      <point x="474" y="178"/>
+      <point x="494" y="172" type="curve"/>
+      <point x="494" y="167" type="line" smooth="yes"/>
+      <point x="494" y="93"/>
+      <point x="460" y="42"/>
+    </contour>
+    <contour>
+      <point x="407" y="-4" type="curve" smooth="yes"/>
+      <point x="480" y="-4"/>
+      <point x="540" y="55"/>
+      <point x="540" y="167" type="curve" smooth="yes"/>
+      <point x="540" y="354"/>
+      <point x="401" y="456"/>
+      <point x="291" y="456" type="curve" smooth="yes"/>
+      <point x="182" y="456"/>
+      <point x="126" y="366"/>
+      <point x="126" y="288" type="curve" smooth="yes"/>
+      <point x="126" y="228"/>
+      <point x="151" y="178"/>
+      <point x="151" y="125" type="curve" smooth="yes"/>
+      <point x="151" y="78"/>
+      <point x="126" y="46"/>
+      <point x="73" y="46" type="curve" smooth="yes"/>
+      <point x="25" y="46"/>
+      <point x="-20" y="81"/>
+      <point x="-61" y="144" type="curve" smooth="yes"/>
+      <point x="-65" y="150"/>
+      <point x="-71" y="155"/>
+      <point x="-80" y="155" type="curve" smooth="yes"/>
+      <point x="-96" y="155"/>
+      <point x="-103.0" y="142.853626717"/>
+      <point x="-103" y="131" type="curve" smooth="yes"/>
+      <point x="-103" y="127"/>
+      <point x="-102" y="122"/>
+      <point x="-99" y="118" type="curve" smooth="yes"/>
+      <point x="-46" y="37"/>
+      <point x="13" y="0"/>
+      <point x="73" y="0" type="curve" smooth="yes"/>
+      <point x="156" y="0"/>
+      <point x="197" y="50"/>
+      <point x="197" y="125" type="curve" smooth="yes"/>
+      <point x="197" y="178"/>
+      <point x="172" y="228"/>
+      <point x="172" y="288" type="curve" smooth="yes"/>
+      <point x="172" y="344"/>
+      <point x="212" y="410"/>
+      <point x="291" y="410" type="curve" smooth="yes"/>
+      <point x="371" y="410"/>
+      <point x="466" y="341"/>
+      <point x="489" y="221" type="curve"/>
+      <point x="469" y="226"/>
+      <point x="448" y="229"/>
+      <point x="428" y="229" type="curve" smooth="yes"/>
+      <point x="337" y="229"/>
+      <point x="295" y="171"/>
+      <point x="295" y="106" type="curve" smooth="yes"/>
+      <point x="295" y="48"/>
+      <point x="336" y="-4"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>uuMatra-kannada</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>607</integer>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6312</real>
+        <real>1.0</real>
+        <real>0.9947</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>
