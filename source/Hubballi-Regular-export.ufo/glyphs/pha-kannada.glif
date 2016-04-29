@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="pha-kannada" format="1">
+  <advance width="725"/>
+  <unicode hex="0CAB"/>
+  <note>
+    knPHA
+  </note>
+  <outline>
+    <component base="pa-kannada"/>
+    <component base="drop-kannada" xOffset="340"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-04-04 10:44:18 +0000</string>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>pha-kannada</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>725</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

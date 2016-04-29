@@ -18,9 +18,9 @@
 	<key>com.typemytype.robofont.compileSettings.decompose</key>
 	<integer>1</integer>
 	<key>com.typemytype.robofont.compileSettings.generateFormat</key>
-	<integer>1</integer>
+	<integer>0</integer>
 	<key>com.typemytype.robofont.compileSettings.path</key>
-	<string>/Users/erinmclaughlin/Desktop/JOBS/_Google HUBLI/Hubballi/UFO/GENERATED TEST FONTS/Hubballi-test.ttf</string>
+	<string>/Users/erinmclaughlin/Desktop/JOBS/_Google HUBLI/Hubballi/source/Hubballi-Regular-Robofont-Glyphsnames.otf</string>
 	<key>com.typemytype.robofont.compileSettings.releaseMode</key>
 	<integer>1</integer>
 	<key>com.typemytype.robofont.italicSlantOffset</key>
@@ -106,7 +106,6 @@
 				<string>knSSA</string>
 				<string>knSA</string>
 				<string>knHA</string>
-				<string>knRRA</string>
 				<string>knLLA</string>
 				<string>knLLLA</string>
 				<string>knAnusvara</string>
@@ -165,7 +164,6 @@
 				<string>knSSAc2</string>
 				<string>knSAc2</string>
 				<string>knHAc2</string>
-				<string>knRRAc2</string>
 				<string>knLLAc2</string>
 				<string>knLLLAc2</string>
 				<string>knKSSAc2</string>
@@ -203,7 +201,6 @@
 				<string>knSSAA</string>
 				<string>knSAA</string>
 				<string>knHAA</string>
-				<string>knRRAA</string>
 				<string>knLLAA</string>
 				<string>knLLLAA</string>
 				<string>knKI</string>
@@ -239,7 +236,6 @@
 				<string>knSSI</string>
 				<string>knSI</string>
 				<string>knHI</string>
-				<string>knRRI</string>
 				<string>knLLI</string>
 				<string>knLLLI</string>
 				<string>knKU</string>
@@ -275,7 +271,6 @@
 				<string>knSSU</string>
 				<string>knSU</string>
 				<string>knHU</string>
-				<string>knRRU</string>
 				<string>knLLU</string>
 				<string>knLLLU</string>
 				<string>knKUU</string>
@@ -311,7 +306,6 @@
 				<string>knSSUU</string>
 				<string>knSUU</string>
 				<string>knHUU</string>
-				<string>knRRUU</string>
 				<string>knLLUU</string>
 				<string>knLLLUU</string>
 				<string>knKE</string>
@@ -347,7 +341,6 @@
 				<string>knSSE</string>
 				<string>knSE</string>
 				<string>knHE</string>
-				<string>knRRE</string>
 				<string>knLLE</string>
 				<string>knLLLE</string>
 				<string>knKO</string>
@@ -383,7 +376,6 @@
 				<string>knSSO</string>
 				<string>knSO</string>
 				<string>knHO</string>
-				<string>knRRO</string>
 				<string>knLLO</string>
 				<string>knLLLO</string>
 				<string>knKAU</string>
@@ -419,7 +411,6 @@
 				<string>knSSAU</string>
 				<string>knSAU</string>
 				<string>knHAU</string>
-				<string>knRRAU</string>
 				<string>knLLAU</string>
 				<string>knLLLAU</string>
 				<string>knK</string>
@@ -455,7 +446,6 @@
 				<string>knSS</string>
 				<string>knS</string>
 				<string>knH</string>
-				<string>knRR</string>
 				<string>knLL</string>
 				<string>knLLL</string>
 				<string>knKA.base</string>
@@ -491,7 +481,6 @@
 				<string>knSSA.base</string>
 				<string>knSA.base</string>
 				<string>knHA.base</string>
-				<string>knRRA.base</string>
 				<string>knLLA.base</string>
 				<string>knLLLA.base</string>
 				<string>knSSAc2.kssa</string>
@@ -531,7 +520,6 @@
 				<string>knSSAc2.following</string>
 				<string>knSAc2.following</string>
 				<string>knHAc2.following</string>
-				<string>knRRAc2.following</string>
 				<string>knLLAc2.following</string>
 				<string>knLLLAc2.following</string>
 				<string>knKSSAc2.following</string>
@@ -902,502 +890,10 @@
 	<array>
 		<string>.notdef</string>
 		<string>space</string>
-		<string>knA</string>
-		<string>knAA</string>
-		<string>knI</string>
-		<string>knII</string>
-		<string>knU</string>
-		<string>knUU</string>
-		<string>knvR</string>
-		<string>knvRR</string>
-		<string>knvL</string>
-		<string>knvLL</string>
-		<string>knE</string>
-		<string>knEE</string>
-		<string>knAI</string>
-		<string>knO</string>
-		<string>knOO</string>
-		<string>knAU</string>
-		<string>knsignAA</string>
-		<string>knsignI</string>
-		<string>knsignII</string>
-		<string>knsignU</string>
-		<string>knsignUU</string>
-		<string>knsignvR</string>
-		<string>knsignvRR</string>
-		<string>knsignvL</string>
-		<string>knsignvLL</string>
-		<string>knsignE</string>
-		<string>knsignEE</string>
-		<string>knsignAI</string>
-		<string>knsignO</string>
-		<string>knsignOO</string>
-		<string>knsignAU</string>
-		<string>knLengthmark</string>
-		<string>knAIlengthmark</string>
-		<string>knKA</string>
-		<string>knKHA</string>
-		<string>knGA</string>
-		<string>knGHA</string>
-		<string>knNGA</string>
-		<string>knCA</string>
-		<string>knCHA</string>
-		<string>knJA</string>
-		<string>knJHA</string>
-		<string>knNYA</string>
-		<string>knTTA</string>
-		<string>knTTHA</string>
-		<string>knDDA</string>
-		<string>knDDHA</string>
-		<string>knNNA</string>
-		<string>knTA</string>
-		<string>knTHA</string>
-		<string>knDA</string>
-		<string>knDHA</string>
-		<string>knNA</string>
-		<string>knPA</string>
-		<string>knPHA</string>
-		<string>knBA</string>
-		<string>knBHA</string>
-		<string>knMA</string>
-		<string>knYA</string>
-		<string>knRA</string>
-		<string>knLA</string>
-		<string>knVA</string>
-		<string>knSHA</string>
-		<string>knSSA</string>
-		<string>knSA</string>
-		<string>knHA</string>
-		<string>knRRA</string>
-		<string>knLLA</string>
-		<string>knLLLA</string>
-		<string>knAnusvara</string>
-		<string>knCandrabindu</string>
-		<string>knVisarga</string>
-		<string>knVirama</string>
-		<string>knNukta</string>
-		<string>knAvagraha</string>
-		<string>knJihvamuliya</string>
-		<string>knUpadhmaniya</string>
-		<string>knZero</string>
-		<string>knOne</string>
-		<string>knTwo</string>
-		<string>knThree</string>
-		<string>knFour</string>
-		<string>knFive</string>
-		<string>knSix</string>
-		<string>knSeven</string>
-		<string>knEight</string>
-		<string>knNine</string>
 		<string>indianrupee</string>
 		<string>zerowidthnonjoiner</string>
 		<string>zerowidthjoiner</string>
 		<string>dottedcircle</string>
-		<string>knReph</string>
-		<string>knKAc2</string>
-		<string>knKHAc2</string>
-		<string>knGAc2</string>
-		<string>knGHAc2</string>
-		<string>knNGAc2</string>
-		<string>knCAc2</string>
-		<string>knCHAc2</string>
-		<string>knJAc2</string>
-		<string>knJHAc2</string>
-		<string>knNYAc2</string>
-		<string>knTTAc2</string>
-		<string>knTTHAc2</string>
-		<string>knDDAc2</string>
-		<string>knDDHAc2</string>
-		<string>knNNAc2</string>
-		<string>knTAc2</string>
-		<string>knTHAc2</string>
-		<string>knDAc2</string>
-		<string>knDHAc2</string>
-		<string>knNAc2</string>
-		<string>knPAc2</string>
-		<string>knPHAc2</string>
-		<string>knBAc2</string>
-		<string>knBHAc2</string>
-		<string>knMAc2</string>
-		<string>knYAc2</string>
-		<string>knRAc2</string>
-		<string>knLAc2</string>
-		<string>knVAc2</string>
-		<string>knSHAc2</string>
-		<string>knSSAc2</string>
-		<string>knSAc2</string>
-		<string>knHAc2</string>
-		<string>knRRAc2</string>
-		<string>knLLAc2</string>
-		<string>knLLLAc2</string>
-		<string>knKSSAc2</string>
-		<string>knTAc2_RAc2</string>
-		<string>knKAA</string>
-		<string>knKHAA</string>
-		<string>knGAA</string>
-		<string>knGHAA</string>
-		<string>knNGAA</string>
-		<string>knCAA</string>
-		<string>knCHAA</string>
-		<string>knJAA</string>
-		<string>knJHAA</string>
-		<string>knNYAA</string>
-		<string>knTTAA</string>
-		<string>knTTHAA</string>
-		<string>knDDAA</string>
-		<string>knDDHAA</string>
-		<string>knNNAA</string>
-		<string>knTAA</string>
-		<string>knTHAA</string>
-		<string>knDAA</string>
-		<string>knDHAA</string>
-		<string>knNAA</string>
-		<string>knPAA</string>
-		<string>knPHAA</string>
-		<string>knBAA</string>
-		<string>knBHAA</string>
-		<string>knMAA</string>
-		<string>knYAA</string>
-		<string>knRAA</string>
-		<string>knLAA</string>
-		<string>knVAA</string>
-		<string>knSHAA</string>
-		<string>knSSAA</string>
-		<string>knSAA</string>
-		<string>knHAA</string>
-		<string>knRRAA</string>
-		<string>knLLAA</string>
-		<string>knLLLAA</string>
-		<string>knKI</string>
-		<string>knKHI</string>
-		<string>knGI</string>
-		<string>knGHI</string>
-		<string>knNGI</string>
-		<string>knCI</string>
-		<string>knCHI</string>
-		<string>knJI</string>
-		<string>knJHI</string>
-		<string>knNYI</string>
-		<string>knTTI</string>
-		<string>knTTHI</string>
-		<string>knDDI</string>
-		<string>knDDHI</string>
-		<string>knNNI</string>
-		<string>knTI</string>
-		<string>knTHI</string>
-		<string>knDI</string>
-		<string>knDHI</string>
-		<string>knNI</string>
-		<string>knPI</string>
-		<string>knPHI</string>
-		<string>knBI</string>
-		<string>knBHI</string>
-		<string>knMI</string>
-		<string>knYI</string>
-		<string>knRI</string>
-		<string>knLI</string>
-		<string>knVI</string>
-		<string>knSHI</string>
-		<string>knSSI</string>
-		<string>knSI</string>
-		<string>knHI</string>
-		<string>knRRI</string>
-		<string>knLLI</string>
-		<string>knLLLI</string>
-		<string>knKU</string>
-		<string>knKHU</string>
-		<string>knGU</string>
-		<string>knGHU</string>
-		<string>knNGU</string>
-		<string>knCU</string>
-		<string>knCHU</string>
-		<string>knJU</string>
-		<string>knJHU</string>
-		<string>knNYU</string>
-		<string>knTTU</string>
-		<string>knTTHU</string>
-		<string>knDDU</string>
-		<string>knDDHU</string>
-		<string>knNNU</string>
-		<string>knTU</string>
-		<string>knTHU</string>
-		<string>knDU</string>
-		<string>knDHU</string>
-		<string>knNU</string>
-		<string>knPU</string>
-		<string>knPHU</string>
-		<string>knBU</string>
-		<string>knBHU</string>
-		<string>knMU</string>
-		<string>knYU</string>
-		<string>knRU</string>
-		<string>knLU</string>
-		<string>knVU</string>
-		<string>knSHU</string>
-		<string>knSSU</string>
-		<string>knSU</string>
-		<string>knHU</string>
-		<string>knRRU</string>
-		<string>knLLU</string>
-		<string>knLLLU</string>
-		<string>knKUU</string>
-		<string>knKHUU</string>
-		<string>knGUU</string>
-		<string>knGHUU</string>
-		<string>knNGUU</string>
-		<string>knCUU</string>
-		<string>knCHUU</string>
-		<string>knJUU</string>
-		<string>knJHUU</string>
-		<string>knNYUU</string>
-		<string>knTTUU</string>
-		<string>knTTHUU</string>
-		<string>knDDUU</string>
-		<string>knDDHUU</string>
-		<string>knNNUU</string>
-		<string>knTUU</string>
-		<string>knTHUU</string>
-		<string>knDUU</string>
-		<string>knDHUU</string>
-		<string>knNUU</string>
-		<string>knPUU</string>
-		<string>knPHUU</string>
-		<string>knBUU</string>
-		<string>knBHUU</string>
-		<string>knMUU</string>
-		<string>knYUU</string>
-		<string>knRUU</string>
-		<string>knLUU</string>
-		<string>knVUU</string>
-		<string>knSHUU</string>
-		<string>knSSUU</string>
-		<string>knSUU</string>
-		<string>knHUU</string>
-		<string>knRRUU</string>
-		<string>knLLUU</string>
-		<string>knLLLUU</string>
-		<string>knKE</string>
-		<string>knKHE</string>
-		<string>knGE</string>
-		<string>knGHE</string>
-		<string>knNGE</string>
-		<string>knCE</string>
-		<string>knCHE</string>
-		<string>knJE</string>
-		<string>knJHE</string>
-		<string>knNYE</string>
-		<string>knTTE</string>
-		<string>knTTHE</string>
-		<string>knDDE</string>
-		<string>knDDHE</string>
-		<string>knNNE</string>
-		<string>knTE</string>
-		<string>knTHE</string>
-		<string>knDE</string>
-		<string>knDHE</string>
-		<string>knNE</string>
-		<string>knPE</string>
-		<string>knPHE</string>
-		<string>knBE</string>
-		<string>knBHE</string>
-		<string>knME</string>
-		<string>knYE</string>
-		<string>knRE</string>
-		<string>knLE</string>
-		<string>knVE</string>
-		<string>knSHE</string>
-		<string>knSSE</string>
-		<string>knSE</string>
-		<string>knHE</string>
-		<string>knRRE</string>
-		<string>knLLE</string>
-		<string>knLLLE</string>
-		<string>knKO</string>
-		<string>knKHO</string>
-		<string>knGO</string>
-		<string>knGHO</string>
-		<string>knNGO</string>
-		<string>knCO</string>
-		<string>knCHO</string>
-		<string>knJO</string>
-		<string>knJHO</string>
-		<string>knNYO</string>
-		<string>knTTO</string>
-		<string>knTTHO</string>
-		<string>knDDO</string>
-		<string>knDDHO</string>
-		<string>knNNO</string>
-		<string>knTO</string>
-		<string>knTHO</string>
-		<string>knDO</string>
-		<string>knDHO</string>
-		<string>knNO</string>
-		<string>knPO</string>
-		<string>knPHO</string>
-		<string>knBO</string>
-		<string>knBHO</string>
-		<string>knMO</string>
-		<string>knYO</string>
-		<string>knRO</string>
-		<string>knLO</string>
-		<string>knVO</string>
-		<string>knSHO</string>
-		<string>knSSO</string>
-		<string>knSO</string>
-		<string>knHO</string>
-		<string>knRRO</string>
-		<string>knLLO</string>
-		<string>knLLLO</string>
-		<string>knKAU</string>
-		<string>knKHAU</string>
-		<string>knGAU</string>
-		<string>knGHAU</string>
-		<string>knNGAU</string>
-		<string>knCAU</string>
-		<string>knCHAU</string>
-		<string>knJAU</string>
-		<string>knJHAU</string>
-		<string>knNYAU</string>
-		<string>knTTAU</string>
-		<string>knTTHAU</string>
-		<string>knDDAU</string>
-		<string>knDDHAU</string>
-		<string>knNNAU</string>
-		<string>knTAU</string>
-		<string>knTHAU</string>
-		<string>knDAU</string>
-		<string>knDHAU</string>
-		<string>knNAU</string>
-		<string>knPAU</string>
-		<string>knPHAU</string>
-		<string>knBAU</string>
-		<string>knBHAU</string>
-		<string>knMAU</string>
-		<string>knYAU</string>
-		<string>knRAU</string>
-		<string>knLAU</string>
-		<string>knVAU</string>
-		<string>knSHAU</string>
-		<string>knSSAU</string>
-		<string>knSAU</string>
-		<string>knHAU</string>
-		<string>knRRAU</string>
-		<string>knLLAU</string>
-		<string>knLLLAU</string>
-		<string>knK</string>
-		<string>knKH</string>
-		<string>knG</string>
-		<string>knGH</string>
-		<string>knNG</string>
-		<string>knC</string>
-		<string>knCH</string>
-		<string>knJ</string>
-		<string>knJH</string>
-		<string>knNY</string>
-		<string>knTT</string>
-		<string>knTTH</string>
-		<string>knDD</string>
-		<string>knDDH</string>
-		<string>knNN</string>
-		<string>knT</string>
-		<string>knTH</string>
-		<string>knD</string>
-		<string>knDH</string>
-		<string>knN</string>
-		<string>knP</string>
-		<string>knPH</string>
-		<string>knB</string>
-		<string>knBH</string>
-		<string>knM</string>
-		<string>knY</string>
-		<string>knR</string>
-		<string>knL</string>
-		<string>knV</string>
-		<string>knSH</string>
-		<string>knSS</string>
-		<string>knS</string>
-		<string>knH</string>
-		<string>knRR</string>
-		<string>knLL</string>
-		<string>knLLL</string>
-		<string>knKA.base</string>
-		<string>knKHA.base</string>
-		<string>knGA.base</string>
-		<string>knGHA.base</string>
-		<string>knNGA.base</string>
-		<string>knCA.base</string>
-		<string>knCHA.base</string>
-		<string>knJA.base</string>
-		<string>knJHA.base</string>
-		<string>knNYA.base</string>
-		<string>knTTA.base</string>
-		<string>knTTHA.base</string>
-		<string>knDDA.base</string>
-		<string>knDDHA.base</string>
-		<string>knNNA.base</string>
-		<string>knTA.base</string>
-		<string>knTHA.base</string>
-		<string>knDA.base</string>
-		<string>knDHA.base</string>
-		<string>knNA.base</string>
-		<string>knPA.base</string>
-		<string>knPHA.base</string>
-		<string>knBA.base</string>
-		<string>knBHA.base</string>
-		<string>knMA.base</string>
-		<string>knYA.base</string>
-		<string>knRA.base</string>
-		<string>knLA.base</string>
-		<string>knVA.base</string>
-		<string>knSHA.base</string>
-		<string>knSSA.base</string>
-		<string>knSA.base</string>
-		<string>knHA.base</string>
-		<string>knRRA.base</string>
-		<string>knLLA.base</string>
-		<string>knLLLA.base</string>
-		<string>knSSAc2.kssa</string>
-		<string>knsignvR.following</string>
-		<string>knsignvRR.following</string>
-		<string>knAIlengthmark.following</string>
-		<string>knKAc2.following</string>
-		<string>knKHAc2.following</string>
-		<string>knGAc2.following</string>
-		<string>knGHAc2.following</string>
-		<string>knNGAc2.following</string>
-		<string>knCAc2.following</string>
-		<string>knCHAc2.following</string>
-		<string>knJAc2.following</string>
-		<string>knJHAc2.following</string>
-		<string>knNYAc2.following</string>
-		<string>knTTAc2.following</string>
-		<string>knTTHAc2.following</string>
-		<string>knDDAc2.following</string>
-		<string>knDDHAc2.following</string>
-		<string>knNNAc2.following</string>
-		<string>knTAc2.following</string>
-		<string>knTHAc2.following</string>
-		<string>knDAc2.following</string>
-		<string>knDHAc2.following</string>
-		<string>knNAc2.following</string>
-		<string>knPAc2.following</string>
-		<string>knPHAc2.following</string>
-		<string>knBAc2.following</string>
-		<string>knBHAc2.following</string>
-		<string>knMAc2.following</string>
-		<string>knYAc2.following</string>
-		<string>knRAc2.following</string>
-		<string>knLAc2.following</string>
-		<string>knVAc2.following</string>
-		<string>knSHAc2.following</string>
-		<string>knSSAc2.following</string>
-		<string>knSAc2.following</string>
-		<string>knHAc2.following</string>
-		<string>knRRAc2.following</string>
-		<string>knLLAc2.following</string>
-		<string>knLLLAc2.following</string>
-		<string>knKSSAc2.following</string>
-		<string>knTAc2_RAc2.following</string>
 		<string>exclam</string>
 		<string>quotedbl</string>
 		<string>numbersign</string>
@@ -1755,6 +1251,486 @@
 		<string>tildecmb</string>
 		<string>ringcmb</string>
 		<string>mu</string>
+		<string>ti-kannada</string>
+		<string>chu-kannada</string>
+		<string>co-kannada</string>
+		<string>ttho-kannada</string>
+		<string>na-kannada.base</string>
+		<string>bha-kannada.below</string>
+		<string>rrVocalic-kannada</string>
+		<string>vu-kannada</string>
+		<string>phaa-kannada</string>
+		<string>ghi-kannada</string>
+		<string>da-kannada.below</string>
+		<string>kuu-kannada</string>
+		<string>hi-kannada</string>
+		<string>ya-kannada</string>
+		<string>k-kannada</string>
+		<string>dha-kannada.base</string>
+		<string>ddhau-kannada</string>
+		<string>tt-kannada</string>
+		<string>dde-kannada</string>
+		<string>go-kannada</string>
+		<string>thi-kannada</string>
+		<string>raa-kannada</string>
+		<string>llaa-kannada</string>
+		<string>muu-kannada</string>
+		<string>length-kannada</string>
+		<string>ttha-kannada</string>
+		<string>chau-kannada</string>
+		<string>ll-kannada</string>
+		<string>huu-kannada</string>
+		<string>fau-kannada</string>
+		<string>la-kannada.below</string>
+		<string>ddu-kannada</string>
+		<string>ga-kannada.base</string>
+		<string>ddaa-kannada</string>
+		<string>caa-kannada</string>
+		<string>luu-kannada</string>
+		<string>rVocalic-kannada.following</string>
+		<string>pa-kannada.below</string>
+		<string>nne-kannada</string>
+		<string>nyo-kannada</string>
+		<string>hu-kannada</string>
+		<string>oMatra-kannada</string>
+		<string>ssa-kannada.below.following</string>
+		<string>bhi-kannada</string>
+		<string>v-kannada</string>
+		<string>lVocalicMatra-kannada</string>
+		<string>va-kannada</string>
+		<string>lu-kannada</string>
+		<string>aiMatra-kannada</string>
+		<string>sa-kannada.below.following</string>
+		<string>naa-kannada</string>
+		<string>khi-kannada</string>
+		<string>mi-kannada</string>
+		<string>nyuu-kannada</string>
+		<string>sa-kannada.base</string>
+		<string>khaa-kannada</string>
+		<string>thu-kannada</string>
+		<string>i-kannada</string>
+		<string>anusvara-kannada</string>
+		<string>me-kannada</string>
+		<string>rau-kannada</string>
+		<string>pe-kannada</string>
+		<string>ddhaa-kannada</string>
+		<string>haa-kannada</string>
+		<string>seven-kannada</string>
+		<string>ngi-kannada</string>
+		<string>ru-kannada</string>
+		<string>na-kannada.below.following</string>
+		<string>ja-kannada.below.following</string>
+		<string>tta-kannada</string>
+		<string>ddh-kannada</string>
+		<string>upadhmaniya-kannada</string>
+		<string>yuu-kannada</string>
+		<string>ny-kannada</string>
+		<string>ba-kannada.below.following</string>
+		<string>tuu-kannada</string>
+		<string>ma-kannada.below.following</string>
+		<string>ro-kannada</string>
+		<string>ni-kannada</string>
+		<string>ca-kannada.below.following</string>
+		<string>dhu-kannada</string>
+		<string>paa-kannada</string>
+		<string>nna-kannada</string>
+		<string>ddha-kannada.base</string>
+		<string>ss-kannada</string>
+		<string>dh-kannada</string>
+		<string>tha-kannada.below</string>
+		<string>bha-kannada</string>
+		<string>khau-kannada</string>
+		<string>lla-kannada.below</string>
+		<string>bhau-kannada</string>
+		<string>ng-kannada</string>
+		<string>ddhuu-kannada</string>
+		<string>visarga-kannada</string>
+		<string>ghu-kannada</string>
+		<string>pau-kannada</string>
+		<string>dha-kannada.below</string>
+		<string>ddha-kannada</string>
+		<string>ma-kannada.below</string>
+		<string>ka-kannada.below</string>
+		<string>ka-kannada</string>
+		<string>ttuu-kannada</string>
+		<string>ha-kannada.below</string>
+		<string>jha-kannada.below.following</string>
+		<string>ghau-kannada</string>
+		<string>nnau-kannada</string>
+		<string>jha-kannada.below</string>
+		<string>lluu-kannada</string>
+		<string>cha-kannada.below.following</string>
+		<string>dda-kannada.base</string>
+		<string>f-kannada</string>
+		<string>ma-kannada</string>
+		<string>ta-kannada</string>
+		<string>va-kannada.below</string>
+		<string>eeMatra-kannada</string>
+		<string>cho-kannada</string>
+		<string>dhau-kannada</string>
+		<string>uu-kannada</string>
+		<string>llu-kannada</string>
+		<string>ssa-kannada.below.kssa</string>
+		<string>du-kannada</string>
+		<string>nga-kannada.below</string>
+		<string>vuu-kannada</string>
+		<string>ji-kannada</string>
+		<string>eight-kannada</string>
+		<string>nyau-kannada</string>
+		<string>fi-kannada</string>
+		<string>ce-kannada</string>
+		<string>fa-kannada.below</string>
+		<string>jhe-kannada</string>
+		<string>ttha-kannada.below.following</string>
+		<string>dhaa-kannada</string>
+		<string>gha-kannada.base</string>
+		<string>yaa-kannada</string>
+		<string>gu-kannada</string>
+		<string>candrabindu-kannada</string>
+		<string>nya-kannada.below.following</string>
+		<string>bau-kannada</string>
+		<string>ba-kannada.base</string>
+		<string>llVocalicMatra-kannada</string>
+		<string>nni-kannada</string>
+		<string>ssa-kannada</string>
+		<string>juu-kannada</string>
+		<string>ii-kannada</string>
+		<string>bu-kannada</string>
+		<string>sa-kannada.below</string>
+		<string>sse-kannada</string>
+		<string>jhuu-kannada</string>
+		<string>u-kannada</string>
+		<string>nyu-kannada</string>
+		<string>ta_ra-kannada.below</string>
+		<string>ee-kannada</string>
+		<string>ka_ssa-kannada.below</string>
+		<string>iMatra-kannada</string>
+		<string>phi-kannada</string>
+		<string>avagraha-kannada</string>
+		<string>fo-kannada</string>
+		<string>chuu-kannada</string>
+		<string>nna-kannada.below</string>
+		<string>ngo-kannada</string>
+		<string>jha-kannada.base</string>
+		<string>tthaa-kannada</string>
+		<string>le-kannada</string>
+		<string>ke-kannada</string>
+		<string>pa-kannada.base</string>
+		<string>lau-kannada</string>
+		<string>nyaa-kannada</string>
+		<string>ja-kannada</string>
+		<string>llo-kannada</string>
+		<string>lli-kannada</string>
+		<string>ha-kannada.below.following</string>
+		<string>jho-kannada</string>
+		<string>pa-kannada.below.following</string>
+		<string>ya-kannada.below</string>
+		<string>a-kannada</string>
+		<string>ddha-kannada.below</string>
+		<string>shaa-kannada</string>
+		<string>la-kannada</string>
+		<string>guu-kannada</string>
+		<string>de-kannada</string>
+		<string>ddhe-kannada</string>
+		<string>pho-kannada</string>
+		<string>ch-kannada</string>
+		<string>jo-kannada</string>
+		<string>uuMatra-kannada</string>
+		<string>aaMatra-kannada</string>
+		<string>b-kannada</string>
+		<string>jhu-kannada</string>
+		<string>sh-kannada</string>
+		<string>ghe-kannada</string>
+		<string>fuu-kannada</string>
+		<string>chaa-kannada</string>
+		<string>kha-kannada.base</string>
+		<string>sho-kannada</string>
+		<string>aa-kannada</string>
+		<string>daa-kannada</string>
+		<string>dha-kannada.below.following</string>
+		<string>gh-kannada</string>
+		<string>bh-kannada</string>
+		<string>mo-kannada</string>
+		<string>ra-kannada.below</string>
+		<string>gho-kannada</string>
+		<string>sa-kannada</string>
+		<string>cha-kannada</string>
+		<string>ta-kannada.base</string>
+		<string>ssi-kannada</string>
+		<string>five-kannada</string>
+		<string>nuu-kannada</string>
+		<string>gha-kannada</string>
+		<string>so-kannada</string>
+		<string>jhi-kannada</string>
+		<string>rVocalicMatra-kannada</string>
+		<string>tta-kannada.below</string>
+		<string>ma-kannada.base</string>
+		<string>eMatra-kannada</string>
+		<string>thuu-kannada</string>
+		<string>ddha-kannada.below.following</string>
+		<string>fa-kannada.base</string>
+		<string>ssa-kannada.base</string>
+		<string>e-kannada</string>
+		<string>na-kannada</string>
+		<string>puu-kannada</string>
+		<string>nya-kannada.base</string>
+		<string>bhu-kannada</string>
+		<string>bhe-kannada</string>
+		<string>ailength-kannada</string>
+		<string>ssuu-kannada</string>
+		<string>ka_ssa-kannada.below.following</string>
+		<string>she-kannada</string>
+		<string>po-kannada</string>
+		<string>vo-kannada</string>
+		<string>ddo-kannada</string>
+		<string>pa-kannada</string>
+		<string>ku-kannada</string>
+		<string>la-kannada.below.following</string>
+		<string>ca-kannada</string>
+		<string>gau-kannada</string>
+		<string>ttu-kannada</string>
+		<string>ba-kannada</string>
+		<string>yo-kannada</string>
+		<string>da-kannada.base</string>
+		<string>vi-kannada</string>
+		<string>ko-kannada</string>
+		<string>duu-kannada</string>
+		<string>ja-kannada.below</string>
+		<string>li-kannada</string>
+		<string>ai-kannada</string>
+		<string>lo-kannada</string>
+		<string>fa-kannada.below.following</string>
+		<string>dda-kannada.below</string>
+		<string>yi-kannada</string>
+		<string>cu-kannada</string>
+		<string>ddhu-kannada</string>
+		<string>jaa-kannada</string>
+		<string>ba-kannada.below</string>
+		<string>rVocalic-kannada</string>
+		<string>he-kannada</string>
+		<string>nukta-kannada</string>
+		<string>rrVocalic-kannada.following</string>
+		<string>chi-kannada</string>
+		<string>ghaa-kannada</string>
+		<string>khuu-kannada</string>
+		<string>nyi-kannada</string>
+		<string>va-kannada.base</string>
+		<string>no-kannada</string>
+		<string>pha-kannada.base</string>
+		<string>ssa-kannada.below</string>
+		<string>to-kannada</string>
+		<string>baa-kannada</string>
+		<string>pha-kannada</string>
+		<string>ta-kannada.below.following</string>
+		<string>ne-kannada</string>
+		<string>ra-kannada</string>
+		<string>uMatra-kannada</string>
+		<string>thau-kannada</string>
+		<string>ho-kannada</string>
+		<string>three-kannada</string>
+		<string>g-kannada</string>
+		<string>nguu-kannada</string>
+		<string>nu-kannada</string>
+		<string>r-kannada</string>
+		<string>nga-kannada.base</string>
+		<string>saa-kannada</string>
+		<string>re-kannada</string>
+		<string>ja-kannada.base</string>
+		<string>ta-kannada.below</string>
+		<string>nno-kannada</string>
+		<string>tto-kannada</string>
+		<string>tthuu-kannada</string>
+		<string>tti-kannada</string>
+		<string>dduu-kannada</string>
+		<string>lVocalic-kannada</string>
+		<string>ra-kannada.base</string>
+		<string>bhaa-kannada</string>
+		<string>phuu-kannada</string>
+		<string>shu-kannada</string>
+		<string>na-kannada.below</string>
+		<string>gha-kannada.below.following</string>
+		<string>ph-kannada</string>
+		<string>nya-kannada</string>
+		<string>n-kannada</string>
+		<string>ha-kannada</string>
+		<string>do-kannada</string>
+		<string>je-kannada</string>
+		<string>lla-kannada.below.following</string>
+		<string>bha-kannada.base</string>
+		<string>d-kannada</string>
+		<string>the-kannada</string>
+		<string>che-kannada</string>
+		<string>y-kannada</string>
+		<string>tu-kannada</string>
+		<string>bi-kannada</string>
+		<string>kha-kannada.below.following</string>
+		<string>ngau-kannada</string>
+		<string>kaa-kannada</string>
+		<string>tau-kannada</string>
+		<string>laa-kannada</string>
+		<string>gaa-kannada</string>
+		<string>tte-kannada</string>
+		<string>o-kannada</string>
+		<string>dhe-kannada</string>
+		<string>fa-kannada</string>
+		<string>maa-kannada</string>
+		<string>ttha-kannada.base</string>
+		<string>dda-kannada</string>
+		<string>ca-kannada.below</string>
+		<string>dhuu-kannada</string>
+		<string>ddi-kannada</string>
+		<string>ka-kannada.base</string>
+		<string>bo-kannada</string>
+		<string>s-kannada</string>
+		<string>phau-kannada</string>
+		<string>lle-kannada</string>
+		<string>va-kannada.below.following</string>
+		<string>ssaa-kannada</string>
+		<string>p-kannada</string>
+		<string>vaa-kannada</string>
+		<string>ssau-kannada</string>
+		<string>khu-kannada</string>
+		<string>nga-kannada.below.following</string>
+		<string>tta-kannada.base</string>
+		<string>lla-kannada.base</string>
+		<string>nna-kannada.below.following</string>
+		<string>ge-kannada</string>
+		<string>sha-kannada</string>
+		<string>da-kannada</string>
+		<string>sha-kannada.below.following</string>
+		<string>gha-kannada.below</string>
+		<string>nnuu-kannada</string>
+		<string>ghuu-kannada</string>
+		<string>ki-kannada</string>
+		<string>tthe-kannada</string>
+		<string>tho-kannada</string>
+		<string>llau-kannada</string>
+		<string>oo-kannada</string>
+		<string>ddho-kannada</string>
+		<string>da-kannada.below.following</string>
+		<string>au-kannada</string>
+		<string>nya-kannada.below</string>
+		<string>bha-kannada.below.following</string>
+		<string>ga-kannada.below</string>
+		<string>cau-kannada</string>
+		<string>nau-kannada</string>
+		<string>ka-kannada.below.following</string>
+		<string>nna-kannada.base</string>
+		<string>bho-kannada</string>
+		<string>ttha-kannada.below</string>
+		<string>halant-kannada</string>
+		<string>ca-kannada.base</string>
+		<string>thaa-kannada</string>
+		<string>four-kannada</string>
+		<string>m-kannada</string>
+		<string>sso-kannada</string>
+		<string>pu-kannada</string>
+		<string>nge-kannada</string>
+		<string>ta_ra-kannada.below.following</string>
+		<string>jau-kannada</string>
+		<string>t-kannada</string>
+		<string>ngaa-kannada</string>
+		<string>la-kannada.base</string>
+		<string>jhaa-kannada</string>
+		<string>ya-kannada.base</string>
+		<string>ttaa-kannada</string>
+		<string>di-kannada</string>
+		<string>phu-kannada</string>
+		<string>ga-kannada</string>
+		<string>nine-kannada</string>
+		<string>khe-kannada</string>
+		<string>faa-kannada</string>
+		<string>nye-kannada</string>
+		<string>th-kannada</string>
+		<string>sha-kannada.below</string>
+		<string>tha-kannada.below.following</string>
+		<string>cuu-kannada</string>
+		<string>jihvamuliya-kannada</string>
+		<string>vau-kannada</string>
+		<string>nnu-kannada</string>
+		<string>ttau-kannada</string>
+		<string>shi-kannada</string>
+		<string>kho-kannada</string>
+		<string>ga-kannada.below.following</string>
+		<string>ci-kannada</string>
+		<string>h-kannada</string>
+		<string>nn-kannada</string>
+		<string>ye-kannada</string>
+		<string>hau-kannada</string>
+		<string>jhau-kannada</string>
+		<string>te-kannada</string>
+		<string>dhi-kannada</string>
+		<string>ve-kannada</string>
+		<string>tha-kannada.base</string>
+		<string>ra-kannada.below.following</string>
+		<string>j-kannada</string>
+		<string>ha-kannada.base</string>
+		<string>fu-kannada</string>
+		<string>mau-kannada</string>
+		<string>si-kannada</string>
+		<string>fe-kannada</string>
+		<string>zero-kannada</string>
+		<string>tta-kannada.below.following</string>
+		<string>kh-kannada</string>
+		<string>pha-kannada.below</string>
+		<string>llVocalic-kannada</string>
+		<string>yau-kannada</string>
+		<string>gi-kannada</string>
+		<string>cha-kannada.base</string>
+		<string>pi-kannada</string>
+		<string>iiMatra-kannada</string>
+		<string>kha-kannada.below</string>
+		<string>se-kannada</string>
+		<string>su-kannada</string>
+		<string>phe-kannada</string>
+		<string>ju-kannada</string>
+		<string>mu-kannada</string>
+		<string>lla-kannada</string>
+		<string>tthu-kannada</string>
+		<string>reph-kannada</string>
+		<string>kau-kannada</string>
+		<string>shau-kannada</string>
+		<string>ailength-kannada.following</string>
+		<string>dho-kannada</string>
+		<string>ruu-kannada</string>
+		<string>suu-kannada</string>
+		<string>cha-kannada.below</string>
+		<string>ngu-kannada</string>
+		<string>ooMatra-kannada</string>
+		<string>tthau-kannada</string>
+		<string>ya-kannada.below.following</string>
+		<string>be-kannada</string>
+		<string>ri-kannada</string>
+		<string>dau-kannada</string>
+		<string>buu-kannada</string>
+		<string>sha-kannada.base</string>
+		<string>dha-kannada</string>
+		<string>shuu-kannada</string>
+		<string>auMatra-kannada</string>
+		<string>ddhi-kannada</string>
+		<string>ddau-kannada</string>
+		<string>jha-kannada</string>
+		<string>tth-kannada</string>
+		<string>taa-kannada</string>
+		<string>ssu-kannada</string>
+		<string>kha-kannada</string>
+		<string>dd-kannada</string>
+		<string>l-kannada</string>
+		<string>two-kannada</string>
+		<string>sau-kannada</string>
+		<string>one-kannada</string>
+		<string>jh-kannada</string>
+		<string>rrVocalicMatra-kannada</string>
+		<string>c-kannada</string>
+		<string>dda-kannada.below.following</string>
+		<string>nga-kannada</string>
+		<string>nnaa-kannada</string>
+		<string>tthi-kannada</string>
+		<string>tha-kannada</string>
+		<string>six-kannada</string>
+		<string>bhuu-kannada</string>
+		<string>pha-kannada.below.following</string>
+		<string>yu-kannada</string>
 	</array>
 </dict>
 </plist>

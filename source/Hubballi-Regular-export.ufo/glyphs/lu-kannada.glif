@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lu-kannada" format="1">
+  <advance width="1033"/>
+  <note>
+    knLU
+  </note>
+  <outline>
+    <contour>
+      <point x="753" y="46"/>
+      <point x="690" y="77"/>
+      <point x="636" y="177" type="curve"/>
+      <point x="615" y="122" type="line"/>
+      <point x="669" y="34"/>
+      <point x="739" y="0"/>
+      <point x="804" y="0" type="curve" smooth="yes"/>
+      <point x="910" y="0"/>
+      <point x="966" y="69"/>
+      <point x="966" y="169" type="curve" smooth="yes"/>
+      <point x="966" y="255"/>
+      <point x="918" y="357"/>
+      <point x="854" y="427" type="curve" smooth="yes"/>
+      <point x="850" y="432"/>
+      <point x="844" y="435"/>
+      <point x="837" y="435" type="curve" smooth="yes"/>
+      <point x="824" y="435"/>
+      <point x="814" y="425"/>
+      <point x="814" y="412" type="curve" smooth="yes"/>
+      <point x="814" y="407"/>
+      <point x="816" y="401"/>
+      <point x="820" y="397" type="curve" smooth="yes"/>
+      <point x="876" y="335"/>
+      <point x="920" y="245"/>
+      <point x="920" y="169" type="curve" smooth="yes"/>
+      <point x="920" y="97"/>
+      <point x="881" y="46"/>
+      <point x="806" y="46" type="curve" smooth="yes"/>
+    </contour>
+    <component base="la-kannada"/>
+    <contour>
+      <point x="943" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>10</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-04-07 02:28:06 +0000</string>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>lu-kannada</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1033</integer>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

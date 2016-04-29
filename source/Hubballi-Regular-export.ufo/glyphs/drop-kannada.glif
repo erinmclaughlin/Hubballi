@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="drop-kannada" format="1">
+  <advance width="86"/>
+  <outline>
+    <contour>
+      <point x="66" y="-93" type="line" smooth="yes"/>
+      <point x="66" y="-81"/>
+      <point x="55" y="-70"/>
+      <point x="43" y="-70" type="curve" smooth="yes"/>
+      <point x="31" y="-70"/>
+      <point x="20" y="-81"/>
+      <point x="20" y="-93" type="curve" smooth="yes"/>
+      <point x="20" y="-196" type="line" smooth="yes"/>
+      <point x="20" y="-208"/>
+      <point x="31" y="-219"/>
+      <point x="43" y="-219" type="curve" smooth="yes"/>
+      <point x="55" y="-219"/>
+      <point x="66" y="-208"/>
+      <point x="66" y="-196" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="43" y="0" type="move" name="_bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-04-04 09:16:47 +0000</string>
+    </dict>
+  </lib>
+</glyph>
