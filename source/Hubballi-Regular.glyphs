@@ -71,6 +71,10 @@ value = (
 {
 name = vendorID;
 value = GOOG;
+},
+{
+name = "Use Typo Metrics";
+value = 1;
 }
 );
 date = "2016-03-30 14:59:32 +0000";
@@ -131,6 +135,38 @@ customParameters = (
 {
 name = shoulderHeight;
 value = "456";
+},
+{
+name = hheaAscender;
+value = 765;
+},
+{
+name = hheaDescender;
+value = -191;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = typoAscender;
+value = 765;
+},
+{
+name = typoDescender;
+value = -191;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 816;
+},
+{
+name = winDescent;
+value = 580;
 }
 );
 descender = -191;
